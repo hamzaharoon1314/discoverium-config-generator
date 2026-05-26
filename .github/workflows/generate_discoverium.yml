@@ -1,0 +1,57 @@
+name: Generate APK Metadata
+
+on:
+  workflow_dispatch:
+    inputs:
+      repo:
+        description: 'GitHub repository (e.g., owner/repo)'
+        required: true
+      release:
+        description: 'Release tag or "latest"'
+        required: true
+        default: 'latest'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Needed to commit the generated files back to the repo
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install System Dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y aapt
+
+      - name: Install Python Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Run Generator Script
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # Pointing exactly to the scripts folder
+          python scripts/main.py --repo "${{ github.event.inputs.repo }}" --release "${{ github.event.inputs.release }}"
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          
+          # Staging the new static API directory
+          git add website/public/data/
+          
+          # Only commit if there are changes
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update APK metadata for ${{ github.event.inputs.repo }}"
+          git push

@@ -1,0 +1,53 @@
+name: Deploy Website
+
+on:
+  # 1. Run automatically when you edit HTML/CSS/JS by hand
+  push:
+    branches:
+      - main
+    paths:
+      - 'website/**'
+      
+  # 2. Run automatically right after the Python script finishes!
+  workflow_run:
+    workflows: ["Generate APK Metadata"] # Must match the 'name' of your other action
+    types:
+      - completed
+
+  # 3. Allow manual triggers from the Actions tab
+  workflow_dispatch:
+
+# Required permissions for GitHub Pages
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Prevent multiple deployments from running at the exact same time
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        
+      - name: Setup GitHub Pages
+        uses: actions/configure-pages@v5
+        
+      - name: Upload Website Artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          # This tells GitHub to ONLY publish the website folder, ignoring the scripts!
+          path: './website'
+          
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
