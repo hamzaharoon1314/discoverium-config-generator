@@ -87,8 +87,9 @@ function appIcon(name) {
 async function loadHome() {
   const container = document.getElementById('repo-container');
   try {
-    // UPDATED FETCH PATH
-    const res = await fetch('./public/data/repos.json');
+    // FORCE fresh data by appending a timestamp and disabling cache
+    const res = await fetch(`./public/data/repos.json?t=${Date.now()}`, { cache: 'no-store' });
+    
     if (!res.ok) throw new Error('Failed to fetch repos.json');
     const repos = await res.json();
     document.getElementById('repo-count').textContent = repos.length;
@@ -140,8 +141,9 @@ async function loadRepo(repoId) {
   container.innerHTML = `<div class="loader"><div class="spinner"></div><span class="loader-text">loading packages...</span></div>`;
 
   try {
-    // UPDATED FETCH PATH
-    const res = await fetch(`./public/data/repos/${repoId}/metadata/repo.json`);
+    // FORCE fresh data for the specific repo's metadata
+    const res = await fetch(`./public/data/repos/${repoId}/metadata/repo.json?t=${Date.now()}`, { cache: 'no-store' });
+    
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     const apps = await res.json();
     allApps = apps;
@@ -262,9 +264,10 @@ function renderApps(apps) {
 
 /* ── FETCH DISCOVERIUM JSON ── */
 async function fetchDiscoveriumJson(repoId, filename) {
-  // UPDATED FETCH PATH
-  const url = `./public/data/repos/${repoId}/discoverium/${filename}`;
-  const res = await fetch(url);
+  // FORCE fresh data for the Discoverium configs
+  const url = `./public/data/repos/${repoId}/discoverium/${filename}?t=${Date.now()}`;
+  const res = await fetch(url, { cache: 'no-store' });
+  
   if (!res.ok) throw new Error(`HTTP ${res.status} for ${url}`);
   return res.json();
 }
