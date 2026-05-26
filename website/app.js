@@ -71,7 +71,13 @@ function showToast(msg) {
   setTimeout(() => t.classList.remove('show'), 2200);
 }
 
-function appIcon(name) {
+function appIcon(app) {
+  // If the Python script successfully extracted an icon, use it!
+  if (app.icon_filename) {
+    return `<img src="./public/data/icons/${app.icon_filename}" alt="${esc(app.app_name)}" style="width: 100%; height: 100%; object-fit: contain; border-radius: 8px;">`;
+  }
+
+  // Fallback to emoji logic ONLY if extraction failed
   const icons = {
     youtube: '▶', music: '♫', instagram: '📸', reddit: '🔺', twitter: '𝕏',
     tiktok: '♪', facebook: '𝔣', discord: '🎮', twitch: '📡', telegram: '✈',
@@ -79,7 +85,7 @@ function appIcon(name) {
     protonmail: '📧', protonvpn: '🔒', tumblr: '📝', soundcloud: '☁', viber: '📱',
     photomath: '✖', pixiv: '🖼', bilibili: '📺', adguard: '🛡',
   };
-  const key = Object.keys(icons).find(k => name.toLowerCase().includes(k));
+  const key = Object.keys(icons).find(k => app.app_name.toLowerCase().includes(k));
   return key ? icons[key] : '📦';
 }
 
@@ -223,7 +229,7 @@ function renderApps(apps) {
     return `
       <div class="app-card">
         <div class="app-card-header">
-          <div class="app-icon">${appIcon(app.app_name)}</div>
+          <div class="app-icon">${appIcon(app)}</div>
           <div>
             <div class="app-name">${esc(app.app_name)}</div>
             <span class="app-version">v${esc(app.version_name)}</span>

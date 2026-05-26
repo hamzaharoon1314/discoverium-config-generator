@@ -10,3 +10,4 @@ class ApkInfo:
     size_bytes: int
     download_url: str
     play_store_url: str
+    icon_filename: str = ""
