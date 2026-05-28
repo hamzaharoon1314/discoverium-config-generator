@@ -78,8 +78,8 @@ Release source: `latest`
 | **Telegram** | org.telegram.messenger.web | telegram-universal-revanced-experiments-v12.7.3.apk | 12.7.3 | N/A | [JSON Config](./discoverium/org.telegram.messenger.web__telegram-universal-revanced-experiments-v12.7.3.json) |
 | **Telegram** | org.telegram.messenger.web | telegram-universal-revanced-experiments-v12.7.2.apk | 12.7.2 | N/A | [JSON Config](./discoverium/org.telegram.messenger.web__telegram-universal-revanced-experiments-v12.7.2.json) |
 | **TEUIDA** | net.teuida.teuida | teuida-universal-morphe-patches-v1.21.16.apk | 1.21.16 | [Play Store](https://play.google.com/store/apps/details?id=net.teuida.teuida) | [JSON Config](./discoverium/net.teuida.teuida__teuida-universal-morphe-patches-v1.21.16.json) |
-| **Threads** | com.instagram.barcelona | threads-universal-morphe-patches-v431.0.0.5.81.apk | 431.0.0.5.81 | [Play Store](https://play.google.com/store/apps/details?id=com.instagram.barcelona) | [JSON Config](./discoverium/com.instagram.barcelona__threads-universal-morphe-patches-v431.0.0.5.81.json) |
 | **Threads** | com.instagram.barcelona | threads-universal-morphe-patches-v431.0.0.28.81.apk | 431.0.0.28.81 | [Play Store](https://play.google.com/store/apps/details?id=com.instagram.barcelona) | [JSON Config](./discoverium/com.instagram.barcelona__threads-universal-morphe-patches-v431.0.0.28.81.json) |
+| **Threads** | com.instagram.barcelona | threads-universal-morphe-patches-v431.0.0.5.81.apk | 431.0.0.5.81 | [Play Store](https://play.google.com/store/apps/details?id=com.instagram.barcelona) | [JSON Config](./discoverium/com.instagram.barcelona__threads-universal-morphe-patches-v431.0.0.5.81.json) |
 | **TickTick** | com.ticktick.task | ticktick-universal-revanced-patches-v8.0.8.1.apk | 8.0.8.1 | [Play Store](https://play.google.com/store/apps/details?id=com.ticktick.task) | [JSON Config](./discoverium/com.ticktick.task__ticktick-universal-revanced-patches-v8.0.8.1.json) |
 | **TikTok** | com.zhiliaoapp.musically | tiktok-universal-morphe-patches-v43.8.3.apk | 43.8.3 | [Play Store](https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically) | [JSON Config](./discoverium/com.zhiliaoapp.musically__tiktok-universal-morphe-patches-v43.8.3.json) |
 | **Trakt** | tv.trakt.trakt | trakt-universal-revanced-patches-v3.9.1.apk | 3.9.1 | [Play Store](https://play.google.com/store/apps/details?id=tv.trakt.trakt) | [JSON Config](./discoverium/tv.trakt.trakt__trakt-universal-revanced-patches-v3.9.1.json) |
@@ -247,10 +247,10 @@ Release source: `latest`
   - `07f72ae8907b287a7d6e30d7f8c9e4e33df448a5ab6c44535208727702d104a1`
 - **teuida-universal-morphe-patches-v1.21.16.apk**
   - `08deeef9124efd919efaa86739d8e4b784b5ee5c61fc4ab996e9d042d6e9c9ce`
-- **threads-universal-morphe-patches-v431.0.0.5.81.apk**
-  - `3a4e7264a09ca3ba806e90290c6309032aa800d0a92dfe2b08ac0a53d296f22c`
 - **threads-universal-morphe-patches-v431.0.0.28.81.apk**
   - `23b4a7ea1c76e73e2ce6312b809765253197ca9b64cc779cea602d0c67904aa9`
+- **threads-universal-morphe-patches-v431.0.0.5.81.apk**
+  - `3a4e7264a09ca3ba806e90290c6309032aa800d0a92dfe2b08ac0a53d296f22c`
 - **ticktick-universal-revanced-patches-v8.0.8.1.apk**
   - `b4e1872dce72776cc3f337daaeac04800b78f0a0f95f208663e424af6db049c1`
 - **tiktok-universal-morphe-patches-v43.8.3.apk**
