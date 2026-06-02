@@ -734,7 +734,7 @@
     "asset_name": "tiktok-universal-morphe-patches-v43.8.3.apk",
     "package_id": "com.zhiliaoapp.musically",
     "version_name": "43.8.3",
-    "sha256": "1e97d7860c2df14bb0941f0961d08e2b6484a698e33b5006b79be79f3c7a4a5e",
+    "sha256": "752febadfba0bf4901b960647ce885f94b681c19bad5349eea6dd32f1e28ce56",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/tiktok-universal-morphe-patches-v43.8.3.apk",
     "discoverium_file": "../discoverium/com.zhiliaoapp.musically__tiktok-universal-morphe-patches-v43.8.3.json"
@@ -871,16 +871,6 @@
   },
   {
     "app_name": "YT Music Morphe",
-    "asset_name": "youtube-music-arm64-v8a-morphe-v8.47.56.apk",
-    "package_id": "app.morphe.android.apps.youtube.music",
-    "version_name": "8.47.56",
-    "sha256": "2d49f29147a238d9028a87607dd304381e940fc236a7347679cfa9435eff4dc9",
-    "play_store_url": "",
-    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/youtube-music-arm64-v8a-morphe-v8.47.56.apk",
-    "discoverium_file": "../discoverium/app.morphe.android.apps.youtube.music__youtube-music-arm64-v8a-morphe-v8.47.56.json"
-  },
-  {
-    "app_name": "YT Music Morphe",
     "asset_name": "youtube-music-armeabi-v7a-morphe-v8.47.56.apk",
     "package_id": "app.morphe.android.apps.youtube.music",
     "version_name": "8.47.56",
@@ -888,5 +878,15 @@
     "play_store_url": "",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/youtube-music-armeabi-v7a-morphe-v8.47.56.apk",
     "discoverium_file": "../discoverium/app.morphe.android.apps.youtube.music__youtube-music-armeabi-v7a-morphe-v8.47.56.json"
+  },
+  {
+    "app_name": "YT Music Morphe",
+    "asset_name": "youtube-music-arm64-v8a-morphe-v8.47.56.apk",
+    "package_id": "app.morphe.android.apps.youtube.music",
+    "version_name": "8.47.56",
+    "sha256": "2d49f29147a238d9028a87607dd304381e940fc236a7347679cfa9435eff4dc9",
+    "play_store_url": "",
+    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/youtube-music-arm64-v8a-morphe-v8.47.56.apk",
+    "discoverium_file": "../discoverium/app.morphe.android.apps.youtube.music__youtube-music-arm64-v8a-morphe-v8.47.56.json"
   }
 ]

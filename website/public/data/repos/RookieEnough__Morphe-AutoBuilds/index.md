@@ -91,8 +91,8 @@ Release source: `latest`
 | **XRecorder** | videoeditor.videorecorder.screenrecorder | xrecorder-universal-morphe-patches-v2.5.1.1.apk | 2.5.1.1 | [Play Store](https://play.google.com/store/apps/details?id=videoeditor.videorecorder.screenrecorder) | [JSON Config](./discoverium/videoeditor.videorecorder.screenrecorder__xrecorder-universal-morphe-patches-v2.5.1.1.json) |
 | **YouTube Morphe** | app.morphe.android.youtube | youtube-universal-morphe-v20.47.62.apk | 20.47.62 | N/A | [JSON Config](./discoverium/app.morphe.android.youtube__youtube-universal-morphe-v20.47.62.json) |
 | **YouTube Morphe** | app.morphe.android.youtube | youtube-universal-morphe-v20.51.39.apk | 20.51.39 | N/A | [JSON Config](./discoverium/app.morphe.android.youtube__youtube-universal-morphe-v20.51.39.json) |
-| **YT Music Morphe** | app.morphe.android.apps.youtube.music | youtube-music-arm64-v8a-morphe-v8.47.56.apk | 8.47.56 | N/A | [JSON Config](./discoverium/app.morphe.android.apps.youtube.music__youtube-music-arm64-v8a-morphe-v8.47.56.json) |
 | **YT Music Morphe** | app.morphe.android.apps.youtube.music | youtube-music-armeabi-v7a-morphe-v8.47.56.apk | 8.47.56 | N/A | [JSON Config](./discoverium/app.morphe.android.apps.youtube.music__youtube-music-armeabi-v7a-morphe-v8.47.56.json) |
+| **YT Music Morphe** | app.morphe.android.apps.youtube.music | youtube-music-arm64-v8a-morphe-v8.47.56.apk | 8.47.56 | N/A | [JSON Config](./discoverium/app.morphe.android.apps.youtube.music__youtube-music-arm64-v8a-morphe-v8.47.56.json) |
 
 ## SHA256
 
@@ -243,7 +243,7 @@ Release source: `latest`
 - **ticktick-universal-revanced-patches-v8.0.8.1.apk**
   - `b4e1872dce72776cc3f337daaeac04800b78f0a0f95f208663e424af6db049c1`
 - **tiktok-universal-morphe-patches-v43.8.3.apk**
-  - `1e97d7860c2df14bb0941f0961d08e2b6484a698e33b5006b79be79f3c7a4a5e`
+  - `752febadfba0bf4901b960647ce885f94b681c19bad5349eea6dd32f1e28ce56`
 - **trakt-universal-revanced-patches-v3.9.1.apk**
   - `4ad453c2cef575b744ace5b029782c65725d61d41e82b82f2696895ba80ba40f`
 - **truecaller-universal-paresh-v26.10.6.apk**
@@ -270,9 +270,9 @@ Release source: `latest`
   - `f6a6670127052b693b10e35fb539dff77b81f0fb109335337e88ae70e32c860c`
 - **youtube-universal-morphe-v20.51.39.apk**
   - `11689bc25d979642869273890c237549d6754357a9c8846d21c0c16ddbc74567`
-- **youtube-music-arm64-v8a-morphe-v8.47.56.apk**
-  - `2d49f29147a238d9028a87607dd304381e940fc236a7347679cfa9435eff4dc9`
 - **youtube-music-armeabi-v7a-morphe-v8.47.56.apk**
   - `7e87d6459500534bea231c7e716c9af4e3529de0f75ed89c95d3a4ea3d6f1422`
+- **youtube-music-arm64-v8a-morphe-v8.47.56.apk**
+  - `2d49f29147a238d9028a87607dd304381e940fc236a7347679cfa9435eff4dc9`
 
 _Automatically generated from GitHub APK release assets with package IDs, SHA256 hashes, and Discoverium import links._
