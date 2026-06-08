@@ -304,7 +304,7 @@
     "asset_name": "kakaotalk-universal-revanced-patches-v26.4.2.apk",
     "package_id": "com.kakao.talk",
     "version_name": "26.4.2",
-    "sha256": "38a9ed42e2cddca958a3966fea810383fb8f2319094b2799137dd572078fbe75",
+    "sha256": "ee40ce36fc81d06d205d9b6f63232461bad9579a4a2cffa90e2824fb897d65b4",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.kakao.talk",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/kakaotalk-universal-revanced-patches-v26.4.2.apk",
     "discoverium_file": "../discoverium/com.kakao.talk__kakaotalk-universal-revanced-patches-v26.4.2.json"
@@ -611,16 +611,6 @@
   },
   {
     "app_name": "Pokécardex",
-    "asset_name": "pokecardex-armeabi-v7a-morphe-patches-v8.7.2.apk",
-    "package_id": "com.application.pokecardex",
-    "version_name": "8.7.2",
-    "sha256": "c5030f2b1228cbe88c78c2ba050e91b268e0af7bc4b7ccc05964e32dc88659ad",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.application.pokecardex",
-    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/pokecardex-armeabi-v7a-morphe-patches-v8.7.2.apk",
-    "discoverium_file": "../discoverium/com.application.pokecardex__pokecardex-armeabi-v7a-morphe-patches-v8.7.2.json"
-  },
-  {
-    "app_name": "Pokécardex",
     "asset_name": "pokecardex-arm64-v8a-morphe-patches-v8.7.2.apk",
     "package_id": "com.application.pokecardex",
     "version_name": "8.7.2",
@@ -628,6 +618,16 @@
     "play_store_url": "https://play.google.com/store/apps/details?id=com.application.pokecardex",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/pokecardex-arm64-v8a-morphe-patches-v8.7.2.apk",
     "discoverium_file": "../discoverium/com.application.pokecardex__pokecardex-arm64-v8a-morphe-patches-v8.7.2.json"
+  },
+  {
+    "app_name": "Pokécardex",
+    "asset_name": "pokecardex-armeabi-v7a-morphe-patches-v8.7.2.apk",
+    "package_id": "com.application.pokecardex",
+    "version_name": "8.7.2",
+    "sha256": "c5030f2b1228cbe88c78c2ba050e91b268e0af7bc4b7ccc05964e32dc88659ad",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.application.pokecardex",
+    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/pokecardex-armeabi-v7a-morphe-patches-v8.7.2.apk",
+    "discoverium_file": "../discoverium/com.application.pokecardex__pokecardex-armeabi-v7a-morphe-patches-v8.7.2.json"
   },
   {
     "app_name": "Prime Video",
@@ -821,16 +821,6 @@
   },
   {
     "app_name": "Threads",
-    "asset_name": "threads-universal-morphe-patches-v431.0.0.28.81.apk",
-    "package_id": "com.instagram.barcelona",
-    "version_name": "431.0.0.28.81",
-    "sha256": "23b4a7ea1c76e73e2ce6312b809765253197ca9b64cc779cea602d0c67904aa9",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.instagram.barcelona",
-    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/threads-universal-morphe-patches-v431.0.0.28.81.apk",
-    "discoverium_file": "../discoverium/com.instagram.barcelona__threads-universal-morphe-patches-v431.0.0.28.81.json"
-  },
-  {
-    "app_name": "Threads",
     "asset_name": "threads-universal-morphe-patches-v433.0.0.0.59.apk",
     "package_id": "com.instagram.barcelona",
     "version_name": "433.0.0.0.59",
@@ -838,6 +828,16 @@
     "play_store_url": "https://play.google.com/store/apps/details?id=com.instagram.barcelona",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/threads-universal-morphe-patches-v433.0.0.0.59.apk",
     "discoverium_file": "../discoverium/com.instagram.barcelona__threads-universal-morphe-patches-v433.0.0.0.59.json"
+  },
+  {
+    "app_name": "Threads",
+    "asset_name": "threads-universal-morphe-patches-v431.0.0.28.81.apk",
+    "package_id": "com.instagram.barcelona",
+    "version_name": "431.0.0.28.81",
+    "sha256": "23b4a7ea1c76e73e2ce6312b809765253197ca9b64cc779cea602d0c67904aa9",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.instagram.barcelona",
+    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/threads-universal-morphe-patches-v431.0.0.28.81.apk",
+    "discoverium_file": "../discoverium/com.instagram.barcelona__threads-universal-morphe-patches-v431.0.0.28.81.json"
   },
   {
     "app_name": "TickTick",
@@ -854,7 +854,7 @@
     "asset_name": "tiktok-universal-morphe-patches-v43.8.3.apk",
     "package_id": "com.zhiliaoapp.musically",
     "version_name": "43.8.3",
-    "sha256": "a7b05eb8c250cf79e7db6156a8a48b05db060a8b7fcabc4b51082cf85e3dd1ca",
+    "sha256": "da25fc286126821c491a1d1a78e6173654f886fca4816e167de1684676db0705",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/tiktok-universal-morphe-patches-v43.8.3.apk",
     "discoverium_file": "../discoverium/com.zhiliaoapp.musically__tiktok-universal-morphe-patches-v43.8.3.json"
