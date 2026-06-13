@@ -88,8 +88,8 @@ Release source: `latest`
 | **SoundCloud** | com.soundcloud.android | soundcloud-universal-morphe-patches-v2026.04.27-release.apk | 2026.04.27-release | [Play Store](https://play.google.com/store/apps/details?id=com.soundcloud.android) | [JSON Config](./discoverium/com.soundcloud.android__soundcloud-universal-morphe-patches-v2026.04.27-release.json) |
 | **Splitwise** | com.Splitwise.SplitwiseMobile | splitwise-universal-revanced-patches-v26.5.4.apk | 26.5.4 | [Play Store](https://play.google.com/store/apps/details?id=com.Splitwise.SplitwiseMobile) | [JSON Config](./discoverium/com.Splitwise.SplitwiseMobile__splitwise-universal-revanced-patches-v26.5.4.json) |
 | **StarSense Explorer** | com.celestron.skybox | starsense-universal-paresh-v2.0.2.3.apk | 2.0.2.3 | [Play Store](https://play.google.com/store/apps/details?id=com.celestron.skybox) | [JSON Config](./discoverium/com.celestron.skybox__starsense-universal-paresh-v2.0.2.3.json) |
-| **Strava** | com.strava | strava-universal-morphe-patches-v466.12.apk | 466.12 | [Play Store](https://play.google.com/store/apps/details?id=com.strava) | [JSON Config](./discoverium/com.strava__strava-universal-morphe-patches-v466.12.json) |
 | **Strava** | com.strava | strava-universal-morphe-patches-v465.9.apk | 465.9 | [Play Store](https://play.google.com/store/apps/details?id=com.strava) | [JSON Config](./discoverium/com.strava__strava-universal-morphe-patches-v465.9.json) |
+| **Strava** | com.strava | strava-universal-morphe-patches-v466.12.apk | 466.12 | [Play Store](https://play.google.com/store/apps/details?id=com.strava) | [JSON Config](./discoverium/com.strava__strava-universal-morphe-patches-v466.12.json) |
 | **Tasker** | net.dinglisch.android.taskerm | tasker-universal-dropped-v6.6.20.apk | 6.6.20 | [Play Store](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm) | [JSON Config](./discoverium/net.dinglisch.android.taskerm__tasker-universal-dropped-v6.6.20.json) |
 | **Telegram** | org.telegram.messenger.web | telegram-universal-paresh-v12.6.4.apk | 12.6.4 | N/A | [JSON Config](./discoverium/org.telegram.messenger.web__telegram-universal-paresh-v12.6.4.json) |
 | **TEUIDA** | net.teuida.teuida | teuida-universal-morphe-patches-v1.21.16.apk | 1.21.16 | [Play Store](https://play.google.com/store/apps/details?id=net.teuida.teuida) | [JSON Config](./discoverium/net.teuida.teuida__teuida-universal-morphe-patches-v1.21.16.json) |
@@ -111,8 +111,8 @@ Release source: `latest`
 | **Xodo** | com.xodo.pdf.reader | xodo-universal-morphe-patches-v10.13.0.apk | 10.13.0 | [Play Store](https://play.google.com/store/apps/details?id=com.xodo.pdf.reader) | [JSON Config](./discoverium/com.xodo.pdf.reader__xodo-universal-morphe-patches-v10.13.0.json) |
 | **XRecorder** | videoeditor.videorecorder.screenrecorder | xrecorder-universal-morphe-patches-v2.5.1.1.apk | 2.5.1.1 | [Play Store](https://play.google.com/store/apps/details?id=videoeditor.videorecorder.screenrecorder) | [JSON Config](./discoverium/videoeditor.videorecorder.screenrecorder__xrecorder-universal-morphe-patches-v2.5.1.1.json) |
 | **YouTube Morphe** | app.morphe.android.youtube | youtube-universal-morphe-v20.51.39.apk | 20.51.39 | N/A | [JSON Config](./discoverium/app.morphe.android.youtube__youtube-universal-morphe-v20.51.39.json) |
-| **YT Music Morphe** | app.morphe.android.apps.youtube.music | youtube-music-arm64-v8a-morphe-v8.47.56.apk | 8.47.56 | N/A | [JSON Config](./discoverium/app.morphe.android.apps.youtube.music__youtube-music-arm64-v8a-morphe-v8.47.56.json) |
 | **YT Music Morphe** | app.morphe.android.apps.youtube.music | youtube-music-armeabi-v7a-morphe-v8.47.56.apk | 8.47.56 | N/A | [JSON Config](./discoverium/app.morphe.android.apps.youtube.music__youtube-music-armeabi-v7a-morphe-v8.47.56.json) |
+| **YT Music Morphe** | app.morphe.android.apps.youtube.music | youtube-music-arm64-v8a-morphe-v8.47.56.apk | 8.47.56 | N/A | [JSON Config](./discoverium/app.morphe.android.apps.youtube.music__youtube-music-arm64-v8a-morphe-v8.47.56.json) |
 
 ## SHA256
 
@@ -284,10 +284,10 @@ Release source: `latest`
   - `757d7101f65b36f6925057a144d080109f32f02d0aebc2d469f6c709a9c6bd26`
 - **starsense-universal-paresh-v2.0.2.3.apk**
   - `0939230c0f3749896044e264e452d107c2360f61786bcecd38ebe074d15f60e5`
-- **strava-universal-morphe-patches-v466.12.apk**
-  - `a9f8b3e7245639a9cbaa9cb75552e239e117571bc3ba9ddaadc64843578df82d`
 - **strava-universal-morphe-patches-v465.9.apk**
   - `ca0b221deb911de8a2e1e55546f607a1781e0a0ebc6596d795a267f22c39a393`
+- **strava-universal-morphe-patches-v466.12.apk**
+  - `a9f8b3e7245639a9cbaa9cb75552e239e117571bc3ba9ddaadc64843578df82d`
 - **tasker-universal-dropped-v6.6.20.apk**
   - `92550fab0b5124b7f59c784dee7916a1e17d2671e2e5370e4913f15698aa89fd`
 - **telegram-universal-paresh-v12.6.4.apk**
@@ -330,9 +330,9 @@ Release source: `latest`
   - `c985ed474368e37032051f8929bed38bd86144a95a451dd6896aa3d5fd538013`
 - **youtube-universal-morphe-v20.51.39.apk**
   - `c26ac86838bcc1fcac0f9fd07e8e82f067e8e3536a9ef10a7bb39692f885d4f0`
-- **youtube-music-arm64-v8a-morphe-v8.47.56.apk**
-  - `3b8f94fe425f671d14ba2c9af27fab15d431873a56a1702a014569a0f661f20f`
 - **youtube-music-armeabi-v7a-morphe-v8.47.56.apk**
   - `b276a0649b8824bdd5aa9b9295b4ec990fa794ff86a9175c14200f75e73f6d0f`
+- **youtube-music-arm64-v8a-morphe-v8.47.56.apk**
+  - `3b8f94fe425f671d14ba2c9af27fab15d431873a56a1702a014569a0f661f20f`
 
 _Automatically generated from GitHub APK release assets with package IDs, SHA256 hashes, and Discoverium import links._

@@ -841,16 +841,6 @@
   },
   {
     "app_name": "Strava",
-    "asset_name": "strava-universal-morphe-patches-v466.12.apk",
-    "package_id": "com.strava",
-    "version_name": "466.12",
-    "sha256": "a9f8b3e7245639a9cbaa9cb75552e239e117571bc3ba9ddaadc64843578df82d",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.strava",
-    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/strava-universal-morphe-patches-v466.12.apk",
-    "discoverium_file": "../discoverium/com.strava__strava-universal-morphe-patches-v466.12.json"
-  },
-  {
-    "app_name": "Strava",
     "asset_name": "strava-universal-morphe-patches-v465.9.apk",
     "package_id": "com.strava",
     "version_name": "465.9",
@@ -858,6 +848,16 @@
     "play_store_url": "https://play.google.com/store/apps/details?id=com.strava",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/strava-universal-morphe-patches-v465.9.apk",
     "discoverium_file": "../discoverium/com.strava__strava-universal-morphe-patches-v465.9.json"
+  },
+  {
+    "app_name": "Strava",
+    "asset_name": "strava-universal-morphe-patches-v466.12.apk",
+    "package_id": "com.strava",
+    "version_name": "466.12",
+    "sha256": "a9f8b3e7245639a9cbaa9cb75552e239e117571bc3ba9ddaadc64843578df82d",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.strava",
+    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/strava-universal-morphe-patches-v466.12.apk",
+    "discoverium_file": "../discoverium/com.strava__strava-universal-morphe-patches-v466.12.json"
   },
   {
     "app_name": "Tasker",
@@ -1071,16 +1071,6 @@
   },
   {
     "app_name": "YT Music Morphe",
-    "asset_name": "youtube-music-arm64-v8a-morphe-v8.47.56.apk",
-    "package_id": "app.morphe.android.apps.youtube.music",
-    "version_name": "8.47.56",
-    "sha256": "3b8f94fe425f671d14ba2c9af27fab15d431873a56a1702a014569a0f661f20f",
-    "play_store_url": "",
-    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/youtube-music-arm64-v8a-morphe-v8.47.56.apk",
-    "discoverium_file": "../discoverium/app.morphe.android.apps.youtube.music__youtube-music-arm64-v8a-morphe-v8.47.56.json"
-  },
-  {
-    "app_name": "YT Music Morphe",
     "asset_name": "youtube-music-armeabi-v7a-morphe-v8.47.56.apk",
     "package_id": "app.morphe.android.apps.youtube.music",
     "version_name": "8.47.56",
@@ -1088,5 +1078,15 @@
     "play_store_url": "",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/youtube-music-armeabi-v7a-morphe-v8.47.56.apk",
     "discoverium_file": "../discoverium/app.morphe.android.apps.youtube.music__youtube-music-armeabi-v7a-morphe-v8.47.56.json"
+  },
+  {
+    "app_name": "YT Music Morphe",
+    "asset_name": "youtube-music-arm64-v8a-morphe-v8.47.56.apk",
+    "package_id": "app.morphe.android.apps.youtube.music",
+    "version_name": "8.47.56",
+    "sha256": "3b8f94fe425f671d14ba2c9af27fab15d431873a56a1702a014569a0f661f20f",
+    "play_store_url": "",
+    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/youtube-music-arm64-v8a-morphe-v8.47.56.apk",
+    "discoverium_file": "../discoverium/app.morphe.android.apps.youtube.music__youtube-music-arm64-v8a-morphe-v8.47.56.json"
   }
 ]
