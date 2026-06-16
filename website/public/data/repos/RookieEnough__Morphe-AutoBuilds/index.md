@@ -67,12 +67,12 @@ Release source: `latest`
 | **park4night** | fr.tramb.park4night | park4night-universal-morphe-patches-v7.1.11.apk | 7.1.11 | [Play Store](https://play.google.com/store/apps/details?id=fr.tramb.park4night) | [JSON Config](./discoverium/fr.tramb.park4night__park4night-universal-morphe-patches-v7.1.11.json) |
 | **Phone** | com.google.android.dialer | dialer-universal-revanced-patches-v206.0.857916353-downloadable.apk | 206.0.857916353-downloadable | [Play Store](https://play.google.com/store/apps/details?id=com.google.android.dialer) | [JSON Config](./discoverium/com.google.android.dialer__dialer-universal-revanced-patches-v206.0.857916353-downloadable.json) |
 | **Photomath** | com.microblink.photomath | photomath-universal-morphe-patches-v8.47.1.apk | 8.47.1 | [Play Store](https://play.google.com/store/apps/details?id=com.microblink.photomath) | [JSON Config](./discoverium/com.microblink.photomath__photomath-universal-morphe-patches-v8.47.1.json) |
-| **Photos** | app.morphe.android.apps.photos | google-photos-armeabi-v7a-morphe-patches-v7.78.0.920664585.apk | 7.78.0.920664585 | N/A | [JSON Config](./discoverium/app.morphe.android.apps.photos__google-photos-armeabi-v7a-morphe-patches-v7.78.0.920664585.json) |
 | **Photos** | app.morphe.android.apps.photos | google-photos-arm64-v8a-morphe-patches-v7.78.0.920664585.apk | 7.78.0.920664585 | N/A | [JSON Config](./discoverium/app.morphe.android.apps.photos__google-photos-arm64-v8a-morphe-patches-v7.78.0.920664585.json) |
+| **Photos** | app.morphe.android.apps.photos | google-photos-armeabi-v7a-morphe-patches-v7.78.0.920664585.apk | 7.78.0.920664585 | N/A | [JSON Config](./discoverium/app.morphe.android.apps.photos__google-photos-armeabi-v7a-morphe-patches-v7.78.0.920664585.json) |
 | **pixiv** | jp.pxv.android | pixiv-universal-morphe-patches-v6.141.1.apk | 6.141.1 | [Play Store](https://play.google.com/store/apps/details?id=jp.pxv.android) | [JSON Config](./discoverium/jp.pxv.android__pixiv-universal-morphe-patches-v6.141.1.json) |
 | **Podcast Addict** | com.bambuna.podcastaddict | podcast-universal-morphe-patches-v2026.4.apk | 2026.4 | [Play Store](https://play.google.com/store/apps/details?id=com.bambuna.podcastaddict) | [JSON Config](./discoverium/com.bambuna.podcastaddict__podcast-universal-morphe-patches-v2026.4.json) |
-| **Pokécardex** | com.application.pokecardex | pokecardex-arm64-v8a-morphe-patches-v8.7.2.apk | 8.7.2 | [Play Store](https://play.google.com/store/apps/details?id=com.application.pokecardex) | [JSON Config](./discoverium/com.application.pokecardex__pokecardex-arm64-v8a-morphe-patches-v8.7.2.json) |
 | **Pokécardex** | com.application.pokecardex | pokecardex-armeabi-v7a-morphe-patches-v8.7.2.apk | 8.7.2 | [Play Store](https://play.google.com/store/apps/details?id=com.application.pokecardex) | [JSON Config](./discoverium/com.application.pokecardex__pokecardex-armeabi-v7a-morphe-patches-v8.7.2.json) |
+| **Pokécardex** | com.application.pokecardex | pokecardex-arm64-v8a-morphe-patches-v8.7.2.apk | 8.7.2 | [Play Store](https://play.google.com/store/apps/details?id=com.application.pokecardex) | [JSON Config](./discoverium/com.application.pokecardex__pokecardex-arm64-v8a-morphe-patches-v8.7.2.json) |
 | **Prime Video** | com.amazon.avod.thirdpartyclient | prime-video-universal-morphe-patches-v3.0.452.1047.apk | 3.0.452.1047 | [Play Store](https://play.google.com/store/apps/details?id=com.amazon.avod.thirdpartyclient) | [JSON Config](./discoverium/com.amazon.avod.thirdpartyclient__prime-video-universal-morphe-patches-v3.0.452.1047.json) |
 | **Prompter Pal** | com.solid.teleprompter | prompter-universal-paresh-v6.8.2.apk | 6.8.2 | [Play Store](https://play.google.com/store/apps/details?id=com.solid.teleprompter) | [JSON Config](./discoverium/com.solid.teleprompter__prompter-universal-paresh-v6.8.2.json) |
 | **Proton Mail** | ch.protonmail.android | proton-mail-universal-morphe-patches-v4.15.0.apk | 4.15.0 | [Play Store](https://play.google.com/store/apps/details?id=ch.protonmail.android) | [JSON Config](./discoverium/ch.protonmail.android__proton-mail-universal-morphe-patches-v4.15.0.json) |
@@ -244,18 +244,18 @@ Release source: `latest`
   - `cd8339f4b730a356ffc523673b69d58199e9c9d9bc8d2b68265a3e77b24bfde2`
 - **photomath-universal-morphe-patches-v8.47.1.apk**
   - `f139d26eb45af4bf2295a39f806a3126eb0e58ab20a96b965c3d3f5b1ddfe3e2`
-- **google-photos-armeabi-v7a-morphe-patches-v7.78.0.920664585.apk**
-  - `ef0eea7420f7ee68a48ff179525e14c7ed284413f69a8284e71649ec09d4ab78`
 - **google-photos-arm64-v8a-morphe-patches-v7.78.0.920664585.apk**
   - `eaf4310303b57841c42db20e04a17cb091001442d85d1d16afeb60b58e28f07c`
+- **google-photos-armeabi-v7a-morphe-patches-v7.78.0.920664585.apk**
+  - `ef0eea7420f7ee68a48ff179525e14c7ed284413f69a8284e71649ec09d4ab78`
 - **pixiv-universal-morphe-patches-v6.141.1.apk**
   - `e3f588b973aae3a40641bf9ba30660ee4cc5beb1d0ecb4221dfdd82995d13bb9`
 - **podcast-universal-morphe-patches-v2026.4.apk**
   - `88d92bc687765641739c66bd8d10be674070af039ffd098aec8f2980b623baa0`
-- **pokecardex-arm64-v8a-morphe-patches-v8.7.2.apk**
-  - `e4ff452f532db5db6ed3851ceedd47965c356b2dfda3bcf42fe5d96f43cde541`
 - **pokecardex-armeabi-v7a-morphe-patches-v8.7.2.apk**
   - `9644421f4f8ba7566f39cf8eee1f748cd25e17c78e12f665301aca1cc806775d`
+- **pokecardex-arm64-v8a-morphe-patches-v8.7.2.apk**
+  - `e4ff452f532db5db6ed3851ceedd47965c356b2dfda3bcf42fe5d96f43cde541`
 - **prime-video-universal-morphe-patches-v3.0.452.1047.apk**
   - `81e179656312a551286f4c8363955a96b72f96886ceafdb20b2696654b86a292`
 - **prompter-universal-paresh-v6.8.2.apk**
