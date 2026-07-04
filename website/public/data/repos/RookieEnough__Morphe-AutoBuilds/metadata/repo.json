@@ -194,7 +194,7 @@
     "asset_name": "fxfile-universal-dropped-v.apk",
     "package_id": "nextapp.fx",
     "version_name": "∞",
-    "sha256": "44f8af7513975a3ae73c0c5d2fa9713e8e8750432bf202ae86edcc5b6ea7ae55",
+    "sha256": "ec60302acf782df7c9149e3259129005b7aa45240880f22a3a2796551fa3e909",
     "play_store_url": "https://play.google.com/store/apps/details?id=nextapp.fx",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/fxfile-universal-dropped-v.apk",
     "discoverium_file": "../discoverium/nextapp.fx__fxfile-universal-dropped-v.json"
@@ -531,16 +531,6 @@
   },
   {
     "app_name": "Nova Launcher",
-    "asset_name": "nova-universal-dropped-v88000.8.8.0.apk",
-    "package_id": "com.teslacoilsw.launcher",
-    "version_name": "88000 (8.8.0)",
-    "sha256": "bd1adad4a2f519a971307a84882cc1b417aceaf8dc1d64329b208207a28da133",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
-    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/nova-universal-dropped-v88000.8.8.0.apk",
-    "discoverium_file": "../discoverium/com.teslacoilsw.launcher__nova-universal-dropped-v88000.8.8.0.json"
-  },
-  {
-    "app_name": "Nova Launcher",
     "asset_name": "nova-universal-dropped-v88200.8.8.2.apk",
     "package_id": "com.teslacoilsw.launcher",
     "version_name": "88200 (8.8.2)",
@@ -548,6 +538,16 @@
     "play_store_url": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/nova-universal-dropped-v88200.8.8.2.apk",
     "discoverium_file": "../discoverium/com.teslacoilsw.launcher__nova-universal-dropped-v88200.8.8.2.json"
+  },
+  {
+    "app_name": "Nova Launcher",
+    "asset_name": "nova-universal-dropped-v88000.8.8.0.apk",
+    "package_id": "com.teslacoilsw.launcher",
+    "version_name": "88000 (8.8.0)",
+    "sha256": "bd1adad4a2f519a971307a84882cc1b417aceaf8dc1d64329b208207a28da133",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/nova-universal-dropped-v88000.8.8.0.apk",
+    "discoverium_file": "../discoverium/com.teslacoilsw.launcher__nova-universal-dropped-v88000.8.8.0.json"
   },
   {
     "app_name": "Pandora",
@@ -631,16 +631,6 @@
   },
   {
     "app_name": "Pokécardex",
-    "asset_name": "pokecardex-armeabi-v7a-morphe-patches-v8.7.2.apk",
-    "package_id": "com.application.pokecardex",
-    "version_name": "8.7.2",
-    "sha256": "33ec4a4c6f7c14af9a480b8a1a6437aa98a3e4fc718b0c443d7e919d0c2fd896",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.application.pokecardex",
-    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/pokecardex-armeabi-v7a-morphe-patches-v8.7.2.apk",
-    "discoverium_file": "../discoverium/com.application.pokecardex__pokecardex-armeabi-v7a-morphe-patches-v8.7.2.json"
-  },
-  {
-    "app_name": "Pokécardex",
     "asset_name": "pokecardex-arm64-v8a-morphe-patches-v8.7.2.apk",
     "package_id": "com.application.pokecardex",
     "version_name": "8.7.2",
@@ -648,6 +638,16 @@
     "play_store_url": "https://play.google.com/store/apps/details?id=com.application.pokecardex",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/pokecardex-arm64-v8a-morphe-patches-v8.7.2.apk",
     "discoverium_file": "../discoverium/com.application.pokecardex__pokecardex-arm64-v8a-morphe-patches-v8.7.2.json"
+  },
+  {
+    "app_name": "Pokécardex",
+    "asset_name": "pokecardex-armeabi-v7a-morphe-patches-v8.7.2.apk",
+    "package_id": "com.application.pokecardex",
+    "version_name": "8.7.2",
+    "sha256": "33ec4a4c6f7c14af9a480b8a1a6437aa98a3e4fc718b0c443d7e919d0c2fd896",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.application.pokecardex",
+    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/pokecardex-armeabi-v7a-morphe-patches-v8.7.2.apk",
+    "discoverium_file": "../discoverium/com.application.pokecardex__pokecardex-armeabi-v7a-morphe-patches-v8.7.2.json"
   },
   {
     "app_name": "Prime Video",
@@ -724,7 +724,7 @@
     "asset_name": "reddit-universal-morphe-v2026.14.0.apk",
     "package_id": "com.reddit.frontpage",
     "version_name": "2026.14.0",
-    "sha256": "16e6682019ef982cf5d66012ae2067d6de6d2e1627aeab643c29e3e1e29115a5",
+    "sha256": "57c6bac08a786ee205be9c5a1d3d7520ebb836bd570315717b9d30733103979b",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.reddit.frontpage",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/reddit-universal-morphe-v2026.14.0.apk",
     "discoverium_file": "../discoverium/com.reddit.frontpage__reddit-universal-morphe-v2026.14.0.json"
@@ -944,7 +944,7 @@
     "asset_name": "windscribe-universal-morphe-patches-v4.1.2274.apk",
     "package_id": "com.windscribe.vpn",
     "version_name": "4.1.2274",
-    "sha256": "845310c0078b9316972a97de6c2fe62a53cc46fea434c70aca88d6c6785f5a53",
+    "sha256": "e7d14019015bbd72e69c952180a339167923e0a4a2307b4bc0701fa1c9827de2",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.windscribe.vpn",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/windscribe-universal-morphe-patches-v4.1.2274.apk",
     "discoverium_file": "../discoverium/com.windscribe.vpn__windscribe-universal-morphe-patches-v4.1.2274.json"
@@ -994,7 +994,7 @@
     "asset_name": "youtube-universal-morphe-v20.51.39.apk",
     "package_id": "app.morphe.android.youtube",
     "version_name": "20.51.39",
-    "sha256": "c0316c8022ee182fefb11afc0d4f0bb05c21f36897f16d0447cb59f3ebf28bc4",
+    "sha256": "54c45ef0ac911aaaae54bf0186fda9aa914ff5bdeb29d22f55af0b3fc6290526",
     "play_store_url": "",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/youtube-universal-morphe-v20.51.39.apk",
     "discoverium_file": "../discoverium/app.morphe.android.youtube__youtube-universal-morphe-v20.51.39.json"
@@ -1004,7 +1004,7 @@
     "asset_name": "youtube-music-arm64-v8a-morphe-v9.15.51.apk",
     "package_id": "app.morphe.android.apps.youtube.music",
     "version_name": "9.15.51",
-    "sha256": "412b478ebfdbbe5404e901fa33228523b4c92bfeaa9003ce5d308bd1fd8504a1",
+    "sha256": "deb4ca55a170fc1d1ad2d7f5ecdf9780d4416163be2d036c623d55524492eeef",
     "play_store_url": "",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/youtube-music-arm64-v8a-morphe-v9.15.51.apk",
     "discoverium_file": "../discoverium/app.morphe.android.apps.youtube.music__youtube-music-arm64-v8a-morphe-v9.15.51.json"
@@ -1014,7 +1014,7 @@
     "asset_name": "youtube-music-armeabi-v7a-morphe-v9.15.51.apk",
     "package_id": "app.morphe.android.apps.youtube.music",
     "version_name": "9.15.51",
-    "sha256": "69d2d284beaaa19f50ac7fcfecc8648cf65982a69913abd75e41d94ba656b395",
+    "sha256": "a6ea95324988921c7c6af555ffa5d0e11ae4f6e5300e9fb166805293511f7196",
     "play_store_url": "",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/youtube-music-armeabi-v7a-morphe-v9.15.51.apk",
     "discoverium_file": "../discoverium/app.morphe.android.apps.youtube.music__youtube-music-armeabi-v7a-morphe-v9.15.51.json"
