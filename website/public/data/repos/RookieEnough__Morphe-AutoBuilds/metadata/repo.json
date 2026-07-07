@@ -194,7 +194,7 @@
     "asset_name": "fxfile-universal-dropped-v.apk",
     "package_id": "nextapp.fx",
     "version_name": "∞",
-    "sha256": "b9659f280ebc1c4cbb88ebe4c2d1588be88b4433813721233b10687a4dd5ee17",
+    "sha256": "291d956a6ced35fbb874ac4939ffa18e9bb547fb287f1dc2eddc24dd49947b28",
     "play_store_url": "https://play.google.com/store/apps/details?id=nextapp.fx",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/fxfile-universal-dropped-v.apk",
     "discoverium_file": "../discoverium/nextapp.fx__fxfile-universal-dropped-v.json"
@@ -531,16 +531,6 @@
   },
   {
     "app_name": "Nova Launcher",
-    "asset_name": "nova-universal-dropped-v88000.8.8.0.apk",
-    "package_id": "com.teslacoilsw.launcher",
-    "version_name": "88000 (8.8.0)",
-    "sha256": "bd1adad4a2f519a971307a84882cc1b417aceaf8dc1d64329b208207a28da133",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
-    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/nova-universal-dropped-v88000.8.8.0.apk",
-    "discoverium_file": "../discoverium/com.teslacoilsw.launcher__nova-universal-dropped-v88000.8.8.0.json"
-  },
-  {
-    "app_name": "Nova Launcher",
     "asset_name": "nova-universal-dropped-v88200.8.8.2.apk",
     "package_id": "com.teslacoilsw.launcher",
     "version_name": "88200 (8.8.2)",
@@ -548,6 +538,16 @@
     "play_store_url": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/nova-universal-dropped-v88200.8.8.2.apk",
     "discoverium_file": "../discoverium/com.teslacoilsw.launcher__nova-universal-dropped-v88200.8.8.2.json"
+  },
+  {
+    "app_name": "Nova Launcher",
+    "asset_name": "nova-universal-dropped-v88000.8.8.0.apk",
+    "package_id": "com.teslacoilsw.launcher",
+    "version_name": "88000 (8.8.0)",
+    "sha256": "bd1adad4a2f519a971307a84882cc1b417aceaf8dc1d64329b208207a28da133",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/nova-universal-dropped-v88000.8.8.0.apk",
+    "discoverium_file": "../discoverium/com.teslacoilsw.launcher__nova-universal-dropped-v88000.8.8.0.json"
   },
   {
     "app_name": "Pandora",
@@ -681,16 +681,6 @@
   },
   {
     "app_name": "Proton VPN",
-    "asset_name": "proton-vpn-universal-paresh-v5.17.72.0.apk",
-    "package_id": "ch.protonvpn.android",
-    "version_name": "5.17.72.0",
-    "sha256": "8371ab508e5e2f2073b81c5a6201ec34433a7be031710283f73f92c7a51de00f",
-    "play_store_url": "https://play.google.com/store/apps/details?id=ch.protonvpn.android",
-    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/proton-vpn-universal-paresh-v5.17.72.0.apk",
-    "discoverium_file": "../discoverium/ch.protonvpn.android__proton-vpn-universal-paresh-v5.17.72.0.json"
-  },
-  {
-    "app_name": "Proton VPN",
     "asset_name": "proton-vpn-universal-morphe-patches-v5.17.72.0.apk",
     "package_id": "ch.protonvpn.android",
     "version_name": "5.17.72.0",
@@ -698,6 +688,16 @@
     "play_store_url": "https://play.google.com/store/apps/details?id=ch.protonvpn.android",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/proton-vpn-universal-morphe-patches-v5.17.72.0.apk",
     "discoverium_file": "../discoverium/ch.protonvpn.android__proton-vpn-universal-morphe-patches-v5.17.72.0.json"
+  },
+  {
+    "app_name": "Proton VPN",
+    "asset_name": "proton-vpn-universal-paresh-v5.17.72.0.apk",
+    "package_id": "ch.protonvpn.android",
+    "version_name": "5.17.72.0",
+    "sha256": "8371ab508e5e2f2073b81c5a6201ec34433a7be031710283f73f92c7a51de00f",
+    "play_store_url": "https://play.google.com/store/apps/details?id=ch.protonvpn.android",
+    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/proton-vpn-universal-paresh-v5.17.72.0.apk",
+    "discoverium_file": "../discoverium/ch.protonvpn.android__proton-vpn-universal-paresh-v5.17.72.0.json"
   },
   {
     "app_name": "Pydroid 3",
@@ -941,13 +941,13 @@
   },
   {
     "app_name": "Windscribe",
-    "asset_name": "windscribe-universal-morphe-patches-v4.1.2274.apk",
+    "asset_name": "windscribe-universal-morphe-patches-v4.1.2284.apk",
     "package_id": "com.windscribe.vpn",
-    "version_name": "4.1.2274",
-    "sha256": "21f81e883adab393084f166b3623f7044124f0f0f2bd701950baacaa0a9f8d5e",
+    "version_name": "4.1.2284",
+    "sha256": "23d4c96bb08f2429b2a9fc90a78f7dac1ad49b243f04cbc6db9d8a8338bc8661",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.windscribe.vpn",
-    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/windscribe-universal-morphe-patches-v4.1.2274.apk",
-    "discoverium_file": "../discoverium/com.windscribe.vpn__windscribe-universal-morphe-patches-v4.1.2274.json"
+    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/windscribe-universal-morphe-patches-v4.1.2284.apk",
+    "discoverium_file": "../discoverium/com.windscribe.vpn__windscribe-universal-morphe-patches-v4.1.2284.json"
   },
   {
     "app_name": "Workouts",
