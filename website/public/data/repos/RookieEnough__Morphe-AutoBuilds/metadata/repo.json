@@ -194,7 +194,7 @@
     "asset_name": "fxfile-universal-dropped-v.apk",
     "package_id": "nextapp.fx",
     "version_name": "∞",
-    "sha256": "bf2cc461c05dc328253d31f199d7dbe82f601cd7b7786c35bc029a41333216e4",
+    "sha256": "43d2c4c764922cadfb694c95c1af214972420e3c7ffd2eec928e1711aa867169",
     "play_store_url": "https://play.google.com/store/apps/details?id=nextapp.fx",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/fxfile-universal-dropped-v.apk",
     "discoverium_file": "../discoverium/nextapp.fx__fxfile-universal-dropped-v.json"
@@ -591,16 +591,6 @@
   },
   {
     "app_name": "Photos",
-    "asset_name": "google-photos-arm64-v8a-morphe-patches-v7.78.0.920664585.apk",
-    "package_id": "app.morphe.android.apps.photos",
-    "version_name": "7.78.0.920664585",
-    "sha256": "eaf4310303b57841c42db20e04a17cb091001442d85d1d16afeb60b58e28f07c",
-    "play_store_url": "",
-    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/google-photos-arm64-v8a-morphe-patches-v7.78.0.920664585.apk",
-    "discoverium_file": "../discoverium/app.morphe.android.apps.photos__google-photos-arm64-v8a-morphe-patches-v7.78.0.920664585.json"
-  },
-  {
-    "app_name": "Photos",
     "asset_name": "google-photos-armeabi-v7a-morphe-patches-v7.78.0.920664585.apk",
     "package_id": "app.morphe.android.apps.photos",
     "version_name": "7.78.0.920664585",
@@ -608,6 +598,16 @@
     "play_store_url": "",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/google-photos-armeabi-v7a-morphe-patches-v7.78.0.920664585.apk",
     "discoverium_file": "../discoverium/app.morphe.android.apps.photos__google-photos-armeabi-v7a-morphe-patches-v7.78.0.920664585.json"
+  },
+  {
+    "app_name": "Photos",
+    "asset_name": "google-photos-arm64-v8a-morphe-patches-v7.78.0.920664585.apk",
+    "package_id": "app.morphe.android.apps.photos",
+    "version_name": "7.78.0.920664585",
+    "sha256": "eaf4310303b57841c42db20e04a17cb091001442d85d1d16afeb60b58e28f07c",
+    "play_store_url": "",
+    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/google-photos-arm64-v8a-morphe-patches-v7.78.0.920664585.apk",
+    "discoverium_file": "../discoverium/app.morphe.android.apps.photos__google-photos-arm64-v8a-morphe-patches-v7.78.0.920664585.json"
   },
   {
     "app_name": "pixiv",
@@ -681,16 +681,6 @@
   },
   {
     "app_name": "Proton VPN",
-    "asset_name": "proton-vpn-universal-morphe-patches-v5.17.72.0.apk",
-    "package_id": "ch.protonvpn.android",
-    "version_name": "5.17.72.0",
-    "sha256": "4f1e52080aa4e2c0eeaad4dbe7b72774a82532b71fce44d583810c96cac2a032",
-    "play_store_url": "https://play.google.com/store/apps/details?id=ch.protonvpn.android",
-    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/proton-vpn-universal-morphe-patches-v5.17.72.0.apk",
-    "discoverium_file": "../discoverium/ch.protonvpn.android__proton-vpn-universal-morphe-patches-v5.17.72.0.json"
-  },
-  {
-    "app_name": "Proton VPN",
     "asset_name": "proton-vpn-universal-paresh-v5.17.72.0.apk",
     "package_id": "ch.protonvpn.android",
     "version_name": "5.17.72.0",
@@ -698,6 +688,16 @@
     "play_store_url": "https://play.google.com/store/apps/details?id=ch.protonvpn.android",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/proton-vpn-universal-paresh-v5.17.72.0.apk",
     "discoverium_file": "../discoverium/ch.protonvpn.android__proton-vpn-universal-paresh-v5.17.72.0.json"
+  },
+  {
+    "app_name": "Proton VPN",
+    "asset_name": "proton-vpn-universal-morphe-patches-v5.17.72.0.apk",
+    "package_id": "ch.protonvpn.android",
+    "version_name": "5.17.72.0",
+    "sha256": "4f1e52080aa4e2c0eeaad4dbe7b72774a82532b71fce44d583810c96cac2a032",
+    "play_store_url": "https://play.google.com/store/apps/details?id=ch.protonvpn.android",
+    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/proton-vpn-universal-morphe-patches-v5.17.72.0.apk",
+    "discoverium_file": "../discoverium/ch.protonvpn.android__proton-vpn-universal-morphe-patches-v5.17.72.0.json"
   },
   {
     "app_name": "Pydroid 3",
@@ -724,7 +724,7 @@
     "asset_name": "reddit-universal-morphe-v2026.14.0.apk",
     "package_id": "com.reddit.frontpage",
     "version_name": "2026.14.0",
-    "sha256": "1cad953ba27d047fec1c123ed15305ac3c9d120b5848eb4dcfc857ec5b437855",
+    "sha256": "7e91846eac79de05e9f764b96be3dbf01e725a8797526e71450adbbbeca03852",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.reddit.frontpage",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/reddit-universal-morphe-v2026.14.0.apk",
     "discoverium_file": "../discoverium/com.reddit.frontpage__reddit-universal-morphe-v2026.14.0.json"
@@ -864,7 +864,7 @@
     "asset_name": "tiktok-universal-morphe-patches-v43.8.3.apk",
     "package_id": "com.zhiliaoapp.musically",
     "version_name": "43.8.3",
-    "sha256": "626ad791ccad5d3b4a04ff140a822454397d972cd13089999fbd744376703361",
+    "sha256": "1c2c03a2f89f7397c644cdec98af6c371e3eb51fa1225110e4088b8575e7fd10",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/tiktok-universal-morphe-patches-v43.8.3.apk",
     "discoverium_file": "../discoverium/com.zhiliaoapp.musically__tiktok-universal-morphe-patches-v43.8.3.json"
@@ -994,29 +994,29 @@
     "asset_name": "youtube-universal-morphe-v20.51.39.apk",
     "package_id": "app.morphe.android.youtube",
     "version_name": "20.51.39",
-    "sha256": "eb7e14762f7288df57f533f4ac62f9f6de43d0b1de98cb3238d5b20cd9a13d89",
+    "sha256": "6f5aad26849c97ecb301e4c5a1fd2292558fe0c51456c6c880a382b190d41187",
     "play_store_url": "",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/youtube-universal-morphe-v20.51.39.apk",
     "discoverium_file": "../discoverium/app.morphe.android.youtube__youtube-universal-morphe-v20.51.39.json"
   },
   {
     "app_name": "YT Music Morphe",
-    "asset_name": "youtube-music-armeabi-v7a-morphe-v9.15.51.apk",
-    "package_id": "app.morphe.android.apps.youtube.music",
-    "version_name": "9.15.51",
-    "sha256": "90f74f53029dd8778d782d58894a959745a62b90d9cdb65aeda45c7c5e6a8b13",
-    "play_store_url": "",
-    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/youtube-music-armeabi-v7a-morphe-v9.15.51.apk",
-    "discoverium_file": "../discoverium/app.morphe.android.apps.youtube.music__youtube-music-armeabi-v7a-morphe-v9.15.51.json"
-  },
-  {
-    "app_name": "YT Music Morphe",
     "asset_name": "youtube-music-arm64-v8a-morphe-v9.15.51.apk",
     "package_id": "app.morphe.android.apps.youtube.music",
     "version_name": "9.15.51",
-    "sha256": "12b6769da977990bb10e5eb942ed270d06778be5ad736649153e301c5929aafe",
+    "sha256": "e745dceef93c022b5c2b83db1b8ef7a6a266e9b46a7cfb8468a8068ed91aaead",
     "play_store_url": "",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/youtube-music-arm64-v8a-morphe-v9.15.51.apk",
     "discoverium_file": "../discoverium/app.morphe.android.apps.youtube.music__youtube-music-arm64-v8a-morphe-v9.15.51.json"
+  },
+  {
+    "app_name": "YT Music Morphe",
+    "asset_name": "youtube-music-armeabi-v7a-morphe-v9.15.51.apk",
+    "package_id": "app.morphe.android.apps.youtube.music",
+    "version_name": "9.15.51",
+    "sha256": "16ff2c75d0f64a7fe446f1bce08297003f51c02a0369e849002cb92dd031d237",
+    "play_store_url": "",
+    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/youtube-music-armeabi-v7a-morphe-v9.15.51.apk",
+    "discoverium_file": "../discoverium/app.morphe.android.apps.youtube.music__youtube-music-armeabi-v7a-morphe-v9.15.51.json"
   }
 ]
