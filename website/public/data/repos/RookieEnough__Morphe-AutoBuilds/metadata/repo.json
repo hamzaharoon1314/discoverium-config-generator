@@ -194,7 +194,7 @@
     "asset_name": "fxfile-universal-dropped-v.apk",
     "package_id": "nextapp.fx",
     "version_name": "∞",
-    "sha256": "43d2c4c764922cadfb694c95c1af214972420e3c7ffd2eec928e1711aa867169",
+    "sha256": "6745a98c8e84e263e21d461b625a9e2ca7d46d9ae852dfd8a9682895d4a67a84",
     "play_store_url": "https://play.google.com/store/apps/details?id=nextapp.fx",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/fxfile-universal-dropped-v.apk",
     "discoverium_file": "../discoverium/nextapp.fx__fxfile-universal-dropped-v.json"
@@ -631,16 +631,6 @@
   },
   {
     "app_name": "Pokécardex",
-    "asset_name": "pokecardex-arm64-v8a-morphe-patches-v8.7.2.apk",
-    "package_id": "com.application.pokecardex",
-    "version_name": "8.7.2",
-    "sha256": "7396a328b23f777e25ce52daa2884c3f6d339a2912836bdf2f25138640f6632d",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.application.pokecardex",
-    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/pokecardex-arm64-v8a-morphe-patches-v8.7.2.apk",
-    "discoverium_file": "../discoverium/com.application.pokecardex__pokecardex-arm64-v8a-morphe-patches-v8.7.2.json"
-  },
-  {
-    "app_name": "Pokécardex",
     "asset_name": "pokecardex-armeabi-v7a-morphe-patches-v8.7.2.apk",
     "package_id": "com.application.pokecardex",
     "version_name": "8.7.2",
@@ -648,6 +638,16 @@
     "play_store_url": "https://play.google.com/store/apps/details?id=com.application.pokecardex",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/pokecardex-armeabi-v7a-morphe-patches-v8.7.2.apk",
     "discoverium_file": "../discoverium/com.application.pokecardex__pokecardex-armeabi-v7a-morphe-patches-v8.7.2.json"
+  },
+  {
+    "app_name": "Pokécardex",
+    "asset_name": "pokecardex-arm64-v8a-morphe-patches-v8.7.2.apk",
+    "package_id": "com.application.pokecardex",
+    "version_name": "8.7.2",
+    "sha256": "7396a328b23f777e25ce52daa2884c3f6d339a2912836bdf2f25138640f6632d",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.application.pokecardex",
+    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/pokecardex-arm64-v8a-morphe-patches-v8.7.2.apk",
+    "discoverium_file": "../discoverium/com.application.pokecardex__pokecardex-arm64-v8a-morphe-patches-v8.7.2.json"
   },
   {
     "app_name": "Prime Video",
@@ -681,16 +681,6 @@
   },
   {
     "app_name": "Proton VPN",
-    "asset_name": "proton-vpn-universal-paresh-v5.17.72.0.apk",
-    "package_id": "ch.protonvpn.android",
-    "version_name": "5.17.72.0",
-    "sha256": "8371ab508e5e2f2073b81c5a6201ec34433a7be031710283f73f92c7a51de00f",
-    "play_store_url": "https://play.google.com/store/apps/details?id=ch.protonvpn.android",
-    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/proton-vpn-universal-paresh-v5.17.72.0.apk",
-    "discoverium_file": "../discoverium/ch.protonvpn.android__proton-vpn-universal-paresh-v5.17.72.0.json"
-  },
-  {
-    "app_name": "Proton VPN",
     "asset_name": "proton-vpn-universal-morphe-patches-v5.17.72.0.apk",
     "package_id": "ch.protonvpn.android",
     "version_name": "5.17.72.0",
@@ -698,6 +688,16 @@
     "play_store_url": "https://play.google.com/store/apps/details?id=ch.protonvpn.android",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/proton-vpn-universal-morphe-patches-v5.17.72.0.apk",
     "discoverium_file": "../discoverium/ch.protonvpn.android__proton-vpn-universal-morphe-patches-v5.17.72.0.json"
+  },
+  {
+    "app_name": "Proton VPN",
+    "asset_name": "proton-vpn-universal-paresh-v5.17.72.0.apk",
+    "package_id": "ch.protonvpn.android",
+    "version_name": "5.17.72.0",
+    "sha256": "8371ab508e5e2f2073b81c5a6201ec34433a7be031710283f73f92c7a51de00f",
+    "play_store_url": "https://play.google.com/store/apps/details?id=ch.protonvpn.android",
+    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/proton-vpn-universal-paresh-v5.17.72.0.apk",
+    "discoverium_file": "../discoverium/ch.protonvpn.android__proton-vpn-universal-paresh-v5.17.72.0.json"
   },
   {
     "app_name": "Pydroid 3",
@@ -941,13 +941,13 @@
   },
   {
     "app_name": "Windscribe",
-    "asset_name": "windscribe-universal-morphe-patches-v4.1.2284.apk",
+    "asset_name": "windscribe-universal-morphe-patches-v4.2.2328.apk",
     "package_id": "com.windscribe.vpn",
-    "version_name": "4.1.2284",
-    "sha256": "5a352fb5a971551728abbc376d11397fc1111f8316223f2a0ca633ca4acb1eb9",
+    "version_name": "4.2.2328",
+    "sha256": "296ed543cc04edbc5226e79fed7807c46c0e70ec4d2d73a420d64b1b42cea68a",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.windscribe.vpn",
-    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/windscribe-universal-morphe-patches-v4.1.2284.apk",
-    "discoverium_file": "../discoverium/com.windscribe.vpn__windscribe-universal-morphe-patches-v4.1.2284.json"
+    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/windscribe-universal-morphe-patches-v4.2.2328.apk",
+    "discoverium_file": "../discoverium/com.windscribe.vpn__windscribe-universal-morphe-patches-v4.2.2328.json"
   },
   {
     "app_name": "Workouts",
@@ -1001,16 +1001,6 @@
   },
   {
     "app_name": "YT Music Morphe",
-    "asset_name": "youtube-music-arm64-v8a-morphe-v9.15.51.apk",
-    "package_id": "app.morphe.android.apps.youtube.music",
-    "version_name": "9.15.51",
-    "sha256": "e745dceef93c022b5c2b83db1b8ef7a6a266e9b46a7cfb8468a8068ed91aaead",
-    "play_store_url": "",
-    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/youtube-music-arm64-v8a-morphe-v9.15.51.apk",
-    "discoverium_file": "../discoverium/app.morphe.android.apps.youtube.music__youtube-music-arm64-v8a-morphe-v9.15.51.json"
-  },
-  {
-    "app_name": "YT Music Morphe",
     "asset_name": "youtube-music-armeabi-v7a-morphe-v9.15.51.apk",
     "package_id": "app.morphe.android.apps.youtube.music",
     "version_name": "9.15.51",
@@ -1018,5 +1008,15 @@
     "play_store_url": "",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/youtube-music-armeabi-v7a-morphe-v9.15.51.apk",
     "discoverium_file": "../discoverium/app.morphe.android.apps.youtube.music__youtube-music-armeabi-v7a-morphe-v9.15.51.json"
+  },
+  {
+    "app_name": "YT Music Morphe",
+    "asset_name": "youtube-music-arm64-v8a-morphe-v9.15.51.apk",
+    "package_id": "app.morphe.android.apps.youtube.music",
+    "version_name": "9.15.51",
+    "sha256": "e745dceef93c022b5c2b83db1b8ef7a6a266e9b46a7cfb8468a8068ed91aaead",
+    "play_store_url": "",
+    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/youtube-music-arm64-v8a-morphe-v9.15.51.apk",
+    "discoverium_file": "../discoverium/app.morphe.android.apps.youtube.music__youtube-music-arm64-v8a-morphe-v9.15.51.json"
   }
 ]
