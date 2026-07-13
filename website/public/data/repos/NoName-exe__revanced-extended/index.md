@@ -4,17 +4,17 @@ Release source: `latest`
 
 | App | Package ID | Asset Filename | Version | Play Store | Config  |
 |---|---|---|---|---|---|
-| **YouTube Morphe** | yt.morphe.noname.exe | youtube-morphe-v20.47.62-all.apk | 20.47.62 | N/A | [JSON Config](./discoverium/yt.morphe.noname.exe__youtube-morphe-v20.47.62-all.json) |
-| **YT Music Morphe** | ytm.morphe.noname.exe | youtube-music-morphe-v8.47.56-arm-v7a.apk | 8.47.56 | N/A | [JSON Config](./discoverium/ytm.morphe.noname.exe__youtube-music-morphe-v8.47.56-arm-v7a.json) |
-| **YT Music Morphe** | ytm.morphe.noname.exe | youtube-music-morphe-v8.47.56-arm64-v8a.apk | 8.47.56 | N/A | [JSON Config](./discoverium/ytm.morphe.noname.exe__youtube-music-morphe-v8.47.56-arm64-v8a.json) |
+| **YouTube Morphe** | yt.morphe.noname.exe | youtube-morphe-v20.51.39-all.apk | 20.51.39 | N/A | [JSON Config](./discoverium/yt.morphe.noname.exe__youtube-morphe-v20.51.39-all.json) |
+| **YT Music Morphe** | ytm.morphe.noname.exe | youtube-music-morphe-v9.15.51-arm-v7a.apk | 9.15.51 | N/A | [JSON Config](./discoverium/ytm.morphe.noname.exe__youtube-music-morphe-v9.15.51-arm-v7a.json) |
+| **YT Music Morphe** | ytm.morphe.noname.exe | youtube-music-morphe-v9.15.51-arm64-v8a.apk | 9.15.51 | N/A | [JSON Config](./discoverium/ytm.morphe.noname.exe__youtube-music-morphe-v9.15.51-arm64-v8a.json) |
 
 ## SHA256
 
-- **youtube-morphe-v20.47.62-all.apk**
-  - `92aca7c9d4ed215809981c55874baa373006d3a0e49e7a07085e4ee9ebfda5d8`
-- **youtube-music-morphe-v8.47.56-arm-v7a.apk**
-  - `718e3c6e2125a59b509e2358daeb7d787d8cb7b8d25c95aafecf8a60feeef250`
-- **youtube-music-morphe-v8.47.56-arm64-v8a.apk**
-  - `f5bb0422e64ed118f931463a25219e34487aa4cbd952fa6a8b3ec37502ce7ed9`
+- **youtube-morphe-v20.51.39-all.apk**
+  - `efc5426be57663e05e2597ae662a0899d9bc97aa090721f06a359acea360c336`
+- **youtube-music-morphe-v9.15.51-arm-v7a.apk**
+  - `159fa1cef2e8de7a21eafb33e7f07fe112d2e1f859ec7b4212f3f01a9dba6035`
+- **youtube-music-morphe-v9.15.51-arm64-v8a.apk**
+  - `1c9ff381ca3a357aa2a3410dcc3ca3565baad8a5f92fb50add19b2aabce737aa`
 
 _Automatically generated from GitHub APK release assets with package IDs, SHA256 hashes, and Discoverium import links._
