@@ -194,7 +194,7 @@
     "asset_name": "fxfile-universal-dropped-v.apk",
     "package_id": "nextapp.fx",
     "version_name": "∞",
-    "sha256": "5942c14bbbe9600a1fb31375d9c4150670a52741145e4256e9343e24d5f268e9",
+    "sha256": "142a76a36ec585c801c9e575c269ef6c187024b016d9ba63184299fc584411b0",
     "play_store_url": "https://play.google.com/store/apps/details?id=nextapp.fx",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/fxfile-universal-dropped-v.apk",
     "discoverium_file": "../discoverium/nextapp.fx__fxfile-universal-dropped-v.json"
@@ -591,16 +591,6 @@
   },
   {
     "app_name": "Photos",
-    "asset_name": "google-photos-armeabi-v7a-morphe-patches-v7.78.0.920664585.apk",
-    "package_id": "app.morphe.android.apps.photos",
-    "version_name": "7.78.0.920664585",
-    "sha256": "ef0eea7420f7ee68a48ff179525e14c7ed284413f69a8284e71649ec09d4ab78",
-    "play_store_url": "",
-    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/google-photos-armeabi-v7a-morphe-patches-v7.78.0.920664585.apk",
-    "discoverium_file": "../discoverium/app.morphe.android.apps.photos__google-photos-armeabi-v7a-morphe-patches-v7.78.0.920664585.json"
-  },
-  {
-    "app_name": "Photos",
     "asset_name": "google-photos-arm64-v8a-morphe-patches-v7.78.0.920664585.apk",
     "package_id": "app.morphe.android.apps.photos",
     "version_name": "7.78.0.920664585",
@@ -608,6 +598,16 @@
     "play_store_url": "",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/google-photos-arm64-v8a-morphe-patches-v7.78.0.920664585.apk",
     "discoverium_file": "../discoverium/app.morphe.android.apps.photos__google-photos-arm64-v8a-morphe-patches-v7.78.0.920664585.json"
+  },
+  {
+    "app_name": "Photos",
+    "asset_name": "google-photos-armeabi-v7a-morphe-patches-v7.78.0.920664585.apk",
+    "package_id": "app.morphe.android.apps.photos",
+    "version_name": "7.78.0.920664585",
+    "sha256": "ef0eea7420f7ee68a48ff179525e14c7ed284413f69a8284e71649ec09d4ab78",
+    "play_store_url": "",
+    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/google-photos-armeabi-v7a-morphe-patches-v7.78.0.920664585.apk",
+    "discoverium_file": "../discoverium/app.morphe.android.apps.photos__google-photos-armeabi-v7a-morphe-patches-v7.78.0.920664585.json"
   },
   {
     "app_name": "pixiv",
@@ -681,16 +681,6 @@
   },
   {
     "app_name": "Proton VPN",
-    "asset_name": "proton-vpn-universal-morphe-patches-v5.17.72.0.apk",
-    "package_id": "ch.protonvpn.android",
-    "version_name": "5.17.72.0",
-    "sha256": "4f1e52080aa4e2c0eeaad4dbe7b72774a82532b71fce44d583810c96cac2a032",
-    "play_store_url": "https://play.google.com/store/apps/details?id=ch.protonvpn.android",
-    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/proton-vpn-universal-morphe-patches-v5.17.72.0.apk",
-    "discoverium_file": "../discoverium/ch.protonvpn.android__proton-vpn-universal-morphe-patches-v5.17.72.0.json"
-  },
-  {
-    "app_name": "Proton VPN",
     "asset_name": "proton-vpn-universal-paresh-v5.17.72.0.apk",
     "package_id": "ch.protonvpn.android",
     "version_name": "5.17.72.0",
@@ -698,6 +688,16 @@
     "play_store_url": "https://play.google.com/store/apps/details?id=ch.protonvpn.android",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/proton-vpn-universal-paresh-v5.17.72.0.apk",
     "discoverium_file": "../discoverium/ch.protonvpn.android__proton-vpn-universal-paresh-v5.17.72.0.json"
+  },
+  {
+    "app_name": "Proton VPN",
+    "asset_name": "proton-vpn-universal-morphe-patches-v5.17.72.0.apk",
+    "package_id": "ch.protonvpn.android",
+    "version_name": "5.17.72.0",
+    "sha256": "4f1e52080aa4e2c0eeaad4dbe7b72774a82532b71fce44d583810c96cac2a032",
+    "play_store_url": "https://play.google.com/store/apps/details?id=ch.protonvpn.android",
+    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/proton-vpn-universal-morphe-patches-v5.17.72.0.apk",
+    "discoverium_file": "../discoverium/ch.protonvpn.android__proton-vpn-universal-morphe-patches-v5.17.72.0.json"
   },
   {
     "app_name": "Pydroid 3",
