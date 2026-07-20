@@ -31,7 +31,7 @@ def generate_discoverium_config(repo, asset, row, all_assets):
             "versionDetection": False,
             "releaseDateAsVersion": True,
             "useVersionCodeAsOSVersion": False,
-            "apkFilterRegEx": "^" + re.escape(primary_name).replace("\\.apk", ".*\\.apk$"),
+            "apkFilterRegEx": "^" + re.escape(re.sub(r'(?<=[-_])(?<!x86_)(?:v|V)?\d+(?:\.\d+)*(?=[-_.]|$)', '__VER__', primary_name)).replace('__VER__', '.*').replace("\\.apk", ".*\\.apk$"),
             "invertAPKFilter": False,
             "autoApkFilterByArch": True,
             "appName": row.app_name,
