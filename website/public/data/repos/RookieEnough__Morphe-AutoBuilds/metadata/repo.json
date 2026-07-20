@@ -194,7 +194,7 @@
     "asset_name": "fxfile-universal-dropped-v.apk",
     "package_id": "nextapp.fx",
     "version_name": "∞",
-    "sha256": "3b7478ef19e90ecc23113f8c6f46e1a2e9bf3116fe0fa6dfb915e08e89137b41",
+    "sha256": "46797138543c20397546a37fe8c0eef4a765a36ddae9d68c19d99c7e954b6a83",
     "play_store_url": "https://play.google.com/store/apps/details?id=nextapp.fx",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/fxfile-universal-dropped-v.apk",
     "discoverium_file": "../discoverium/nextapp.fx__fxfile-universal-dropped-v.json"
@@ -631,16 +631,6 @@
   },
   {
     "app_name": "Pokécardex",
-    "asset_name": "pokecardex-arm64-v8a-morphe-patches-v8.7.2.apk",
-    "package_id": "com.application.pokecardex",
-    "version_name": "8.7.2",
-    "sha256": "7396a328b23f777e25ce52daa2884c3f6d339a2912836bdf2f25138640f6632d",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.application.pokecardex",
-    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/pokecardex-arm64-v8a-morphe-patches-v8.7.2.apk",
-    "discoverium_file": "../discoverium/com.application.pokecardex__pokecardex-arm64-v8a-morphe-patches-v8.7.2.json"
-  },
-  {
-    "app_name": "Pokécardex",
     "asset_name": "pokecardex-armeabi-v7a-morphe-patches-v8.7.2.apk",
     "package_id": "com.application.pokecardex",
     "version_name": "8.7.2",
@@ -648,6 +638,16 @@
     "play_store_url": "https://play.google.com/store/apps/details?id=com.application.pokecardex",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/pokecardex-armeabi-v7a-morphe-patches-v8.7.2.apk",
     "discoverium_file": "../discoverium/com.application.pokecardex__pokecardex-armeabi-v7a-morphe-patches-v8.7.2.json"
+  },
+  {
+    "app_name": "Pokécardex",
+    "asset_name": "pokecardex-arm64-v8a-morphe-patches-v8.7.2.apk",
+    "package_id": "com.application.pokecardex",
+    "version_name": "8.7.2",
+    "sha256": "7396a328b23f777e25ce52daa2884c3f6d339a2912836bdf2f25138640f6632d",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.application.pokecardex",
+    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/pokecardex-arm64-v8a-morphe-patches-v8.7.2.apk",
+    "discoverium_file": "../discoverium/com.application.pokecardex__pokecardex-arm64-v8a-morphe-patches-v8.7.2.json"
   },
   {
     "app_name": "Prime Video",
@@ -1001,16 +1001,6 @@
   },
   {
     "app_name": "YT Music Morphe",
-    "asset_name": "youtube-music-arm64-v8a-morphe-v9.15.51.apk",
-    "package_id": "app.morphe.android.apps.youtube.music",
-    "version_name": "9.15.51",
-    "sha256": "e745dceef93c022b5c2b83db1b8ef7a6a266e9b46a7cfb8468a8068ed91aaead",
-    "play_store_url": "",
-    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/youtube-music-arm64-v8a-morphe-v9.15.51.apk",
-    "discoverium_file": "../discoverium/app.morphe.android.apps.youtube.music__youtube-music-arm64-v8a-morphe-v9.15.51.json"
-  },
-  {
-    "app_name": "YT Music Morphe",
     "asset_name": "youtube-music-armeabi-v7a-morphe-v9.15.51.apk",
     "package_id": "app.morphe.android.apps.youtube.music",
     "version_name": "9.15.51",
@@ -1018,5 +1008,15 @@
     "play_store_url": "",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/youtube-music-armeabi-v7a-morphe-v9.15.51.apk",
     "discoverium_file": "../discoverium/app.morphe.android.apps.youtube.music__youtube-music-armeabi-v7a-morphe-v9.15.51.json"
+  },
+  {
+    "app_name": "YT Music Morphe",
+    "asset_name": "youtube-music-arm64-v8a-morphe-v9.15.51.apk",
+    "package_id": "app.morphe.android.apps.youtube.music",
+    "version_name": "9.15.51",
+    "sha256": "e745dceef93c022b5c2b83db1b8ef7a6a266e9b46a7cfb8468a8068ed91aaead",
+    "play_store_url": "",
+    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/youtube-music-arm64-v8a-morphe-v9.15.51.apk",
+    "discoverium_file": "../discoverium/app.morphe.android.apps.youtube.music__youtube-music-arm64-v8a-morphe-v9.15.51.json"
   }
 ]
