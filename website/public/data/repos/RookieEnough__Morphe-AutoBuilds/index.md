@@ -148,7 +148,7 @@ Release source: `latest`
 - **fotmob-universal-morphe-patches-v226.16092.20260302.apk**
   - `1b36a0d766f2cd98cdddd1ebc9e884e9ddf3c96907781895742f3cd13841e983`
 - **fxfile-universal-dropped-v.apk**
-  - `e40cf474217cd669dfc4967fc9317797acd4f908d08821fc1186bdfb812f2ddb`
+  - `3b7478ef19e90ecc23113f8c6f46e1a2e9bf3116fe0fa6dfb915e08e89137b41`
 - **gamehub-universal-liaralabs-v6.0.9.apk**
   - `b5d941fdc55ae753492ebf0144e83fcfa335c3be69628fca958be220e0e5102d`
 - **geocaching-universal-morphe-patches-v9.90.0.apk**
