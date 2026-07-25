@@ -204,7 +204,7 @@
     "asset_name": "fxfile-universal-dropped-v.apk",
     "package_id": "nextapp.fx",
     "version_name": "∞",
-    "sha256": "80bc0a7e3a5a31c5552d5febc91eef1ef08ddf8476e5a4a607dca5b3490fd84d",
+    "sha256": "b1125c3b7ec67000c00acbad4bbc2a849b0100e4e1178ef961f65811b75f853f",
     "play_store_url": "https://play.google.com/store/apps/details?id=nextapp.fx",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/fxfile-universal-dropped-v.apk",
     "discoverium_file": "../discoverium/nextapp.fx__fxfile-universal-dropped-v.json"
@@ -630,6 +630,16 @@
     "discoverium_file": "../discoverium/app.morphe.android.apps.photos__google-photos-arm64-v8a-morphe-patches-v7.78.0.920664585.json"
   },
   {
+    "app_name": "Pinterest",
+    "asset_name": "pinterest-universal-morphe-patches-v14.28.0.apk",
+    "package_id": "com.pinterest",
+    "version_name": "14.28.0",
+    "sha256": "cfd3ce696099adb47712ed5bf69cfbbb4e3bdb2019394f5056302ed3f4b11e75",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.pinterest",
+    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/pinterest-universal-morphe-patches-v14.28.0.apk",
+    "discoverium_file": "../discoverium/com.pinterest__pinterest-universal-morphe-patches-v14.28.0.json"
+  },
+  {
     "app_name": "pixiv",
     "asset_name": "pixiv-universal-morphe-patches-v6.141.1.apk",
     "package_id": "jp.pxv.android",
@@ -1031,16 +1041,6 @@
   },
   {
     "app_name": "YT Music Morphe",
-    "asset_name": "youtube-music-armeabi-v7a-morphe-v9.15.51.apk",
-    "package_id": "app.morphe.android.apps.youtube.music",
-    "version_name": "9.15.51",
-    "sha256": "365b440471cf4f20aa94c5cc4941ed88accdcf7647bd6f0b1e38f831d46fa55a",
-    "play_store_url": "",
-    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/youtube-music-armeabi-v7a-morphe-v9.15.51.apk",
-    "discoverium_file": "../discoverium/app.morphe.android.apps.youtube.music__youtube-music-armeabi-v7a-morphe-v9.15.51.json"
-  },
-  {
-    "app_name": "YT Music Morphe",
     "asset_name": "youtube-music-arm64-v8a-morphe-v9.15.51.apk",
     "package_id": "app.morphe.android.apps.youtube.music",
     "version_name": "9.15.51",
@@ -1048,5 +1048,15 @@
     "play_store_url": "",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/youtube-music-arm64-v8a-morphe-v9.15.51.apk",
     "discoverium_file": "../discoverium/app.morphe.android.apps.youtube.music__youtube-music-arm64-v8a-morphe-v9.15.51.json"
+  },
+  {
+    "app_name": "YT Music Morphe",
+    "asset_name": "youtube-music-armeabi-v7a-morphe-v9.15.51.apk",
+    "package_id": "app.morphe.android.apps.youtube.music",
+    "version_name": "9.15.51",
+    "sha256": "365b440471cf4f20aa94c5cc4941ed88accdcf7647bd6f0b1e38f831d46fa55a",
+    "play_store_url": "",
+    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/youtube-music-armeabi-v7a-morphe-v9.15.51.apk",
+    "discoverium_file": "../discoverium/app.morphe.android.apps.youtube.music__youtube-music-armeabi-v7a-morphe-v9.15.51.json"
   }
 ]
