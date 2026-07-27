@@ -11,10 +11,10 @@ Release source: `latest`
 ## SHA256
 
 - **youtube-morphe-v21.04.223-all.apk**
-  - `98fc08b7e567249def8b66d9867d498c9e2c99cdb4599eeafa78424d9e05a577`
+  - `2f2fef3b05606c525952753ba305bcf27908a4528d15ad1b142d0c70c113b8ab`
 - **youtube-music-morphe-v9.15.51-arm64-v8a.apk**
-  - `5623b5ff0293c47e1ad8f3d387f18610caed551a617a5cd9e1533ce654a98d01`
+  - `eca2a47b6ada0bbe71a5be8541918434f7aa1e17a139da0c46211d40737c756c`
 - **youtube-music-morphe-v9.15.51-arm-v7a.apk**
-  - `53e81bd4a79f3c57b7394481da87bb08f2598a8a942a605121e3d84fe2b48b27`
+  - `41d0a2d1766770daec4bf8bb6667ac3b9e121092cbe7a001c938470961647031`
 
 _Automatically generated from GitHub APK release assets with package IDs, SHA256 hashes, and Discoverium import links._
