@@ -48,8 +48,8 @@ Release source: `latest`
 | **MacroFactor** | com.sbs.diet | macrofactor-universal-morphe-patches-v5.7.8.apk | 5.7.8 | [Play Store](https://play.google.com/store/apps/details?id=com.sbs.diet) | [JSON Config](./discoverium/com.sbs.diet__macrofactor-universal-morphe-patches-v5.7.8.json) |
 | **Mapy.com** | cz.seznam.mapy | mapy-universal-morphe-patches-v26.5.0.apk | 26.5.0 | [Play Store](https://play.google.com/store/apps/details?id=cz.seznam.mapy) | [JSON Config](./discoverium/cz.seznam.mapy__mapy-universal-morphe-patches-v26.5.0.json) |
 | **Mark** | com.markOne.ss_app | mark-universal-paresh-v6.6.apk | 6.6 | [Play Store](https://play.google.com/store/apps/details?id=com.markOne.ss_app) | [JSON Config](./discoverium/com.markOne.ss_app__mark-universal-paresh-v6.6.json) |
-| **Material Capsule** | com.pryshedko.mtisland | number-universal-morphe-patches-v14.9.apk | 14.9 | [Play Store](https://play.google.com/store/apps/details?id=com.pryshedko.mtisland) | [JSON Config](./discoverium/com.pryshedko.mtisland__number-universal-morphe-patches-v14.9.json) |
 | **Material Capsule** | com.pryshedko.mtisland | number-universal-revanced-android-6-7-v10.3.apk | 10.3 | [Play Store](https://play.google.com/store/apps/details?id=com.pryshedko.mtisland) | [JSON Config](./discoverium/com.pryshedko.mtisland__number-universal-revanced-android-6-7-v10.3.json) |
+| **Material Capsule** | com.pryshedko.mtisland | number-universal-morphe-patches-v14.9.apk | 14.9 | [Play Store](https://play.google.com/store/apps/details?id=com.pryshedko.mtisland) | [JSON Config](./discoverium/com.pryshedko.mtisland__number-universal-morphe-patches-v14.9.json) |
 | **Meme Generator** | com.zombodroid.MemeGenerator | meme-universal-morphe-patches-v4.6826.apk | 4.6826 | [Play Store](https://play.google.com/store/apps/details?id=com.zombodroid.MemeGenerator) | [JSON Config](./discoverium/com.zombodroid.MemeGenerator__meme-universal-morphe-patches-v4.6826.json) |
 | **Merriam-Webster Dictionary** | com.merriamwebster | webster-universal-morphe-patches-v5.6.1.apk | 5.6.1 | [Play Store](https://play.google.com/store/apps/details?id=com.merriamwebster) | [JSON Config](./discoverium/com.merriamwebster__webster-universal-morphe-patches-v5.6.1.json) |
 | **Messenger Lite** | com.facebook.mlite | messenger-universal-morphe-patches-v338.0.0.3.102.apk | 338.0.0.3.102 | N/A | [JSON Config](./discoverium/com.facebook.mlite__messenger-universal-morphe-patches-v338.0.0.3.102.json) |
@@ -72,8 +72,8 @@ Release source: `latest`
 | **Pinterest** | com.pinterest | pinterest-universal-morphe-patches-v14.28.0.apk | 14.28.0 | [Play Store](https://play.google.com/store/apps/details?id=com.pinterest) | [JSON Config](./discoverium/com.pinterest__pinterest-universal-morphe-patches-v14.28.0.json) |
 | **pixiv** | jp.pxv.android | pixiv-universal-morphe-patches-v6.141.1.apk | 6.141.1 | [Play Store](https://play.google.com/store/apps/details?id=jp.pxv.android) | [JSON Config](./discoverium/jp.pxv.android__pixiv-universal-morphe-patches-v6.141.1.json) |
 | **Podcast Addict** | com.bambuna.podcastaddict | podcast-universal-morphe-patches-v2026.4.apk | 2026.4 | [Play Store](https://play.google.com/store/apps/details?id=com.bambuna.podcastaddict) | [JSON Config](./discoverium/com.bambuna.podcastaddict__podcast-universal-morphe-patches-v2026.4.json) |
-| **Pokécardex** | com.application.pokecardex | pokecardex-armeabi-v7a-morphe-patches-v8.7.2.apk | 8.7.2 | [Play Store](https://play.google.com/store/apps/details?id=com.application.pokecardex) | [JSON Config](./discoverium/com.application.pokecardex__pokecardex-armeabi-v7a-morphe-patches-v8.7.2.json) |
 | **Pokécardex** | com.application.pokecardex | pokecardex-arm64-v8a-morphe-patches-v8.7.2.apk | 8.7.2 | [Play Store](https://play.google.com/store/apps/details?id=com.application.pokecardex) | [JSON Config](./discoverium/com.application.pokecardex__pokecardex-arm64-v8a-morphe-patches-v8.7.2.json) |
+| **Pokécardex** | com.application.pokecardex | pokecardex-armeabi-v7a-morphe-patches-v8.7.2.apk | 8.7.2 | [Play Store](https://play.google.com/store/apps/details?id=com.application.pokecardex) | [JSON Config](./discoverium/com.application.pokecardex__pokecardex-armeabi-v7a-morphe-patches-v8.7.2.json) |
 | **Prime Video** | com.amazon.avod.thirdpartyclient | prime-video-universal-morphe-patches-v3.0.452.1047.apk | 3.0.452.1047 | [Play Store](https://play.google.com/store/apps/details?id=com.amazon.avod.thirdpartyclient) | [JSON Config](./discoverium/com.amazon.avod.thirdpartyclient__prime-video-universal-morphe-patches-v3.0.452.1047.json) |
 | **Prompter Pal** | com.solid.teleprompter | prompter-universal-paresh-v6.8.2.apk | 6.8.2 | [Play Store](https://play.google.com/store/apps/details?id=com.solid.teleprompter) | [JSON Config](./discoverium/com.solid.teleprompter__prompter-universal-paresh-v6.8.2.json) |
 | **Proton Mail** | ch.protonmail.android | proton-mail-universal-morphe-patches-v4.15.0.apk | 4.15.0 | [Play Store](https://play.google.com/store/apps/details?id=ch.protonmail.android) | [JSON Config](./discoverium/ch.protonmail.android__proton-mail-universal-morphe-patches-v4.15.0.json) |
@@ -92,7 +92,7 @@ Release source: `latest`
 | **StarSense Explorer** | com.celestron.skybox | starsense-universal-paresh-v2.0.2.3.apk | 2.0.2.3 | [Play Store](https://play.google.com/store/apps/details?id=com.celestron.skybox) | [JSON Config](./discoverium/com.celestron.skybox__starsense-universal-paresh-v2.0.2.3.json) |
 | **Strava** | com.strava | strava-universal-morphe-patches-v473.11.apk | 473.11 | [Play Store](https://play.google.com/store/apps/details?id=com.strava) | [JSON Config](./discoverium/com.strava__strava-universal-morphe-patches-v473.11.json) |
 | **Tasker** | net.dinglisch.android.taskerm | tasker-universal-dropped-v6.6.20.apk | 6.6.20 | [Play Store](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm) | [JSON Config](./discoverium/net.dinglisch.android.taskerm__tasker-universal-dropped-v6.6.20.json) |
-| **Telegram** | org.telegram.messenger.web | telegram-universal-paresh-v12.8.3.apk | 12.8.3 | N/A | [JSON Config](./discoverium/org.telegram.messenger.web__telegram-universal-paresh-v12.8.3.json) |
+| **Telegram** | org.telegram.messenger.web | telegram-universal-paresh-v12.9.1.apk | 12.9.1 | N/A | [JSON Config](./discoverium/org.telegram.messenger.web__telegram-universal-paresh-v12.9.1.json) |
 | **TEUIDA** | net.teuida.teuida | teuida-universal-morphe-patches-v1.21.16.apk | 1.21.16 | [Play Store](https://play.google.com/store/apps/details?id=net.teuida.teuida) | [JSON Config](./discoverium/net.teuida.teuida__teuida-universal-morphe-patches-v1.21.16.json) |
 | **TickTick** | com.ticktick.task | ticktick-universal-paresh-v8.0.6.1.apk | 8.0.6.1 | [Play Store](https://play.google.com/store/apps/details?id=com.ticktick.task) | [JSON Config](./discoverium/com.ticktick.task__ticktick-universal-paresh-v8.0.6.1.json) |
 | **TikTok** | com.zhiliaoapp.musically | tiktok-universal-morphe-patches-v43.8.3.apk | 43.8.3 | [Play Store](https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically) | [JSON Config](./discoverium/com.zhiliaoapp.musically__tiktok-universal-morphe-patches-v43.8.3.json) |
@@ -201,11 +201,11 @@ Release source: `latest`
 - **mapy-universal-morphe-patches-v26.5.0.apk**
   - `4840cebb73de04f19388415293bdfa971967b7ebe55ea14523ebb84c3d456c7f`
 - **mark-universal-paresh-v6.6.apk**
-  - `0170ad29531e1a8cf63aed7977e6b3b42ead9b690b4ad7d7580d628fbb03d91e`
-- **number-universal-morphe-patches-v14.9.apk**
-  - `8d6b7f394aa5b01f95d9dff918a6c6cd9d732cb8c616029af28d8e7473a3d346`
+  - `e84b2c4fda6b9802cc41069146b497b31fc1943ae40bcb3698cd2fa7751940ea`
 - **number-universal-revanced-android-6-7-v10.3.apk**
   - `d059dc75494f4e4e4de67580410d3a435b9eaecb068b2ef087f1183cb0071513`
+- **number-universal-morphe-patches-v14.9.apk**
+  - `8d6b7f394aa5b01f95d9dff918a6c6cd9d732cb8c616029af28d8e7473a3d346`
 - **meme-universal-morphe-patches-v4.6826.apk**
   - `1c2d9ccb6a67391cd7829c929467ab0cf494ecf9cef926bfb5f6270b38db8bec`
 - **webster-universal-morphe-patches-v5.6.1.apk**
@@ -250,10 +250,10 @@ Release source: `latest`
   - `e261b32c3e4e7967e24bee8d092f1fde107fcef7b34f58558c112839f6accaa3`
 - **podcast-universal-morphe-patches-v2026.4.apk**
   - `38ee38e86ee72079de07f414d74d6f16cf376784d442e76da1a722d97fd9e306`
-- **pokecardex-armeabi-v7a-morphe-patches-v8.7.2.apk**
-  - `33ec4a4c6f7c14af9a480b8a1a6437aa98a3e4fc718b0c443d7e919d0c2fd896`
 - **pokecardex-arm64-v8a-morphe-patches-v8.7.2.apk**
   - `7396a328b23f777e25ce52daa2884c3f6d339a2912836bdf2f25138640f6632d`
+- **pokecardex-armeabi-v7a-morphe-patches-v8.7.2.apk**
+  - `33ec4a4c6f7c14af9a480b8a1a6437aa98a3e4fc718b0c443d7e919d0c2fd896`
 - **prime-video-universal-morphe-patches-v3.0.452.1047.apk**
   - `5cea5a785d664f7cc3765231222e9e9271b89ad389fb28885a35a73e02bbea22`
 - **prompter-universal-paresh-v6.8.2.apk**
@@ -290,8 +290,8 @@ Release source: `latest`
   - `c0226375486c7b289ccb82eb0c53ace1781acc7dee9bac2c5e10be3c0536e017`
 - **tasker-universal-dropped-v6.6.20.apk**
   - `92550fab0b5124b7f59c784dee7916a1e17d2671e2e5370e4913f15698aa89fd`
-- **telegram-universal-paresh-v12.8.3.apk**
-  - `1b9a0fe75cc5dab6730c37b5bc836f3b9394206bdaaa4db1f21f8e76b101f23e`
+- **telegram-universal-paresh-v12.9.1.apk**
+  - `bc09e945990c7d7f4c028641e4078407f2e645a80bea0e8ec408f114907bbabd`
 - **teuida-universal-morphe-patches-v1.21.16.apk**
   - `9b515dd41cdb44bde5b28650e9576a647b7faeac9511c08eb950d7abea8c2599`
 - **ticktick-universal-paresh-v8.0.6.1.apk**

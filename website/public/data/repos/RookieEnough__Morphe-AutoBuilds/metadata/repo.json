@@ -434,20 +434,10 @@
     "asset_name": "mark-universal-paresh-v6.6.apk",
     "package_id": "com.markOne.ss_app",
     "version_name": "6.6",
-    "sha256": "0170ad29531e1a8cf63aed7977e6b3b42ead9b690b4ad7d7580d628fbb03d91e",
+    "sha256": "e84b2c4fda6b9802cc41069146b497b31fc1943ae40bcb3698cd2fa7751940ea",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.markOne.ss_app",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/mark-universal-paresh-v6.6.apk",
     "discoverium_file": "../discoverium/com.markOne.ss_app__mark-universal-paresh-v6.6.json"
-  },
-  {
-    "app_name": "Material Capsule",
-    "asset_name": "number-universal-morphe-patches-v14.9.apk",
-    "package_id": "com.pryshedko.mtisland",
-    "version_name": "14.9",
-    "sha256": "8d6b7f394aa5b01f95d9dff918a6c6cd9d732cb8c616029af28d8e7473a3d346",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.pryshedko.mtisland",
-    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/number-universal-morphe-patches-v14.9.apk",
-    "discoverium_file": "../discoverium/com.pryshedko.mtisland__number-universal-morphe-patches-v14.9.json"
   },
   {
     "app_name": "Material Capsule",
@@ -458,6 +448,16 @@
     "play_store_url": "https://play.google.com/store/apps/details?id=com.pryshedko.mtisland",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/number-universal-revanced-android-6-7-v10.3.apk",
     "discoverium_file": "../discoverium/com.pryshedko.mtisland__number-universal-revanced-android-6-7-v10.3.json"
+  },
+  {
+    "app_name": "Material Capsule",
+    "asset_name": "number-universal-morphe-patches-v14.9.apk",
+    "package_id": "com.pryshedko.mtisland",
+    "version_name": "14.9",
+    "sha256": "8d6b7f394aa5b01f95d9dff918a6c6cd9d732cb8c616029af28d8e7473a3d346",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.pryshedko.mtisland",
+    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/number-universal-morphe-patches-v14.9.apk",
+    "discoverium_file": "../discoverium/com.pryshedko.mtisland__number-universal-morphe-patches-v14.9.json"
   },
   {
     "app_name": "Meme Generator",
@@ -681,16 +681,6 @@
   },
   {
     "app_name": "Pokécardex",
-    "asset_name": "pokecardex-armeabi-v7a-morphe-patches-v8.7.2.apk",
-    "package_id": "com.application.pokecardex",
-    "version_name": "8.7.2",
-    "sha256": "33ec4a4c6f7c14af9a480b8a1a6437aa98a3e4fc718b0c443d7e919d0c2fd896",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.application.pokecardex",
-    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/pokecardex-armeabi-v7a-morphe-patches-v8.7.2.apk",
-    "discoverium_file": "../discoverium/com.application.pokecardex__pokecardex-armeabi-v7a-morphe-patches-v8.7.2.json"
-  },
-  {
-    "app_name": "Pokécardex",
     "asset_name": "pokecardex-arm64-v8a-morphe-patches-v8.7.2.apk",
     "package_id": "com.application.pokecardex",
     "version_name": "8.7.2",
@@ -698,6 +688,16 @@
     "play_store_url": "https://play.google.com/store/apps/details?id=com.application.pokecardex",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/pokecardex-arm64-v8a-morphe-patches-v8.7.2.apk",
     "discoverium_file": "../discoverium/com.application.pokecardex__pokecardex-arm64-v8a-morphe-patches-v8.7.2.json"
+  },
+  {
+    "app_name": "Pokécardex",
+    "asset_name": "pokecardex-armeabi-v7a-morphe-patches-v8.7.2.apk",
+    "package_id": "com.application.pokecardex",
+    "version_name": "8.7.2",
+    "sha256": "33ec4a4c6f7c14af9a480b8a1a6437aa98a3e4fc718b0c443d7e919d0c2fd896",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.application.pokecardex",
+    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/pokecardex-armeabi-v7a-morphe-patches-v8.7.2.apk",
+    "discoverium_file": "../discoverium/com.application.pokecardex__pokecardex-armeabi-v7a-morphe-patches-v8.7.2.json"
   },
   {
     "app_name": "Prime Video",
@@ -881,13 +881,13 @@
   },
   {
     "app_name": "Telegram",
-    "asset_name": "telegram-universal-paresh-v12.8.3.apk",
+    "asset_name": "telegram-universal-paresh-v12.9.1.apk",
     "package_id": "org.telegram.messenger.web",
-    "version_name": "12.8.3",
-    "sha256": "1b9a0fe75cc5dab6730c37b5bc836f3b9394206bdaaa4db1f21f8e76b101f23e",
+    "version_name": "12.9.1",
+    "sha256": "bc09e945990c7d7f4c028641e4078407f2e645a80bea0e8ec408f114907bbabd",
     "play_store_url": "",
-    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/telegram-universal-paresh-v12.8.3.apk",
-    "discoverium_file": "../discoverium/org.telegram.messenger.web__telegram-universal-paresh-v12.8.3.json"
+    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/telegram-universal-paresh-v12.9.1.apk",
+    "discoverium_file": "../discoverium/org.telegram.messenger.web__telegram-universal-paresh-v12.9.1.json"
   },
   {
     "app_name": "TEUIDA",
