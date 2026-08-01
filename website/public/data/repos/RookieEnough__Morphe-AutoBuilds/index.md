@@ -109,8 +109,8 @@ Release source: `latest`
 | **Xodo** | com.xodo.pdf.reader | xodo-universal-morphe-patches-v10.15.0.apk | 10.15.0 | [Play Store](https://play.google.com/store/apps/details?id=com.xodo.pdf.reader) | [JSON Config](./discoverium/com.xodo.pdf.reader__xodo-universal-morphe-patches-v10.15.0.json) |
 | **XRecorder** | videoeditor.videorecorder.screenrecorder | xrecorder-universal-morphe-patches-v2.5.1.1.apk | 2.5.1.1 | [Play Store](https://play.google.com/store/apps/details?id=videoeditor.videorecorder.screenrecorder) | [JSON Config](./discoverium/videoeditor.videorecorder.screenrecorder__xrecorder-universal-morphe-patches-v2.5.1.1.json) |
 | **YouTube Morphe** | app.morphe.android.youtube | youtube-universal-morphe-v21.04.223.apk | 21.04.223 | N/A | [JSON Config](./discoverium/app.morphe.android.youtube__youtube-universal-morphe-v21.04.223.json) |
-| **YT Music Morphe** | app.morphe.android.apps.youtube.music | youtube-music-armeabi-v7a-morphe-v9.15.51.apk | 9.15.51 | N/A | [JSON Config](./discoverium/app.morphe.android.apps.youtube.music__youtube-music-armeabi-v7a-morphe-v9.15.51.json) |
 | **YT Music Morphe** | app.morphe.android.apps.youtube.music | youtube-music-arm64-v8a-morphe-v9.15.51.apk | 9.15.51 | N/A | [JSON Config](./discoverium/app.morphe.android.apps.youtube.music__youtube-music-arm64-v8a-morphe-v9.15.51.json) |
+| **YT Music Morphe** | app.morphe.android.apps.youtube.music | youtube-music-armeabi-v7a-morphe-v9.15.51.apk | 9.15.51 | N/A | [JSON Config](./discoverium/app.morphe.android.apps.youtube.music__youtube-music-armeabi-v7a-morphe-v9.15.51.json) |
 
 ## SHA256
 
@@ -157,7 +157,7 @@ Release source: `latest`
 - **fotmob-universal-morphe-patches-v226.16092.20260302.apk**
   - `9bf2aa1307ecbb6d06d07ae34f90f1c31004b23d2565e9f9416034972f5eb5c3`
 - **fxfile-universal-dropped-v.apk**
-  - `8e2a5ed81b753e82cdc4d66f9a611d46dc9d0c97db6ca5f635732fb5461ad898`
+  - `f3ce13a2758d97dad717b89e243c740befe6b301da8a1d1410a957001d733062`
 - **gamehub-universal-liaralabs-v6.0.9.apk**
   - `b5d941fdc55ae753492ebf0144e83fcfa335c3be69628fca958be220e0e5102d`
 - **geocaching-universal-morphe-patches-v9.90.0.apk**
@@ -324,9 +324,9 @@ Release source: `latest`
   - `f94112852f9a23ffa04828ed8f481ed4afa4de04a5cc5a95ab7253f8be9ef0ae`
 - **youtube-universal-morphe-v21.04.223.apk**
   - `ce5d17d5e83eb947b8435b7e9a9929779a8117d2fac69407364e3e810ff9ac6b`
-- **youtube-music-armeabi-v7a-morphe-v9.15.51.apk**
-  - `69cd19bbafdf4f7fc4ece919a0ae3bfdc464779745e0dc03024d9a96d16e8833`
 - **youtube-music-arm64-v8a-morphe-v9.15.51.apk**
   - `cd17a1496b8d1b1d13300afa607da7307192ac538ba182423d24e1186fbea317`
+- **youtube-music-armeabi-v7a-morphe-v9.15.51.apk**
+  - `69cd19bbafdf4f7fc4ece919a0ae3bfdc464779745e0dc03024d9a96d16e8833`
 
 _Automatically generated from GitHub APK release assets with package IDs, SHA256 hashes, and Discoverium import links._

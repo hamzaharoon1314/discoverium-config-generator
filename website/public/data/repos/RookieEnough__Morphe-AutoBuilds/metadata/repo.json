@@ -214,7 +214,7 @@
     "asset_name": "fxfile-universal-dropped-v.apk",
     "package_id": "nextapp.fx",
     "version_name": "∞",
-    "sha256": "8e2a5ed81b753e82cdc4d66f9a611d46dc9d0c97db6ca5f635732fb5461ad898",
+    "sha256": "f3ce13a2758d97dad717b89e243c740befe6b301da8a1d1410a957001d733062",
     "play_store_url": "https://play.google.com/store/apps/details?id=nextapp.fx",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/fxfile-universal-dropped-v.apk",
     "discoverium_file": "../discoverium/nextapp.fx__fxfile-universal-dropped-v.json"
@@ -1051,16 +1051,6 @@
   },
   {
     "app_name": "YT Music Morphe",
-    "asset_name": "youtube-music-armeabi-v7a-morphe-v9.15.51.apk",
-    "package_id": "app.morphe.android.apps.youtube.music",
-    "version_name": "9.15.51",
-    "sha256": "69cd19bbafdf4f7fc4ece919a0ae3bfdc464779745e0dc03024d9a96d16e8833",
-    "play_store_url": "",
-    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/youtube-music-armeabi-v7a-morphe-v9.15.51.apk",
-    "discoverium_file": "../discoverium/app.morphe.android.apps.youtube.music__youtube-music-armeabi-v7a-morphe-v9.15.51.json"
-  },
-  {
-    "app_name": "YT Music Morphe",
     "asset_name": "youtube-music-arm64-v8a-morphe-v9.15.51.apk",
     "package_id": "app.morphe.android.apps.youtube.music",
     "version_name": "9.15.51",
@@ -1068,5 +1058,15 @@
     "play_store_url": "",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/youtube-music-arm64-v8a-morphe-v9.15.51.apk",
     "discoverium_file": "../discoverium/app.morphe.android.apps.youtube.music__youtube-music-arm64-v8a-morphe-v9.15.51.json"
+  },
+  {
+    "app_name": "YT Music Morphe",
+    "asset_name": "youtube-music-armeabi-v7a-morphe-v9.15.51.apk",
+    "package_id": "app.morphe.android.apps.youtube.music",
+    "version_name": "9.15.51",
+    "sha256": "69cd19bbafdf4f7fc4ece919a0ae3bfdc464779745e0dc03024d9a96d16e8833",
+    "play_store_url": "",
+    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/youtube-music-armeabi-v7a-morphe-v9.15.51.apk",
+    "discoverium_file": "../discoverium/app.morphe.android.apps.youtube.music__youtube-music-armeabi-v7a-morphe-v9.15.51.json"
   }
 ]
