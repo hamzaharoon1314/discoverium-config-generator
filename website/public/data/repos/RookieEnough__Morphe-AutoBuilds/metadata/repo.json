@@ -571,16 +571,6 @@
   },
   {
     "app_name": "Nova Launcher",
-    "asset_name": "nova-universal-dropped-v88200.8.8.2.apk",
-    "package_id": "com.teslacoilsw.launcher",
-    "version_name": "88200 (8.8.2)",
-    "sha256": "215f34da2421b6b8d0b482228fde3dfe5da3102945944463d2b5791a0dda91dc",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
-    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/nova-universal-dropped-v88200.8.8.2.apk",
-    "discoverium_file": "../discoverium/com.teslacoilsw.launcher__nova-universal-dropped-v88200.8.8.2.json"
-  },
-  {
-    "app_name": "Nova Launcher",
     "asset_name": "nova-universal-dropped-v88000.8.8.0.apk",
     "package_id": "com.teslacoilsw.launcher",
     "version_name": "88000 (8.8.0)",
@@ -588,6 +578,16 @@
     "play_store_url": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/nova-universal-dropped-v88000.8.8.0.apk",
     "discoverium_file": "../discoverium/com.teslacoilsw.launcher__nova-universal-dropped-v88000.8.8.0.json"
+  },
+  {
+    "app_name": "Nova Launcher",
+    "asset_name": "nova-universal-dropped-v88200.8.8.2.apk",
+    "package_id": "com.teslacoilsw.launcher",
+    "version_name": "88200 (8.8.2)",
+    "sha256": "215f34da2421b6b8d0b482228fde3dfe5da3102945944463d2b5791a0dda91dc",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/nova-universal-dropped-v88200.8.8.2.apk",
+    "discoverium_file": "../discoverium/com.teslacoilsw.launcher__nova-universal-dropped-v88200.8.8.2.json"
   },
   {
     "app_name": "Pandora",
@@ -784,7 +784,7 @@
     "asset_name": "reddit-universal-morphe-v2026.14.0.apk",
     "package_id": "com.reddit.frontpage",
     "version_name": "2026.14.0",
-    "sha256": "d00fc3ba3da7198234302300186d44affa0a36d6d67928bd4e14fe224f86fc10",
+    "sha256": "46f9738886d09676352806f996ce0ac560dbc6b0656dc9427baeada48c990a43",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.reddit.frontpage",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/reddit-universal-morphe-v2026.14.0.apk",
     "discoverium_file": "../discoverium/com.reddit.frontpage__reddit-universal-morphe-v2026.14.0.json"
@@ -1044,29 +1044,29 @@
     "asset_name": "youtube-universal-morphe-v21.04.223.apk",
     "package_id": "app.morphe.android.youtube",
     "version_name": "21.04.223",
-    "sha256": "ce5d17d5e83eb947b8435b7e9a9929779a8117d2fac69407364e3e810ff9ac6b",
+    "sha256": "054af692c7e8ea5708c3eccfe26aee26238c16395c63cade44097349e513b08e",
     "play_store_url": "",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/youtube-universal-morphe-v21.04.223.apk",
     "discoverium_file": "../discoverium/app.morphe.android.youtube__youtube-universal-morphe-v21.04.223.json"
   },
   {
     "app_name": "YT Music Morphe",
-    "asset_name": "youtube-music-arm64-v8a-morphe-v9.15.51.apk",
-    "package_id": "app.morphe.android.apps.youtube.music",
-    "version_name": "9.15.51",
-    "sha256": "cd17a1496b8d1b1d13300afa607da7307192ac538ba182423d24e1186fbea317",
-    "play_store_url": "",
-    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/youtube-music-arm64-v8a-morphe-v9.15.51.apk",
-    "discoverium_file": "../discoverium/app.morphe.android.apps.youtube.music__youtube-music-arm64-v8a-morphe-v9.15.51.json"
-  },
-  {
-    "app_name": "YT Music Morphe",
     "asset_name": "youtube-music-armeabi-v7a-morphe-v9.15.51.apk",
     "package_id": "app.morphe.android.apps.youtube.music",
     "version_name": "9.15.51",
-    "sha256": "69cd19bbafdf4f7fc4ece919a0ae3bfdc464779745e0dc03024d9a96d16e8833",
+    "sha256": "84df773f9c0f1836838e1a43436fa0c7ce8c76e2239327e2c9cc645cb4d049b9",
     "play_store_url": "",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/youtube-music-armeabi-v7a-morphe-v9.15.51.apk",
     "discoverium_file": "../discoverium/app.morphe.android.apps.youtube.music__youtube-music-armeabi-v7a-morphe-v9.15.51.json"
+  },
+  {
+    "app_name": "YT Music Morphe",
+    "asset_name": "youtube-music-arm64-v8a-morphe-v9.15.51.apk",
+    "package_id": "app.morphe.android.apps.youtube.music",
+    "version_name": "9.15.51",
+    "sha256": "1cf0e454e81458045f7c885b5e82b37fb6cb6ba35c2d82b97ca0e18bd3c1eec4",
+    "play_store_url": "",
+    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/youtube-music-arm64-v8a-morphe-v9.15.51.apk",
+    "discoverium_file": "../discoverium/app.morphe.android.apps.youtube.music__youtube-music-arm64-v8a-morphe-v9.15.51.json"
   }
 ]
