@@ -101,16 +101,6 @@
   },
   {
     "app_name": "Disney+",
-    "asset_name": "disney-plus-universal-morphe-patches-v26.06.08.2.apk",
-    "package_id": "com.disneyplus.ph",
-    "version_name": "26.06.08.2",
-    "sha256": "9517a2496704154e30340699c1f08153c346f0551cb4e212e1fe48661efe27a0",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.disneyplus.ph",
-    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/disney-plus-universal-morphe-patches-v26.06.08.2.apk",
-    "discoverium_file": "../discoverium/com.disneyplus.ph__disney-plus-universal-morphe-patches-v26.06.08.2.json"
-  },
-  {
-    "app_name": "Disney+",
     "asset_name": "disney-plus-universal-morphe-patches-v26.10.0+rc3-2026.06.13.apk",
     "package_id": "com.disney.disneyplus",
     "version_name": "26.10.0+rc3-2026.06.13",
@@ -118,6 +108,16 @@
     "play_store_url": "https://play.google.com/store/apps/details?id=com.disney.disneyplus",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/disney-plus-universal-morphe-patches-v26.10.0%2Brc3-2026.06.13.apk",
     "discoverium_file": "../discoverium/com.disney.disneyplus__disney-plus-universal-morphe-patches-v26.10.0+rc3-2026.06.13.json"
+  },
+  {
+    "app_name": "Disney+",
+    "asset_name": "disney-plus-universal-morphe-patches-v26.06.08.2.apk",
+    "package_id": "com.disneyplus.ph",
+    "version_name": "26.06.08.2",
+    "sha256": "9517a2496704154e30340699c1f08153c346f0551cb4e212e1fe48661efe27a0",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.disneyplus.ph",
+    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/disney-plus-universal-morphe-patches-v26.06.08.2.apk",
+    "discoverium_file": "../discoverium/com.disneyplus.ph__disney-plus-universal-morphe-patches-v26.06.08.2.json"
   },
   {
     "app_name": "Disney+",
@@ -214,7 +214,7 @@
     "asset_name": "fxfile-universal-dropped-v.apk",
     "package_id": "nextapp.fx",
     "version_name": "∞",
-    "sha256": "f3ce13a2758d97dad717b89e243c740befe6b301da8a1d1410a957001d733062",
+    "sha256": "69b7cd4095d1181909bbca2d57a6c9db67d9f999925ba84f875bbf69357d6c2a",
     "play_store_url": "https://play.google.com/store/apps/details?id=nextapp.fx",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/fxfile-universal-dropped-v.apk",
     "discoverium_file": "../discoverium/nextapp.fx__fxfile-universal-dropped-v.json"
@@ -731,16 +731,6 @@
   },
   {
     "app_name": "Proton VPN",
-    "asset_name": "proton-vpn-universal-morphe-patches-v5.17.72.0.apk",
-    "package_id": "ch.protonvpn.android",
-    "version_name": "5.17.72.0",
-    "sha256": "c3a7182712c547d55ec1600dc704cce8dc63c22bc1088468f24b141e105ae045",
-    "play_store_url": "https://play.google.com/store/apps/details?id=ch.protonvpn.android",
-    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/proton-vpn-universal-morphe-patches-v5.17.72.0.apk",
-    "discoverium_file": "../discoverium/ch.protonvpn.android__proton-vpn-universal-morphe-patches-v5.17.72.0.json"
-  },
-  {
-    "app_name": "Proton VPN",
     "asset_name": "proton-vpn-universal-paresh-v5.17.72.0.apk",
     "package_id": "ch.protonvpn.android",
     "version_name": "5.17.72.0",
@@ -748,6 +738,16 @@
     "play_store_url": "https://play.google.com/store/apps/details?id=ch.protonvpn.android",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/proton-vpn-universal-paresh-v5.17.72.0.apk",
     "discoverium_file": "../discoverium/ch.protonvpn.android__proton-vpn-universal-paresh-v5.17.72.0.json"
+  },
+  {
+    "app_name": "Proton VPN",
+    "asset_name": "proton-vpn-universal-morphe-patches-v5.17.72.0.apk",
+    "package_id": "ch.protonvpn.android",
+    "version_name": "5.17.72.0",
+    "sha256": "c3a7182712c547d55ec1600dc704cce8dc63c22bc1088468f24b141e105ae045",
+    "play_store_url": "https://play.google.com/store/apps/details?id=ch.protonvpn.android",
+    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/proton-vpn-universal-morphe-patches-v5.17.72.0.apk",
+    "discoverium_file": "../discoverium/ch.protonvpn.android__proton-vpn-universal-morphe-patches-v5.17.72.0.json"
   },
   {
     "app_name": "Pydroid 3",
@@ -994,7 +994,7 @@
     "asset_name": "windscribe-universal-morphe-patches-v4.2.2328.apk",
     "package_id": "com.windscribe.vpn",
     "version_name": "4.2.2328",
-    "sha256": "fc412983a7d6c0b1fb29bf3ac8987919649ea283338e8371e10dba56ca03ebc8",
+    "sha256": "68561da8c1dfcea0a1beddc6148d559201a6936865faa46316db615d46427d2b",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.windscribe.vpn",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/windscribe-universal-morphe-patches-v4.2.2328.apk",
     "discoverium_file": "../discoverium/com.windscribe.vpn__windscribe-universal-morphe-patches-v4.2.2328.json"
