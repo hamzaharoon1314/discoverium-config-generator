@@ -101,16 +101,6 @@
   },
   {
     "app_name": "Disney+",
-    "asset_name": "disney-plus-universal-morphe-patches-v26.10.0+rc3-2026.06.13.apk",
-    "package_id": "com.disney.disneyplus",
-    "version_name": "26.10.0+rc3-2026.06.13",
-    "sha256": "6a1fc9804ec96a5a97a17c9de233dc2883adf75975d7e6a491e9a7ff73e58cc9",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.disney.disneyplus",
-    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/disney-plus-universal-morphe-patches-v26.10.0%2Brc3-2026.06.13.apk",
-    "discoverium_file": "../discoverium/com.disney.disneyplus__disney-plus-universal-morphe-patches-v26.10.0+rc3-2026.06.13.json"
-  },
-  {
-    "app_name": "Disney+",
     "asset_name": "disney-plus-universal-morphe-patches-v26.06.08.2.apk",
     "package_id": "com.disneyplus.ph",
     "version_name": "26.06.08.2",
@@ -118,6 +108,16 @@
     "play_store_url": "https://play.google.com/store/apps/details?id=com.disneyplus.ph",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/disney-plus-universal-morphe-patches-v26.06.08.2.apk",
     "discoverium_file": "../discoverium/com.disneyplus.ph__disney-plus-universal-morphe-patches-v26.06.08.2.json"
+  },
+  {
+    "app_name": "Disney+",
+    "asset_name": "disney-plus-universal-morphe-patches-v26.10.0+rc3-2026.06.13.apk",
+    "package_id": "com.disney.disneyplus",
+    "version_name": "26.10.0+rc3-2026.06.13",
+    "sha256": "6a1fc9804ec96a5a97a17c9de233dc2883adf75975d7e6a491e9a7ff73e58cc9",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.disney.disneyplus",
+    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/disney-plus-universal-morphe-patches-v26.10.0%2Brc3-2026.06.13.apk",
+    "discoverium_file": "../discoverium/com.disney.disneyplus__disney-plus-universal-morphe-patches-v26.10.0+rc3-2026.06.13.json"
   },
   {
     "app_name": "Disney+",
@@ -331,13 +331,13 @@
   },
   {
     "app_name": "KakaoTalk",
-    "asset_name": "kakaotalk-universal-revanced-patches-v26.6.1.apk",
+    "asset_name": "kakaotalk-universal-revanced-patches-v26.6.3.apk",
     "package_id": "com.kakao.talk",
-    "version_name": "26.6.1",
-    "sha256": "a37270a14c5684e9924c683bfa468ba9cd154d2bd0af0a49e72cd827bd8d19be",
+    "version_name": "26.6.3",
+    "sha256": "c9ca5856654e62b8f764de82b276199dbe2fe7e018cd4b9e51ef4ab6d7f3cd30",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.kakao.talk",
-    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/kakaotalk-universal-revanced-patches-v26.6.1.apk",
-    "discoverium_file": "../discoverium/com.kakao.talk__kakaotalk-universal-revanced-patches-v26.6.1.json"
+    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/kakaotalk-universal-revanced-patches-v26.6.3.apk",
+    "discoverium_file": "../discoverium/com.kakao.talk__kakaotalk-universal-revanced-patches-v26.6.3.json"
   },
   {
     "app_name": "kicker",
@@ -731,16 +731,6 @@
   },
   {
     "app_name": "Proton VPN",
-    "asset_name": "proton-vpn-universal-paresh-v5.17.72.0.apk",
-    "package_id": "ch.protonvpn.android",
-    "version_name": "5.17.72.0",
-    "sha256": "8371ab508e5e2f2073b81c5a6201ec34433a7be031710283f73f92c7a51de00f",
-    "play_store_url": "https://play.google.com/store/apps/details?id=ch.protonvpn.android",
-    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/proton-vpn-universal-paresh-v5.17.72.0.apk",
-    "discoverium_file": "../discoverium/ch.protonvpn.android__proton-vpn-universal-paresh-v5.17.72.0.json"
-  },
-  {
-    "app_name": "Proton VPN",
     "asset_name": "proton-vpn-universal-morphe-patches-v5.17.72.0.apk",
     "package_id": "ch.protonvpn.android",
     "version_name": "5.17.72.0",
@@ -748,6 +738,16 @@
     "play_store_url": "https://play.google.com/store/apps/details?id=ch.protonvpn.android",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/proton-vpn-universal-morphe-patches-v5.17.72.0.apk",
     "discoverium_file": "../discoverium/ch.protonvpn.android__proton-vpn-universal-morphe-patches-v5.17.72.0.json"
+  },
+  {
+    "app_name": "Proton VPN",
+    "asset_name": "proton-vpn-universal-paresh-v5.17.72.0.apk",
+    "package_id": "ch.protonvpn.android",
+    "version_name": "5.17.72.0",
+    "sha256": "8371ab508e5e2f2073b81c5a6201ec34433a7be031710283f73f92c7a51de00f",
+    "play_store_url": "https://play.google.com/store/apps/details?id=ch.protonvpn.android",
+    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/proton-vpn-universal-paresh-v5.17.72.0.apk",
+    "discoverium_file": "../discoverium/ch.protonvpn.android__proton-vpn-universal-paresh-v5.17.72.0.json"
   },
   {
     "app_name": "Pydroid 3",
@@ -994,7 +994,7 @@
     "asset_name": "windscribe-universal-morphe-patches-v4.2.2328.apk",
     "package_id": "com.windscribe.vpn",
     "version_name": "4.2.2328",
-    "sha256": "68561da8c1dfcea0a1beddc6148d559201a6936865faa46316db615d46427d2b",
+    "sha256": "1af821459722893a65786c5710caa3f2e67d7484c2463978e3a98c5b56444b7a",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.windscribe.vpn",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/windscribe-universal-morphe-patches-v4.2.2328.apk",
     "discoverium_file": "../discoverium/com.windscribe.vpn__windscribe-universal-morphe-patches-v4.2.2328.json"
@@ -1051,16 +1051,6 @@
   },
   {
     "app_name": "YT Music Morphe",
-    "asset_name": "youtube-music-armeabi-v7a-morphe-v9.15.51.apk",
-    "package_id": "app.morphe.android.apps.youtube.music",
-    "version_name": "9.15.51",
-    "sha256": "84df773f9c0f1836838e1a43436fa0c7ce8c76e2239327e2c9cc645cb4d049b9",
-    "play_store_url": "",
-    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/youtube-music-armeabi-v7a-morphe-v9.15.51.apk",
-    "discoverium_file": "../discoverium/app.morphe.android.apps.youtube.music__youtube-music-armeabi-v7a-morphe-v9.15.51.json"
-  },
-  {
-    "app_name": "YT Music Morphe",
     "asset_name": "youtube-music-arm64-v8a-morphe-v9.15.51.apk",
     "package_id": "app.morphe.android.apps.youtube.music",
     "version_name": "9.15.51",
@@ -1068,5 +1058,15 @@
     "play_store_url": "",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/youtube-music-arm64-v8a-morphe-v9.15.51.apk",
     "discoverium_file": "../discoverium/app.morphe.android.apps.youtube.music__youtube-music-arm64-v8a-morphe-v9.15.51.json"
+  },
+  {
+    "app_name": "YT Music Morphe",
+    "asset_name": "youtube-music-armeabi-v7a-morphe-v9.15.51.apk",
+    "package_id": "app.morphe.android.apps.youtube.music",
+    "version_name": "9.15.51",
+    "sha256": "84df773f9c0f1836838e1a43436fa0c7ce8c76e2239327e2c9cc645cb4d049b9",
+    "play_store_url": "",
+    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/youtube-music-armeabi-v7a-morphe-v9.15.51.apk",
+    "discoverium_file": "../discoverium/app.morphe.android.apps.youtube.music__youtube-music-armeabi-v7a-morphe-v9.15.51.json"
   }
 ]

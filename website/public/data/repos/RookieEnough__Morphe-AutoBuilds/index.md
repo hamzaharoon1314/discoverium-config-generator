@@ -14,8 +14,8 @@ Release source: `latest`
 | **Chargeprice** | fr.chargeprice.app | chargeprice-universal-morphe-patches-v3.9.2.apk | 3.9.2 | [Play Store](https://play.google.com/store/apps/details?id=fr.chargeprice.app) | [JSON Config](./discoverium/fr.chargeprice.app__chargeprice-universal-morphe-patches-v3.9.2.json) |
 | **CREX** | in.cricketexchange.app.cricketexchange | crex-universal-paresh-v26.04.05.apk | 26.04.05 | [Play Store](https://play.google.com/store/apps/details?id=in.cricketexchange.app.cricketexchange) | [JSON Config](./discoverium/in.cricketexchange.app.cricketexchange__crex-universal-paresh-v26.04.05.json) |
 | **Crunchyroll** | com.crunchyroll.crunchyroid | crunchyroll-universal-morphe-patches-v3.64.1.apk | 3.64.1 | [Play Store](https://play.google.com/store/apps/details?id=com.crunchyroll.crunchyroid) | [JSON Config](./discoverium/com.crunchyroll.crunchyroid__crunchyroll-universal-morphe-patches-v3.64.1.json) |
-| **Disney+** | com.disney.disneyplus | disney-plus-universal-morphe-patches-v26.10.0+rc3-2026.06.13.apk | 26.10.0+rc3-2026.06.13 | [Play Store](https://play.google.com/store/apps/details?id=com.disney.disneyplus) | [JSON Config](./discoverium/com.disney.disneyplus__disney-plus-universal-morphe-patches-v26.10.0+rc3-2026.06.13.json) |
 | **Disney+** | com.disneyplus.ph | disney-plus-universal-morphe-patches-v26.06.08.2.apk | 26.06.08.2 | [Play Store](https://play.google.com/store/apps/details?id=com.disneyplus.ph) | [JSON Config](./discoverium/com.disneyplus.ph__disney-plus-universal-morphe-patches-v26.06.08.2.json) |
+| **Disney+** | com.disney.disneyplus | disney-plus-universal-morphe-patches-v26.10.0+rc3-2026.06.13.apk | 26.10.0+rc3-2026.06.13 | [Play Store](https://play.google.com/store/apps/details?id=com.disney.disneyplus) | [JSON Config](./discoverium/com.disney.disneyplus__disney-plus-universal-morphe-patches-v26.10.0+rc3-2026.06.13.json) |
 | **Disney+** | com.disney.disneyplus | disney-plus-universal-morphe-patches-v4.20.2+rc1-2025.12.09.apk | 4.20.2+rc1-2025.12.09 | [Play Store](https://play.google.com/store/apps/details?id=com.disney.disneyplus) | [JSON Config](./discoverium/com.disney.disneyplus__disney-plus-universal-morphe-patches-v4.20.2+rc1-2025.12.09.json) |
 | **Doc Scanner** | com.cv.docscanner | documentscanner-universal-paresh-v6.8.18.apk | 6.8.18 | [Play Store](https://play.google.com/store/apps/details?id=com.cv.docscanner) | [JSON Config](./discoverium/com.cv.docscanner__documentscanner-universal-paresh-v6.8.18.json) |
 | **Duolingo** | com.duolingo | duolingo-universal-morphe-patches-v6.86.5.apk | 6.86.5 | [Play Store](https://play.google.com/store/apps/details?id=com.duolingo) | [JSON Config](./discoverium/com.duolingo__duolingo-universal-morphe-patches-v6.86.5.json) |
@@ -37,7 +37,7 @@ Release source: `latest`
 | **Instagram** | com.instagram.android | instagram-arm64-v8a-piko-patches-v435.0.0.37.76.apk | 435.0.0.37.76 | [Play Store](https://play.google.com/store/apps/details?id=com.instagram.android) | [JSON Config](./discoverium/com.instagram.android__instagram-arm64-v8a-piko-patches-v435.0.0.37.76.json) |
 | **Instagram** | com.instagram.android | instagram-armeabi-v7a-piko-patches-v435.0.0.37.76.apk | 435.0.0.37.76 | [Play Store](https://play.google.com/store/apps/details?id=com.instagram.android) | [JSON Config](./discoverium/com.instagram.android__instagram-armeabi-v7a-piko-patches-v435.0.0.37.76.json) |
 | **Instagram** | com.instagram.android | threads-universal-morphe-patches-v440.0.0.19.86.apk | 440.0.0.19.86 | [Play Store](https://play.google.com/store/apps/details?id=com.instagram.android) | [JSON Config](./discoverium/com.instagram.android__threads-universal-morphe-patches-v440.0.0.19.86.json) |
-| **KakaoTalk** | com.kakao.talk | kakaotalk-universal-revanced-patches-v26.6.1.apk | 26.6.1 | [Play Store](https://play.google.com/store/apps/details?id=com.kakao.talk) | [JSON Config](./discoverium/com.kakao.talk__kakaotalk-universal-revanced-patches-v26.6.1.json) |
+| **KakaoTalk** | com.kakao.talk | kakaotalk-universal-revanced-patches-v26.6.3.apk | 26.6.3 | [Play Store](https://play.google.com/store/apps/details?id=com.kakao.talk) | [JSON Config](./discoverium/com.kakao.talk__kakaotalk-universal-revanced-patches-v26.6.3.json) |
 | **kicker** | com.netbiscuits.kicker | kicker-universal-revanced-patches-v7.9.9.apk | 7.9.9 | [Play Store](https://play.google.com/store/apps/details?id=com.netbiscuits.kicker) | [JSON Config](./discoverium/com.netbiscuits.kicker__kicker-universal-revanced-patches-v7.9.9.json) |
 | **Komoot** | de.komoot.android | komoot-universal-morphe-patches-v2025.38.2.apk | 2025.38.2 | [Play Store](https://play.google.com/store/apps/details?id=de.komoot.android) | [JSON Config](./discoverium/de.komoot.android__komoot-universal-morphe-patches-v2025.38.2.json) |
 | **Letterboxd** | com.letterboxd.letterboxd | letterboxd-universal-morphe-patches-v3.2.10.apk | 3.2.10 | [Play Store](https://play.google.com/store/apps/details?id=com.letterboxd.letterboxd) | [JSON Config](./discoverium/com.letterboxd.letterboxd__letterboxd-universal-morphe-patches-v3.2.10.json) |
@@ -77,8 +77,8 @@ Release source: `latest`
 | **Prime Video** | com.amazon.avod.thirdpartyclient | prime-video-universal-morphe-patches-v3.0.452.1047.apk | 3.0.452.1047 | [Play Store](https://play.google.com/store/apps/details?id=com.amazon.avod.thirdpartyclient) | [JSON Config](./discoverium/com.amazon.avod.thirdpartyclient__prime-video-universal-morphe-patches-v3.0.452.1047.json) |
 | **Prompter Pal** | com.solid.teleprompter | prompter-universal-paresh-v6.8.2.apk | 6.8.2 | [Play Store](https://play.google.com/store/apps/details?id=com.solid.teleprompter) | [JSON Config](./discoverium/com.solid.teleprompter__prompter-universal-paresh-v6.8.2.json) |
 | **Proton Mail** | ch.protonmail.android | proton-mail-universal-morphe-patches-v4.15.0.apk | 4.15.0 | [Play Store](https://play.google.com/store/apps/details?id=ch.protonmail.android) | [JSON Config](./discoverium/ch.protonmail.android__proton-mail-universal-morphe-patches-v4.15.0.json) |
-| **Proton VPN** | ch.protonvpn.android | proton-vpn-universal-paresh-v5.17.72.0.apk | 5.17.72.0 | [Play Store](https://play.google.com/store/apps/details?id=ch.protonvpn.android) | [JSON Config](./discoverium/ch.protonvpn.android__proton-vpn-universal-paresh-v5.17.72.0.json) |
 | **Proton VPN** | ch.protonvpn.android | proton-vpn-universal-morphe-patches-v5.17.72.0.apk | 5.17.72.0 | [Play Store](https://play.google.com/store/apps/details?id=ch.protonvpn.android) | [JSON Config](./discoverium/ch.protonvpn.android__proton-vpn-universal-morphe-patches-v5.17.72.0.json) |
+| **Proton VPN** | ch.protonvpn.android | proton-vpn-universal-paresh-v5.17.72.0.apk | 5.17.72.0 | [Play Store](https://play.google.com/store/apps/details?id=ch.protonvpn.android) | [JSON Config](./discoverium/ch.protonvpn.android__proton-vpn-universal-paresh-v5.17.72.0.json) |
 | **Pydroid 3** | ru.iiec.pydroid3 | pydroid-universal-morphe-patches-v8.3_arm64.apk | 8.3_arm64 | [Play Store](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3) | [JSON Config](./discoverium/ru.iiec.pydroid3__pydroid-universal-morphe-patches-v8.3_arm64.json) |
 | **RAR** | com.rarlab.rar | rar-universal-morphe-patches-v7.20.build131.apk | 7.20.build131 | [Play Store](https://play.google.com/store/apps/details?id=com.rarlab.rar) | [JSON Config](./discoverium/com.rarlab.rar__rar-universal-morphe-patches-v7.20.build131.json) |
 | **RAR** | com.rarlab.rar | rar-universal-morphe-patches-v7.23.build133.apk | 7.23.build133 | [Play Store](https://play.google.com/store/apps/details?id=com.rarlab.rar) | [JSON Config](./discoverium/com.rarlab.rar__rar-universal-morphe-patches-v7.23.build133.json) |
@@ -109,8 +109,8 @@ Release source: `latest`
 | **Xodo** | com.xodo.pdf.reader | xodo-universal-morphe-patches-v10.15.0.apk | 10.15.0 | [Play Store](https://play.google.com/store/apps/details?id=com.xodo.pdf.reader) | [JSON Config](./discoverium/com.xodo.pdf.reader__xodo-universal-morphe-patches-v10.15.0.json) |
 | **XRecorder** | videoeditor.videorecorder.screenrecorder | xrecorder-universal-morphe-patches-v2.5.1.1.apk | 2.5.1.1 | [Play Store](https://play.google.com/store/apps/details?id=videoeditor.videorecorder.screenrecorder) | [JSON Config](./discoverium/videoeditor.videorecorder.screenrecorder__xrecorder-universal-morphe-patches-v2.5.1.1.json) |
 | **YouTube Morphe** | app.morphe.android.youtube | youtube-universal-morphe-v21.04.223.apk | 21.04.223 | N/A | [JSON Config](./discoverium/app.morphe.android.youtube__youtube-universal-morphe-v21.04.223.json) |
-| **YT Music Morphe** | app.morphe.android.apps.youtube.music | youtube-music-armeabi-v7a-morphe-v9.15.51.apk | 9.15.51 | N/A | [JSON Config](./discoverium/app.morphe.android.apps.youtube.music__youtube-music-armeabi-v7a-morphe-v9.15.51.json) |
 | **YT Music Morphe** | app.morphe.android.apps.youtube.music | youtube-music-arm64-v8a-morphe-v9.15.51.apk | 9.15.51 | N/A | [JSON Config](./discoverium/app.morphe.android.apps.youtube.music__youtube-music-arm64-v8a-morphe-v9.15.51.json) |
+| **YT Music Morphe** | app.morphe.android.apps.youtube.music | youtube-music-armeabi-v7a-morphe-v9.15.51.apk | 9.15.51 | N/A | [JSON Config](./discoverium/app.morphe.android.apps.youtube.music__youtube-music-armeabi-v7a-morphe-v9.15.51.json) |
 
 ## SHA256
 
@@ -134,10 +134,10 @@ Release source: `latest`
   - `27be0aa998282500833b0f999717562b381786cef49b5d41a21c456707e0eaa3`
 - **crunchyroll-universal-morphe-patches-v3.64.1.apk**
   - `111510ace11d2422f51f4d8d18d34c5c5225b247002c5031cdf4adcef056f13a`
-- **disney-plus-universal-morphe-patches-v26.10.0+rc3-2026.06.13.apk**
-  - `6a1fc9804ec96a5a97a17c9de233dc2883adf75975d7e6a491e9a7ff73e58cc9`
 - **disney-plus-universal-morphe-patches-v26.06.08.2.apk**
   - `9517a2496704154e30340699c1f08153c346f0551cb4e212e1fe48661efe27a0`
+- **disney-plus-universal-morphe-patches-v26.10.0+rc3-2026.06.13.apk**
+  - `6a1fc9804ec96a5a97a17c9de233dc2883adf75975d7e6a491e9a7ff73e58cc9`
 - **disney-plus-universal-morphe-patches-v4.20.2+rc1-2025.12.09.apk**
   - `38804b98e7d386bd6a63370f81b04c97d2064e66f1ca38715c71a29074e0c985`
 - **documentscanner-universal-paresh-v6.8.18.apk**
@@ -180,8 +180,8 @@ Release source: `latest`
   - `70a2d49d1ec899bf8363266aa3a7b6c0c5ec006dc6d9715cbbcfee5f5f979164`
 - **threads-universal-morphe-patches-v440.0.0.19.86.apk**
   - `d7f556f03e2df5fe9af8866b3c217bce4808ccdbab36d870800b79f25833a48c`
-- **kakaotalk-universal-revanced-patches-v26.6.1.apk**
-  - `a37270a14c5684e9924c683bfa468ba9cd154d2bd0af0a49e72cd827bd8d19be`
+- **kakaotalk-universal-revanced-patches-v26.6.3.apk**
+  - `c9ca5856654e62b8f764de82b276199dbe2fe7e018cd4b9e51ef4ab6d7f3cd30`
 - **kicker-universal-revanced-patches-v7.9.9.apk**
   - `c859e173d71d91601f36d4d8e24dc085038d9a696ff906609d55e8e28676420d`
 - **komoot-universal-morphe-patches-v2025.38.2.apk**
@@ -260,10 +260,10 @@ Release source: `latest`
   - `844bf76ea055bc0f6416eec75174c5dbbe0b2591a0679813ec8df0d958c32d97`
 - **proton-mail-universal-morphe-patches-v4.15.0.apk**
   - `4f20c7f0460fc2b84b49b1c8f25f31ecae671e9e6dc7ce8827702ffc87a0700b`
-- **proton-vpn-universal-paresh-v5.17.72.0.apk**
-  - `8371ab508e5e2f2073b81c5a6201ec34433a7be031710283f73f92c7a51de00f`
 - **proton-vpn-universal-morphe-patches-v5.17.72.0.apk**
   - `c3a7182712c547d55ec1600dc704cce8dc63c22bc1088468f24b141e105ae045`
+- **proton-vpn-universal-paresh-v5.17.72.0.apk**
+  - `8371ab508e5e2f2073b81c5a6201ec34433a7be031710283f73f92c7a51de00f`
 - **pydroid-universal-morphe-patches-v8.3_arm64.apk**
   - `f943ed1cb9f34a361f59595b86454ca4d19605e32eca8fec7cb5c9d951465231`
 - **rar-universal-morphe-patches-v7.20.build131.apk**
@@ -313,7 +313,7 @@ Release source: `latest`
 - **wallcraft-universal-morphe-patches-v3.61.01.apk**
   - `809ac2677bde93f4d56e860c3e3293166230375743535ee33928a132a53d79dc`
 - **windscribe-universal-morphe-patches-v4.2.2328.apk**
-  - `68561da8c1dfcea0a1beddc6148d559201a6936865faa46316db615d46427d2b`
+  - `1af821459722893a65786c5710caa3f2e67d7484c2463978e3a98c5b56444b7a`
 - **macrofactor-workout-universal-morphe-patches-v1.2.1.apk**
   - `d4a47256b4f3c3badebb577e0f508bd8a6063ef86d93ab5cf039669edb16ab26`
 - **wps-office-universal-morphe-patches-v18.24.apk**
@@ -324,9 +324,9 @@ Release source: `latest`
   - `f94112852f9a23ffa04828ed8f481ed4afa4de04a5cc5a95ab7253f8be9ef0ae`
 - **youtube-universal-morphe-v21.04.223.apk**
   - `054af692c7e8ea5708c3eccfe26aee26238c16395c63cade44097349e513b08e`
-- **youtube-music-armeabi-v7a-morphe-v9.15.51.apk**
-  - `84df773f9c0f1836838e1a43436fa0c7ce8c76e2239327e2c9cc645cb4d049b9`
 - **youtube-music-arm64-v8a-morphe-v9.15.51.apk**
   - `1cf0e454e81458045f7c885b5e82b37fb6cb6ba35c2d82b97ca0e18bd3c1eec4`
+- **youtube-music-armeabi-v7a-morphe-v9.15.51.apk**
+  - `84df773f9c0f1836838e1a43436fa0c7ce8c76e2239327e2c9cc645cb4d049b9`
 
 _Automatically generated from GitHub APK release assets with package IDs, SHA256 hashes, and Discoverium import links._
