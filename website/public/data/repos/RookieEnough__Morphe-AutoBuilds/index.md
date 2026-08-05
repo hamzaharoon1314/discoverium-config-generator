@@ -34,8 +34,8 @@ Release source: `latest`
 | **ibisPaint X** | jp.ne.ibis.ibispaintx.app | ibs_paint-universal-morphe-patches-v14.0.6.apk | 14.0.6 | [Play Store](https://play.google.com/store/apps/details?id=jp.ne.ibis.ibispaintx.app) | [JSON Config](./discoverium/jp.ne.ibis.ibispaintx.app__ibs_paint-universal-morphe-patches-v14.0.6.json) |
 | **Icon Pack Studio** | ginlemon.iconpackstudio | icon-pack-studio-universal-morphe-patches-v2.2.build.016.apk | 2.2 build 016 | [Play Store](https://play.google.com/store/apps/details?id=ginlemon.iconpackstudio) | [JSON Config](./discoverium/ginlemon.iconpackstudio__icon-pack-studio-universal-morphe-patches-v2.2.build.016.json) |
 | **Icon Packer** | cn.ommiao.iconpacker | icon-packer-universal-morphe-patches-v1.21.0-release.apk | 1.21.0-release | [Play Store](https://play.google.com/store/apps/details?id=cn.ommiao.iconpacker) | [JSON Config](./discoverium/cn.ommiao.iconpacker__icon-packer-universal-morphe-patches-v1.21.0-release.json) |
-| **Instagram** | com.instagram.android | instagram-arm64-v8a-piko-patches-v435.0.0.37.76.apk | 435.0.0.37.76 | [Play Store](https://play.google.com/store/apps/details?id=com.instagram.android) | [JSON Config](./discoverium/com.instagram.android__instagram-arm64-v8a-piko-patches-v435.0.0.37.76.json) |
 | **Instagram** | com.instagram.android | instagram-armeabi-v7a-piko-patches-v435.0.0.37.76.apk | 435.0.0.37.76 | [Play Store](https://play.google.com/store/apps/details?id=com.instagram.android) | [JSON Config](./discoverium/com.instagram.android__instagram-armeabi-v7a-piko-patches-v435.0.0.37.76.json) |
+| **Instagram** | com.instagram.android | instagram-arm64-v8a-piko-patches-v435.0.0.37.76.apk | 435.0.0.37.76 | [Play Store](https://play.google.com/store/apps/details?id=com.instagram.android) | [JSON Config](./discoverium/com.instagram.android__instagram-arm64-v8a-piko-patches-v435.0.0.37.76.json) |
 | **Instagram** | com.instagram.android | threads-universal-morphe-patches-v440.0.0.19.86.apk | 440.0.0.19.86 | [Play Store](https://play.google.com/store/apps/details?id=com.instagram.android) | [JSON Config](./discoverium/com.instagram.android__threads-universal-morphe-patches-v440.0.0.19.86.json) |
 | **KakaoTalk** | com.kakao.talk | kakaotalk-universal-revanced-patches-v26.6.3.apk | 26.6.3 | [Play Store](https://play.google.com/store/apps/details?id=com.kakao.talk) | [JSON Config](./discoverium/com.kakao.talk__kakaotalk-universal-revanced-patches-v26.6.3.json) |
 | **kicker** | com.netbiscuits.kicker | kicker-universal-revanced-patches-v7.9.9.apk | 7.9.9 | [Play Store](https://play.google.com/store/apps/details?id=com.netbiscuits.kicker) | [JSON Config](./discoverium/com.netbiscuits.kicker__kicker-universal-revanced-patches-v7.9.9.json) |
@@ -157,7 +157,7 @@ Release source: `latest`
 - **fotmob-universal-morphe-patches-v226.16092.20260302.apk**
   - `9bf2aa1307ecbb6d06d07ae34f90f1c31004b23d2565e9f9416034972f5eb5c3`
 - **fxfile-universal-dropped-v.apk**
-  - `69b7cd4095d1181909bbca2d57a6c9db67d9f999925ba84f875bbf69357d6c2a`
+  - `3ae81483d16c7f74d83a6cb934e77ba48b2bd569d4edbecbb46414d8c6b2ff37`
 - **gamehub-universal-liaralabs-v6.0.9.apk**
   - `b5d941fdc55ae753492ebf0144e83fcfa335c3be69628fca958be220e0e5102d`
 - **geocaching-universal-morphe-patches-v9.90.0.apk**
@@ -174,10 +174,10 @@ Release source: `latest`
   - `b8fdc7f17ee9f048cf2209569856b8136bd5f897c7245c52f473eac2e1fdfeb5`
 - **icon-packer-universal-morphe-patches-v1.21.0-release.apk**
   - `05807fcc590e8b65f200ce8c49eda7657f3125edad9bccee2864ea1b505bbb19`
-- **instagram-arm64-v8a-piko-patches-v435.0.0.37.76.apk**
-  - `5cf2cb2ea740423a341c14f3d510d3b3fe74c6fbe977abb9fb3c31bf056b8983`
 - **instagram-armeabi-v7a-piko-patches-v435.0.0.37.76.apk**
   - `70a2d49d1ec899bf8363266aa3a7b6c0c5ec006dc6d9715cbbcfee5f5f979164`
+- **instagram-arm64-v8a-piko-patches-v435.0.0.37.76.apk**
+  - `5cf2cb2ea740423a341c14f3d510d3b3fe74c6fbe977abb9fb3c31bf056b8983`
 - **threads-universal-morphe-patches-v440.0.0.19.86.apk**
   - `d7f556f03e2df5fe9af8866b3c217bce4808ccdbab36d870800b79f25833a48c`
 - **kakaotalk-universal-revanced-patches-v26.6.3.apk**
