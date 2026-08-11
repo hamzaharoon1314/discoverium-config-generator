@@ -59,9 +59,9 @@ Release source: `latest`
 | **MyFitnessPal** | com.myfitnesspal.android | myfitnesspal-universal-morphe-patches-v25.50.0.apk | 25.50.0 | [Play Store](https://play.google.com/store/apps/details?id=com.myfitnesspal.android) | [JSON Config](./discoverium/com.myfitnesspal.android__myfitnesspal-universal-morphe-patches-v25.50.0.json) |
 | **Niagara Launcher** | bitpit.launcher | niagara-universal-morphe-patches-v1.16.15.apk | 1.16.15 | [Play Store](https://play.google.com/store/apps/details?id=bitpit.launcher) | [JSON Config](./discoverium/bitpit.launcher__niagara-universal-morphe-patches-v1.16.15.json) |
 | **NOMone Desktop** | nom.vrd | nomone-universal-morphe-patches-v1.9.3-GooglePlay.apk | 1.9.3-GooglePlay | [Play Store](https://play.google.com/store/apps/details?id=nom.vrd) | [JSON Config](./discoverium/nom.vrd__nomone-universal-morphe-patches-v1.9.3-GooglePlay.json) |
-| **Nova Launcher** | com.teslacoilsw.launcher | nova-universal-dropped-v87900.8.7.9.apk | 87900 (8.7.9) | [Play Store](https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher) | [JSON Config](./discoverium/com.teslacoilsw.launcher__nova-universal-dropped-v87900.8.7.9.json) |
-| **Nova Launcher** | com.teslacoilsw.launcher | nova-universal-dropped-v88200.8.8.2.apk | 88200 (8.8.2) | [Play Store](https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher) | [JSON Config](./discoverium/com.teslacoilsw.launcher__nova-universal-dropped-v88200.8.8.2.json) |
 | **Nova Launcher** | com.teslacoilsw.launcher | nova-universal-dropped-v88000.8.8.0.apk | 88000 (8.8.0) | [Play Store](https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher) | [JSON Config](./discoverium/com.teslacoilsw.launcher__nova-universal-dropped-v88000.8.8.0.json) |
+| **Nova Launcher** | com.teslacoilsw.launcher | nova-universal-dropped-v88200.8.8.2.apk | 88200 (8.8.2) | [Play Store](https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher) | [JSON Config](./discoverium/com.teslacoilsw.launcher__nova-universal-dropped-v88200.8.8.2.json) |
+| **Nova Launcher** | com.teslacoilsw.launcher | nova-universal-dropped-v87900.8.7.9.apk | 87900 (8.7.9) | [Play Store](https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher) | [JSON Config](./discoverium/com.teslacoilsw.launcher__nova-universal-dropped-v87900.8.7.9.json) |
 | **Pandora** | com.pandora.android | pandora-universal-morphe-patches-v2503.1.apk | 2503.1 | [Play Store](https://play.google.com/store/apps/details?id=com.pandora.android) | [JSON Config](./discoverium/com.pandora.android__pandora-universal-morphe-patches-v2503.1.json) |
 | **park4night** | fr.tramb.park4night | park4night-universal-morphe-patches-v7.1.11.apk | 7.1.11 | [Play Store](https://play.google.com/store/apps/details?id=fr.tramb.park4night) | [JSON Config](./discoverium/fr.tramb.park4night__park4night-universal-morphe-patches-v7.1.11.json) |
 | **Phone** | com.google.android.dialer | dialer-universal-revanced-patches-v206.0.857916353-downloadable.apk | 206.0.857916353-downloadable | [Play Store](https://play.google.com/store/apps/details?id=com.google.android.dialer) | [JSON Config](./discoverium/com.google.android.dialer__dialer-universal-revanced-patches-v206.0.857916353-downloadable.json) |
@@ -160,7 +160,7 @@ Release source: `latest`
 - **fotmob-universal-morphe-patches-v226.16092.20260302.apk**
   - `a520b58983b272ec3e4f653c6a55567e2ecc2bcfe2dcfa0dc61befeb79c82986`
 - **fxfile-universal-dropped-v.apk**
-  - `0f2abec9ccbaa47169c705ba57399ba598207f9bf4c4b41b72ff4e50d76a099c`
+  - `eebecde42e75a1d5365e8b56093d8b17d94c1c9677b6e0137ddb3f9116505c76`
 - **gamehub-universal-liaralabs-v6.0.9.apk**
   - `b5d941fdc55ae753492ebf0144e83fcfa335c3be69628fca958be220e0e5102d`
 - **geocaching-universal-morphe-patches-v9.90.0.apk**
@@ -174,7 +174,7 @@ Release source: `latest`
 - **ibs_paint-universal-morphe-patches-v14.0.6.apk**
   - `81ae56080e194b72bcd5dc7b0b860dc32b32aa81b41072751915cce7120ace67`
 - **icon-pack-studio-universal-morphe-patches-v2.2.build.016.apk**
-  - `3ca736df8742472d1d5ae2dc3a334d2aa75a58914152c9daedeccd1fb577ea1a`
+  - `bb1fd378cbd8e513929b267042556f678e1f04d89e9866c26dc72474cac7e2c1`
 - **icon-packer-universal-morphe-patches-v1.21.0-release.apk**
   - `05807fcc590e8b65f200ce8c49eda7657f3125edad9bccee2864ea1b505bbb19`
 - **instagram-arm64-v8a-piko-patches-v435.0.0.37.76.apk**
@@ -182,7 +182,7 @@ Release source: `latest`
 - **instagram-armeabi-v7a-piko-patches-v435.0.0.37.76.apk**
   - `6eebcab4939305af00442a06b3242980ed233ba3e6797210a768d5a6f688bba1`
 - **kakaotalk-universal-revanced-patches-v26.6.3.apk**
-  - `a541b02f126f9f64a6c11a3c2205fd1228b036f2997ac2899b413db8da52654e`
+  - `6a6035a897267708bdfb8c5e74c253d60e7d1bbb0b86d2795936bdffda9116a1`
 - **kicker-universal-revanced-patches-v7.9.9.apk**
   - `c859e173d71d91601f36d4d8e24dc085038d9a696ff906609d55e8e28676420d`
 - **komoot-universal-morphe-patches-v2025.38.2.apk**
@@ -225,12 +225,12 @@ Release source: `latest`
   - `580c9d88458a3ab4216265aac8c8c6bec00d4253c6e6873b729653822a765a26`
 - **nomone-universal-morphe-patches-v1.9.3-GooglePlay.apk**
   - `d7271f3042f6bd6794202b1a929ebb9ee4b03e21f42f7134af688bb348919d62`
-- **nova-universal-dropped-v87900.8.7.9.apk**
-  - `874766f75eb28434c0ed33cfbc841f0577c9ad5654e37c3e9ad6f781426082cb`
-- **nova-universal-dropped-v88200.8.8.2.apk**
-  - `215f34da2421b6b8d0b482228fde3dfe5da3102945944463d2b5791a0dda91dc`
 - **nova-universal-dropped-v88000.8.8.0.apk**
   - `bd1adad4a2f519a971307a84882cc1b417aceaf8dc1d64329b208207a28da133`
+- **nova-universal-dropped-v88200.8.8.2.apk**
+  - `215f34da2421b6b8d0b482228fde3dfe5da3102945944463d2b5791a0dda91dc`
+- **nova-universal-dropped-v87900.8.7.9.apk**
+  - `874766f75eb28434c0ed33cfbc841f0577c9ad5654e37c3e9ad6f781426082cb`
 - **pandora-universal-morphe-patches-v2503.1.apk**
   - `6c7293f49ad16e394d72c9b45b2262434ee719f4af9232f3f5fe6b40fcfb544c`
 - **park4night-universal-morphe-patches-v7.1.11.apk**
