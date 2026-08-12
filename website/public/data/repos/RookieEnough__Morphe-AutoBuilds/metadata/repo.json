@@ -224,7 +224,7 @@
     "asset_name": "fxfile-universal-dropped-v.apk",
     "package_id": "nextapp.fx",
     "version_name": "∞",
-    "sha256": "eebecde42e75a1d5365e8b56093d8b17d94c1c9677b6e0137ddb3f9116505c76",
+    "sha256": "af7a430006322d47606a9a18d2a621c7e016748d92986a55241f2d1b8608b752",
     "play_store_url": "https://play.google.com/store/apps/details?id=nextapp.fx",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/fxfile-universal-dropped-v.apk",
     "discoverium_file": "../discoverium/nextapp.fx__fxfile-universal-dropped-v.json"
@@ -334,7 +334,7 @@
     "asset_name": "kakaotalk-universal-revanced-patches-v26.6.3.apk",
     "package_id": "com.kakao.talk",
     "version_name": "26.6.3",
-    "sha256": "6a6035a897267708bdfb8c5e74c253d60e7d1bbb0b86d2795936bdffda9116a1",
+    "sha256": "5037a2a3efdc1a5356b290f1802f0968b044cee7c899fe815cf7e107fd5364c4",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.kakao.talk",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/kakaotalk-universal-revanced-patches-v26.6.3.apk",
     "discoverium_file": "../discoverium/com.kakao.talk__kakaotalk-universal-revanced-patches-v26.6.3.json"
@@ -384,7 +384,7 @@
     "asset_name": "lumina-universal-paresh-v1.0.2.4.apk",
     "package_id": "com.lumina.wallpapers",
     "version_name": "1.0.2.4",
-    "sha256": "8c3fb9cc5d45c3d47b14ff103a8d48165186a42a74e5c734528d1d296f784c04",
+    "sha256": "400f81cbd56eb2871252dd97d129cf3777bd9087343e644d27a12f894bb478c9",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.lumina.wallpapers",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/lumina-universal-paresh-v1.0.2.4.apk",
     "discoverium_file": "../discoverium/com.lumina.wallpapers__lumina-universal-paresh-v1.0.2.4.json"
@@ -551,6 +551,16 @@
   },
   {
     "app_name": "Nova Launcher",
+    "asset_name": "nova-universal-dropped-v87900.8.7.9.apk",
+    "package_id": "com.teslacoilsw.launcher",
+    "version_name": "87900 (8.7.9)",
+    "sha256": "874766f75eb28434c0ed33cfbc841f0577c9ad5654e37c3e9ad6f781426082cb",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/nova-universal-dropped-v87900.8.7.9.apk",
+    "discoverium_file": "../discoverium/com.teslacoilsw.launcher__nova-universal-dropped-v87900.8.7.9.json"
+  },
+  {
+    "app_name": "Nova Launcher",
     "asset_name": "nova-universal-dropped-v88000.8.8.0.apk",
     "package_id": "com.teslacoilsw.launcher",
     "version_name": "88000 (8.8.0)",
@@ -568,16 +578,6 @@
     "play_store_url": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/nova-universal-dropped-v88200.8.8.2.apk",
     "discoverium_file": "../discoverium/com.teslacoilsw.launcher__nova-universal-dropped-v88200.8.8.2.json"
-  },
-  {
-    "app_name": "Nova Launcher",
-    "asset_name": "nova-universal-dropped-v87900.8.7.9.apk",
-    "package_id": "com.teslacoilsw.launcher",
-    "version_name": "87900 (8.7.9)",
-    "sha256": "874766f75eb28434c0ed33cfbc841f0577c9ad5654e37c3e9ad6f781426082cb",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
-    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/nova-universal-dropped-v87900.8.7.9.apk",
-    "discoverium_file": "../discoverium/com.teslacoilsw.launcher__nova-universal-dropped-v87900.8.7.9.json"
   },
   {
     "app_name": "Pandora",
@@ -644,7 +644,7 @@
     "asset_name": "pinterest-universal-morphe-patches-v1.8.0.apk",
     "package_id": "com.pinterest.twa",
     "version_name": "1.8.0",
-    "sha256": "a5c89f328a203c9f6b26de88edf278e1c0e8670d5f4938158b07666c898e300b",
+    "sha256": "90f62320181fc3e261799cc98e54ed2ad2976e315a0e3800f2b3cf5a2e05df08",
     "play_store_url": "",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/pinterest-universal-morphe-patches-v1.8.0.apk",
     "discoverium_file": "../discoverium/com.pinterest.twa__pinterest-universal-morphe-patches-v1.8.0.json"
@@ -800,6 +800,16 @@
     "discoverium_file": "../discoverium/ginlemon.flowerfree__smart_launcher-universal-morphe-patches-v6.6.build.002.json"
   },
   {
+    "app_name": "Smart Launcher",
+    "asset_name": "smart_launcher-universal-morphe-patches-v6.6.build.014.apk",
+    "package_id": "ginlemon.flowerfree",
+    "version_name": "6.6 build 014",
+    "sha256": "123a5010114833aab0d9c96025d3c24371838214f5c55dc8216d7247c6a0107e",
+    "play_store_url": "https://play.google.com/store/apps/details?id=ginlemon.flowerfree",
+    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/smart_launcher-universal-morphe-patches-v6.6.build.014.apk",
+    "discoverium_file": "../discoverium/ginlemon.flowerfree__smart_launcher-universal-morphe-patches-v6.6.build.014.json"
+  },
+  {
     "app_name": "SnoreLab",
     "asset_name": "snorelab-universal-morphe-patches-v2.27.3.6291.apk",
     "package_id": "com.snorelab.app",
@@ -921,13 +931,13 @@
   },
   {
     "app_name": "TikTok",
-    "asset_name": "tiktok-universal-morphe-patches-v43.8.3.apk",
+    "asset_name": "tiktok-universal-morphe-patches-v46.2.3.apk",
     "package_id": "com.zhiliaoapp.musically",
-    "version_name": "43.8.3",
-    "sha256": "1c2c03a2f89f7397c644cdec98af6c371e3eb51fa1225110e4088b8575e7fd10",
+    "version_name": "46.2.3",
+    "sha256": "5cf81d1047ce7d6e6174044814e3fbe02aa8981bd07c33770d29ead9dac8c6b7",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically",
-    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/tiktok-universal-morphe-patches-v43.8.3.apk",
-    "discoverium_file": "../discoverium/com.zhiliaoapp.musically__tiktok-universal-morphe-patches-v43.8.3.json"
+    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/tiktok-universal-morphe-patches-v46.2.3.apk",
+    "discoverium_file": "../discoverium/com.zhiliaoapp.musically__tiktok-universal-morphe-patches-v46.2.3.json"
   },
   {
     "app_name": "Trakt",
