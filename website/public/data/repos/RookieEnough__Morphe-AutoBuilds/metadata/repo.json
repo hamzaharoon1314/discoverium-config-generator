@@ -111,16 +111,6 @@
   },
   {
     "app_name": "Disney+",
-    "asset_name": "disney-plus-universal-morphe-patches-v26.10.0+rc3-2026.06.13.apk",
-    "package_id": "com.disney.disneyplus",
-    "version_name": "26.10.0+rc3-2026.06.13",
-    "sha256": "6a1fc9804ec96a5a97a17c9de233dc2883adf75975d7e6a491e9a7ff73e58cc9",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.disney.disneyplus",
-    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/disney-plus-universal-morphe-patches-v26.10.0%2Brc3-2026.06.13.apk",
-    "discoverium_file": "../discoverium/com.disney.disneyplus__disney-plus-universal-morphe-patches-v26.10.0+rc3-2026.06.13.json"
-  },
-  {
-    "app_name": "Disney+",
     "asset_name": "disney-plus-universal-morphe-patches-v26.13.0+rc6-2026.07.30.apk",
     "package_id": "com.disney.disneyplus",
     "version_name": "26.13.0+rc6-2026.07.30",
@@ -128,6 +118,16 @@
     "play_store_url": "https://play.google.com/store/apps/details?id=com.disney.disneyplus",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/disney-plus-universal-morphe-patches-v26.13.0%2Brc6-2026.07.30.apk",
     "discoverium_file": "../discoverium/com.disney.disneyplus__disney-plus-universal-morphe-patches-v26.13.0+rc6-2026.07.30.json"
+  },
+  {
+    "app_name": "Disney+",
+    "asset_name": "disney-plus-universal-morphe-patches-v26.10.0+rc3-2026.06.13.apk",
+    "package_id": "com.disney.disneyplus",
+    "version_name": "26.10.0+rc3-2026.06.13",
+    "sha256": "6a1fc9804ec96a5a97a17c9de233dc2883adf75975d7e6a491e9a7ff73e58cc9",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.disney.disneyplus",
+    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/disney-plus-universal-morphe-patches-v26.10.0%2Brc3-2026.06.13.apk",
+    "discoverium_file": "../discoverium/com.disney.disneyplus__disney-plus-universal-morphe-patches-v26.10.0+rc3-2026.06.13.json"
   },
   {
     "app_name": "Disney+",
@@ -321,16 +321,6 @@
   },
   {
     "app_name": "Instagram",
-    "asset_name": "instagram-arm64-v8a-piko-patches-v435.0.0.37.76.apk",
-    "package_id": "com.instagram.android",
-    "version_name": "435.0.0.37.76",
-    "sha256": "858a1018d073fa8a99271dde29bd74f53d2949e3edb559deae09305a8ca0210c",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.instagram.android",
-    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/instagram-arm64-v8a-piko-patches-v435.0.0.37.76.apk",
-    "discoverium_file": "../discoverium/com.instagram.android__instagram-arm64-v8a-piko-patches-v435.0.0.37.76.json"
-  },
-  {
-    "app_name": "Instagram",
     "asset_name": "instagram-armeabi-v7a-piko-patches-v435.0.0.37.76.apk",
     "package_id": "com.instagram.android",
     "version_name": "435.0.0.37.76",
@@ -340,14 +330,24 @@
     "discoverium_file": "../discoverium/com.instagram.android__instagram-armeabi-v7a-piko-patches-v435.0.0.37.76.json"
   },
   {
+    "app_name": "Instagram",
+    "asset_name": "instagram-arm64-v8a-piko-patches-v435.0.0.37.76.apk",
+    "package_id": "com.instagram.android",
+    "version_name": "435.0.0.37.76",
+    "sha256": "858a1018d073fa8a99271dde29bd74f53d2949e3edb559deae09305a8ca0210c",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.instagram.android",
+    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/instagram-arm64-v8a-piko-patches-v435.0.0.37.76.apk",
+    "discoverium_file": "../discoverium/com.instagram.android__instagram-arm64-v8a-piko-patches-v435.0.0.37.76.json"
+  },
+  {
     "app_name": "KakaoTalk",
-    "asset_name": "kakaotalk-universal-revanced-patches-v26.6.3.apk",
+    "asset_name": "kakaotalk-universal-revanced-patches-v26.7.1.apk",
     "package_id": "com.kakao.talk",
-    "version_name": "26.6.3",
-    "sha256": "5037a2a3efdc1a5356b290f1802f0968b044cee7c899fe815cf7e107fd5364c4",
+    "version_name": "26.7.1",
+    "sha256": "183ff38cc33da2819cfd7cbd72e163bad425989d69251740c53c4c81c33d3fc9",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.kakao.talk",
-    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/kakaotalk-universal-revanced-patches-v26.6.3.apk",
-    "discoverium_file": "../discoverium/com.kakao.talk__kakaotalk-universal-revanced-patches-v26.6.3.json"
+    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/kakaotalk-universal-revanced-patches-v26.7.1.apk",
+    "discoverium_file": "../discoverium/com.kakao.talk__kakaotalk-universal-revanced-patches-v26.7.1.json"
   },
   {
     "app_name": "kicker",
@@ -451,16 +451,6 @@
   },
   {
     "app_name": "Material Capsule",
-    "asset_name": "number-universal-revanced-android-6-7-v10.3.apk",
-    "package_id": "com.pryshedko.mtisland",
-    "version_name": "10.3",
-    "sha256": "e11b525905f2bef7a7ef909ad69dcd90ab6a5965bbbe756139d59acdc901c41b",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.pryshedko.mtisland",
-    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/number-universal-revanced-android-6-7-v10.3.apk",
-    "discoverium_file": "../discoverium/com.pryshedko.mtisland__number-universal-revanced-android-6-7-v10.3.json"
-  },
-  {
-    "app_name": "Material Capsule",
     "asset_name": "number-universal-morphe-patches-v14.9.apk",
     "package_id": "com.pryshedko.mtisland",
     "version_name": "14.9",
@@ -468,6 +458,16 @@
     "play_store_url": "https://play.google.com/store/apps/details?id=com.pryshedko.mtisland",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/number-universal-morphe-patches-v14.9.apk",
     "discoverium_file": "../discoverium/com.pryshedko.mtisland__number-universal-morphe-patches-v14.9.json"
+  },
+  {
+    "app_name": "Material Capsule",
+    "asset_name": "number-universal-revanced-android-6-7-v10.3.apk",
+    "package_id": "com.pryshedko.mtisland",
+    "version_name": "10.3",
+    "sha256": "e11b525905f2bef7a7ef909ad69dcd90ab6a5965bbbe756139d59acdc901c41b",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.pryshedko.mtisland",
+    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/number-universal-revanced-android-6-7-v10.3.apk",
+    "discoverium_file": "../discoverium/com.pryshedko.mtisland__number-universal-revanced-android-6-7-v10.3.json"
   },
   {
     "app_name": "Meme Generator",
@@ -771,16 +771,6 @@
   },
   {
     "app_name": "RAR",
-    "asset_name": "rar-universal-morphe-patches-v7.23.build134.apk",
-    "package_id": "com.rarlab.rar",
-    "version_name": "7.23.build134",
-    "sha256": "ca04f93c1b91180c22bc93cc1bd5f296ceecdf7a5be64d3829730859394f484b",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.rarlab.rar",
-    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/rar-universal-morphe-patches-v7.23.build134.apk",
-    "discoverium_file": "../discoverium/com.rarlab.rar__rar-universal-morphe-patches-v7.23.build134.json"
-  },
-  {
-    "app_name": "RAR",
     "asset_name": "rar-universal-morphe-patches-v7.23.build133.apk",
     "package_id": "com.rarlab.rar",
     "version_name": "7.23.build133",
@@ -788,6 +778,16 @@
     "play_store_url": "https://play.google.com/store/apps/details?id=com.rarlab.rar",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/rar-universal-morphe-patches-v7.23.build133.apk",
     "discoverium_file": "../discoverium/com.rarlab.rar__rar-universal-morphe-patches-v7.23.build133.json"
+  },
+  {
+    "app_name": "RAR",
+    "asset_name": "rar-universal-morphe-patches-v7.23.build134.apk",
+    "package_id": "com.rarlab.rar",
+    "version_name": "7.23.build134",
+    "sha256": "ca04f93c1b91180c22bc93cc1bd5f296ceecdf7a5be64d3829730859394f484b",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.rarlab.rar",
+    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/rar-universal-morphe-patches-v7.23.build134.apk",
+    "discoverium_file": "../discoverium/com.rarlab.rar__rar-universal-morphe-patches-v7.23.build134.json"
   },
   {
     "app_name": "Reddit",
@@ -1081,16 +1081,6 @@
   },
   {
     "app_name": "YT Music Morphe",
-    "asset_name": "youtube-music-armeabi-v7a-morphe-v9.15.51.apk",
-    "package_id": "app.morphe.android.apps.youtube.music",
-    "version_name": "9.15.51",
-    "sha256": "e1d9a30913ddb39d96db2841f73aad7cb7ee83a15e93fe2ea681087bdda2dad5",
-    "play_store_url": "",
-    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/youtube-music-armeabi-v7a-morphe-v9.15.51.apk",
-    "discoverium_file": "../discoverium/app.morphe.android.apps.youtube.music__youtube-music-armeabi-v7a-morphe-v9.15.51.json"
-  },
-  {
-    "app_name": "YT Music Morphe",
     "asset_name": "youtube-music-arm64-v8a-morphe-v9.15.51.apk",
     "package_id": "app.morphe.android.apps.youtube.music",
     "version_name": "9.15.51",
@@ -1098,5 +1088,15 @@
     "play_store_url": "",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/youtube-music-arm64-v8a-morphe-v9.15.51.apk",
     "discoverium_file": "../discoverium/app.morphe.android.apps.youtube.music__youtube-music-arm64-v8a-morphe-v9.15.51.json"
+  },
+  {
+    "app_name": "YT Music Morphe",
+    "asset_name": "youtube-music-armeabi-v7a-morphe-v9.15.51.apk",
+    "package_id": "app.morphe.android.apps.youtube.music",
+    "version_name": "9.15.51",
+    "sha256": "e1d9a30913ddb39d96db2841f73aad7cb7ee83a15e93fe2ea681087bdda2dad5",
+    "play_store_url": "",
+    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/youtube-music-armeabi-v7a-morphe-v9.15.51.apk",
+    "discoverium_file": "../discoverium/app.morphe.android.apps.youtube.music__youtube-music-armeabi-v7a-morphe-v9.15.51.json"
   }
 ]
