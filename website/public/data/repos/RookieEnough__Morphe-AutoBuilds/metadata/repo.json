@@ -754,7 +754,7 @@
     "asset_name": "proton-vpn-universal-morphe-patches-v5.19.43.0.apk",
     "package_id": "ch.protonvpn.android",
     "version_name": "5.19.43.0",
-    "sha256": "8c62a103487e045106bf2f95a4dcbfeadcf171acdaa217a303a1a7a6383f3c35",
+    "sha256": "875fafd84a2a6032ba8abd4f4c49f9c2529c2b30d4ffe08bf9b9113a1c6b32d5",
     "play_store_url": "https://play.google.com/store/apps/details?id=ch.protonvpn.android",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/proton-vpn-universal-morphe-patches-v5.19.43.0.apk",
     "discoverium_file": "../discoverium/ch.protonvpn.android__proton-vpn-universal-morphe-patches-v5.19.43.0.json"
@@ -781,16 +781,6 @@
   },
   {
     "app_name": "RAR",
-    "asset_name": "rar-universal-morphe-patches-v7.20.build131.apk",
-    "package_id": "com.rarlab.rar",
-    "version_name": "7.20.build131",
-    "sha256": "25193ce4b4b76d6729876a75a90f0a056bdde1736c1cd580ede4ab33476808d3",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.rarlab.rar",
-    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/rar-universal-morphe-patches-v7.20.build131.apk",
-    "discoverium_file": "../discoverium/com.rarlab.rar__rar-universal-morphe-patches-v7.20.build131.json"
-  },
-  {
-    "app_name": "RAR",
     "asset_name": "rar-universal-morphe-patches-v7.23.build133.apk",
     "package_id": "com.rarlab.rar",
     "version_name": "7.23.build133",
@@ -798,6 +788,16 @@
     "play_store_url": "https://play.google.com/store/apps/details?id=com.rarlab.rar",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/rar-universal-morphe-patches-v7.23.build133.apk",
     "discoverium_file": "../discoverium/com.rarlab.rar__rar-universal-morphe-patches-v7.23.build133.json"
+  },
+  {
+    "app_name": "RAR",
+    "asset_name": "rar-universal-morphe-patches-v7.20.build131.apk",
+    "package_id": "com.rarlab.rar",
+    "version_name": "7.20.build131",
+    "sha256": "25193ce4b4b76d6729876a75a90f0a056bdde1736c1cd580ede4ab33476808d3",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.rarlab.rar",
+    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/rar-universal-morphe-patches-v7.20.build131.apk",
+    "discoverium_file": "../discoverium/com.rarlab.rar__rar-universal-morphe-patches-v7.20.build131.json"
   },
   {
     "app_name": "RAR",
@@ -1111,16 +1111,6 @@
   },
   {
     "app_name": "YT Music Morphe",
-    "asset_name": "youtube-music-armeabi-v7a-morphe-v9.15.51.apk",
-    "package_id": "app.morphe.android.apps.youtube.music",
-    "version_name": "9.15.51",
-    "sha256": "bdc77d435dea7c16e75e445991829c5f8933a7fd61ee61e4cd0e9ea059d4bd06",
-    "play_store_url": "",
-    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/youtube-music-armeabi-v7a-morphe-v9.15.51.apk",
-    "discoverium_file": "../discoverium/app.morphe.android.apps.youtube.music__youtube-music-armeabi-v7a-morphe-v9.15.51.json"
-  },
-  {
-    "app_name": "YT Music Morphe",
     "asset_name": "youtube-music-arm64-v8a-morphe-v9.15.51.apk",
     "package_id": "app.morphe.android.apps.youtube.music",
     "version_name": "9.15.51",
@@ -1128,5 +1118,15 @@
     "play_store_url": "",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/youtube-music-arm64-v8a-morphe-v9.15.51.apk",
     "discoverium_file": "../discoverium/app.morphe.android.apps.youtube.music__youtube-music-arm64-v8a-morphe-v9.15.51.json"
+  },
+  {
+    "app_name": "YT Music Morphe",
+    "asset_name": "youtube-music-armeabi-v7a-morphe-v9.15.51.apk",
+    "package_id": "app.morphe.android.apps.youtube.music",
+    "version_name": "9.15.51",
+    "sha256": "bdc77d435dea7c16e75e445991829c5f8933a7fd61ee61e4cd0e9ea059d4bd06",
+    "play_store_url": "",
+    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/youtube-music-armeabi-v7a-morphe-v9.15.51.apk",
+    "discoverium_file": "../discoverium/app.morphe.android.apps.youtube.music__youtube-music-armeabi-v7a-morphe-v9.15.51.json"
   }
 ]
