@@ -1,92 +1,22 @@
 [
   {
-    "app_name": "byAir",
-    "asset_name": "byair-morphe-v2.38.2-arm-v7a.apk",
-    "package_id": "com.byairapp.android",
-    "version_name": "2.38.2",
-    "sha256": "c590fd6088745218c583d5b820081b8353201da1b79527d1949973387f035547",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.byairapp.android",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260361/byair-morphe-v2.38.2-arm-v7a.apk",
-    "discoverium_file": "../discoverium/com.byairapp.android__byair-morphe-v2.38.2-arm-v7a.json"
+    "app_name": "Brave",
+    "asset_name": "brave-browser-morphe-v1.94.121-arm-v7a.apk",
+    "package_id": "com.brave.browser",
+    "version_name": "1.94.121",
+    "sha256": "c9afd786d74d13960399167d50239d1d8b6713bee91906e1ddb51d77279392f7",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.brave.browser",
+    "download_url": "https://github.com/nullcpy/rvb/releases/download/260367/brave-browser-morphe-v1.94.121-arm-v7a.apk",
+    "discoverium_file": "../discoverium/com.brave.browser__brave-browser-morphe-v1.94.121-arm-v7a.json"
   },
   {
-    "app_name": "byAir",
-    "asset_name": "byair-morphe-v2.38.2-arm64-v8a.apk",
-    "package_id": "com.byairapp.android",
-    "version_name": "2.38.2",
-    "sha256": "6cd7a7238094c10b2f0ed358ede6e5e68d62c20849623ea8f8bb4460b5af30c0",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.byairapp.android",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260361/byair-morphe-v2.38.2-arm64-v8a.apk",
-    "discoverium_file": "../discoverium/com.byairapp.android__byair-morphe-v2.38.2-arm64-v8a.json"
-  },
-  {
-    "app_name": "HBO Max",
-    "asset_name": "hbomax-morphe-androidtv-v7.9.0.61-all.apk",
-    "package_id": "com.wbd.hbomax",
-    "version_name": "7.9.0.61",
-    "sha256": "9fccd3892ff56630fb40704f63bdc72576643281a0e904c18a7d8d3b5d896a10",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.wbd.hbomax",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260361/hbomax-morphe-androidtv-v7.9.0.61-all.apk",
-    "discoverium_file": "../discoverium/com.wbd.hbomax__hbomax-morphe-androidtv-v7.9.0.61-all.json"
-  },
-  {
-    "app_name": "Netflix",
-    "asset_name": "netflix-morphe-androidtv-v13.0.1build25028-arm-v7a.apk",
-    "package_id": "com.netflix.ninja.clone",
-    "version_name": "13.0.1 build 25028",
-    "sha256": "72da1d78cc4460ea014bed69546a7fb84eb23bd958017a191e98b168104822bb",
-    "play_store_url": "",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260361/netflix-morphe-androidtv-v13.0.1build25028-arm-v7a.apk",
-    "discoverium_file": "../discoverium/com.netflix.ninja.clone__netflix-morphe-androidtv-v13.0.1build25028-arm-v7a.json"
-  },
-  {
-    "app_name": "Peacock TV",
-    "asset_name": "peacock-morphe-androidtv-v7.6.100-all.apk",
-    "package_id": "com.peacocktv.peacockandroid",
-    "version_name": "7.6.100",
-    "sha256": "0f5173894cc29ff7a7f5e84b1229c09a2ffab9d8388f93d32cad46249ecf7a13",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.peacocktv.peacockandroid",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260361/peacock-morphe-androidtv-v7.6.100-all.apk",
-    "discoverium_file": "../discoverium/com.peacocktv.peacockandroid__peacock-morphe-androidtv-v7.6.100-all.json"
-  },
-  {
-    "app_name": "Pluto TV",
-    "asset_name": "plutotv-morphe-androidtv-v5.66.0-leanback-all.apk",
-    "package_id": "tv.pluto.android",
-    "version_name": "5.66.0-leanback",
-    "sha256": "04baca6171be16541ae232ce4db0eac763e84afa17c378929a0303e61ca2486c",
-    "play_store_url": "https://play.google.com/store/apps/details?id=tv.pluto.android",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260361/plutotv-morphe-androidtv-v5.66.0-leanback-all.apk",
-    "discoverium_file": "../discoverium/tv.pluto.android__plutotv-morphe-androidtv-v5.66.0-leanback-all.json"
-  },
-  {
-    "app_name": "Prime Video",
-    "asset_name": "prime-video-morphe-androidtv-v6.23.23+v15.5.0.70-armv7a-arm-v7a.apk",
-    "package_id": "com.amazon.amazonvideo.livingroom.mod",
-    "version_name": "6.23.23+v15.5.0.70-armv7a",
-    "sha256": "4819ed7a2e832b8865cb93b3ecc3ba8e78206751ab12f2ae940116199bd30a20",
-    "play_store_url": "",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260361/prime-video-morphe-androidtv-v6.23.23%2Bv15.5.0.70-armv7a-arm-v7a.apk",
-    "discoverium_file": "../discoverium/com.amazon.amazonvideo.livingroom.mod__prime-video-morphe-androidtv-v6.23.23+v15.5.0.70-armv7a-arm-v7a.json"
-  },
-  {
-    "app_name": "Tubi",
-    "asset_name": "tubi-morphe-androidtv-v10.28.5000-all.apk",
-    "package_id": "com.tubitv",
-    "version_name": "10.28.5000",
-    "sha256": "c0d901660b1de76a92abb835a5614d9d76339dc0a9255da072cac13cd4786dd7",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.tubitv",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260361/tubi-morphe-androidtv-v10.28.5000-all.apk",
-    "discoverium_file": "../discoverium/com.tubitv__tubi-morphe-androidtv-v10.28.5000-all.json"
-  },
-  {
-    "app_name": "ViX",
-    "asset_name": "vix-morphe-androidtv-v4.46.0_tv-all.apk",
-    "package_id": "com.univision.prendetv",
-    "version_name": "4.46.0_tv",
-    "sha256": "b615660fe6523597dd04145c943a3780c598f8f3909f058d6d5c7928b04d0977",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.univision.prendetv",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260361/vix-morphe-androidtv-v4.46.0_tv-all.apk",
-    "discoverium_file": "../discoverium/com.univision.prendetv__vix-morphe-androidtv-v4.46.0_tv-all.json"
+    "app_name": "Brave",
+    "asset_name": "brave-browser-morphe-v1.94.121-arm64-v8a.apk",
+    "package_id": "com.brave.browser",
+    "version_name": "1.94.121",
+    "sha256": "5bbb58d873fcbdbdf9b1f31459118f86e4908b3f311b230c2febc2ea9d511e1a",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.brave.browser",
+    "download_url": "https://github.com/nullcpy/rvb/releases/download/260367/brave-browser-morphe-v1.94.121-arm64-v8a.apk",
+    "discoverium_file": "../discoverium/com.brave.browser__brave-browser-morphe-v1.94.121-arm64-v8a.json"
   }
 ]
