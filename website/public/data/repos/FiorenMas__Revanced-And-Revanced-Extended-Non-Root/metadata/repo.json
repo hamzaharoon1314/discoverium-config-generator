@@ -14,7 +14,7 @@
     "asset_name": "adguard-rushiranpise.apk",
     "package_id": "com.adguard.android",
     "version_name": "4.14.68",
-    "sha256": "c72fd3a92bb39e0c140a9d6612f511bd362e03dfe6e37c6231a2a01f975b6c33",
+    "sha256": "70838d38077d44ad3700d8b5b53a93c728d67423552dc6802c33eb02f6be2cdf",
     "play_store_url": "",
     "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/adguard-rushiranpise.apk",
     "discoverium_file": "../discoverium/com.adguard.android__adguard-rushiranpise.json"
@@ -24,7 +24,7 @@
     "asset_name": "battery-guru-arandomhooman.apk",
     "package_id": "com.paget96.batteryguru",
     "version_name": "2.5.0.6",
-    "sha256": "34688795e44b1eb6da0857e8158e70d4da8a9183ea024862b3fe14c9a9e677cc",
+    "sha256": "c0341f2049cca98fd4dd09cc99bd9c45a9e0aadc15249ab1330a21f7885653a0",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.paget96.batteryguru",
     "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/battery-guru-arandomhooman.apk",
     "discoverium_file": "../discoverium/com.paget96.batteryguru__battery-guru-arandomhooman.json"
@@ -131,16 +131,6 @@
   },
   {
     "app_name": "Facebook",
-    "asset_name": "facebook-arm64-v8a-revanced.apk",
-    "package_id": "com.facebook.katana",
-    "version_name": "490.0.0.63.82",
-    "sha256": "47caa2b50ef65ae78d896e9f9d64c1b302748f47c344b250e7a5ab54439f0e17",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.facebook.katana",
-    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/facebook-arm64-v8a-revanced.apk",
-    "discoverium_file": "../discoverium/com.facebook.katana__facebook-arm64-v8a-revanced.json"
-  },
-  {
-    "app_name": "Facebook",
     "asset_name": "facebook-arm64-v8a-derevanced.apk",
     "package_id": "com.facebook.katana",
     "version_name": "490.0.0.63.82",
@@ -148,6 +138,16 @@
     "play_store_url": "https://play.google.com/store/apps/details?id=com.facebook.katana",
     "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/facebook-arm64-v8a-derevanced.apk",
     "discoverium_file": "../discoverium/com.facebook.katana__facebook-arm64-v8a-derevanced.json"
+  },
+  {
+    "app_name": "Facebook",
+    "asset_name": "facebook-arm64-v8a-revanced.apk",
+    "package_id": "com.facebook.katana",
+    "version_name": "490.0.0.63.82",
+    "sha256": "47caa2b50ef65ae78d896e9f9d64c1b302748f47c344b250e7a5ab54439f0e17",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.facebook.katana",
+    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/facebook-arm64-v8a-revanced.apk",
+    "discoverium_file": "../discoverium/com.facebook.katana__facebook-arm64-v8a-revanced.json"
   },
   {
     "app_name": "Facebook",
@@ -194,7 +194,7 @@
     "asset_name": "googlenews-docbt.apk",
     "package_id": "com.google.android.apps.magazines.morphe",
     "version_name": "5.163.0.947799485",
-    "sha256": "f258b8116caa7f5916b5d7d9541bcbf0beb91ba5e51f2e71bfad6d62db9e43d6",
+    "sha256": "0a1418f99ee6a984fe869f9b41c46dd40a27fc350c3445cd308322e51baa5578",
     "play_store_url": "",
     "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/googlenews-docbt.apk",
     "discoverium_file": "../discoverium/com.google.android.apps.magazines.morphe__googlenews-docbt.json"
@@ -231,16 +231,6 @@
   },
   {
     "app_name": "Instagram",
-    "asset_name": "instagram-arm64-v8a-revanced-experiments.apk",
-    "package_id": "com.instagram.android",
-    "version_name": "362.0.0.33.241",
-    "sha256": "539ea84466aabf7ed3838830419fe19d5d01adb56e2fec1e49838c284cb5ce93",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.instagram.android",
-    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/instagram-arm64-v8a-revanced-experiments.apk",
-    "discoverium_file": "../discoverium/com.instagram.android__instagram-arm64-v8a-revanced-experiments.json"
-  },
-  {
-    "app_name": "Instagram",
     "asset_name": "instagram-armeabi-v7a-revanced.apk",
     "package_id": "com.instagram.android",
     "version_name": "271.1.0.21.84",
@@ -251,13 +241,13 @@
   },
   {
     "app_name": "Instagram",
-    "asset_name": "instagram-arm64-v8a-gnadgnaoh.apk",
+    "asset_name": "instagram-arm64-v8a-revanced-experiments.apk",
     "package_id": "com.instagram.android",
-    "version_name": "444.0.0.46.85",
-    "sha256": "d64924a261102511370e4b8d6cbebb3d3399c206700834e8b42d327dfa9709de",
+    "version_name": "362.0.0.33.241",
+    "sha256": "539ea84466aabf7ed3838830419fe19d5d01adb56e2fec1e49838c284cb5ce93",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.instagram.android",
-    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/instagram-arm64-v8a-gnadgnaoh.apk",
-    "discoverium_file": "../discoverium/com.instagram.android__instagram-arm64-v8a-gnadgnaoh.json"
+    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/instagram-arm64-v8a-revanced-experiments.apk",
+    "discoverium_file": "../discoverium/com.instagram.android__instagram-arm64-v8a-revanced-experiments.json"
   },
   {
     "app_name": "Instagram",
@@ -271,6 +261,16 @@
   },
   {
     "app_name": "Instagram",
+    "asset_name": "instagram-arm64-v8a-gnadgnaoh.apk",
+    "package_id": "com.instagram.android",
+    "version_name": "444.0.0.46.85",
+    "sha256": "d64924a261102511370e4b8d6cbebb3d3399c206700834e8b42d327dfa9709de",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.instagram.android",
+    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/instagram-arm64-v8a-gnadgnaoh.apk",
+    "discoverium_file": "../discoverium/com.instagram.android__instagram-arm64-v8a-gnadgnaoh.json"
+  },
+  {
+    "app_name": "Instagram",
     "asset_name": "instagram-arm64-v8a-piko.apk",
     "package_id": "com.instagram.android",
     "version_name": "439.0.0.37.89",
@@ -278,16 +278,6 @@
     "play_store_url": "https://play.google.com/store/apps/details?id=com.instagram.android",
     "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/instagram-arm64-v8a-piko.apk",
     "discoverium_file": "../discoverium/com.instagram.android__instagram-arm64-v8a-piko.json"
-  },
-  {
-    "app_name": "Instagram",
-    "asset_name": "instagram-beta-arm64-v8a-piko.apk",
-    "package_id": "com.instagram.android",
-    "version_name": "439.0.0.37.89",
-    "sha256": "51b76608746c36375be8cba6c2d43c16254f2151155953edc529e285b592cf8c",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.instagram.android",
-    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/instagram-beta-arm64-v8a-piko.apk",
-    "discoverium_file": "../discoverium/com.instagram.android__instagram-beta-arm64-v8a-piko.json"
   },
   {
     "app_name": "Instagram",
@@ -300,14 +290,14 @@
     "discoverium_file": "../discoverium/com.instagram.android__instagram-instafel.json"
   },
   {
-    "app_name": "Lightroom for Samsung",
-    "asset_name": "lightroom-revanced.apk",
-    "package_id": "com.adobe.lrmobile",
-    "version_name": "10.0.2",
-    "sha256": "6f1eea99cc0b9180a643901cbd95e9e99a975ce4dd951422cc8e229e949d67ea",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.adobe.lrmobile",
-    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/lightroom-revanced.apk",
-    "discoverium_file": "../discoverium/com.adobe.lrmobile__lightroom-revanced.json"
+    "app_name": "Instagram",
+    "asset_name": "instagram-beta-arm64-v8a-piko.apk",
+    "package_id": "com.instagram.android",
+    "version_name": "439.0.0.37.89",
+    "sha256": "51b76608746c36375be8cba6c2d43c16254f2151155953edc529e285b592cf8c",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.instagram.android",
+    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/instagram-beta-arm64-v8a-piko.apk",
+    "discoverium_file": "../discoverium/com.instagram.android__instagram-beta-arm64-v8a-piko.json"
   },
   {
     "app_name": "Lightroom for Samsung",
@@ -318,6 +308,16 @@
     "play_store_url": "https://play.google.com/store/apps/details?id=com.adobe.lrmobile",
     "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/lightroom-beta-revanced.apk",
     "discoverium_file": "../discoverium/com.adobe.lrmobile__lightroom-beta-revanced.json"
+  },
+  {
+    "app_name": "Lightroom for Samsung",
+    "asset_name": "lightroom-revanced.apk",
+    "package_id": "com.adobe.lrmobile",
+    "version_name": "10.0.2",
+    "sha256": "6f1eea99cc0b9180a643901cbd95e9e99a975ce4dd951422cc8e229e949d67ea",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.adobe.lrmobile",
+    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/lightroom-revanced.apk",
+    "discoverium_file": "../discoverium/com.adobe.lrmobile__lightroom-revanced.json"
   },
   {
     "app_name": "Messenger",
@@ -331,16 +331,6 @@
   },
   {
     "app_name": "Messenger",
-    "asset_name": "messenger-arm64-v8a-derevanced.apk",
-    "package_id": "com.facebook.orca",
-    "version_name": "573.0.0.44.88",
-    "sha256": "e5fb5a401ff207c358220d701955a3838e261e7b3953ce49c135818dff39f07c",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.facebook.orca",
-    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/messenger-arm64-v8a-derevanced.apk",
-    "discoverium_file": "../discoverium/com.facebook.orca__messenger-arm64-v8a-derevanced.json"
-  },
-  {
-    "app_name": "Messenger",
     "asset_name": "messenger-arm64-v8a-revanced.apk",
     "package_id": "com.facebook.orca",
     "version_name": "552.0.0.44.65",
@@ -348,6 +338,16 @@
     "play_store_url": "https://play.google.com/store/apps/details?id=com.facebook.orca",
     "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/messenger-arm64-v8a-revanced.apk",
     "discoverium_file": "../discoverium/com.facebook.orca__messenger-arm64-v8a-revanced.json"
+  },
+  {
+    "app_name": "Messenger",
+    "asset_name": "messenger-arm64-v8a-derevanced.apk",
+    "package_id": "com.facebook.orca",
+    "version_name": "573.0.0.44.88",
+    "sha256": "e5fb5a401ff207c358220d701955a3838e261e7b3953ce49c135818dff39f07c",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.facebook.orca",
+    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/messenger-arm64-v8a-derevanced.apk",
+    "discoverium_file": "../discoverium/com.facebook.orca__messenger-arm64-v8a-derevanced.json"
   },
   {
     "app_name": "Messenger",
@@ -401,16 +401,6 @@
   },
   {
     "app_name": "Photomath",
-    "asset_name": "photomath-revanced.apk",
-    "package_id": "com.microblink.photomath",
-    "version_name": "8.47.0",
-    "sha256": "cf982c1de08632766e6086c3a5e9f6b6d11a763a211cb9070c0990d714a95260",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.microblink.photomath",
-    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/photomath-revanced.apk",
-    "discoverium_file": "../discoverium/com.microblink.photomath__photomath-revanced.json"
-  },
-  {
-    "app_name": "Photomath",
     "asset_name": "photomath-derevanced.apk",
     "package_id": "com.microblink.photomath",
     "version_name": "8.48.0",
@@ -420,24 +410,14 @@
     "discoverium_file": "../discoverium/com.microblink.photomath__photomath-derevanced.json"
   },
   {
-    "app_name": "Photos",
-    "asset_name": "gg-photos-arm64-v8a-revanced.apk",
-    "package_id": "app.revanced.android.photos",
-    "version_name": "7.67.0.885128921",
-    "sha256": "915276008a8ab470ce73b03d8285e93843381e3b6c51251e3bebd255817028b6",
-    "play_store_url": "",
-    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/gg-photos-arm64-v8a-revanced.apk",
-    "discoverium_file": "../discoverium/app.revanced.android.photos__gg-photos-arm64-v8a-revanced.json"
-  },
-  {
-    "app_name": "Photos",
-    "asset_name": "gg-photos-arm64-v8a-beta-revanced.apk",
-    "package_id": "app.revanced.android.photos",
-    "version_name": "7.64.0.874762840",
-    "sha256": "1d257c7d7ebe0bd658ebad253a280cf83db3c46a3c0936d67b91e31ffda3485f",
-    "play_store_url": "",
-    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/gg-photos-arm64-v8a-beta-revanced.apk",
-    "discoverium_file": "../discoverium/app.revanced.android.photos__gg-photos-arm64-v8a-beta-revanced.json"
+    "app_name": "Photomath",
+    "asset_name": "photomath-revanced.apk",
+    "package_id": "com.microblink.photomath",
+    "version_name": "8.47.0",
+    "sha256": "cf982c1de08632766e6086c3a5e9f6b6d11a763a211cb9070c0990d714a95260",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.microblink.photomath",
+    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/photomath-revanced.apk",
+    "discoverium_file": "../discoverium/com.microblink.photomath__photomath-revanced.json"
   },
   {
     "app_name": "Photos",
@@ -451,6 +431,16 @@
   },
   {
     "app_name": "Photos",
+    "asset_name": "gg-photos-arm64-v8a-revanced.apk",
+    "package_id": "app.revanced.android.photos",
+    "version_name": "7.67.0.885128921",
+    "sha256": "915276008a8ab470ce73b03d8285e93843381e3b6c51251e3bebd255817028b6",
+    "play_store_url": "",
+    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/gg-photos-arm64-v8a-revanced.apk",
+    "discoverium_file": "../discoverium/app.revanced.android.photos__gg-photos-arm64-v8a-revanced.json"
+  },
+  {
+    "app_name": "Photos",
     "asset_name": "gg-photos-arm64-v8a-derevanced.apk",
     "package_id": "app.morphe.android.apps.photos",
     "version_name": "7.90.0.971743778",
@@ -458,6 +448,16 @@
     "play_store_url": "",
     "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/gg-photos-arm64-v8a-derevanced.apk",
     "discoverium_file": "../discoverium/app.morphe.android.apps.photos__gg-photos-arm64-v8a-derevanced.json"
+  },
+  {
+    "app_name": "Photos",
+    "asset_name": "gg-photos-arm64-v8a-beta-revanced.apk",
+    "package_id": "app.revanced.android.photos",
+    "version_name": "7.64.0.874762840",
+    "sha256": "1d257c7d7ebe0bd658ebad253a280cf83db3c46a3c0936d67b91e31ffda3485f",
+    "play_store_url": "",
+    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/gg-photos-arm64-v8a-beta-revanced.apk",
+    "discoverium_file": "../discoverium/app.revanced.android.photos__gg-photos-arm64-v8a-beta-revanced.json"
   },
   {
     "app_name": "Photos",
@@ -521,16 +521,6 @@
   },
   {
     "app_name": "pixiv",
-    "asset_name": "pixiv-beta-revanced.apk",
-    "package_id": "jp.pxv.android",
-    "version_name": "6.141.1",
-    "sha256": "8b1db2da0746adb87e40dfa8cbcf9928e1b3862ec357d2389dc7e68ec3693408",
-    "play_store_url": "https://play.google.com/store/apps/details?id=jp.pxv.android",
-    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/pixiv-beta-revanced.apk",
-    "discoverium_file": "../discoverium/jp.pxv.android__pixiv-beta-revanced.json"
-  },
-  {
-    "app_name": "pixiv",
     "asset_name": "pixiv-revanced.apk",
     "package_id": "jp.pxv.android",
     "version_name": "6.141.1",
@@ -538,6 +528,16 @@
     "play_store_url": "https://play.google.com/store/apps/details?id=jp.pxv.android",
     "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/pixiv-revanced.apk",
     "discoverium_file": "../discoverium/jp.pxv.android__pixiv-revanced.json"
+  },
+  {
+    "app_name": "pixiv",
+    "asset_name": "pixiv-beta-revanced.apk",
+    "package_id": "jp.pxv.android",
+    "version_name": "6.141.1",
+    "sha256": "8b1db2da0746adb87e40dfa8cbcf9928e1b3862ec357d2389dc7e68ec3693408",
+    "play_store_url": "https://play.google.com/store/apps/details?id=jp.pxv.android",
+    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/pixiv-beta-revanced.apk",
+    "discoverium_file": "../discoverium/jp.pxv.android__pixiv-beta-revanced.json"
   },
   {
     "app_name": "Prime Video",
@@ -561,16 +561,6 @@
   },
   {
     "app_name": "Proton Mail",
-    "asset_name": "protonmail-derevanced.apk",
-    "package_id": "ch.protonmail.android",
-    "version_name": "7.11.5",
-    "sha256": "8ff802b248bb3a4f15cc12be6b369ed235edff4c1dd31dddda6fe2b8525c81a7",
-    "play_store_url": "https://play.google.com/store/apps/details?id=ch.protonmail.android",
-    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/protonmail-derevanced.apk",
-    "discoverium_file": "../discoverium/ch.protonmail.android__protonmail-derevanced.json"
-  },
-  {
-    "app_name": "Proton Mail",
     "asset_name": "protonmail-revanced.apk",
     "package_id": "ch.protonmail.android",
     "version_name": "4.15.0",
@@ -578,6 +568,16 @@
     "play_store_url": "https://play.google.com/store/apps/details?id=ch.protonmail.android",
     "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/protonmail-revanced.apk",
     "discoverium_file": "../discoverium/ch.protonmail.android__protonmail-revanced.json"
+  },
+  {
+    "app_name": "Proton Mail",
+    "asset_name": "protonmail-derevanced.apk",
+    "package_id": "ch.protonmail.android",
+    "version_name": "7.11.5",
+    "sha256": "8ff802b248bb3a4f15cc12be6b369ed235edff4c1dd31dddda6fe2b8525c81a7",
+    "play_store_url": "https://play.google.com/store/apps/details?id=ch.protonmail.android",
+    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/protonmail-derevanced.apk",
+    "discoverium_file": "../discoverium/ch.protonmail.android__protonmail-derevanced.json"
   },
   {
     "app_name": "Proton VPN",
@@ -601,16 +601,6 @@
   },
   {
     "app_name": "Proton VPN",
-    "asset_name": "protonvpn-rushiranpise.apk",
-    "package_id": "ch.protonvpn.android",
-    "version_name": "5.19.78.0",
-    "sha256": "ecdcbfd319dfd4a4e293285bd3bcc22c27ccc27a2ef4c3fee19f4d0406219101",
-    "play_store_url": "https://play.google.com/store/apps/details?id=ch.protonvpn.android",
-    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/protonvpn-rushiranpise.apk",
-    "discoverium_file": "../discoverium/ch.protonvpn.android__protonvpn-rushiranpise.json"
-  },
-  {
-    "app_name": "Proton VPN",
     "asset_name": "protonvpn-revanced.apk",
     "package_id": "ch.protonvpn.android",
     "version_name": "5.16.88.0",
@@ -620,24 +610,24 @@
     "discoverium_file": "../discoverium/ch.protonvpn.android__protonvpn-revanced.json"
   },
   {
+    "app_name": "Proton VPN",
+    "asset_name": "protonvpn-rushiranpise.apk",
+    "package_id": "ch.protonvpn.android",
+    "version_name": "5.19.78.0",
+    "sha256": "3aaf978d8519f6246d5bc53da60b74fa91077d77499949c7c8b5fe1587882ebc",
+    "play_store_url": "https://play.google.com/store/apps/details?id=ch.protonvpn.android",
+    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/protonvpn-rushiranpise.apk",
+    "discoverium_file": "../discoverium/ch.protonvpn.android__protonvpn-rushiranpise.json"
+  },
+  {
     "app_name": "Psiphon Pro",
     "asset_name": "psiphon-rushiranpise.apk",
     "package_id": "com.psiphon3.subscription",
     "version_name": "479",
-    "sha256": "02ef25d32cd248be55929268f001b9609949c3504e61038a9f8f7dfe0bf18b9f",
+    "sha256": "c36c11e808ac0ae19a78a1eac80a78c4b515997f9c376091349a7a9a18121308",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.psiphon3.subscription",
     "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/psiphon-rushiranpise.apk",
     "discoverium_file": "../discoverium/com.psiphon3.subscription__psiphon-rushiranpise.json"
-  },
-  {
-    "app_name": "RAR",
-    "asset_name": "rar-derevanced.apk",
-    "package_id": "com.rarlab.rar",
-    "version_name": "7.23.build134",
-    "sha256": "0d3821f07b0ee67f1f4e6cbe21821763961c1454446fc58fbc297db8e8b1e96c",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.rarlab.rar",
-    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/rar-derevanced.apk",
-    "discoverium_file": "../discoverium/com.rarlab.rar__rar-derevanced.json"
   },
   {
     "app_name": "RAR",
@@ -648,6 +638,16 @@
     "play_store_url": "https://play.google.com/store/apps/details?id=com.rarlab.rar",
     "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/rar-beta-revanced.apk",
     "discoverium_file": "../discoverium/com.rarlab.rar__rar-beta-revanced.json"
+  },
+  {
+    "app_name": "RAR",
+    "asset_name": "rar-derevanced.apk",
+    "package_id": "com.rarlab.rar",
+    "version_name": "7.23.build134",
+    "sha256": "0d3821f07b0ee67f1f4e6cbe21821763961c1454446fc58fbc297db8e8b1e96c",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.rarlab.rar",
+    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/rar-derevanced.apk",
+    "discoverium_file": "../discoverium/com.rarlab.rar__rar-derevanced.json"
   },
   {
     "app_name": "RAR",
@@ -691,13 +691,13 @@
   },
   {
     "app_name": "Reddit",
-    "asset_name": "reddit-arm64-v8a-beta-morphe.apk",
+    "asset_name": "reddit-arm64-v8a-revanced-extended-arsclib.apk",
     "package_id": "com.reddit.frontpage",
-    "version_name": "2026.35.0",
-    "sha256": "da1e340e8ccc92046915785004fbd2a9b79625cb6c30d0ff2c54c5116c39758d",
+    "version_name": "2025.52.0",
+    "sha256": "91d6427ddd8864455b1fc638edef0e792af82c5084311a6666bcf452d1d0ab8d",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.reddit.frontpage",
-    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/reddit-arm64-v8a-beta-morphe.apk",
-    "discoverium_file": "../discoverium/com.reddit.frontpage__reddit-arm64-v8a-beta-morphe.json"
+    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/reddit-arm64-v8a-revanced-extended-arsclib.apk",
+    "discoverium_file": "../discoverium/com.reddit.frontpage__reddit-arm64-v8a-revanced-extended-arsclib.json"
   },
   {
     "app_name": "Reddit",
@@ -711,13 +711,13 @@
   },
   {
     "app_name": "Reddit",
-    "asset_name": "reddit-arm64-v8a-revanced-extended-arsclib.apk",
+    "asset_name": "reddit-arm64-v8a-beta-morphe.apk",
     "package_id": "com.reddit.frontpage",
-    "version_name": "2025.52.0",
-    "sha256": "91d6427ddd8864455b1fc638edef0e792af82c5084311a6666bcf452d1d0ab8d",
+    "version_name": "2026.35.0",
+    "sha256": "014aac60f29eaaa230d4caf8bcc2edc9964a78a36538d567fd19fcce609fd5b0",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.reddit.frontpage",
-    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/reddit-arm64-v8a-revanced-extended-arsclib.apk",
-    "discoverium_file": "../discoverium/com.reddit.frontpage__reddit-arm64-v8a-revanced-extended-arsclib.json"
+    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/reddit-arm64-v8a-beta-morphe.apk",
+    "discoverium_file": "../discoverium/com.reddit.frontpage__reddit-arm64-v8a-beta-morphe.json"
   },
   {
     "app_name": "Reddit",
@@ -731,26 +731,6 @@
   },
   {
     "app_name": "Reddit",
-    "asset_name": "reddit-morphe.apk",
-    "package_id": "com.reddit.frontpage",
-    "version_name": "2026.14.0",
-    "sha256": "7f570ee2fe547968fd81f25e7bd830380c88677dcb68ecc2be42be20a3ac6a25",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.reddit.frontpage",
-    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/reddit-morphe.apk",
-    "discoverium_file": "../discoverium/com.reddit.frontpage__reddit-morphe.json"
-  },
-  {
-    "app_name": "Reddit",
-    "asset_name": "reddit-beta-revanced-extended.apk",
-    "package_id": "com.reddit.frontpage",
-    "version_name": "2025.12.1",
-    "sha256": "68179c1ba8bb4fdc73328bf5fecb9c9ec0f614288217c0acb54db09a4dc9bc2e",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.reddit.frontpage",
-    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/reddit-beta-revanced-extended.apk",
-    "discoverium_file": "../discoverium/com.reddit.frontpage__reddit-beta-revanced-extended.json"
-  },
-  {
-    "app_name": "Reddit",
     "asset_name": "reddit-beta-arm64-v8a-revanced.apk",
     "package_id": "com.reddit.frontpage",
     "version_name": "2026.09.0",
@@ -758,6 +738,16 @@
     "play_store_url": "https://play.google.com/store/apps/details?id=com.reddit.frontpage",
     "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/reddit-beta-arm64-v8a-revanced.apk",
     "discoverium_file": "../discoverium/com.reddit.frontpage__reddit-beta-arm64-v8a-revanced.json"
+  },
+  {
+    "app_name": "Reddit",
+    "asset_name": "reddit-morphe.apk",
+    "package_id": "com.reddit.frontpage",
+    "version_name": "2026.14.0",
+    "sha256": "7f570ee2fe547968fd81f25e7bd830380c88677dcb68ecc2be42be20a3ac6a25",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.reddit.frontpage",
+    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/reddit-morphe.apk",
+    "discoverium_file": "../discoverium/com.reddit.frontpage__reddit-morphe.json"
   },
   {
     "app_name": "Reddit",
@@ -771,13 +761,13 @@
   },
   {
     "app_name": "Reddit",
-    "asset_name": "reddit-beta-morphe.apk",
+    "asset_name": "reddit-beta-revanced.apk",
     "package_id": "com.reddit.frontpage",
-    "version_name": "2026.35.0",
-    "sha256": "29109dff089cc217f94204acd2f84120d65745abd262d468b056e2729c080cc7",
+    "version_name": "2026.09.0",
+    "sha256": "5588a0c1c9c203730743bc2e54b9654981950efe1490d7145a7a5db5b23236ff",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.reddit.frontpage",
-    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/reddit-beta-morphe.apk",
-    "discoverium_file": "../discoverium/com.reddit.frontpage__reddit-beta-morphe.json"
+    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/reddit-beta-revanced.apk",
+    "discoverium_file": "../discoverium/com.reddit.frontpage__reddit-beta-revanced.json"
   },
   {
     "app_name": "Reddit",
@@ -791,13 +781,23 @@
   },
   {
     "app_name": "Reddit",
-    "asset_name": "reddit-beta-revanced.apk",
+    "asset_name": "reddit-beta-revanced-extended.apk",
     "package_id": "com.reddit.frontpage",
-    "version_name": "2026.09.0",
-    "sha256": "5588a0c1c9c203730743bc2e54b9654981950efe1490d7145a7a5db5b23236ff",
+    "version_name": "2025.12.1",
+    "sha256": "68179c1ba8bb4fdc73328bf5fecb9c9ec0f614288217c0acb54db09a4dc9bc2e",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.reddit.frontpage",
-    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/reddit-beta-revanced.apk",
-    "discoverium_file": "../discoverium/com.reddit.frontpage__reddit-beta-revanced.json"
+    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/reddit-beta-revanced-extended.apk",
+    "discoverium_file": "../discoverium/com.reddit.frontpage__reddit-beta-revanced-extended.json"
+  },
+  {
+    "app_name": "Reddit",
+    "asset_name": "reddit-beta-morphe.apk",
+    "package_id": "com.reddit.frontpage",
+    "version_name": "2026.35.0",
+    "sha256": "3d9f9d06c7cbcac5c3d2aa009ec9990ad5049a1207016550d1545a63e292b331",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.reddit.frontpage",
+    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/reddit-beta-morphe.apk",
+    "discoverium_file": "../discoverium/com.reddit.frontpage__reddit-beta-morphe.json"
   },
   {
     "app_name": "Reddit",
@@ -921,16 +921,6 @@
   },
   {
     "app_name": "RVX",
-    "asset_name": "youtube-beta-x86-revanced-extended.apk",
-    "package_id": "app.rvx.android.youtube",
-    "version_name": "20.05.46",
-    "sha256": "8122e5c58c97bf85a21abdb5f6401bebb621f125f6f62f8daf8e0256b706d6e5",
-    "play_store_url": "",
-    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-beta-x86-revanced-extended.apk",
-    "discoverium_file": "../discoverium/app.rvx.android.youtube__youtube-beta-x86-revanced-extended.json"
-  },
-  {
-    "app_name": "RVX",
     "asset_name": "youtube-beta-revanced-extended.apk",
     "package_id": "app.rvx.android.youtube",
     "version_name": "20.05.46",
@@ -938,6 +928,16 @@
     "play_store_url": "",
     "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-beta-revanced-extended.apk",
     "discoverium_file": "../discoverium/app.rvx.android.youtube__youtube-beta-revanced-extended.json"
+  },
+  {
+    "app_name": "RVX",
+    "asset_name": "youtube-beta-x86-revanced-extended.apk",
+    "package_id": "app.rvx.android.youtube",
+    "version_name": "20.05.46",
+    "sha256": "8122e5c58c97bf85a21abdb5f6401bebb621f125f6f62f8daf8e0256b706d6e5",
+    "play_store_url": "",
+    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-beta-x86-revanced-extended.apk",
+    "discoverium_file": "../discoverium/app.rvx.android.youtube__youtube-beta-x86-revanced-extended.json"
   },
   {
     "app_name": "RVX",
@@ -971,16 +971,6 @@
   },
   {
     "app_name": "RVX",
-    "asset_name": "youtube-lite-armeabi-v7a-anddea.apk",
-    "package_id": "anddea.youtube",
-    "version_name": "20.05.46",
-    "sha256": "cf00be5e8bbcc6c9ea9d1ea5f7504baae3659f8ddbe56be38d986fe9e256a5f2",
-    "play_store_url": "",
-    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-lite-armeabi-v7a-anddea.apk",
-    "discoverium_file": "../discoverium/anddea.youtube__youtube-lite-armeabi-v7a-anddea.json"
-  },
-  {
-    "app_name": "RVX",
     "asset_name": "youtube-lite-armeabi-v7a-revanced-extended.apk",
     "package_id": "app.rvx.android.youtube",
     "version_name": "20.05.46",
@@ -991,13 +981,13 @@
   },
   {
     "app_name": "RVX",
-    "asset_name": "youtube-lite-beta-arm64-v8a-revanced-extended.apk",
-    "package_id": "app.rvx.android.youtube",
+    "asset_name": "youtube-lite-armeabi-v7a-anddea.apk",
+    "package_id": "anddea.youtube",
     "version_name": "20.05.46",
-    "sha256": "17799925f223038806b7f7917f39893392c5e2371e19d9013c0bcb992891b1d9",
+    "sha256": "cf00be5e8bbcc6c9ea9d1ea5f7504baae3659f8ddbe56be38d986fe9e256a5f2",
     "play_store_url": "",
-    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-lite-beta-arm64-v8a-revanced-extended.apk",
-    "discoverium_file": "../discoverium/app.rvx.android.youtube__youtube-lite-beta-arm64-v8a-revanced-extended.json"
+    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-lite-armeabi-v7a-anddea.apk",
+    "discoverium_file": "../discoverium/anddea.youtube__youtube-lite-armeabi-v7a-anddea.json"
   },
   {
     "app_name": "RVX",
@@ -1008,6 +998,16 @@
     "play_store_url": "",
     "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-lite-beta-armeabi-v7a-revanced-extended.apk",
     "discoverium_file": "../discoverium/app.rvx.android.youtube__youtube-lite-beta-armeabi-v7a-revanced-extended.json"
+  },
+  {
+    "app_name": "RVX",
+    "asset_name": "youtube-lite-beta-arm64-v8a-revanced-extended.apk",
+    "package_id": "app.rvx.android.youtube",
+    "version_name": "20.05.46",
+    "sha256": "17799925f223038806b7f7917f39893392c5e2371e19d9013c0bcb992891b1d9",
+    "play_store_url": "",
+    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-lite-beta-arm64-v8a-revanced-extended.apk",
+    "discoverium_file": "../discoverium/app.rvx.android.youtube__youtube-lite-beta-arm64-v8a-revanced-extended.json"
   },
   {
     "app_name": "RVX",
@@ -1121,16 +1121,6 @@
   },
   {
     "app_name": "RVX Anddea",
-    "asset_name": "youtube-stable-anddea.apk",
-    "package_id": "anddea.youtube",
-    "version_name": "20.51.39",
-    "sha256": "cca52e8630a9ecb090319f3e2bc092b740a5c80bba62164c70211dd2537961cc",
-    "play_store_url": "",
-    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-stable-anddea.apk",
-    "discoverium_file": "../discoverium/anddea.youtube__youtube-stable-anddea.json"
-  },
-  {
-    "app_name": "RVX Anddea",
     "asset_name": "youtube-stable-arm64-v8a-anddea.apk",
     "package_id": "anddea.youtube",
     "version_name": "20.51.39",
@@ -1138,6 +1128,16 @@
     "play_store_url": "",
     "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-stable-arm64-v8a-anddea.apk",
     "discoverium_file": "../discoverium/anddea.youtube__youtube-stable-arm64-v8a-anddea.json"
+  },
+  {
+    "app_name": "RVX Anddea",
+    "asset_name": "youtube-stable-anddea.apk",
+    "package_id": "anddea.youtube",
+    "version_name": "20.51.39",
+    "sha256": "cca52e8630a9ecb090319f3e2bc092b740a5c80bba62164c70211dd2537961cc",
+    "play_store_url": "",
+    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-stable-anddea.apk",
+    "discoverium_file": "../discoverium/anddea.youtube__youtube-stable-anddea.json"
   },
   {
     "app_name": "RVX Anddea",
@@ -1171,16 +1171,6 @@
   },
   {
     "app_name": "RVX Music",
-    "asset_name": "youtube-beta-music-armeabi-v7a-revanced-extended.apk",
-    "package_id": "app.rvx.android.apps.youtube.music",
-    "version_name": "8.02.52",
-    "sha256": "8eebd430dbc436e2a78968f20430a92257cbaa32c8d5c577eaddb543fa769f1c",
-    "play_store_url": "",
-    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-beta-music-armeabi-v7a-revanced-extended.apk",
-    "discoverium_file": "../discoverium/app.rvx.android.apps.youtube.music__youtube-beta-music-armeabi-v7a-revanced-extended.json"
-  },
-  {
-    "app_name": "RVX Music",
     "asset_name": "youtube-beta-music-arm64-v8a-revanced-extended.apk",
     "package_id": "app.rvx.android.apps.youtube.music",
     "version_name": "8.30.54",
@@ -1188,6 +1178,16 @@
     "play_store_url": "",
     "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-beta-music-arm64-v8a-revanced-extended.apk",
     "discoverium_file": "../discoverium/app.rvx.android.apps.youtube.music__youtube-beta-music-arm64-v8a-revanced-extended.json"
+  },
+  {
+    "app_name": "RVX Music",
+    "asset_name": "youtube-beta-music-armeabi-v7a-revanced-extended.apk",
+    "package_id": "app.rvx.android.apps.youtube.music",
+    "version_name": "8.02.52",
+    "sha256": "8eebd430dbc436e2a78968f20430a92257cbaa32c8d5c577eaddb543fa769f1c",
+    "play_store_url": "",
+    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-beta-music-armeabi-v7a-revanced-extended.apk",
+    "discoverium_file": "../discoverium/app.rvx.android.apps.youtube.music__youtube-beta-music-armeabi-v7a-revanced-extended.json"
   },
   {
     "app_name": "RVX Music",
@@ -1321,16 +1321,6 @@
   },
   {
     "app_name": "SoundCloud",
-    "asset_name": "soundcloud-arm64-v8a-derevanced.apk",
-    "package_id": "com.soundcloud.android",
-    "version_name": "2026.08.26-release",
-    "sha256": "3f098723fa5c1ff68f1c80f7c916dd3949f910701b87e693bc2bd7b7990a1af1",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.soundcloud.android",
-    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/soundcloud-arm64-v8a-derevanced.apk",
-    "discoverium_file": "../discoverium/com.soundcloud.android__soundcloud-arm64-v8a-derevanced.json"
-  },
-  {
-    "app_name": "SoundCloud",
     "asset_name": "soundcloud-arm64-v8a-beta-revanced.apk",
     "package_id": "com.soundcloud.android",
     "version_name": "2026.02.20-release",
@@ -1341,13 +1331,23 @@
   },
   {
     "app_name": "SoundCloud",
-    "asset_name": "soundcloud-beta-revanced.apk",
+    "asset_name": "soundcloud-derevanced.apk",
     "package_id": "com.soundcloud.android",
-    "version_name": "2026.02.20-release",
-    "sha256": "dd880d65ce62fd2ab6945431a8ff0785a9aa28887af7d4ef3cbe0033aa925c32",
+    "version_name": "2026.08.26-release",
+    "sha256": "d9537c30fbb81e05e63c284af3c74657d2ba2911a54c246d733f5e833e61b0fe",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.soundcloud.android",
-    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/soundcloud-beta-revanced.apk",
-    "discoverium_file": "../discoverium/com.soundcloud.android__soundcloud-beta-revanced.json"
+    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/soundcloud-derevanced.apk",
+    "discoverium_file": "../discoverium/com.soundcloud.android__soundcloud-derevanced.json"
+  },
+  {
+    "app_name": "SoundCloud",
+    "asset_name": "soundcloud-arm64-v8a-derevanced.apk",
+    "package_id": "com.soundcloud.android",
+    "version_name": "2026.08.26-release",
+    "sha256": "3f098723fa5c1ff68f1c80f7c916dd3949f910701b87e693bc2bd7b7990a1af1",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.soundcloud.android",
+    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/soundcloud-arm64-v8a-derevanced.apk",
+    "discoverium_file": "../discoverium/com.soundcloud.android__soundcloud-arm64-v8a-derevanced.json"
   },
   {
     "app_name": "SoundCloud",
@@ -1361,13 +1361,13 @@
   },
   {
     "app_name": "SoundCloud",
-    "asset_name": "soundcloud-derevanced.apk",
+    "asset_name": "soundcloud-beta-revanced.apk",
     "package_id": "com.soundcloud.android",
-    "version_name": "2026.08.26-release",
-    "sha256": "d9537c30fbb81e05e63c284af3c74657d2ba2911a54c246d733f5e833e61b0fe",
+    "version_name": "2026.02.20-release",
+    "sha256": "dd880d65ce62fd2ab6945431a8ff0785a9aa28887af7d4ef3cbe0033aa925c32",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.soundcloud.android",
-    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/soundcloud-derevanced.apk",
-    "discoverium_file": "../discoverium/com.soundcloud.android__soundcloud-derevanced.json"
+    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/soundcloud-beta-revanced.apk",
+    "discoverium_file": "../discoverium/com.soundcloud.android__soundcloud-beta-revanced.json"
   },
   {
     "app_name": "SoundCloud",
@@ -1391,13 +1391,13 @@
   },
   {
     "app_name": "Strava",
-    "asset_name": "strava-arm64-v8a-derevanced.apk",
+    "asset_name": "strava-arm64-v8a-revanced.apk",
     "package_id": "com.strava",
-    "version_name": "464.15",
-    "sha256": "c87fce3cd0d06497ef241c6f41beac86e2aefe168a5fa2f16e28525f4ee0a14b",
+    "version_name": "455.11",
+    "sha256": "7e5b5efb006794aa75ba549c6103fb487fd0f52addbb78956a603d3163e76987",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.strava",
-    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/strava-arm64-v8a-derevanced.apk",
-    "discoverium_file": "../discoverium/com.strava__strava-arm64-v8a-derevanced.json"
+    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/strava-arm64-v8a-revanced.apk",
+    "discoverium_file": "../discoverium/com.strava__strava-arm64-v8a-revanced.json"
   },
   {
     "app_name": "Strava",
@@ -1411,13 +1411,13 @@
   },
   {
     "app_name": "Strava",
-    "asset_name": "strava-arm64-v8a-revanced.apk",
+    "asset_name": "strava-arm64-v8a-derevanced.apk",
     "package_id": "com.strava",
-    "version_name": "455.11",
-    "sha256": "7e5b5efb006794aa75ba549c6103fb487fd0f52addbb78956a603d3163e76987",
+    "version_name": "464.15",
+    "sha256": "c87fce3cd0d06497ef241c6f41beac86e2aefe168a5fa2f16e28525f4ee0a14b",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.strava",
-    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/strava-arm64-v8a-revanced.apk",
-    "discoverium_file": "../discoverium/com.strava__strava-arm64-v8a-revanced.json"
+    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/strava-arm64-v8a-derevanced.apk",
+    "discoverium_file": "../discoverium/com.strava__strava-arm64-v8a-derevanced.json"
   },
   {
     "app_name": "Tasker",
@@ -1471,16 +1471,6 @@
   },
   {
     "app_name": "Threads",
-    "asset_name": "threads-arm64-v8a-gnadgnaoh.apk",
-    "package_id": "com.instagram.barcelona",
-    "version_name": "445.0.0.46.83",
-    "sha256": "8c6ff9f2d6ab8f9183b19923f91809eee494376c9a33bdc07c9f6639f5c6dc04",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.instagram.barcelona",
-    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/threads-arm64-v8a-gnadgnaoh.apk",
-    "discoverium_file": "../discoverium/com.instagram.barcelona__threads-arm64-v8a-gnadgnaoh.json"
-  },
-  {
-    "app_name": "Threads",
     "asset_name": "threads-arm64-v8a-revanced.apk",
     "package_id": "com.instagram.barcelona",
     "version_name": "382.0.0.51.85",
@@ -1488,6 +1478,16 @@
     "play_store_url": "https://play.google.com/store/apps/details?id=com.instagram.barcelona",
     "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/threads-arm64-v8a-revanced.apk",
     "discoverium_file": "../discoverium/com.instagram.barcelona__threads-arm64-v8a-revanced.json"
+  },
+  {
+    "app_name": "Threads",
+    "asset_name": "threads-arm64-v8a-gnadgnaoh.apk",
+    "package_id": "com.instagram.barcelona",
+    "version_name": "445.0.0.46.83",
+    "sha256": "8c6ff9f2d6ab8f9183b19923f91809eee494376c9a33bdc07c9f6639f5c6dc04",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.instagram.barcelona",
+    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/threads-arm64-v8a-gnadgnaoh.apk",
+    "discoverium_file": "../discoverium/com.instagram.barcelona__threads-arm64-v8a-gnadgnaoh.json"
   },
   {
     "app_name": "Threads",
@@ -1564,7 +1564,7 @@
     "asset_name": "tiktok-icysymmetra.apk",
     "package_id": "com.zhiliaoapp.musically",
     "version_name": "46.2.3",
-    "sha256": "cd71db65e90f09cb2edf357ac5829e18d8dc42e3cffcd00b038fedb993bc1343",
+    "sha256": "2564ca425cfdc515bdfe0385b6375c0b23417b8cf06e61ec9ee82aa7064b201d",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically",
     "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/tiktok-icysymmetra.apk",
     "discoverium_file": "../discoverium/com.zhiliaoapp.musically__tiktok-icysymmetra.json"
@@ -1581,16 +1581,6 @@
   },
   {
     "app_name": "Truecaller",
-    "asset_name": "truecaller-arm64-v8a-bufferk.apk",
-    "package_id": "com.truecaller",
-    "version_name": "26.10.6",
-    "sha256": "3cb5703c25cffa8cc3ce33fba6dc5d6c9e4d63117bf0fd67f9ac81cebcd1efee",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.truecaller",
-    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/truecaller-arm64-v8a-bufferk.apk",
-    "discoverium_file": "../discoverium/com.truecaller__truecaller-arm64-v8a-bufferk.json"
-  },
-  {
-    "app_name": "Truecaller",
     "asset_name": "truecaller-arm64-v8a-paresh.apk",
     "package_id": "com.truecaller",
     "version_name": "26.10.6",
@@ -1600,11 +1590,31 @@
     "discoverium_file": "../discoverium/com.truecaller__truecaller-arm64-v8a-paresh.json"
   },
   {
+    "app_name": "Truecaller",
+    "asset_name": "truecaller-arm64-v8a-bufferk.apk",
+    "package_id": "com.truecaller",
+    "version_name": "26.10.6",
+    "sha256": "3cb5703c25cffa8cc3ce33fba6dc5d6c9e4d63117bf0fd67f9ac81cebcd1efee",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.truecaller",
+    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/truecaller-arm64-v8a-bufferk.apk",
+    "discoverium_file": "../discoverium/com.truecaller__truecaller-arm64-v8a-bufferk.json"
+  },
+  {
+    "app_name": "Tumblr",
+    "asset_name": "tumblr-arm64-v8a-revanced.apk",
+    "package_id": "com.tumblr",
+    "version_name": "43.7.0.109",
+    "sha256": "907c72258723e910771ab993edff03ec654ff5b9200ddc59d733d36b7e23efaa",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.tumblr",
+    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/tumblr-arm64-v8a-revanced.apk",
+    "discoverium_file": "../discoverium/com.tumblr__tumblr-arm64-v8a-revanced.json"
+  },
+  {
     "app_name": "Tumblr",
     "asset_name": "tumblr-arandomhooman.apk",
     "package_id": "com.tumblr",
     "version_name": "45.8.0.110",
-    "sha256": "c347cda55468dee95e0ccca81da03e3947e7419f474fefceabee42d5113502fa",
+    "sha256": "f7abae83618339548ddd7e21098a66943e2ae5624cc34b722c7269110bea7837",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.tumblr",
     "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/tumblr-arandomhooman.apk",
     "discoverium_file": "../discoverium/com.tumblr__tumblr-arandomhooman.json"
@@ -1621,23 +1631,13 @@
   },
   {
     "app_name": "Tumblr",
-    "asset_name": "tumblr-arm64-v8a-derevanced.apk",
+    "asset_name": "tumblr-beta-revanced.apk",
     "package_id": "com.tumblr",
-    "version_name": "46.0.0.107",
-    "sha256": "ad59931eb811d611d737340deabda5917e90383545111db306137577040fc0a6",
+    "version_name": "43.2.0.110",
+    "sha256": "30a21ab7753860a287364f71c8d74072b7eeafe785e7a442a89d9875767efc86",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.tumblr",
-    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/tumblr-arm64-v8a-derevanced.apk",
-    "discoverium_file": "../discoverium/com.tumblr__tumblr-arm64-v8a-derevanced.json"
-  },
-  {
-    "app_name": "Tumblr",
-    "asset_name": "tumblr-arm64-v8a-revanced.apk",
-    "package_id": "com.tumblr",
-    "version_name": "43.7.0.109",
-    "sha256": "907c72258723e910771ab993edff03ec654ff5b9200ddc59d733d36b7e23efaa",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.tumblr",
-    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/tumblr-arm64-v8a-revanced.apk",
-    "discoverium_file": "../discoverium/com.tumblr__tumblr-arm64-v8a-revanced.json"
+    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/tumblr-beta-revanced.apk",
+    "discoverium_file": "../discoverium/com.tumblr__tumblr-beta-revanced.json"
   },
   {
     "app_name": "Tumblr",
@@ -1651,6 +1651,16 @@
   },
   {
     "app_name": "Tumblr",
+    "asset_name": "tumblr-arm64-v8a-derevanced.apk",
+    "package_id": "com.tumblr",
+    "version_name": "46.0.0.107",
+    "sha256": "ad59931eb811d611d737340deabda5917e90383545111db306137577040fc0a6",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.tumblr",
+    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/tumblr-arm64-v8a-derevanced.apk",
+    "discoverium_file": "../discoverium/com.tumblr__tumblr-arm64-v8a-derevanced.json"
+  },
+  {
+    "app_name": "Tumblr",
     "asset_name": "tumblr-revanced.apk",
     "package_id": "com.tumblr",
     "version_name": "43.7.0.109",
@@ -1660,14 +1670,14 @@
     "discoverium_file": "../discoverium/com.tumblr__tumblr-revanced.json"
   },
   {
-    "app_name": "Tumblr",
-    "asset_name": "tumblr-beta-revanced.apk",
-    "package_id": "com.tumblr",
-    "version_name": "43.2.0.110",
-    "sha256": "30a21ab7753860a287364f71c8d74072b7eeafe785e7a442a89d9875767efc86",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.tumblr",
-    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/tumblr-beta-revanced.apk",
-    "discoverium_file": "../discoverium/com.tumblr__tumblr-beta-revanced.json"
+    "app_name": "Twitch",
+    "asset_name": "twitch-arm64-v8a-derevanced.apk",
+    "package_id": "tv.twitch.android.app",
+    "version_name": "25.3.0",
+    "sha256": "72da127f7df918b898ed034c6ce2b30931fbe6ac9ff3b6baab6194a605ad1336",
+    "play_store_url": "https://play.google.com/store/apps/details?id=tv.twitch.android.app",
+    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/twitch-arm64-v8a-derevanced.apk",
+    "discoverium_file": "../discoverium/tv.twitch.android.app__twitch-arm64-v8a-derevanced.json"
   },
   {
     "app_name": "Twitch",
@@ -1684,20 +1694,10 @@
     "asset_name": "twitch-arandomhooman.apk",
     "package_id": "tv.twitch.android.app",
     "version_name": "30.7.2",
-    "sha256": "e12e7cdf3bd7645a75dddd243f3084a6283cdfbac65d673b4b3ee3cb137eb797",
+    "sha256": "3185f88cea46df1bbf442c82cfc439dbd5e112aa25c346bc174b93d42bdf232d",
     "play_store_url": "https://play.google.com/store/apps/details?id=tv.twitch.android.app",
     "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/twitch-arandomhooman.apk",
     "discoverium_file": "../discoverium/tv.twitch.android.app__twitch-arandomhooman.json"
-  },
-  {
-    "app_name": "Twitch",
-    "asset_name": "twitch-arm64-v8a-derevanced.apk",
-    "package_id": "tv.twitch.android.app",
-    "version_name": "25.3.0",
-    "sha256": "72da127f7df918b898ed034c6ce2b30931fbe6ac9ff3b6baab6194a605ad1336",
-    "play_store_url": "https://play.google.com/store/apps/details?id=tv.twitch.android.app",
-    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/twitch-arm64-v8a-derevanced.apk",
-    "discoverium_file": "../discoverium/tv.twitch.android.app__twitch-arm64-v8a-derevanced.json"
   },
   {
     "app_name": "Twitch",
@@ -1721,16 +1721,6 @@
   },
   {
     "app_name": "Twitch",
-    "asset_name": "twitch-revanced.apk",
-    "package_id": "tv.twitch.android.app",
-    "version_name": "25.3.0",
-    "sha256": "e7539a08420adee82693e0d0c5b78554f7e0c718607e1898c996796b2b68678c",
-    "play_store_url": "https://play.google.com/store/apps/details?id=tv.twitch.android.app",
-    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/twitch-revanced.apk",
-    "discoverium_file": "../discoverium/tv.twitch.android.app__twitch-revanced.json"
-  },
-  {
-    "app_name": "Twitch",
     "asset_name": "twitch-derevanced.apk",
     "package_id": "tv.twitch.android.app",
     "version_name": "25.3.0",
@@ -1740,14 +1730,14 @@
     "discoverium_file": "../discoverium/tv.twitch.android.app__twitch-derevanced.json"
   },
   {
-    "app_name": "Uptodown App Store",
-    "asset_name": "MyFitnessPal-revanced.apk",
-    "package_id": "com.uptodown",
-    "version_name": "7.14",
-    "sha256": "68ff888ad02d53ec095e62fbf4c5be748b0cc607743621d9ffbe18d4006b6868",
-    "play_store_url": "",
-    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/MyFitnessPal-revanced.apk",
-    "discoverium_file": "../discoverium/com.uptodown__MyFitnessPal-revanced.json"
+    "app_name": "Twitch",
+    "asset_name": "twitch-revanced.apk",
+    "package_id": "tv.twitch.android.app",
+    "version_name": "25.3.0",
+    "sha256": "e7539a08420adee82693e0d0c5b78554f7e0c718607e1898c996796b2b68678c",
+    "play_store_url": "https://play.google.com/store/apps/details?id=tv.twitch.android.app",
+    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/twitch-revanced.apk",
+    "discoverium_file": "../discoverium/tv.twitch.android.app__twitch-revanced.json"
   },
   {
     "app_name": "Uptodown App Store",
@@ -1758,6 +1748,16 @@
     "play_store_url": "",
     "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/MyFitnessPal-beta-revanced.apk",
     "discoverium_file": "../discoverium/com.uptodown__MyFitnessPal-beta-revanced.json"
+  },
+  {
+    "app_name": "Uptodown App Store",
+    "asset_name": "MyFitnessPal-revanced.apk",
+    "package_id": "com.uptodown",
+    "version_name": "7.14",
+    "sha256": "68ff888ad02d53ec095e62fbf4c5be748b0cc607743621d9ffbe18d4006b6868",
+    "play_store_url": "",
+    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/MyFitnessPal-revanced.apk",
+    "discoverium_file": "../discoverium/com.uptodown__MyFitnessPal-revanced.json"
   },
   {
     "app_name": "Viber",
@@ -1794,7 +1794,7 @@
     "asset_name": "waze-rushiranpise.apk",
     "package_id": "com.waze",
     "version_name": "5.23.0.2",
-    "sha256": "1eda4b716daf3061ea3556e2b4d016f0e89d8507fa6567993863b3b96470eef5",
+    "sha256": "5348dffa2ba97938d7ee60d185064e4503ceb690c48c90caefa41be6686fd6fa",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.waze",
     "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/waze-rushiranpise.apk",
     "discoverium_file": "../discoverium/com.waze__waze-rushiranpise.json"
@@ -1804,7 +1804,7 @@
     "asset_name": "windscribe-rushiranpise.apk",
     "package_id": "com.windscribe.vpn",
     "version_name": "4.2.2328",
-    "sha256": "0e6e7c05a5d4d1ebc372ec98a733b944107c2624cf0cca809d3db0f0316723a5",
+    "sha256": "d2718165012b209c0f727d16d42d443fee148882cf5d829138f8ee2d8f7862dc",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.windscribe.vpn",
     "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/windscribe-rushiranpise.apk",
     "discoverium_file": "../discoverium/com.windscribe.vpn__windscribe-rushiranpise.json"
@@ -1821,16 +1821,6 @@
   },
   {
     "app_name": "X",
-    "asset_name": "twitter-arm64-v8a-beta-piko.apk",
-    "package_id": "com.twitter.android",
-    "version_name": "11.91.0-release.0",
-    "sha256": "3930a7f069c3b5b28ba20200a4c4acb01aad81034de47730b21534c44d2fbb55",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.twitter.android",
-    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/twitter-arm64-v8a-beta-piko.apk",
-    "discoverium_file": "../discoverium/com.twitter.android__twitter-arm64-v8a-beta-piko.json"
-  },
-  {
-    "app_name": "X",
     "asset_name": "twitter-arm64-v8a-stable-piko.apk",
     "package_id": "com.twitter.android",
     "version_name": "11.91.0-release.0",
@@ -1838,6 +1828,16 @@
     "play_store_url": "https://play.google.com/store/apps/details?id=com.twitter.android",
     "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/twitter-arm64-v8a-stable-piko.apk",
     "discoverium_file": "../discoverium/com.twitter.android__twitter-arm64-v8a-stable-piko.json"
+  },
+  {
+    "app_name": "X",
+    "asset_name": "twitter-arm64-v8a-beta-piko.apk",
+    "package_id": "com.twitter.android",
+    "version_name": "11.91.0-release.0",
+    "sha256": "3930a7f069c3b5b28ba20200a4c4acb01aad81034de47730b21534c44d2fbb55",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.twitter.android",
+    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/twitter-arm64-v8a-beta-piko.apk",
+    "discoverium_file": "../discoverium/com.twitter.android__twitter-arm64-v8a-beta-piko.json"
   },
   {
     "app_name": "X",
@@ -1851,6 +1851,16 @@
   },
   {
     "app_name": "X",
+    "asset_name": "twitter-stable-piko.apk",
+    "package_id": "com.twitter.android",
+    "version_name": "12.19.1-release.0",
+    "sha256": "8d6a342b575f6b8576170df5621f5e54ecf6941603fb1f374952a48f37cbf389",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.twitter.android",
+    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/twitter-stable-piko.apk",
+    "discoverium_file": "../discoverium/com.twitter.android__twitter-stable-piko.json"
+  },
+  {
+    "app_name": "X",
     "asset_name": "twitter-beta-piko-x-shim.apk",
     "package_id": "com.twitter.android",
     "version_name": "12.7.1-release.0",
@@ -1861,13 +1871,13 @@
   },
   {
     "app_name": "X",
-    "asset_name": "twitter-stable-piko.apk",
+    "asset_name": "twitter-piko-newx.apk",
     "package_id": "com.twitter.android",
-    "version_name": "12.19.1-release.0",
-    "sha256": "8d6a342b575f6b8576170df5621f5e54ecf6941603fb1f374952a48f37cbf389",
+    "version_name": "12.22.0-prod.01",
+    "sha256": "748064c6e2dd4992865bfc0e9375c203115cf4705022cb7c1bfcb218f309e176",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.twitter.android",
-    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/twitter-stable-piko.apk",
-    "discoverium_file": "../discoverium/com.twitter.android__twitter-stable-piko.json"
+    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/twitter-piko-newx.apk",
+    "discoverium_file": "../discoverium/com.twitter.android__twitter-piko-newx.json"
   },
   {
     "app_name": "X",
@@ -1931,16 +1941,6 @@
   },
   {
     "app_name": "YouTube",
-    "asset_name": "youtube-lite-beta-arm64-v8a-anddea.apk",
-    "package_id": "anddea.youtube",
-    "version_name": "20.05.46",
-    "sha256": "7421f75beaf3904d1d387d74579bd53a8d840cd083c0c8383e5437ede5b1edf3",
-    "play_store_url": "",
-    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-lite-beta-arm64-v8a-anddea.apk",
-    "discoverium_file": "../discoverium/anddea.youtube__youtube-lite-beta-arm64-v8a-anddea.json"
-  },
-  {
-    "app_name": "YouTube",
     "asset_name": "youtube-lite-beta-armeabi-v7a-anddea.apk",
     "package_id": "anddea.youtube",
     "version_name": "20.05.46",
@@ -1948,6 +1948,16 @@
     "play_store_url": "",
     "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-lite-beta-armeabi-v7a-anddea.apk",
     "discoverium_file": "../discoverium/anddea.youtube__youtube-lite-beta-armeabi-v7a-anddea.json"
+  },
+  {
+    "app_name": "YouTube",
+    "asset_name": "youtube-lite-beta-arm64-v8a-anddea.apk",
+    "package_id": "anddea.youtube",
+    "version_name": "20.05.46",
+    "sha256": "7421f75beaf3904d1d387d74579bd53a8d840cd083c0c8383e5437ede5b1edf3",
+    "play_store_url": "",
+    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-lite-beta-arm64-v8a-anddea.apk",
+    "discoverium_file": "../discoverium/anddea.youtube__youtube-lite-beta-arm64-v8a-anddea.json"
   },
   {
     "app_name": "YouTube Morphe",
@@ -1974,7 +1984,7 @@
     "asset_name": "youtube-beta-arm64-v8a-morphe.apk",
     "package_id": "app.morphe.android.youtube",
     "version_name": "21.35.442",
-    "sha256": "f4c7aea7a9618e7e7782656eeda79291c0d0e9e16e2fe538e5dae3e50cfdd05e",
+    "sha256": "6a65bcb6b1be43fadd5f2c6632ab716770aa7709c8b5ca2cc0b4b0ffb19f2f71",
     "play_store_url": "",
     "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-beta-arm64-v8a-morphe.apk",
     "discoverium_file": "../discoverium/app.morphe.android.youtube__youtube-beta-arm64-v8a-morphe.json"
@@ -1984,20 +1994,10 @@
     "asset_name": "youtube-beta-armeabi-v7a-morphe.apk",
     "package_id": "app.morphe.android.youtube",
     "version_name": "21.35.442",
-    "sha256": "e3138be1fe525b41d29c8e595523518701439a9dc7f728a8ee1627635878fb84",
+    "sha256": "28e80fa47f67073c400217d3628d35a68cc1f8b6e6828548d8e03a8858e938cf",
     "play_store_url": "",
     "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-beta-armeabi-v7a-morphe.apk",
     "discoverium_file": "../discoverium/app.morphe.android.youtube__youtube-beta-armeabi-v7a-morphe.json"
-  },
-  {
-    "app_name": "YouTube Morphe",
-    "asset_name": "youtube-beta-lite-arm64-v8a-morphe.apk",
-    "package_id": "app.morphe.android.youtube",
-    "version_name": "21.33.321",
-    "sha256": "8aa3f99236f1d05e05b5332ca6b8e38a6a6261c3c7ca24d1a40b7bb1a9dc99e8",
-    "play_store_url": "",
-    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-beta-lite-arm64-v8a-morphe.apk",
-    "discoverium_file": "../discoverium/app.morphe.android.youtube__youtube-beta-lite-arm64-v8a-morphe.json"
   },
   {
     "app_name": "YouTube Morphe",
@@ -2011,43 +2011,43 @@
   },
   {
     "app_name": "YouTube Morphe",
-    "asset_name": "youtube-beta-morphe.apk",
+    "asset_name": "youtube-beta-lite-arm64-v8a-morphe.apk",
     "package_id": "app.morphe.android.youtube",
-    "version_name": "21.35.442",
-    "sha256": "c77f984872ac1a673371066bfe5de1c0288a6ebbe0c00d7c71ef4bc96096f30b",
+    "version_name": "21.33.321",
+    "sha256": "8aa3f99236f1d05e05b5332ca6b8e38a6a6261c3c7ca24d1a40b7bb1a9dc99e8",
     "play_store_url": "",
-    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-beta-morphe.apk",
-    "discoverium_file": "../discoverium/app.morphe.android.youtube__youtube-beta-morphe.json"
+    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-beta-lite-arm64-v8a-morphe.apk",
+    "discoverium_file": "../discoverium/app.morphe.android.youtube__youtube-beta-lite-arm64-v8a-morphe.json"
   },
   {
     "app_name": "YouTube Morphe",
     "asset_name": "youtube-beta-x86-morphe.apk",
     "package_id": "app.morphe.android.youtube",
     "version_name": "21.35.442",
-    "sha256": "c02f6bd33bdbcd5a5794a6764760750e32eee0885982e6f84084e8dcb47e1654",
+    "sha256": "f2448a47e756efe0a9376fa411c82c4294dc9bdaf86db001825066731b412a95",
     "play_store_url": "",
     "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-beta-x86-morphe.apk",
     "discoverium_file": "../discoverium/app.morphe.android.youtube__youtube-beta-x86-morphe.json"
   },
   {
     "app_name": "YouTube Morphe",
-    "asset_name": "youtube-beta-x86_64-morphe.apk",
+    "asset_name": "youtube-beta-morphe.apk",
     "package_id": "app.morphe.android.youtube",
     "version_name": "21.35.442",
-    "sha256": "406a3e8da2b52ed93f6452edbd7c0a88b83eccc002139f7dd36c81d12d22c1f6",
+    "sha256": "470c63a43f849ff1a1354e566f30b74baed67c824a0a295f602149a8ee8d3767",
     "play_store_url": "",
-    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-beta-x86_64-morphe.apk",
-    "discoverium_file": "../discoverium/app.morphe.android.youtube__youtube-beta-x86_64-morphe.json"
+    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-beta-morphe.apk",
+    "discoverium_file": "../discoverium/app.morphe.android.youtube__youtube-beta-morphe.json"
   },
   {
     "app_name": "YouTube Morphe",
-    "asset_name": "youtube-lite-arm64-v8a-morphe.apk",
+    "asset_name": "youtube-beta-x86_64-morphe.apk",
     "package_id": "app.morphe.android.youtube",
-    "version_name": "20.45.36",
-    "sha256": "c0e3db7ee522e283456f63f9cd54a2878bf6d77ee6f9bd4b5533b20703aa380e",
+    "version_name": "21.35.442",
+    "sha256": "29e3ecc8f40c25c25b54ad0592d0f7966e23e5664a68c1129796b4fb52f6a38b",
     "play_store_url": "",
-    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-lite-arm64-v8a-morphe.apk",
-    "discoverium_file": "../discoverium/app.morphe.android.youtube__youtube-lite-arm64-v8a-morphe.json"
+    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-beta-x86_64-morphe.apk",
+    "discoverium_file": "../discoverium/app.morphe.android.youtube__youtube-beta-x86_64-morphe.json"
   },
   {
     "app_name": "YouTube Morphe",
@@ -2058,6 +2058,16 @@
     "play_store_url": "",
     "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-lite-armeabi-v7a-morphe.apk",
     "discoverium_file": "../discoverium/app.morphe.android.youtube__youtube-lite-armeabi-v7a-morphe.json"
+  },
+  {
+    "app_name": "YouTube Morphe",
+    "asset_name": "youtube-lite-arm64-v8a-morphe.apk",
+    "package_id": "app.morphe.android.youtube",
+    "version_name": "20.45.36",
+    "sha256": "c0e3db7ee522e283456f63f9cd54a2878bf6d77ee6f9bd4b5533b20703aa380e",
+    "play_store_url": "",
+    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-lite-arm64-v8a-morphe.apk",
+    "discoverium_file": "../discoverium/app.morphe.android.youtube__youtube-lite-arm64-v8a-morphe.json"
   },
   {
     "app_name": "YouTube Morphe",
@@ -2294,7 +2304,7 @@
     "asset_name": "youtube-music-beta-arm64-v8a-morphe.apk",
     "package_id": "app.morphe.android.apps.youtube.music",
     "version_name": "9.18.50",
-    "sha256": "08652737366cee1d397b9900691613ebf2f77f770b6f87be67c362c5dd41610d",
+    "sha256": "3b76ca4d61e76cc81a5667dc60c290a3bc45658563c743959850dc9484a181af",
     "play_store_url": "",
     "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-music-beta-arm64-v8a-morphe.apk",
     "discoverium_file": "../discoverium/app.morphe.android.apps.youtube.music__youtube-music-beta-arm64-v8a-morphe.json"
@@ -2304,7 +2314,7 @@
     "asset_name": "youtube-music-beta-armeabi-v7a-morphe.apk",
     "package_id": "app.morphe.android.apps.youtube.music",
     "version_name": "9.18.50",
-    "sha256": "dbd1e25237ee616fd118e0d84a89fc3f3f35bc514f4e8906f5358be5e42d0999",
+    "sha256": "85ab056ffbce59e79c3d259a664816f84e01031d3e54b6f79d41ca3fe88f6406",
     "play_store_url": "",
     "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-music-beta-armeabi-v7a-morphe.apk",
     "discoverium_file": "../discoverium/app.morphe.android.apps.youtube.music__youtube-music-beta-armeabi-v7a-morphe.json"
@@ -2331,16 +2341,6 @@
   },
   {
     "app_name": "YT Music Morphe",
-    "asset_name": "youtube-music-x86_64-morphe.apk",
-    "package_id": "app.morphe.android.apps.youtube.music",
-    "version_name": "8.44.54",
-    "sha256": "4ed75a8daea9b5108de716208d04df99dd9b3877d7c78e9257ca781d9c0f8e08",
-    "play_store_url": "",
-    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-music-x86_64-morphe.apk",
-    "discoverium_file": "../discoverium/app.morphe.android.apps.youtube.music__youtube-music-x86_64-morphe.json"
-  },
-  {
-    "app_name": "YT Music Morphe",
     "asset_name": "youtube-music-x86-morphe.apk",
     "package_id": "app.morphe.android.apps.youtube.music",
     "version_name": "8.44.54",
@@ -2350,14 +2350,14 @@
     "discoverium_file": "../discoverium/app.morphe.android.apps.youtube.music__youtube-music-x86-morphe.json"
   },
   {
-    "app_name": "YT Music ReVanced",
-    "asset_name": "youtube-music-armeabi-v7a-revanced.apk",
-    "package_id": "app.revanced.android.apps.youtube.music",
-    "version_name": "8.40.54",
-    "sha256": "57a7073d5206537c9ba61b5769778ac742ae6d096f444142ad664c1f8787a372",
+    "app_name": "YT Music Morphe",
+    "asset_name": "youtube-music-x86_64-morphe.apk",
+    "package_id": "app.morphe.android.apps.youtube.music",
+    "version_name": "8.44.54",
+    "sha256": "4ed75a8daea9b5108de716208d04df99dd9b3877d7c78e9257ca781d9c0f8e08",
     "play_store_url": "",
-    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-music-armeabi-v7a-revanced.apk",
-    "discoverium_file": "../discoverium/app.revanced.android.apps.youtube.music__youtube-music-armeabi-v7a-revanced.json"
+    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-music-x86_64-morphe.apk",
+    "discoverium_file": "../discoverium/app.morphe.android.apps.youtube.music__youtube-music-x86_64-morphe.json"
   },
   {
     "app_name": "YT Music ReVanced",
@@ -2368,6 +2368,16 @@
     "play_store_url": "",
     "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-music-arm64-v8a-revanced.apk",
     "discoverium_file": "../discoverium/app.revanced.android.apps.youtube.music__youtube-music-arm64-v8a-revanced.json"
+  },
+  {
+    "app_name": "YT Music ReVanced",
+    "asset_name": "youtube-music-armeabi-v7a-revanced.apk",
+    "package_id": "app.revanced.android.apps.youtube.music",
+    "version_name": "8.40.54",
+    "sha256": "57a7073d5206537c9ba61b5769778ac742ae6d096f444142ad664c1f8787a372",
+    "play_store_url": "",
+    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-music-armeabi-v7a-revanced.apk",
+    "discoverium_file": "../discoverium/app.revanced.android.apps.youtube.music__youtube-music-armeabi-v7a-revanced.json"
   },
   {
     "app_name": "YT Music ReVanced",
@@ -2411,16 +2421,6 @@
   },
   {
     "app_name": "YT Music ReVanced",
-    "asset_name": "youtube-music-x86-revanced.apk",
-    "package_id": "app.revanced.android.apps.youtube.music",
-    "version_name": "8.40.54",
-    "sha256": "76232e62c1a654904139a3cf3c2748edcf3f3fe6f317ff1e745b6f494f3bc730",
-    "play_store_url": "",
-    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-music-x86-revanced.apk",
-    "discoverium_file": "../discoverium/app.revanced.android.apps.youtube.music__youtube-music-x86-revanced.json"
-  },
-  {
-    "app_name": "YT Music ReVanced",
     "asset_name": "youtube-music-x86_64-revanced.apk",
     "package_id": "app.revanced.android.apps.youtube.music",
     "version_name": "8.40.54",
@@ -2428,6 +2428,16 @@
     "play_store_url": "",
     "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-music-x86_64-revanced.apk",
     "discoverium_file": "../discoverium/app.revanced.android.apps.youtube.music__youtube-music-x86_64-revanced.json"
+  },
+  {
+    "app_name": "YT Music ReVanced",
+    "asset_name": "youtube-music-x86-revanced.apk",
+    "package_id": "app.revanced.android.apps.youtube.music",
+    "version_name": "8.40.54",
+    "sha256": "76232e62c1a654904139a3cf3c2748edcf3f3fe6f317ff1e745b6f494f3bc730",
+    "play_store_url": "",
+    "download_url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-music-x86-revanced.apk",
+    "discoverium_file": "../discoverium/app.revanced.android.apps.youtube.music__youtube-music-x86-revanced.json"
   },
   {
     "app_name": "Zalo",

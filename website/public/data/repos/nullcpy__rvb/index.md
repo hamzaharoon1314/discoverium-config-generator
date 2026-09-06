@@ -4,14 +4,14 @@ Release source: `latest`
 
 | App | Package ID | Asset Filename | Version | Play Store | Config  |
 |---|---|---|---|---|---|
-| **Brave** | com.brave.browser | brave-browser-morphe-v1.94.121-arm-v7a.apk | 1.94.121 | [Play Store](https://play.google.com/store/apps/details?id=com.brave.browser) | [JSON Config](./discoverium/com.brave.browser__brave-browser-morphe-v1.94.121-arm-v7a.json) |
-| **Brave** | com.brave.browser | brave-browser-morphe-v1.94.121-arm64-v8a.apk | 1.94.121 | [Play Store](https://play.google.com/store/apps/details?id=com.brave.browser) | [JSON Config](./discoverium/com.brave.browser__brave-browser-morphe-v1.94.121-arm64-v8a.json) |
+| **AliExpress** | com.alibaba.aliexpresshd | aliexpress-morphe-v8.162.8-arm64-v8a.apk | 8.162.8 | [Play Store](https://play.google.com/store/apps/details?id=com.alibaba.aliexpresshd) | [JSON Config](./discoverium/com.alibaba.aliexpresshd__aliexpress-morphe-v8.162.8-arm64-v8a.json) |
+| **AliExpress** | com.alibaba.aliexpresshd | aliexpress-morphe-v8.162.8-arm-v7a.apk | 8.162.8 | [Play Store](https://play.google.com/store/apps/details?id=com.alibaba.aliexpresshd) | [JSON Config](./discoverium/com.alibaba.aliexpresshd__aliexpress-morphe-v8.162.8-arm-v7a.json) |
 
 ## SHA256
 
-- **brave-browser-morphe-v1.94.121-arm-v7a.apk**
-  - `c9afd786d74d13960399167d50239d1d8b6713bee91906e1ddb51d77279392f7`
-- **brave-browser-morphe-v1.94.121-arm64-v8a.apk**
-  - `5bbb58d873fcbdbdf9b1f31459118f86e4908b3f311b230c2febc2ea9d511e1a`
+- **aliexpress-morphe-v8.162.8-arm64-v8a.apk**
+  - `cd6ed9638c93e2ca33750b4b326716c3f8fc4b48c21d96514ed5878f2e16c764`
+- **aliexpress-morphe-v8.162.8-arm-v7a.apk**
+  - `30a8b5767a2a8758edf070a6dc9db8fcee227b326ed047791846912fc1598cd5`
 
 _Automatically generated from GitHub APK release assets with package IDs, SHA256 hashes, and Discoverium import links._
