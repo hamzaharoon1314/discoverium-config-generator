@@ -1,232 +1,42 @@
 [
   {
-    "app_name": "AliExpress",
-    "asset_name": "aliexpress-quantro100-v8.162.8-arm-v7a.apk",
-    "package_id": "com.alibaba.aliexpresshd",
-    "version_name": "8.162.8",
-    "sha256": "d5195d5cfabf75b60196098d11086e457f55d6924d97d9ab5de3207dae9b4082",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.alibaba.aliexpresshd",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260001/aliexpress-quantro100-v8.162.8-arm-v7a.apk",
-    "discoverium_file": "../discoverium/com.alibaba.aliexpresshd__aliexpress-quantro100-v8.162.8-arm-v7a.json"
-  },
-  {
-    "app_name": "AliExpress",
-    "asset_name": "aliexpress-quantro100-v8.162.8-arm64-v8a.apk",
-    "package_id": "com.alibaba.aliexpresshd",
-    "version_name": "8.162.8",
-    "sha256": "7881bfc9e7ef386d8d538e69cd1f1c1dff6a6ffcfc8cc2df22b5cdb38cc00b00",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.alibaba.aliexpresshd",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260001/aliexpress-quantro100-v8.162.8-arm64-v8a.apk",
-    "discoverium_file": "../discoverium/com.alibaba.aliexpresshd__aliexpress-quantro100-v8.162.8-arm64-v8a.json"
-  },
-  {
-    "app_name": "Brave",
-    "asset_name": "brave-browser-kveld9-v1.94.121-arm-v7a.apk",
-    "package_id": "com.brave.browser",
-    "version_name": "1.94.121",
-    "sha256": "ff7b688aee95472b5c3cecd9363b40fb1c3bcd69d0013f9ff8fc40719d9df02b",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.brave.browser",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260001/brave-browser-kveld9-v1.94.121-arm-v7a.apk",
-    "discoverium_file": "../discoverium/com.brave.browser__brave-browser-kveld9-v1.94.121-arm-v7a.json"
-  },
-  {
-    "app_name": "Brave",
-    "asset_name": "brave-browser-kveld9-v1.94.121-arm64-v8a.apk",
-    "package_id": "com.brave.browser",
-    "version_name": "1.94.121",
-    "sha256": "1964edd17bf378672781c500569fc974bfe0575f099c90d61fe01d8d1a6e10f8",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.brave.browser",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260001/brave-browser-kveld9-v1.94.121-arm64-v8a.apk",
-    "discoverium_file": "../discoverium/com.brave.browser__brave-browser-kveld9-v1.94.121-arm64-v8a.json"
-  },
-  {
-    "app_name": "byAir",
-    "asset_name": "byair-franticg33k-v2.38.2-arm64-v8a.apk",
-    "package_id": "com.byairapp.android",
-    "version_name": "2.38.2",
-    "sha256": "bd6892c6247b6b309c7a1de8028990e65af9a08878646e46422427645ec1bbfa",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.byairapp.android",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260001/byair-franticg33k-v2.38.2-arm64-v8a.apk",
-    "discoverium_file": "../discoverium/com.byairapp.android__byair-franticg33k-v2.38.2-arm64-v8a.json"
-  },
-  {
-    "app_name": "byAir",
-    "asset_name": "byair-franticg33k-v2.38.2-arm-v7a.apk",
-    "package_id": "com.byairapp.android",
-    "version_name": "2.38.2",
-    "sha256": "69935d1e2f3c8250600955af20c1546b33317399fa760bf859d060adbf2f5384",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.byairapp.android",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260001/byair-franticg33k-v2.38.2-arm-v7a.apk",
-    "discoverium_file": "../discoverium/com.byairapp.android__byair-franticg33k-v2.38.2-arm-v7a.json"
-  },
-  {
-    "app_name": "CapCut",
-    "asset_name": "capcut-riky-v19.2.0-arm-v7a.apk",
-    "package_id": "com.lemon.lvoverseas",
-    "version_name": "19.2.0",
-    "sha256": "58abfc8ac20959ed321c5a956d494c73e974d34235b56fdcf66abaad5b45223e",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.lemon.lvoverseas",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260001/capcut-riky-v19.2.0-arm-v7a.apk",
-    "discoverium_file": "../discoverium/com.lemon.lvoverseas__capcut-riky-v19.2.0-arm-v7a.json"
-  },
-  {
-    "app_name": "CapCut",
-    "asset_name": "capcut-riky-v19.2.0-arm64-v8a.apk",
-    "package_id": "com.lemon.lvoverseas",
-    "version_name": "19.2.0",
-    "sha256": "c5880b148c2ab65f16a284464b0e6ff70b883e76d55aef0c9507d7f46171a00f",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.lemon.lvoverseas",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260001/capcut-riky-v19.2.0-arm64-v8a.apk",
-    "discoverium_file": "../discoverium/com.lemon.lvoverseas__capcut-riky-v19.2.0-arm64-v8a.json"
-  },
-  {
-    "app_name": "Chess",
-    "asset_name": "chess-com-prathxm-v4.10.0-arm-v7a.apk",
-    "package_id": "com.chess",
-    "version_name": "4.10.0-googleplay",
-    "sha256": "838900c53464f3c397997843a2ec439fedbd3b8a18685b79203ef55ce5a667f1",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.chess",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260001/chess-com-prathxm-v4.10.0-arm-v7a.apk",
-    "discoverium_file": "../discoverium/com.chess__chess-com-prathxm-v4.10.0-arm-v7a.json"
-  },
-  {
-    "app_name": "Chess",
-    "asset_name": "chess-com-prathxm-v4.10.0-arm64-v8a.apk",
-    "package_id": "com.chess",
-    "version_name": "4.10.0-googleplay",
-    "sha256": "0ba612c31bcee801ea3c826667b5d6127c92ca7265c7ebd4ef2c9ef37e8ee8d0",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.chess",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260001/chess-com-prathxm-v4.10.0-arm64-v8a.apk",
-    "discoverium_file": "../discoverium/com.chess__chess-com-prathxm-v4.10.0-arm64-v8a.json"
-  },
-  {
-    "app_name": "Discord",
-    "asset_name": "discord-revenge-v343.12-Stable-arm-v7a.apk",
-    "package_id": "com.discord",
-    "version_name": "343.12 - Stable",
-    "sha256": "d4ec6a072f47be4d582c45cb912ac0bdcca3d95e6544ea4492943b4e5c6bcaa9",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.discord",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260001/discord-revenge-v343.12-Stable-arm-v7a.apk",
-    "discoverium_file": "../discoverium/com.discord__discord-revenge-v343.12-Stable-arm-v7a.json"
-  },
-  {
-    "app_name": "Discord",
-    "asset_name": "discord-revenge-v343.12-Stable-arm64-v8a.apk",
-    "package_id": "com.discord",
-    "version_name": "343.12 - Stable",
-    "sha256": "751a20d0a76441a942695397dec221648eca7c80f3e25195d927ef355693c8f3",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.discord",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260001/discord-revenge-v343.12-Stable-arm64-v8a.apk",
-    "discoverium_file": "../discoverium/com.discord__discord-revenge-v343.12-Stable-arm64-v8a.json"
-  },
-  {
-    "app_name": "Edge",
-    "asset_name": "microsoft-edge-quantavil-v151.0.4129.70-arm-v7a.apk",
-    "package_id": "com.microsoft.emmx",
-    "version_name": "151.0.4129.70",
-    "sha256": "97da0ed50496eff65025e6c70f81a2e90d115da494f3ae4b2076c4d9ca9aa4b4",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.microsoft.emmx",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260001/microsoft-edge-quantavil-v151.0.4129.70-arm-v7a.apk",
-    "discoverium_file": "../discoverium/com.microsoft.emmx__microsoft-edge-quantavil-v151.0.4129.70-arm-v7a.json"
-  },
-  {
-    "app_name": "Edge",
-    "asset_name": "microsoft-edge-quantavil-v151.0.4129.70-arm64-v8a.apk",
-    "package_id": "com.microsoft.emmx",
-    "version_name": "151.0.4129.70",
-    "sha256": "c77225144da556b73adce8c80b8c507bd52ee3194503b4379504ae8559a7ac83",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.microsoft.emmx",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260001/microsoft-edge-quantavil-v151.0.4129.70-arm64-v8a.apk",
-    "discoverium_file": "../discoverium/com.microsoft.emmx__microsoft-edge-quantavil-v151.0.4129.70-arm64-v8a.json"
-  },
-  {
-    "app_name": "Facebook",
-    "asset_name": "facebook-froggo-v573.0.0.37.74-arm64-v8a.apk",
-    "package_id": "com.facebook.katana",
-    "version_name": "573.0.0.37.74",
-    "sha256": "bffd4a4ca76e2a00a92572c2b8aa2d2aa358dc90cdde0d62d48e3a57fc04a272",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.facebook.katana",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260001/facebook-froggo-v573.0.0.37.74-arm64-v8a.apk",
-    "discoverium_file": "../discoverium/com.facebook.katana__facebook-froggo-v573.0.0.37.74-arm64-v8a.json"
-  },
-  {
-    "app_name": "Google News",
-    "asset_name": "google-news-docbt-v5.163.0.947799485-arm-v7a.apk",
-    "package_id": "com.google.android.apps.magazines.morphe",
-    "version_name": "5.163.0.947799485",
-    "sha256": "336830c188b926464907b283f87304e88428484b2b00c8809457aab6b6d20abe",
+    "app_name": "Instafel",
+    "asset_name": "instagram-instafel-clone-v446.0.0.49.77-arm-v7a.apk",
+    "package_id": "com.instafel.android",
+    "version_name": "446.0.0.49.77",
+    "sha256": "efec52d0d405071f43c94862b082b4af813cee3b022a824c69f2d0572ee43151",
     "play_store_url": "",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260001/google-news-docbt-v5.163.0.947799485-arm-v7a.apk",
-    "discoverium_file": "../discoverium/com.google.android.apps.magazines.morphe__google-news-docbt-v5.163.0.947799485-arm-v7a.json"
+    "download_url": "https://github.com/nullcpy/rvb/releases/download/260016/instagram-instafel-clone-v446.0.0.49.77-arm-v7a.apk",
+    "discoverium_file": "../discoverium/com.instafel.android__instagram-instafel-clone-v446.0.0.49.77-arm-v7a.json"
   },
   {
-    "app_name": "Google News",
-    "asset_name": "google-news-docbt-v5.163.0.947799485-arm64-v8a.apk",
-    "package_id": "com.google.android.apps.magazines.morphe",
-    "version_name": "5.163.0.947799485",
-    "sha256": "c8f5c33d5e600c2af228fa9a688bed4de448a6355a5996913528edf741d90985",
+    "app_name": "Instafel",
+    "asset_name": "instagram-instafel-clone-v446.0.0.49.77-arm64-v8a.apk",
+    "package_id": "com.instafel.android",
+    "version_name": "446.0.0.49.77",
+    "sha256": "94ee6e6b1ca17dc16b94acefed01c18cd2b9c63ffcf46f174b3892abf9f007da",
     "play_store_url": "",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260001/google-news-docbt-v5.163.0.947799485-arm64-v8a.apk",
-    "discoverium_file": "../discoverium/com.google.android.apps.magazines.morphe__google-news-docbt-v5.163.0.947799485-arm64-v8a.json"
+    "download_url": "https://github.com/nullcpy/rvb/releases/download/260016/instagram-instafel-clone-v446.0.0.49.77-arm64-v8a.apk",
+    "discoverium_file": "../discoverium/com.instafel.android__instagram-instafel-clone-v446.0.0.49.77-arm64-v8a.json"
   },
   {
-    "app_name": "KineStop",
-    "asset_name": "kinestop-shaunthesheep-v5.1-arm-v7a.apk",
-    "package_id": "com.urbandroid.kinestop",
-    "version_name": "5.1",
-    "sha256": "055cf5211fb5a004ca558acbb607ec33831d4db39895c89389d83d1828386a5f",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.urbandroid.kinestop",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260001/kinestop-shaunthesheep-v5.1-arm-v7a.apk",
-    "discoverium_file": "../discoverium/com.urbandroid.kinestop__kinestop-shaunthesheep-v5.1-arm-v7a.json"
+    "app_name": "Instagram",
+    "asset_name": "instagram-instafel-v446.0.0.49.77-arm64-v8a.apk",
+    "package_id": "com.instagram.android",
+    "version_name": "446.0.0.49.77",
+    "sha256": "2ca0ee85beda5fa6c42c71b3cd77712bbd17b71c1dfefa8e11632a905ca38218",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.instagram.android",
+    "download_url": "https://github.com/nullcpy/rvb/releases/download/260016/instagram-instafel-v446.0.0.49.77-arm64-v8a.apk",
+    "discoverium_file": "../discoverium/com.instagram.android__instagram-instafel-v446.0.0.49.77-arm64-v8a.json"
   },
   {
-    "app_name": "KineStop",
-    "asset_name": "kinestop-shaunthesheep-v5.1-arm64-v8a.apk",
-    "package_id": "com.urbandroid.kinestop",
-    "version_name": "5.1",
-    "sha256": "49ee515459303e03bb6f69e24631cfc8c48d6e2c6b8b362b6ff2bdf7002193cc",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.urbandroid.kinestop",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260001/kinestop-shaunthesheep-v5.1-arm64-v8a.apk",
-    "discoverium_file": "../discoverium/com.urbandroid.kinestop__kinestop-shaunthesheep-v5.1-arm64-v8a.json"
-  },
-  {
-    "app_name": "TikTok",
-    "asset_name": "tiktok-icysymmetra-v46.2.3-arm-v7a.apk",
-    "package_id": "com.zhiliaoapp.musically",
-    "version_name": "46.2.3",
-    "sha256": "cfa059f1c4c0e049d4ea74af855c77895e3c9a1134311bed11d395ebf6cbd240",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260001/tiktok-icysymmetra-v46.2.3-arm-v7a.apk",
-    "discoverium_file": "../discoverium/com.zhiliaoapp.musically__tiktok-icysymmetra-v46.2.3-arm-v7a.json"
-  },
-  {
-    "app_name": "TikTok",
-    "asset_name": "tiktok-icysymmetra-v46.2.3-arm64-v8a.apk",
-    "package_id": "com.zhiliaoapp.musically",
-    "version_name": "46.2.3",
-    "sha256": "9f4493d841d52d09a1b431ccf43b8850434be80360c341f0e3320e9bd1b3c927",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260001/tiktok-icysymmetra-v46.2.3-arm64-v8a.apk",
-    "discoverium_file": "../discoverium/com.zhiliaoapp.musically__tiktok-icysymmetra-v46.2.3-arm64-v8a.json"
-  },
-  {
-    "app_name": "Trakt",
-    "asset_name": "trakt-tv-imxeren-v3.13.0-arm-v7a.apk",
-    "package_id": "tv.trakt.trakt",
-    "version_name": "3.13.0",
-    "sha256": "954122eda41313b7ab2c132c711ca130a26998211a8ee826838469775ffd7362",
-    "play_store_url": "https://play.google.com/store/apps/details?id=tv.trakt.trakt",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260001/trakt-tv-imxeren-v3.13.0-arm-v7a.apk",
-    "discoverium_file": "../discoverium/tv.trakt.trakt__trakt-tv-imxeren-v3.13.0-arm-v7a.json"
-  },
-  {
-    "app_name": "Trakt",
-    "asset_name": "trakt-tv-imxeren-v3.13.0-arm64-v8a.apk",
-    "package_id": "tv.trakt.trakt",
-    "version_name": "3.13.0",
-    "sha256": "ef3d572b1fdf0bbb7acbb49b5c88ff8bbf477b2e7ff4148a70af06a0c7d7161b",
-    "play_store_url": "https://play.google.com/store/apps/details?id=tv.trakt.trakt",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260001/trakt-tv-imxeren-v3.13.0-arm64-v8a.apk",
-    "discoverium_file": "../discoverium/tv.trakt.trakt__trakt-tv-imxeren-v3.13.0-arm64-v8a.json"
+    "app_name": "Instagram",
+    "asset_name": "instagram-instafel-v446.0.0.49.77-arm-v7a.apk",
+    "package_id": "com.instagram.android",
+    "version_name": "446.0.0.49.77",
+    "sha256": "255674d27bf4630b40698567a3b46298bb11f15566edc5a642ba359fd990675f",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.instagram.android",
+    "download_url": "https://github.com/nullcpy/rvb/releases/download/260016/instagram-instafel-v446.0.0.49.77-arm-v7a.apk",
+    "discoverium_file": "../discoverium/com.instagram.android__instagram-instafel-v446.0.0.49.77-arm-v7a.json"
   }
 ]
