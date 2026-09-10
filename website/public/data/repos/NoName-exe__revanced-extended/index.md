@@ -4,17 +4,14 @@ Release source: `latest`
 
 | App | Package ID | Asset Filename | Version | Play Store | Config  |
 |---|---|---|---|---|---|
-| **YouTube Morphe** | app.morphe.android.youtube | youtube-morphe-v21.07.247-all.apk | 21.07.247 | N/A | [JSON Config](./discoverium/app.morphe.android.youtube__youtube-morphe-v21.07.247-all.json) |
 | **YT Music Morphe** | app.morphe.android.apps.youtube.music | youtube-music-morphe-v9.15.51-arm-v7a.apk | 9.15.51 | N/A | [JSON Config](./discoverium/app.morphe.android.apps.youtube.music__youtube-music-morphe-v9.15.51-arm-v7a.json) |
 | **YT Music Morphe** | app.morphe.android.apps.youtube.music | youtube-music-morphe-v9.15.51-arm64-v8a.apk | 9.15.51 | N/A | [JSON Config](./discoverium/app.morphe.android.apps.youtube.music__youtube-music-morphe-v9.15.51-arm64-v8a.json) |
 
 ## SHA256
 
-- **youtube-morphe-v21.07.247-all.apk**
-  - `cdd9e41fbf130c667a02ea6afa3e12362a38a949d6968c540b52bb3333ebcf98`
 - **youtube-music-morphe-v9.15.51-arm-v7a.apk**
-  - `823df71594576acddc9baf1c680dd6a0c8971344b4cd38c508bda94517263a72`
+  - `bf09675fe40da3ae9d088795355c3b23527918039506d61a038732e6aa7d4cef`
 - **youtube-music-morphe-v9.15.51-arm64-v8a.apk**
-  - `e12aae0b28814e7a978b68411bba1f51c16798ce93ee18223c76765007522991`
+  - `fff8195e33b2a953f075fa70cb62ae53db087db61ac822b6e1188da2d8ba6201`
 
 _Automatically generated from GitHub APK release assets with package IDs, SHA256 hashes, and Discoverium import links._
