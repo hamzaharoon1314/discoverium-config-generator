@@ -54,7 +54,7 @@
     "asset_name": "calistree-universal-morphe-patches-v5.9.1.apk",
     "package_id": "com.calistree.calistree",
     "version_name": "5.9.1",
-    "sha256": "4127df7b517b4e2a516aa1b8374cda9ea944d64843714f4eced836bccee89134",
+    "sha256": "c2deb81404825089a5490f920e3bbfc97fbdc8e1686c4dbcef4654dc6b7a422e",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.calistree.calistree",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/calistree-universal-morphe-patches-v5.9.1.apk",
     "discoverium_file": "../discoverium/com.calistree.calistree__calistree-universal-morphe-patches-v5.9.1.json"
@@ -121,16 +121,6 @@
   },
   {
     "app_name": "Disney+",
-    "asset_name": "disney-plus-universal-morphe-patches-v26.10.0+rc3-2026.06.13.apk",
-    "package_id": "com.disney.disneyplus",
-    "version_name": "26.10.0+rc3-2026.06.13",
-    "sha256": "6a1fc9804ec96a5a97a17c9de233dc2883adf75975d7e6a491e9a7ff73e58cc9",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.disney.disneyplus",
-    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/disney-plus-universal-morphe-patches-v26.10.0%2Brc3-2026.06.13.apk",
-    "discoverium_file": "../discoverium/com.disney.disneyplus__disney-plus-universal-morphe-patches-v26.10.0+rc3-2026.06.13.json"
-  },
-  {
-    "app_name": "Disney+",
     "asset_name": "disney-plus-universal-morphe-patches-v26.13.0+rc6-2026.07.30.apk",
     "package_id": "com.disney.disneyplus",
     "version_name": "26.13.0+rc6-2026.07.30",
@@ -138,6 +128,16 @@
     "play_store_url": "https://play.google.com/store/apps/details?id=com.disney.disneyplus",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/disney-plus-universal-morphe-patches-v26.13.0%2Brc6-2026.07.30.apk",
     "discoverium_file": "../discoverium/com.disney.disneyplus__disney-plus-universal-morphe-patches-v26.13.0+rc6-2026.07.30.json"
+  },
+  {
+    "app_name": "Disney+",
+    "asset_name": "disney-plus-universal-morphe-patches-v26.10.0+rc3-2026.06.13.apk",
+    "package_id": "com.disney.disneyplus",
+    "version_name": "26.10.0+rc3-2026.06.13",
+    "sha256": "6a1fc9804ec96a5a97a17c9de233dc2883adf75975d7e6a491e9a7ff73e58cc9",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.disney.disneyplus",
+    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/disney-plus-universal-morphe-patches-v26.10.0%2Brc3-2026.06.13.apk",
+    "discoverium_file": "../discoverium/com.disney.disneyplus__disney-plus-universal-morphe-patches-v26.10.0+rc3-2026.06.13.json"
   },
   {
     "app_name": "Disney+",
@@ -251,16 +251,6 @@
   },
   {
     "app_name": "FX",
-    "asset_name": "fxfile-universal-dropped-v.apk",
-    "package_id": "nextapp.fx",
-    "version_name": "∞",
-    "sha256": "af7a430006322d47606a9a18d2a621c7e016748d92986a55241f2d1b8608b752",
-    "play_store_url": "https://play.google.com/store/apps/details?id=nextapp.fx",
-    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/fxfile-universal-dropped-v.apk",
-    "discoverium_file": "../discoverium/nextapp.fx__fxfile-universal-dropped-v.json"
-  },
-  {
-    "app_name": "FX",
     "asset_name": "fxfile-universal-dropped-v9.1.0.8.apk",
     "package_id": "nextapp.fx",
     "version_name": "9.1.0.8",
@@ -268,6 +258,16 @@
     "play_store_url": "https://play.google.com/store/apps/details?id=nextapp.fx",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/fxfile-universal-dropped-v9.1.0.8.apk",
     "discoverium_file": "../discoverium/nextapp.fx__fxfile-universal-dropped-v9.1.0.8.json"
+  },
+  {
+    "app_name": "FX",
+    "asset_name": "fxfile-universal-dropped-v.apk",
+    "package_id": "nextapp.fx",
+    "version_name": "∞",
+    "sha256": "af7a430006322d47606a9a18d2a621c7e016748d92986a55241f2d1b8608b752",
+    "play_store_url": "https://play.google.com/store/apps/details?id=nextapp.fx",
+    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/fxfile-universal-dropped-v.apk",
+    "discoverium_file": "../discoverium/nextapp.fx__fxfile-universal-dropped-v.json"
   },
   {
     "app_name": "GameHub",
@@ -284,7 +284,7 @@
     "asset_name": "gboard-universal-morphe-patches-v18.0.3.954559732-release-arm64-v8a.apk",
     "package_id": "dev.jason.com.google.android.inputmethod.latin",
     "version_name": "18.0.3.954559732-release-arm64-v8a",
-    "sha256": "27c6825b7a539d2f6af237a8768626e44fb9752b60082cf3603d01aa398fcf61",
+    "sha256": "b737c837f8fcc18f0ef357332f3ec3762e991b7efc22222784498eb40bf8c000",
     "play_store_url": "",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/gboard-universal-morphe-patches-v18.0.3.954559732-release-arm64-v8a.apk",
     "discoverium_file": "../discoverium/dev.jason.com.google.android.inputmethod.latin__gboard-universal-morphe-patches-v18.0.3.954559732-release-arm64-v8a.json"
@@ -371,16 +371,6 @@
   },
   {
     "app_name": "Instagram",
-    "asset_name": "instagram-armeabi-v7a-piko-patches-v435.0.0.37.76.apk",
-    "package_id": "com.instagram.android",
-    "version_name": "435.0.0.37.76",
-    "sha256": "46db69479507b43aec4dd9127c7b7b3e07db36b3829c14b983c6984fc8624807",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.instagram.android",
-    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/instagram-armeabi-v7a-piko-patches-v435.0.0.37.76.apk",
-    "discoverium_file": "../discoverium/com.instagram.android__instagram-armeabi-v7a-piko-patches-v435.0.0.37.76.json"
-  },
-  {
-    "app_name": "Instagram",
     "asset_name": "instagram-arm64-v8a-piko-patches-v439.0.0.37.89.apk",
     "package_id": "com.instagram.android",
     "version_name": "439.0.0.37.89",
@@ -388,6 +378,16 @@
     "play_store_url": "https://play.google.com/store/apps/details?id=com.instagram.android",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/instagram-arm64-v8a-piko-patches-v439.0.0.37.89.apk",
     "discoverium_file": "../discoverium/com.instagram.android__instagram-arm64-v8a-piko-patches-v439.0.0.37.89.json"
+  },
+  {
+    "app_name": "Instagram",
+    "asset_name": "instagram-armeabi-v7a-piko-patches-v435.0.0.37.76.apk",
+    "package_id": "com.instagram.android",
+    "version_name": "435.0.0.37.76",
+    "sha256": "46db69479507b43aec4dd9127c7b7b3e07db36b3829c14b983c6984fc8624807",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.instagram.android",
+    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/instagram-armeabi-v7a-piko-patches-v435.0.0.37.76.apk",
+    "discoverium_file": "../discoverium/com.instagram.android__instagram-armeabi-v7a-piko-patches-v435.0.0.37.76.json"
   },
   {
     "app_name": "KakaoTalk",
@@ -641,6 +641,16 @@
   },
   {
     "app_name": "Nova Launcher",
+    "asset_name": "nova-universal-dropped-v88200.8.8.2.apk",
+    "package_id": "com.teslacoilsw.launcher",
+    "version_name": "88200 (8.8.2)",
+    "sha256": "215f34da2421b6b8d0b482228fde3dfe5da3102945944463d2b5791a0dda91dc",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/nova-universal-dropped-v88200.8.8.2.apk",
+    "discoverium_file": "../discoverium/com.teslacoilsw.launcher__nova-universal-dropped-v88200.8.8.2.json"
+  },
+  {
+    "app_name": "Nova Launcher",
     "asset_name": "nova-universal-morphe-patches-v8.8.8.apk",
     "package_id": "com.teslacoilsw.launcher",
     "version_name": "88800 (8.8.8)",
@@ -658,16 +668,6 @@
     "play_store_url": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/nova-universal-dropped-v88000.8.8.0.apk",
     "discoverium_file": "../discoverium/com.teslacoilsw.launcher__nova-universal-dropped-v88000.8.8.0.json"
-  },
-  {
-    "app_name": "Nova Launcher",
-    "asset_name": "nova-universal-dropped-v88200.8.8.2.apk",
-    "package_id": "com.teslacoilsw.launcher",
-    "version_name": "88200 (8.8.2)",
-    "sha256": "215f34da2421b6b8d0b482228fde3dfe5da3102945944463d2b5791a0dda91dc",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
-    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/nova-universal-dropped-v88200.8.8.2.apk",
-    "discoverium_file": "../discoverium/com.teslacoilsw.launcher__nova-universal-dropped-v88200.8.8.2.json"
   },
   {
     "app_name": "Pandora",
@@ -774,7 +774,7 @@
     "asset_name": "pokecardex-armeabi-v7a-morphe-patches-v8.7.2.apk",
     "package_id": "com.application.pokecardex",
     "version_name": "5.13.0",
-    "sha256": "695d84587424ec903ced50be6b2de790031dfe7204900953c1e19ccf7677d03c",
+    "sha256": "0cd903422020b98295c48fb4aada3d19177d0eba326931878792fbbf0b23ad6d",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.application.pokecardex",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/pokecardex-armeabi-v7a-morphe-patches-v8.7.2.apk",
     "discoverium_file": "../discoverium/com.application.pokecardex__pokecardex-armeabi-v7a-morphe-patches-v8.7.2.json"
@@ -901,16 +901,6 @@
   },
   {
     "app_name": "Smart Launcher",
-    "asset_name": "smart_launcher-universal-morphe-patches-v6.6.build.014.apk",
-    "package_id": "ginlemon.flowerfree",
-    "version_name": "6.6 build 014",
-    "sha256": "123a5010114833aab0d9c96025d3c24371838214f5c55dc8216d7247c6a0107e",
-    "play_store_url": "https://play.google.com/store/apps/details?id=ginlemon.flowerfree",
-    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/smart_launcher-universal-morphe-patches-v6.6.build.014.apk",
-    "discoverium_file": "../discoverium/ginlemon.flowerfree__smart_launcher-universal-morphe-patches-v6.6.build.014.json"
-  },
-  {
-    "app_name": "Smart Launcher",
     "asset_name": "smart_launcher-universal-morphe-patches-v6.6.build.016.apk",
     "package_id": "ginlemon.flowerfree",
     "version_name": "6.6 build 018",
@@ -918,6 +908,16 @@
     "play_store_url": "https://play.google.com/store/apps/details?id=ginlemon.flowerfree",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/smart_launcher-universal-morphe-patches-v6.6.build.016.apk",
     "discoverium_file": "../discoverium/ginlemon.flowerfree__smart_launcher-universal-morphe-patches-v6.6.build.016.json"
+  },
+  {
+    "app_name": "Smart Launcher",
+    "asset_name": "smart_launcher-universal-morphe-patches-v6.6.build.014.apk",
+    "package_id": "ginlemon.flowerfree",
+    "version_name": "6.6 build 014",
+    "sha256": "123a5010114833aab0d9c96025d3c24371838214f5c55dc8216d7247c6a0107e",
+    "play_store_url": "https://play.google.com/store/apps/details?id=ginlemon.flowerfree",
+    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/smart_launcher-universal-morphe-patches-v6.6.build.014.apk",
+    "discoverium_file": "../discoverium/ginlemon.flowerfree__smart_launcher-universal-morphe-patches-v6.6.build.014.json"
   },
   {
     "app_name": "SnoreLab",
@@ -1171,23 +1171,13 @@
   },
   {
     "app_name": "X",
-    "asset_name": "x-new-universal-piko-patches-v12.25.0-prod.01.apk",
+    "asset_name": "x-new-universal-piko-patches-v12.25.2-prod.01.apk",
     "package_id": "com.twitter.android",
-    "version_name": "12.25.0-prod.01",
-    "sha256": "6bda62893841c64cda7100df48dc805feb42c329ef5f8e19f00207553711aa1d",
+    "version_name": "12.25.2-prod.01",
+    "sha256": "c36910f5cafbdc0587dd226f9bdf288dd66c34a56acba13d105e6df76a09e690",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.twitter.android",
-    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/x-new-universal-piko-patches-v12.25.0-prod.01.apk",
-    "discoverium_file": "../discoverium/com.twitter.android__x-new-universal-piko-patches-v12.25.0-prod.01.json"
-  },
-  {
-    "app_name": "X",
-    "asset_name": "x-universal-piko-patches-v12.19.1-release.0.apk",
-    "package_id": "com.twitter.android",
-    "version_name": "12.19.1-release.0",
-    "sha256": "27197f849a70531552dbea2143d21624c16cdcaa25ef61959f6dc8608c54c644",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.twitter.android",
-    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/x-universal-piko-patches-v12.19.1-release.0.apk",
-    "discoverium_file": "../discoverium/com.twitter.android__x-universal-piko-patches-v12.19.1-release.0.json"
+    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/x-new-universal-piko-patches-v12.25.2-prod.01.apk",
+    "discoverium_file": "../discoverium/com.twitter.android__x-new-universal-piko-patches-v12.25.2-prod.01.json"
   },
   {
     "app_name": "Xodo",
