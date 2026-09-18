@@ -4,9 +4,9 @@
     "asset_name": "brave-browser-kveld9-v1.95.101-arm-v7a.apk",
     "package_id": "com.brave.browser",
     "version_name": "1.95.101",
-    "sha256": "370b235ec520124c3da0fe67c93a50944855d40f4efd00d5ce7d7246050e8c94",
+    "sha256": "1ad4c9922d17a63430790e14bdb384ee7af4eba3a20bea646c51b3cd06ad2517",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.brave.browser",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260066/brave-browser-kveld9-v1.95.101-arm-v7a.apk",
+    "download_url": "https://github.com/nullcpy/rvb/releases/download/260072/brave-browser-kveld9-v1.95.101-arm-v7a.apk",
     "discoverium_file": "../discoverium/com.brave.browser__brave-browser-kveld9-v1.95.101-arm-v7a.json"
   },
   {
@@ -14,19 +14,99 @@
     "asset_name": "brave-browser-kveld9-v1.95.101-arm64-v8a.apk",
     "package_id": "com.brave.browser",
     "version_name": "1.95.101",
-    "sha256": "c43d13f49497c9b445de569a0989fc55cc083c1fe5bfc20c1c176ebbe7219c79",
+    "sha256": "9e3f83e5c19cd56393ebb3120fd1ccd2875a10f53b366fb70561e5d7b9b10f47",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.brave.browser",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260066/brave-browser-kveld9-v1.95.101-arm64-v8a.apk",
+    "download_url": "https://github.com/nullcpy/rvb/releases/download/260072/brave-browser-kveld9-v1.95.101-arm64-v8a.apk",
     "discoverium_file": "../discoverium/com.brave.browser__brave-browser-kveld9-v1.95.101-arm64-v8a.json"
+  },
+  {
+    "app_name": "Discord",
+    "asset_name": "discord-revenge-v345.9-Stable-arm64-v8a.apk",
+    "package_id": "com.discord",
+    "version_name": "345.9 - Stable",
+    "sha256": "b47f86fa3aa48cf6b96daee76efd957e8fc9996ab711e1ac22d9571135aad8b1",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.discord",
+    "download_url": "https://github.com/nullcpy/rvb/releases/download/260072/discord-revenge-v345.9-Stable-arm64-v8a.apk",
+    "discoverium_file": "../discoverium/com.discord__discord-revenge-v345.9-Stable-arm64-v8a.json"
+  },
+  {
+    "app_name": "Discord",
+    "asset_name": "discord-revenge-v345.9-Stable-arm-v7a.apk",
+    "package_id": "com.discord",
+    "version_name": "345.9 - Stable",
+    "sha256": "e84355b03f26f50cdd40be2ab5eeafa5258cf0b7cbbef3ddeaa02afb2fd07aaf",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.discord",
+    "download_url": "https://github.com/nullcpy/rvb/releases/download/260072/discord-revenge-v345.9-Stable-arm-v7a.apk",
+    "discoverium_file": "../discoverium/com.discord__discord-revenge-v345.9-Stable-arm-v7a.json"
+  },
+  {
+    "app_name": "Instafel",
+    "asset_name": "instagram-instafel-clone-v447.0.0.55.81-arm64-v8a.apk",
+    "package_id": "com.instafel.android",
+    "version_name": "447.0.0.55.81",
+    "sha256": "7adafcc658c133b27b9c1b22a4149b888dbe8a206decb64a84a1ee1d7e4b6b5c",
+    "play_store_url": "",
+    "download_url": "https://github.com/nullcpy/rvb/releases/download/260072/instagram-instafel-clone-v447.0.0.55.81-arm64-v8a.apk",
+    "discoverium_file": "../discoverium/com.instafel.android__instagram-instafel-clone-v447.0.0.55.81-arm64-v8a.json"
+  },
+  {
+    "app_name": "Instafel",
+    "asset_name": "instagram-instafel-clone-v447.0.0.55.81-arm-v7a.apk",
+    "package_id": "com.instafel.android",
+    "version_name": "447.0.0.55.81",
+    "sha256": "08a5db5eb15edab83c84c1d77704b71b69c9ab85ae54ccc652d0bf2d8137e3d9",
+    "play_store_url": "",
+    "download_url": "https://github.com/nullcpy/rvb/releases/download/260072/instagram-instafel-clone-v447.0.0.55.81-arm-v7a.apk",
+    "discoverium_file": "../discoverium/com.instafel.android__instagram-instafel-clone-v447.0.0.55.81-arm-v7a.json"
+  },
+  {
+    "app_name": "Instagram",
+    "asset_name": "instagram-instafel-v447.0.0.55.81-arm-v7a.apk",
+    "package_id": "com.instagram.android",
+    "version_name": "447.0.0.55.81",
+    "sha256": "25af67d609771bd92c681a28140da98ee045381e561db6bab5def63a791b3f6c",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.instagram.android",
+    "download_url": "https://github.com/nullcpy/rvb/releases/download/260072/instagram-instafel-v447.0.0.55.81-arm-v7a.apk",
+    "discoverium_file": "../discoverium/com.instagram.android__instagram-instafel-v447.0.0.55.81-arm-v7a.json"
+  },
+  {
+    "app_name": "Instagram",
+    "asset_name": "instagram-instafel-v447.0.0.55.81-arm64-v8a.apk",
+    "package_id": "com.instagram.android",
+    "version_name": "447.0.0.55.81",
+    "sha256": "444a36e40a86e790a67a4f079a7a0ef06878c9ef0f6a56f48335df1a9e5f474e",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.instagram.android",
+    "download_url": "https://github.com/nullcpy/rvb/releases/download/260072/instagram-instafel-v447.0.0.55.81-arm64-v8a.apk",
+    "discoverium_file": "../discoverium/com.instagram.android__instagram-instafel-v447.0.0.55.81-arm64-v8a.json"
+  },
+  {
+    "app_name": "TikTok",
+    "asset_name": "tiktok-kveld9-asia-v46.9.3-arm-v7a.apk",
+    "package_id": "com.ss.android.ugc.trill",
+    "version_name": "46.9.3",
+    "sha256": "cdae41afd565955ca0670eca269dc9a5e0f73ba37c4527ff94218c5f345a3f6a",
+    "play_store_url": "",
+    "download_url": "https://github.com/nullcpy/rvb/releases/download/260072/tiktok-kveld9-asia-v46.9.3-arm-v7a.apk",
+    "discoverium_file": "../discoverium/com.ss.android.ugc.trill__tiktok-kveld9-asia-v46.9.3-arm-v7a.json"
+  },
+  {
+    "app_name": "TikTok",
+    "asset_name": "tiktok-kveld9-asia-v46.9.3-arm64-v8a.apk",
+    "package_id": "com.ss.android.ugc.trill",
+    "version_name": "46.9.3",
+    "sha256": "3327e534fa3b3b3f612e23a631ad41f4d507e33709d4b965c1d8822352a33844",
+    "play_store_url": "",
+    "download_url": "https://github.com/nullcpy/rvb/releases/download/260072/tiktok-kveld9-asia-v46.9.3-arm64-v8a.apk",
+    "discoverium_file": "../discoverium/com.ss.android.ugc.trill__tiktok-kveld9-asia-v46.9.3-arm64-v8a.json"
   },
   {
     "app_name": "TikTok",
     "asset_name": "tiktok-kveld9-v46.9.3-arm-v7a.apk",
     "package_id": "com.zhiliaoapp.musically",
     "version_name": "46.9.3",
-    "sha256": "e59639393bb267b9d4963866d2db21db7fe896da42999bfdab758027d1357771",
+    "sha256": "b16ba8ca4a541ce47d30af0e2d5dd982a3d76c1f03fbd7dc08caa2c0bb960415",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260066/tiktok-kveld9-v46.9.3-arm-v7a.apk",
+    "download_url": "https://github.com/nullcpy/rvb/releases/download/260072/tiktok-kveld9-v46.9.3-arm-v7a.apk",
     "discoverium_file": "../discoverium/com.zhiliaoapp.musically__tiktok-kveld9-v46.9.3-arm-v7a.json"
   },
   {
@@ -34,29 +114,9 @@
     "asset_name": "tiktok-kveld9-v46.9.3-arm64-v8a.apk",
     "package_id": "com.zhiliaoapp.musically",
     "version_name": "46.9.3",
-    "sha256": "53e1d26a8c1bb733b61dd871d9e34abe8b238b66e0af82262494077a685c0a0e",
+    "sha256": "a84f409dd8f94b9cf95a0719157eec6d581e0928d9a3642449f3bc45199a7b1a",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260066/tiktok-kveld9-v46.9.3-arm64-v8a.apk",
+    "download_url": "https://github.com/nullcpy/rvb/releases/download/260072/tiktok-kveld9-v46.9.3-arm64-v8a.apk",
     "discoverium_file": "../discoverium/com.zhiliaoapp.musically__tiktok-kveld9-v46.9.3-arm64-v8a.json"
-  },
-  {
-    "app_name": "TikTok",
-    "asset_name": "tiktok-kveld9-asia-v46.9.3-arm64-v8a.apk",
-    "package_id": "com.ss.android.ugc.trill",
-    "version_name": "46.9.3",
-    "sha256": "557e5dc44b2dc2a11f7a9e09efeb5fe60192549d29e2aac5df0cb728dc9e969a",
-    "play_store_url": "",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260066/tiktok-kveld9-asia-v46.9.3-arm64-v8a.apk",
-    "discoverium_file": "../discoverium/com.ss.android.ugc.trill__tiktok-kveld9-asia-v46.9.3-arm64-v8a.json"
-  },
-  {
-    "app_name": "TikTok",
-    "asset_name": "tiktok-kveld9-asia-v46.9.3-arm-v7a.apk",
-    "package_id": "com.ss.android.ugc.trill",
-    "version_name": "46.9.3",
-    "sha256": "4c688389d8caabf1f7ead45a3d4f983915576f414c93a8d85a74cc4c31c44138",
-    "play_store_url": "",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260066/tiktok-kveld9-asia-v46.9.3-arm-v7a.apk",
-    "discoverium_file": "../discoverium/com.ss.android.ugc.trill__tiktok-kveld9-asia-v46.9.3-arm-v7a.json"
   }
 ]
