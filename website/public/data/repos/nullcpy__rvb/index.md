@@ -4,44 +4,14 @@ Release source: `latest`
 
 | App | Package ID | Asset Filename | Version | Play Store | Config  |
 |---|---|---|---|---|---|
-| **Brave** | com.brave.browser | brave-browser-kveld9-v1.95.101-arm-v7a.apk | 1.95.101 | [Play Store](https://play.google.com/store/apps/details?id=com.brave.browser) | [JSON Config](./discoverium/com.brave.browser__brave-browser-kveld9-v1.95.101-arm-v7a.json) |
-| **Brave** | com.brave.browser | brave-browser-kveld9-v1.95.101-arm64-v8a.apk | 1.95.101 | [Play Store](https://play.google.com/store/apps/details?id=com.brave.browser) | [JSON Config](./discoverium/com.brave.browser__brave-browser-kveld9-v1.95.101-arm64-v8a.json) |
-| **Discord** | com.discord | discord-revenge-v345.9-Stable-arm64-v8a.apk | 345.9 - Stable | [Play Store](https://play.google.com/store/apps/details?id=com.discord) | [JSON Config](./discoverium/com.discord__discord-revenge-v345.9-Stable-arm64-v8a.json) |
-| **Discord** | com.discord | discord-revenge-v345.9-Stable-arm-v7a.apk | 345.9 - Stable | [Play Store](https://play.google.com/store/apps/details?id=com.discord) | [JSON Config](./discoverium/com.discord__discord-revenge-v345.9-Stable-arm-v7a.json) |
-| **Instafel** | com.instafel.android | instagram-instafel-clone-v447.0.0.55.81-arm64-v8a.apk | 447.0.0.55.81 | N/A | [JSON Config](./discoverium/com.instafel.android__instagram-instafel-clone-v447.0.0.55.81-arm64-v8a.json) |
-| **Instafel** | com.instafel.android | instagram-instafel-clone-v447.0.0.55.81-arm-v7a.apk | 447.0.0.55.81 | N/A | [JSON Config](./discoverium/com.instafel.android__instagram-instafel-clone-v447.0.0.55.81-arm-v7a.json) |
-| **Instagram** | com.instagram.android | instagram-instafel-v447.0.0.55.81-arm-v7a.apk | 447.0.0.55.81 | [Play Store](https://play.google.com/store/apps/details?id=com.instagram.android) | [JSON Config](./discoverium/com.instagram.android__instagram-instafel-v447.0.0.55.81-arm-v7a.json) |
-| **Instagram** | com.instagram.android | instagram-instafel-v447.0.0.55.81-arm64-v8a.apk | 447.0.0.55.81 | [Play Store](https://play.google.com/store/apps/details?id=com.instagram.android) | [JSON Config](./discoverium/com.instagram.android__instagram-instafel-v447.0.0.55.81-arm64-v8a.json) |
-| **TikTok** | com.ss.android.ugc.trill | tiktok-kveld9-asia-v46.9.3-arm-v7a.apk | 46.9.3 | N/A | [JSON Config](./discoverium/com.ss.android.ugc.trill__tiktok-kveld9-asia-v46.9.3-arm-v7a.json) |
-| **TikTok** | com.ss.android.ugc.trill | tiktok-kveld9-asia-v46.9.3-arm64-v8a.apk | 46.9.3 | N/A | [JSON Config](./discoverium/com.ss.android.ugc.trill__tiktok-kveld9-asia-v46.9.3-arm64-v8a.json) |
-| **TikTok** | com.zhiliaoapp.musically | tiktok-kveld9-v46.9.3-arm-v7a.apk | 46.9.3 | [Play Store](https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically) | [JSON Config](./discoverium/com.zhiliaoapp.musically__tiktok-kveld9-v46.9.3-arm-v7a.json) |
-| **TikTok** | com.zhiliaoapp.musically | tiktok-kveld9-v46.9.3-arm64-v8a.apk | 46.9.3 | [Play Store](https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically) | [JSON Config](./discoverium/com.zhiliaoapp.musically__tiktok-kveld9-v46.9.3-arm64-v8a.json) |
+| **Photos** | app.morphe.android.apps.photos | google-photos-akashsriram-v7.92.0.977185651-arm64-v8a.apk | 7.92.0.977185651 | N/A | [JSON Config](./discoverium/app.morphe.android.apps.photos__google-photos-akashsriram-v7.92.0.977185651-arm64-v8a.json) |
+| **Photos** | app.morphe.android.apps.photos | google-photos-akashsriram-v7.92.0.977185651-arm-v7a.apk | 7.92.0.977185651 | N/A | [JSON Config](./discoverium/app.morphe.android.apps.photos__google-photos-akashsriram-v7.92.0.977185651-arm-v7a.json) |
 
 ## SHA256
 
-- **brave-browser-kveld9-v1.95.101-arm-v7a.apk**
-  - `1ad4c9922d17a63430790e14bdb384ee7af4eba3a20bea646c51b3cd06ad2517`
-- **brave-browser-kveld9-v1.95.101-arm64-v8a.apk**
-  - `9e3f83e5c19cd56393ebb3120fd1ccd2875a10f53b366fb70561e5d7b9b10f47`
-- **discord-revenge-v345.9-Stable-arm64-v8a.apk**
-  - `b47f86fa3aa48cf6b96daee76efd957e8fc9996ab711e1ac22d9571135aad8b1`
-- **discord-revenge-v345.9-Stable-arm-v7a.apk**
-  - `e84355b03f26f50cdd40be2ab5eeafa5258cf0b7cbbef3ddeaa02afb2fd07aaf`
-- **instagram-instafel-clone-v447.0.0.55.81-arm64-v8a.apk**
-  - `7adafcc658c133b27b9c1b22a4149b888dbe8a206decb64a84a1ee1d7e4b6b5c`
-- **instagram-instafel-clone-v447.0.0.55.81-arm-v7a.apk**
-  - `08a5db5eb15edab83c84c1d77704b71b69c9ab85ae54ccc652d0bf2d8137e3d9`
-- **instagram-instafel-v447.0.0.55.81-arm-v7a.apk**
-  - `25af67d609771bd92c681a28140da98ee045381e561db6bab5def63a791b3f6c`
-- **instagram-instafel-v447.0.0.55.81-arm64-v8a.apk**
-  - `444a36e40a86e790a67a4f079a7a0ef06878c9ef0f6a56f48335df1a9e5f474e`
-- **tiktok-kveld9-asia-v46.9.3-arm-v7a.apk**
-  - `cdae41afd565955ca0670eca269dc9a5e0f73ba37c4527ff94218c5f345a3f6a`
-- **tiktok-kveld9-asia-v46.9.3-arm64-v8a.apk**
-  - `3327e534fa3b3b3f612e23a631ad41f4d507e33709d4b965c1d8822352a33844`
-- **tiktok-kveld9-v46.9.3-arm-v7a.apk**
-  - `b16ba8ca4a541ce47d30af0e2d5dd982a3d76c1f03fbd7dc08caa2c0bb960415`
-- **tiktok-kveld9-v46.9.3-arm64-v8a.apk**
-  - `a84f409dd8f94b9cf95a0719157eec6d581e0928d9a3642449f3bc45199a7b1a`
+- **google-photos-akashsriram-v7.92.0.977185651-arm64-v8a.apk**
+  - `acf36ce4cb2ab09b9a6589406fefc158898d2561ff41c9bfe59d3a9714a3bd11`
+- **google-photos-akashsriram-v7.92.0.977185651-arm-v7a.apk**
+  - `ea03146ce42e1578c8ddd668165066997210ffa719286e88d61b7ba2636f2fce`
 
 _Automatically generated from GitHub APK release assets with package IDs, SHA256 hashes, and Discoverium import links._
