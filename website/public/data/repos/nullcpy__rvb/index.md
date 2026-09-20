@@ -4,14 +4,14 @@ Release source: `latest`
 
 | App | Package ID | Asset Filename | Version | Play Store | Config  |
 |---|---|---|---|---|---|
-| **Photos** | app.morphe.android.apps.photos | google-photos-akashsriram-v7.92.0.977185651-arm64-v8a.apk | 7.92.0.977185651 | N/A | [JSON Config](./discoverium/app.morphe.android.apps.photos__google-photos-akashsriram-v7.92.0.977185651-arm64-v8a.json) |
-| **Photos** | app.morphe.android.apps.photos | google-photos-akashsriram-v7.92.0.977185651-arm-v7a.apk | 7.92.0.977185651 | N/A | [JSON Config](./discoverium/app.morphe.android.apps.photos__google-photos-akashsriram-v7.92.0.977185651-arm-v7a.json) |
+| **Xodo** | com.xodo.pdf.reader | xodo-hoodles-v11.0.0-arm-v7a.apk | 11.0.0 | [Play Store](https://play.google.com/store/apps/details?id=com.xodo.pdf.reader) | [JSON Config](./discoverium/com.xodo.pdf.reader__xodo-hoodles-v11.0.0-arm-v7a.json) |
+| **Xodo** | com.xodo.pdf.reader | xodo-hoodles-v11.0.0-arm64-v8a.apk | 11.0.0 | [Play Store](https://play.google.com/store/apps/details?id=com.xodo.pdf.reader) | [JSON Config](./discoverium/com.xodo.pdf.reader__xodo-hoodles-v11.0.0-arm64-v8a.json) |
 
 ## SHA256
 
-- **google-photos-akashsriram-v7.92.0.977185651-arm64-v8a.apk**
-  - `acf36ce4cb2ab09b9a6589406fefc158898d2561ff41c9bfe59d3a9714a3bd11`
-- **google-photos-akashsriram-v7.92.0.977185651-arm-v7a.apk**
-  - `ea03146ce42e1578c8ddd668165066997210ffa719286e88d61b7ba2636f2fce`
+- **xodo-hoodles-v11.0.0-arm-v7a.apk**
+  - `b2a36ee33ba9343893e387ccc3d1b7182940ffc6444c7693a4dca4cbe6a97653`
+- **xodo-hoodles-v11.0.0-arm64-v8a.apk**
+  - `7d54ebaff22ecc319373c34051538258dae694d0ec8a83502254217e1d995548`
 
 _Automatically generated from GitHub APK release assets with package IDs, SHA256 hashes, and Discoverium import links._
