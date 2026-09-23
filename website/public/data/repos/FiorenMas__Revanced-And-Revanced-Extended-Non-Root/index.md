@@ -4,16 +4,16 @@ Release source: `latest`
 
 | App | Package ID | Asset Filename | Version | Play Store | Config  |
 |---|---|---|---|---|---|
-| **AdGuard** | com.adguard.android | adguard-rushiranpise.apk | 4.14.68 | N/A | [JSON Config](./discoverium/com.adguard.android__adguard-rushiranpise.json) |
 | **AdGuard** | com.adguard.android | adguard-hoo-dles.apk | 4.14.1 | N/A | [JSON Config](./discoverium/com.adguard.android__adguard-hoo-dles.json) |
+| **AdGuard** | com.adguard.android | adguard-rushiranpise.apk | 4.14.68 | N/A | [JSON Config](./discoverium/com.adguard.android__adguard-rushiranpise.json) |
 | **Battery Guru** | com.paget96.batteryguru | battery-guru-arandomhooman.apk | 2.5.0.6 | [Play Store](https://play.google.com/store/apps/details?id=com.paget96.batteryguru) | [JSON Config](./discoverium/com.paget96.batteryguru__battery-guru-arandomhooman.json) |
 | **bilibili** | com.bilibili.app.in | bilibili-arm64-v8a-BiliRoamingM.apk | 3.20.4 | [Play Store](https://play.google.com/store/apps/details?id=com.bilibili.app.in) | [JSON Config](./discoverium/com.bilibili.app.in__bilibili-arm64-v8a-BiliRoamingM.json) |
 | **bilibili** | com.bilibili.app.in | bilibili-BiliRoamingM.apk | 3.20.4 | [Play Store](https://play.google.com/store/apps/details?id=com.bilibili.app.in) | [JSON Config](./discoverium/com.bilibili.app.in__bilibili-BiliRoamingM.json) |
 | **Brave** | com.brave.browser | brave-browser-arm64-v8a-bufferk.apk | 1.92.140 | [Play Store](https://play.google.com/store/apps/details?id=com.brave.browser) | [JSON Config](./discoverium/com.brave.browser__brave-browser-arm64-v8a-bufferk.json) |
 | **CamScanner** | com.intsig.camscanner | camscanner-hoo-dles.apk | 7.20.0.2606230000 | [Play Store](https://play.google.com/store/apps/details?id=com.intsig.camscanner) | [JSON Config](./discoverium/com.intsig.camscanner__camscanner-hoo-dles.json) |
 | **Discord** | com.discord | discord-revenge.apk | 345.9 - Stable | [Play Store](https://play.google.com/store/apps/details?id=com.discord) | [JSON Config](./discoverium/com.discord__discord-revenge.json) |
-| **Duolingo** | com.duolingo | duolingo-beta-revanced.apk | 6.67.4 | [Play Store](https://play.google.com/store/apps/details?id=com.duolingo) | [JSON Config](./discoverium/com.duolingo__duolingo-beta-revanced.json) |
 | **Duolingo** | com.duolingo | duolingo-hoo-dles.apk | 6.95.4 | [Play Store](https://play.google.com/store/apps/details?id=com.duolingo) | [JSON Config](./discoverium/com.duolingo__duolingo-hoo-dles.json) |
+| **Duolingo** | com.duolingo | duolingo-beta-revanced.apk | 6.67.4 | [Play Store](https://play.google.com/store/apps/details?id=com.duolingo) | [JSON Config](./discoverium/com.duolingo__duolingo-beta-revanced.json) |
 | **Duolingo** | com.duolingo | duolingo-revanced.apk | 6.70.3 | [Play Store](https://play.google.com/store/apps/details?id=com.duolingo) | [JSON Config](./discoverium/com.duolingo__duolingo-revanced.json) |
 | **Eyecon** | com.eyecon.global | eyecon-caller-arm64-v8a-paresh.apk | 4.2026.04.05.1300 | [Play Store](https://play.google.com/store/apps/details?id=com.eyecon.global) | [JSON Config](./discoverium/com.eyecon.global__eyecon-caller-arm64-v8a-paresh.json) |
 | **Facebook** | com.facebook.katana | facebook-arm64-v8a-beta-revanced.apk | 490.0.0.63.82 | [Play Store](https://play.google.com/store/apps/details?id=com.facebook.katana) | [JSON Config](./discoverium/com.facebook.katana__facebook-arm64-v8a-beta-revanced.json) |
@@ -21,49 +21,49 @@ Release source: `latest`
 | **Facebook** | com.facebook.katana | facebook-arm64-v8a-revanced.apk | 490.0.0.63.82 | [Play Store](https://play.google.com/store/apps/details?id=com.facebook.katana) | [JSON Config](./discoverium/com.facebook.katana__facebook-arm64-v8a-revanced.json) |
 | **Facebook** | com.facebook.katana | facebook-arm64-v8a-gnadgnaoh.apk | 578.0.0.40.75 | [Play Store](https://play.google.com/store/apps/details?id=com.facebook.katana) | [JSON Config](./discoverium/com.facebook.katana__facebook-arm64-v8a-gnadgnaoh.json) |
 | **FX** | nextapp.fx | fx-file-explorer-indrastorms.apk | 9.1.0.0 | [Play Store](https://play.google.com/store/apps/details?id=nextapp.fx) | [JSON Config](./discoverium/nextapp.fx__fx-file-explorer-indrastorms.json) |
+| **Google News** | app.revanced.android.magazines | googlenews-beta-arm64-v8a-revanced.apk | 5.150.0.868861049 | N/A | [JSON Config](./discoverium/app.revanced.android.magazines__googlenews-beta-arm64-v8a-revanced.json) |
 | **Google News** | app.morphe.android.magazines | googlenews-arm64-v8a-derevanced.apk | 5.108.0.644447823 | N/A | [JSON Config](./discoverium/app.morphe.android.magazines__googlenews-arm64-v8a-derevanced.json) |
 | **Google News** | app.revanced.android.magazines | googlenews-arm64-v8a-revanced.apk | 5.108.0.644447823 | N/A | [JSON Config](./discoverium/app.revanced.android.magazines__googlenews-arm64-v8a-revanced.json) |
-| **Google News** | app.revanced.android.magazines | googlenews-beta-arm64-v8a-revanced.apk | 5.150.0.868861049 | N/A | [JSON Config](./discoverium/app.revanced.android.magazines__googlenews-beta-arm64-v8a-revanced.json) |
 | **Google News** | com.google.android.apps.magazines.morphe | googlenews-docbt.apk | 5.163.0.947799485 | N/A | [JSON Config](./discoverium/com.google.android.apps.magazines.morphe__googlenews-docbt.json) |
 | **Instafel** | com.instafel.android | instagram-clone-instafel.apk | 407.0.0.55.243 | N/A | [JSON Config](./discoverium/com.instafel.android__instagram-clone-instafel.json) |
-| **Instagram** | com.instagram.android | instagram-arm64-v8a-beta-revanced.apk | 401.0.0.48.79 | [Play Store](https://play.google.com/store/apps/details?id=com.instagram.android) | [JSON Config](./discoverium/com.instagram.android__instagram-arm64-v8a-beta-revanced.json) |
-| **Instagram** | com.instagram.android | instagram-arm64-v8a-revanced-experiments.apk | 362.0.0.33.241 | [Play Store](https://play.google.com/store/apps/details?id=com.instagram.android) | [JSON Config](./discoverium/com.instagram.android__instagram-arm64-v8a-revanced-experiments.json) |
 | **Instagram** | com.instagram.android | instagram-armeabi-v7a-revanced.apk | 271.1.0.21.84 | [Play Store](https://play.google.com/store/apps/details?id=com.instagram.android) | [JSON Config](./discoverium/com.instagram.android__instagram-armeabi-v7a-revanced.json) |
+| **Instagram** | com.instagram.android | instagram-arm64-v8a-revanced-experiments.apk | 362.0.0.33.241 | [Play Store](https://play.google.com/store/apps/details?id=com.instagram.android) | [JSON Config](./discoverium/com.instagram.android__instagram-arm64-v8a-revanced-experiments.json) |
+| **Instagram** | com.instagram.android | instagram-arm64-v8a-beta-revanced.apk | 401.0.0.48.79 | [Play Store](https://play.google.com/store/apps/details?id=com.instagram.android) | [JSON Config](./discoverium/com.instagram.android__instagram-arm64-v8a-beta-revanced.json) |
 | **Instagram** | com.instagram.android | instagram-arm64-v8a-revanced.apk | 401.0.0.48.79 | [Play Store](https://play.google.com/store/apps/details?id=com.instagram.android) | [JSON Config](./discoverium/com.instagram.android__instagram-arm64-v8a-revanced.json) |
 | **Instagram** | com.instagram.android | instagram-arm64-v8a-gnadgnaoh.apk | 447.0.0.55.81 | [Play Store](https://play.google.com/store/apps/details?id=com.instagram.android) | [JSON Config](./discoverium/com.instagram.android__instagram-arm64-v8a-gnadgnaoh.json) |
+| **Instagram** | com.instagram.android | instagram-instafel.apk | 407.0.0.55.243 | [Play Store](https://play.google.com/store/apps/details?id=com.instagram.android) | [JSON Config](./discoverium/com.instagram.android__instagram-instafel.json) |
 | **Instagram** | com.instagram.android | instagram-arm64-v8a-piko.apk | 439.0.0.37.89 | [Play Store](https://play.google.com/store/apps/details?id=com.instagram.android) | [JSON Config](./discoverium/com.instagram.android__instagram-arm64-v8a-piko.json) |
 | **Instagram** | com.instagram.android | instagram-beta-arm64-v8a-piko.apk | 439.0.0.37.89 | [Play Store](https://play.google.com/store/apps/details?id=com.instagram.android) | [JSON Config](./discoverium/com.instagram.android__instagram-beta-arm64-v8a-piko.json) |
-| **Instagram** | com.instagram.android | instagram-instafel.apk | 407.0.0.55.243 | [Play Store](https://play.google.com/store/apps/details?id=com.instagram.android) | [JSON Config](./discoverium/com.instagram.android__instagram-instafel.json) |
-| **Lightroom for Samsung** | com.adobe.lrmobile | lightroom-revanced.apk | 10.0.2 | [Play Store](https://play.google.com/store/apps/details?id=com.adobe.lrmobile) | [JSON Config](./discoverium/com.adobe.lrmobile__lightroom-revanced.json) |
 | **Lightroom for Samsung** | com.adobe.lrmobile | lightroom-beta-revanced.apk | 10.0.2 | [Play Store](https://play.google.com/store/apps/details?id=com.adobe.lrmobile) | [JSON Config](./discoverium/com.adobe.lrmobile__lightroom-beta-revanced.json) |
+| **Lightroom for Samsung** | com.adobe.lrmobile | lightroom-revanced.apk | 10.0.2 | [Play Store](https://play.google.com/store/apps/details?id=com.adobe.lrmobile) | [JSON Config](./discoverium/com.adobe.lrmobile__lightroom-revanced.json) |
 | **Messenger** | com.facebook.orca | messenger-arm64-v8a-beta-revanced.apk | 550.0.0.45.63 | [Play Store](https://play.google.com/store/apps/details?id=com.facebook.orca) | [JSON Config](./discoverium/com.facebook.orca__messenger-arm64-v8a-beta-revanced.json) |
-| **Messenger** | com.facebook.orca | messenger-arm64-v8a-revanced.apk | 552.0.0.44.65 | [Play Store](https://play.google.com/store/apps/details?id=com.facebook.orca) | [JSON Config](./discoverium/com.facebook.orca__messenger-arm64-v8a-revanced.json) |
 | **Messenger** | com.facebook.orca | messenger-arm64-v8a-derevanced.apk | 573.0.0.44.88 | [Play Store](https://play.google.com/store/apps/details?id=com.facebook.orca) | [JSON Config](./discoverium/com.facebook.orca__messenger-arm64-v8a-derevanced.json) |
+| **Messenger** | com.facebook.orca | messenger-arm64-v8a-revanced.apk | 552.0.0.44.65 | [Play Store](https://play.google.com/store/apps/details?id=com.facebook.orca) | [JSON Config](./discoverium/com.facebook.orca__messenger-arm64-v8a-revanced.json) |
 | **Messenger** | com.facebook.orca | messenger-armeabi-v7a-revanced.apk | 425.0.0.29.109 | [Play Store](https://play.google.com/store/apps/details?id=com.facebook.orca) | [JSON Config](./discoverium/com.facebook.orca__messenger-armeabi-v7a-revanced.json) |
 | **Messenger** | com.facebook.orca | messenger-arm64-v8a-gnadgnaoh.apk | 579.0.0.61.91 | [Play Store](https://play.google.com/store/apps/details?id=com.facebook.orca) | [JSON Config](./discoverium/com.facebook.orca__messenger-arm64-v8a-gnadgnaoh.json) |
 | **Nova Launcher** | com.teslacoilsw.launcher | nova-launcher-indrastorms.apk | 81006 (8.1.6) | [Play Store](https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher) | [JSON Config](./discoverium/com.teslacoilsw.launcher__nova-launcher-indrastorms.json) |
 | **Nova7** | com.teslacoilsw.launcher | nova-launcher-revanced.apk | 7.0.57 | [Play Store](https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher) | [JSON Config](./discoverium/com.teslacoilsw.launcher__nova-launcher-revanced.json) |
 | **Photomath** | com.microblink.photomath | photomath-beta-revanced.apk | 8.47.0 | [Play Store](https://play.google.com/store/apps/details?id=com.microblink.photomath) | [JSON Config](./discoverium/com.microblink.photomath__photomath-beta-revanced.json) |
-| **Photomath** | com.microblink.photomath | photomath-derevanced.apk | 8.48.0 | [Play Store](https://play.google.com/store/apps/details?id=com.microblink.photomath) | [JSON Config](./discoverium/com.microblink.photomath__photomath-derevanced.json) |
 | **Photomath** | com.microblink.photomath | photomath-revanced.apk | 8.47.0 | [Play Store](https://play.google.com/store/apps/details?id=com.microblink.photomath) | [JSON Config](./discoverium/com.microblink.photomath__photomath-revanced.json) |
+| **Photomath** | com.microblink.photomath | photomath-derevanced.apk | 8.48.0 | [Play Store](https://play.google.com/store/apps/details?id=com.microblink.photomath) | [JSON Config](./discoverium/com.microblink.photomath__photomath-derevanced.json) |
 | **Photos** | app.revanced.android.photos | gg-photos-arm64-v8a-revanced.apk | 7.67.0.885128921 | N/A | [JSON Config](./discoverium/app.revanced.android.photos__gg-photos-arm64-v8a-revanced.json) |
-| **Photos** | app.revanced.android.photos | gg-photos-armeabi-v7a-beta-revanced.apk | 7.56.0.842383089 | N/A | [JSON Config](./discoverium/app.revanced.android.photos__gg-photos-armeabi-v7a-beta-revanced.json) |
-| **Photos** | app.revanced.android.photos | gg-photos-arm64-v8a-beta-revanced.apk | 7.64.0.874762840 | N/A | [JSON Config](./discoverium/app.revanced.android.photos__gg-photos-arm64-v8a-beta-revanced.json) |
 | **Photos** | app.revanced.android.photos | gg-photos-armeabi-v7a-revanced.apk | 7.32.0.765953717 | N/A | [JSON Config](./discoverium/app.revanced.android.photos__gg-photos-armeabi-v7a-revanced.json) |
+| **Photos** | app.revanced.android.photos | gg-photos-armeabi-v7a-beta-revanced.apk | 7.56.0.842383089 | N/A | [JSON Config](./discoverium/app.revanced.android.photos__gg-photos-armeabi-v7a-beta-revanced.json) |
 | **Photos** | app.morphe.android.apps.photos | gg-photos-arm64-v8a-derevanced.apk | 7.92.0.977185651 | N/A | [JSON Config](./discoverium/app.morphe.android.apps.photos__gg-photos-arm64-v8a-derevanced.json) |
-| **Photos** | app.revanced.android.photos | gg-photos-x86-revanced.apk | 7.32.0.765953717 | N/A | [JSON Config](./discoverium/app.revanced.android.photos__gg-photos-x86-revanced.json) |
 | **Photos** | app.revanced.android.photos | gg-photos-x86-beta-revanced.apk | 7.57.0.843750501 | N/A | [JSON Config](./discoverium/app.revanced.android.photos__gg-photos-x86-beta-revanced.json) |
+| **Photos** | app.revanced.android.photos | gg-photos-arm64-v8a-beta-revanced.apk | 7.64.0.874762840 | N/A | [JSON Config](./discoverium/app.revanced.android.photos__gg-photos-arm64-v8a-beta-revanced.json) |
+| **Photos** | app.revanced.android.photos | gg-photos-x86-revanced.apk | 7.32.0.765953717 | N/A | [JSON Config](./discoverium/app.revanced.android.photos__gg-photos-x86-revanced.json) |
 | **Photos** | app.revanced.android.photos | gg-photos-x86_64-revanced.apk | 7.32.0.765953717 | N/A | [JSON Config](./discoverium/app.revanced.android.photos__gg-photos-x86_64-revanced.json) |
 | **Photos** | app.revanced.android.photos | gg-photos-x86_64-beta-revanced.apk | 7.57.0.843750501 | N/A | [JSON Config](./discoverium/app.revanced.android.photos__gg-photos-x86_64-beta-revanced.json) |
-| **pixiv** | jp.pxv.android | pixiv-beta-revanced.apk | 6.141.1 | [Play Store](https://play.google.com/store/apps/details?id=jp.pxv.android) | [JSON Config](./discoverium/jp.pxv.android__pixiv-beta-revanced.json) |
 | **pixiv** | jp.pxv.android | pixiv-derevanced.apk | 6.196.0 | [Play Store](https://play.google.com/store/apps/details?id=jp.pxv.android) | [JSON Config](./discoverium/jp.pxv.android__pixiv-derevanced.json) |
+| **pixiv** | jp.pxv.android | pixiv-beta-revanced.apk | 6.141.1 | [Play Store](https://play.google.com/store/apps/details?id=jp.pxv.android) | [JSON Config](./discoverium/jp.pxv.android__pixiv-beta-revanced.json) |
 | **pixiv** | jp.pxv.android | pixiv-revanced.apk | 6.141.1 | [Play Store](https://play.google.com/store/apps/details?id=jp.pxv.android) | [JSON Config](./discoverium/jp.pxv.android__pixiv-revanced.json) |
 | **Prime Video** | com.amazon.avod.thirdpartyclient | prime-video-arm64-v8a-hoo-dles.apk | 3.0.447.757 | [Play Store](https://play.google.com/store/apps/details?id=com.amazon.avod.thirdpartyclient) | [JSON Config](./discoverium/com.amazon.avod.thirdpartyclient__prime-video-arm64-v8a-hoo-dles.json) |
 | **Proton Mail** | ch.protonmail.android | protonmail-beta-revanced.apk | 4.15.0 | [Play Store](https://play.google.com/store/apps/details?id=ch.protonmail.android) | [JSON Config](./discoverium/ch.protonmail.android__protonmail-beta-revanced.json) |
 | **Proton Mail** | ch.protonmail.android | protonmail-revanced.apk | 4.15.0 | [Play Store](https://play.google.com/store/apps/details?id=ch.protonmail.android) | [JSON Config](./discoverium/ch.protonmail.android__protonmail-revanced.json) |
 | **Proton Mail** | ch.protonmail.android | protonmail-derevanced.apk | 7.11.6 | [Play Store](https://play.google.com/store/apps/details?id=ch.protonmail.android) | [JSON Config](./discoverium/ch.protonmail.android__protonmail-derevanced.json) |
-| **Proton VPN** | ch.protonvpn.android | protonvpn-hoo-dles.apk | 5.19.43.0 | [Play Store](https://play.google.com/store/apps/details?id=ch.protonvpn.android) | [JSON Config](./discoverium/ch.protonvpn.android__protonvpn-hoo-dles.json) |
 | **Proton VPN** | ch.protonvpn.android | protonvpn-beta-revanced.apk | 5.16.31.0 | [Play Store](https://play.google.com/store/apps/details?id=ch.protonvpn.android) | [JSON Config](./discoverium/ch.protonvpn.android__protonvpn-beta-revanced.json) |
+| **Proton VPN** | ch.protonvpn.android | protonvpn-hoo-dles.apk | 5.19.43.0 | [Play Store](https://play.google.com/store/apps/details?id=ch.protonvpn.android) | [JSON Config](./discoverium/ch.protonvpn.android__protonvpn-hoo-dles.json) |
 | **Proton VPN** | ch.protonvpn.android | protonvpn-revanced.apk | 5.16.88.0 | [Play Store](https://play.google.com/store/apps/details?id=ch.protonvpn.android) | [JSON Config](./discoverium/ch.protonvpn.android__protonvpn-revanced.json) |
 | **Proton VPN** | ch.protonvpn.android | protonvpn-rushiranpise.apk | 5.19.78.0 | [Play Store](https://play.google.com/store/apps/details?id=ch.protonvpn.android) | [JSON Config](./discoverium/ch.protonvpn.android__protonvpn-rushiranpise.json) |
 | **Psiphon Pro** | com.psiphon3.subscription | psiphon-rushiranpise.apk | 479 | [Play Store](https://play.google.com/store/apps/details?id=com.psiphon3.subscription) | [JSON Config](./discoverium/com.psiphon3.subscription__psiphon-rushiranpise.json) |
@@ -71,17 +71,17 @@ Release source: `latest`
 | **RAR** | com.rarlab.rar | rar-derevanced.apk | 7.23.build134 | [Play Store](https://play.google.com/store/apps/details?id=com.rarlab.rar) | [JSON Config](./discoverium/com.rarlab.rar__rar-derevanced.json) |
 | **RAR** | com.rarlab.rar | rar-revanced.apk | 7.20.build129 | [Play Store](https://play.google.com/store/apps/details?id=com.rarlab.rar) | [JSON Config](./discoverium/com.rarlab.rar__rar-revanced.json) |
 | **Recorder** | com.google.android.apps.recorder | google-recorder-derevanced.apk | 4.2.20260709.976121876 | [Play Store](https://play.google.com/store/apps/details?id=com.google.android.apps.recorder) | [JSON Config](./discoverium/com.google.android.apps.recorder__google-recorder-derevanced.json) |
+| **Reddit** | com.reddit.frontpage | reddit-arm64-v8a-beta-revanced-extended.apk | 2025.12.1 | [Play Store](https://play.google.com/store/apps/details?id=com.reddit.frontpage) | [JSON Config](./discoverium/com.reddit.frontpage__reddit-arm64-v8a-beta-revanced-extended.json) |
 | **Reddit** | com.reddit.frontpage | reddit-arm64-v8a-morphe.apk | 2026.14.0 | [Play Store](https://play.google.com/store/apps/details?id=com.reddit.frontpage) | [JSON Config](./discoverium/com.reddit.frontpage__reddit-arm64-v8a-morphe.json) |
 | **Reddit** | com.reddit.frontpage | reddit-arm64-v8a-beta-morphe.apk | 2026.38.0 | [Play Store](https://play.google.com/store/apps/details?id=com.reddit.frontpage) | [JSON Config](./discoverium/com.reddit.frontpage__reddit-arm64-v8a-beta-morphe.json) |
-| **Reddit** | com.reddit.frontpage | reddit-arm64-v8a-beta-revanced-extended.apk | 2025.12.1 | [Play Store](https://play.google.com/store/apps/details?id=com.reddit.frontpage) | [JSON Config](./discoverium/com.reddit.frontpage__reddit-arm64-v8a-beta-revanced-extended.json) |
 | **Reddit** | com.reddit.frontpage | reddit-arm64-v8a-revanced-extended.apk | 2025.12.1 | [Play Store](https://play.google.com/store/apps/details?id=com.reddit.frontpage) | [JSON Config](./discoverium/com.reddit.frontpage__reddit-arm64-v8a-revanced-extended.json) |
 | **Reddit** | com.reddit.frontpage | reddit-arm64-v8a-revanced-extended-arsclib.apk | 2025.52.0 | [Play Store](https://play.google.com/store/apps/details?id=com.reddit.frontpage) | [JSON Config](./discoverium/com.reddit.frontpage__reddit-arm64-v8a-revanced-extended-arsclib.json) |
-| **Reddit** | com.reddit.frontpage | reddit-beta-morphe.apk | 2026.38.0 | [Play Store](https://play.google.com/store/apps/details?id=com.reddit.frontpage) | [JSON Config](./discoverium/com.reddit.frontpage__reddit-beta-morphe.json) |
 | **Reddit** | com.reddit.frontpage | reddit-arm64-v8a-revanced.apk | 2026.11.0 | [Play Store](https://play.google.com/store/apps/details?id=com.reddit.frontpage) | [JSON Config](./discoverium/com.reddit.frontpage__reddit-arm64-v8a-revanced.json) |
-| **Reddit** | com.reddit.frontpage | reddit-beta-revanced.apk | 2026.09.0 | [Play Store](https://play.google.com/store/apps/details?id=com.reddit.frontpage) | [JSON Config](./discoverium/com.reddit.frontpage__reddit-beta-revanced.json) |
 | **Reddit** | com.reddit.frontpage | reddit-beta-revanced-extended.apk | 2025.12.1 | [Play Store](https://play.google.com/store/apps/details?id=com.reddit.frontpage) | [JSON Config](./discoverium/com.reddit.frontpage__reddit-beta-revanced-extended.json) |
-| **Reddit** | com.reddit.frontpage | reddit-morphe.apk | 2026.14.0 | [Play Store](https://play.google.com/store/apps/details?id=com.reddit.frontpage) | [JSON Config](./discoverium/com.reddit.frontpage__reddit-morphe.json) |
 | **Reddit** | com.reddit.frontpage | reddit-beta-arm64-v8a-revanced.apk | 2026.09.0 | [Play Store](https://play.google.com/store/apps/details?id=com.reddit.frontpage) | [JSON Config](./discoverium/com.reddit.frontpage__reddit-beta-arm64-v8a-revanced.json) |
+| **Reddit** | com.reddit.frontpage | reddit-beta-morphe.apk | 2026.38.0 | [Play Store](https://play.google.com/store/apps/details?id=com.reddit.frontpage) | [JSON Config](./discoverium/com.reddit.frontpage__reddit-beta-morphe.json) |
+| **Reddit** | com.reddit.frontpage | reddit-morphe.apk | 2026.14.0 | [Play Store](https://play.google.com/store/apps/details?id=com.reddit.frontpage) | [JSON Config](./discoverium/com.reddit.frontpage__reddit-morphe.json) |
+| **Reddit** | com.reddit.frontpage | reddit-beta-revanced.apk | 2026.09.0 | [Play Store](https://play.google.com/store/apps/details?id=com.reddit.frontpage) | [JSON Config](./discoverium/com.reddit.frontpage__reddit-beta-revanced.json) |
 | **Reddit** | com.reddit.frontpage | reddit-revanced-extended.apk | 2025.12.1 | [Play Store](https://play.google.com/store/apps/details?id=com.reddit.frontpage) | [JSON Config](./discoverium/com.reddit.frontpage__reddit-revanced-extended.json) |
 | **Reddit** | com.reddit.frontpage | reddit-revanced-extended-arsclib.apk | 2025.52.0 | [Play Store](https://play.google.com/store/apps/details?id=com.reddit.frontpage) | [JSON Config](./discoverium/com.reddit.frontpage__reddit-revanced-extended-arsclib.json) |
 | **Reddit** | com.reddit.frontpage | reddit-revanced.apk | 2026.11.0 | [Play Store](https://play.google.com/store/apps/details?id=com.reddit.frontpage) | [JSON Config](./discoverium/com.reddit.frontpage__reddit-revanced.json) |
@@ -92,8 +92,8 @@ Release source: `latest`
 | **ReVanced Extended** | app.rvx.android.youtube | youtube-x86_64-revanced-extended-5.apk | 16.40.36 | N/A | [JSON Config](./discoverium/app.rvx.android.youtube__youtube-x86_64-revanced-extended-5.json) |
 | **RVX** | app.rvx.android.youtube | youtube-arm64-v8a-revanced-extended-android-6-7.apk | 17.34.36 | N/A | [JSON Config](./discoverium/app.rvx.android.youtube__youtube-arm64-v8a-revanced-extended-android-6-7.json) |
 | **RVX** | app.rvx.android.youtube | youtube-arm64-v8a-revanced-extended.apk | 20.05.46 | N/A | [JSON Config](./discoverium/app.rvx.android.youtube__youtube-arm64-v8a-revanced-extended.json) |
-| **RVX** | app.rvx.android.youtube | youtube-armeabi-v7a-revanced-extended.apk | 20.05.46 | N/A | [JSON Config](./discoverium/app.rvx.android.youtube__youtube-armeabi-v7a-revanced-extended.json) |
 | **RVX** | app.rvx.android.youtube | youtube-armeabi-v7a-revanced-extended-android-6-7.apk | 17.34.36 | N/A | [JSON Config](./discoverium/app.rvx.android.youtube__youtube-armeabi-v7a-revanced-extended-android-6-7.json) |
+| **RVX** | app.rvx.android.youtube | youtube-armeabi-v7a-revanced-extended.apk | 20.05.46 | N/A | [JSON Config](./discoverium/app.rvx.android.youtube__youtube-armeabi-v7a-revanced-extended.json) |
 | **RVX** | app.rvx.android.youtube | youtube-beta-arm64-v8a-revanced-extended.apk | 20.05.46 | N/A | [JSON Config](./discoverium/app.rvx.android.youtube__youtube-beta-arm64-v8a-revanced-extended.json) |
 | **RVX** | app.rvx.android.youtube | youtube-beta-armeabi-v7a-revanced-extended.apk | 20.05.46 | N/A | [JSON Config](./discoverium/app.rvx.android.youtube__youtube-beta-armeabi-v7a-revanced-extended.json) |
 | **RVX** | app.rvx.android.youtube | youtube-beta-x86-revanced-extended.apk | 20.05.46 | N/A | [JSON Config](./discoverium/app.rvx.android.youtube__youtube-beta-x86-revanced-extended.json) |
@@ -101,14 +101,14 @@ Release source: `latest`
 | **RVX** | app.rvx.android.youtube | youtube-beta-x86_64-revanced-extended.apk | 20.05.46 | N/A | [JSON Config](./discoverium/app.rvx.android.youtube__youtube-beta-x86_64-revanced-extended.json) |
 | **RVX** | anddea.youtube | youtube-lite-arm64-v8a-anddea.apk | 20.05.46 | N/A | [JSON Config](./discoverium/anddea.youtube__youtube-lite-arm64-v8a-anddea.json) |
 | **RVX** | app.rvx.android.youtube | youtube-lite-arm64-v8a-revanced-extended.apk | 20.05.46 | N/A | [JSON Config](./discoverium/app.rvx.android.youtube__youtube-lite-arm64-v8a-revanced-extended.json) |
-| **RVX** | app.rvx.android.youtube | youtube-lite-armeabi-v7a-revanced-extended.apk | 20.05.46 | N/A | [JSON Config](./discoverium/app.rvx.android.youtube__youtube-lite-armeabi-v7a-revanced-extended.json) |
 | **RVX** | anddea.youtube | youtube-lite-armeabi-v7a-anddea.apk | 20.05.46 | N/A | [JSON Config](./discoverium/anddea.youtube__youtube-lite-armeabi-v7a-anddea.json) |
+| **RVX** | app.rvx.android.youtube | youtube-lite-armeabi-v7a-revanced-extended.apk | 20.05.46 | N/A | [JSON Config](./discoverium/app.rvx.android.youtube__youtube-lite-armeabi-v7a-revanced-extended.json) |
 | **RVX** | app.rvx.android.youtube | youtube-lite-beta-arm64-v8a-revanced-extended.apk | 20.05.46 | N/A | [JSON Config](./discoverium/app.rvx.android.youtube__youtube-lite-beta-arm64-v8a-revanced-extended.json) |
 | **RVX** | app.rvx.android.youtube | youtube-lite-beta-armeabi-v7a-revanced-extended.apk | 20.05.46 | N/A | [JSON Config](./discoverium/app.rvx.android.youtube__youtube-lite-beta-armeabi-v7a-revanced-extended.json) |
 | **RVX** | app.rvx.android.youtube | youtube-revanced-extended-android-6-7.apk | 17.34.36 | N/A | [JSON Config](./discoverium/app.rvx.android.youtube__youtube-revanced-extended-android-6-7.json) |
 | **RVX** | app.rvx.android.youtube | youtube-revanced-extended.apk | 20.05.46 | N/A | [JSON Config](./discoverium/app.rvx.android.youtube__youtube-revanced-extended.json) |
-| **RVX** | app.rvx.android.youtube | youtube-x86-revanced-extended.apk | 20.05.46 | N/A | [JSON Config](./discoverium/app.rvx.android.youtube__youtube-x86-revanced-extended.json) |
 | **RVX** | app.rvx.android.youtube | youtube-x86-revanced-extended-android-6-7.apk | 17.34.36 | N/A | [JSON Config](./discoverium/app.rvx.android.youtube__youtube-x86-revanced-extended-android-6-7.json) |
+| **RVX** | app.rvx.android.youtube | youtube-x86-revanced-extended.apk | 20.05.46 | N/A | [JSON Config](./discoverium/app.rvx.android.youtube__youtube-x86-revanced-extended.json) |
 | **RVX** | app.rvx.android.youtube | youtube-x86_64-revanced-extended-android-6-7.apk | 17.34.36 | N/A | [JSON Config](./discoverium/app.rvx.android.youtube__youtube-x86_64-revanced-extended-android-6-7.json) |
 | **RVX** | app.rvx.android.youtube | youtube-x86_64-revanced-extended.apk | 20.05.46 | N/A | [JSON Config](./discoverium/app.rvx.android.youtube__youtube-x86_64-revanced-extended.json) |
 | **RVX A5** | app.rvx.android.youtube | youtube-arm64-v8a-revanced-extended-android-5.apk | 16.40.36 | N/A | [JSON Config](./discoverium/app.rvx.android.youtube__youtube-arm64-v8a-revanced-extended-android-5.json) |
@@ -117,8 +117,8 @@ Release source: `latest`
 | **RVX A5** | app.rvx.android.youtube | youtube-x86-revanced-extended-android-5.apk | 16.40.36 | N/A | [JSON Config](./discoverium/app.rvx.android.youtube__youtube-x86-revanced-extended-android-5.json) |
 | **RVX A5** | app.rvx.android.youtube | youtube-x86_64-revanced-extended-android-5.apk | 16.40.36 | N/A | [JSON Config](./discoverium/app.rvx.android.youtube__youtube-x86_64-revanced-extended-android-5.json) |
 | **RVX Anddea** | anddea.youtube | youtube-stable-arm64-v8a-anddea.apk | 20.51.39 | N/A | [JSON Config](./discoverium/anddea.youtube__youtube-stable-arm64-v8a-anddea.json) |
-| **RVX Anddea** | anddea.youtube | youtube-stable-anddea.apk | 20.51.39 | N/A | [JSON Config](./discoverium/anddea.youtube__youtube-stable-anddea.json) |
 | **RVX Anddea** | anddea.youtube | youtube-stable-armeabi-v7a-anddea.apk | 20.51.39 | N/A | [JSON Config](./discoverium/anddea.youtube__youtube-stable-armeabi-v7a-anddea.json) |
+| **RVX Anddea** | anddea.youtube | youtube-stable-anddea.apk | 20.51.39 | N/A | [JSON Config](./discoverium/anddea.youtube__youtube-stable-anddea.json) |
 | **RVX Anddea** | anddea.youtube | youtube-stable-x86-anddea.apk | 20.51.39 | N/A | [JSON Config](./discoverium/anddea.youtube__youtube-stable-x86-anddea.json) |
 | **RVX Anddea** | anddea.youtube | youtube-stable-x86_64-anddea.apk | 20.51.39 | N/A | [JSON Config](./discoverium/anddea.youtube__youtube-stable-x86_64-anddea.json) |
 | **RVX Music** | app.rvx.android.apps.youtube.music | youtube-beta-music-arm64-v8a-revanced-extended.apk | 8.30.54 | N/A | [JSON Config](./discoverium/app.rvx.android.apps.youtube.music__youtube-beta-music-arm64-v8a-revanced-extended.json) |
@@ -127,45 +127,45 @@ Release source: `latest`
 | **RVX Music** | app.rvx.android.apps.youtube.music | youtube-music-armeabi-v7a-revanced-extended.apk | 8.30.54 | N/A | [JSON Config](./discoverium/app.rvx.android.apps.youtube.music__youtube-music-armeabi-v7a-revanced-extended.json) |
 | **RVX Music** | app.rvx.android.apps.youtube.music | youtube-music-beta-arm64-v8a-revanced-extended.apk | 7.16.53 | N/A | [JSON Config](./discoverium/app.rvx.android.apps.youtube.music__youtube-music-beta-arm64-v8a-revanced-extended.json) |
 | **RVX Music** | app.rvx.android.apps.youtube.music | youtube-music-beta-armeabi-v7a-revanced-extended.apk | 7.16.53 | N/A | [JSON Config](./discoverium/app.rvx.android.apps.youtube.music__youtube-music-beta-armeabi-v7a-revanced-extended.json) |
-| **RVX Music** | app.rvx.android.apps.youtube.music | youtube-music-beta-x86_64-revanced-extended.apk | 8.30.54 | N/A | [JSON Config](./discoverium/app.rvx.android.apps.youtube.music__youtube-music-beta-x86_64-revanced-extended.json) |
 | **RVX Music** | app.rvx.android.apps.youtube.music | youtube-music-beta-x86-revanced-extended.apk | 8.30.54 | N/A | [JSON Config](./discoverium/app.rvx.android.apps.youtube.music__youtube-music-beta-x86-revanced-extended.json) |
-| **RVX Music** | anddea.youtube.music | youtube-music-stable-arm64-v8a-anddea.apk | 9.15.51 | N/A | [JSON Config](./discoverium/anddea.youtube.music__youtube-music-stable-arm64-v8a-anddea.json) |
+| **RVX Music** | app.rvx.android.apps.youtube.music | youtube-music-beta-x86_64-revanced-extended.apk | 8.30.54 | N/A | [JSON Config](./discoverium/app.rvx.android.apps.youtube.music__youtube-music-beta-x86_64-revanced-extended.json) |
 | **RVX Music** | anddea.youtube.music | youtube-music-stable-armeabi-v7a-anddea.apk | 9.15.51 | N/A | [JSON Config](./discoverium/anddea.youtube.music__youtube-music-stable-armeabi-v7a-anddea.json) |
-| **RVX Music** | app.rvx.android.apps.youtube.music | youtube-music-x86-revanced-extended.apk | 8.30.54 | N/A | [JSON Config](./discoverium/app.rvx.android.apps.youtube.music__youtube-music-x86-revanced-extended.json) |
-| **RVX Music** | anddea.youtube.music | youtube-music-stable-x86_64-anddea.apk | 9.15.51 | N/A | [JSON Config](./discoverium/anddea.youtube.music__youtube-music-stable-x86_64-anddea.json) |
+| **RVX Music** | anddea.youtube.music | youtube-music-stable-arm64-v8a-anddea.apk | 9.15.51 | N/A | [JSON Config](./discoverium/anddea.youtube.music__youtube-music-stable-arm64-v8a-anddea.json) |
 | **RVX Music** | anddea.youtube.music | youtube-music-stable-x86-anddea.apk | 9.15.51 | N/A | [JSON Config](./discoverium/anddea.youtube.music__youtube-music-stable-x86-anddea.json) |
+| **RVX Music** | anddea.youtube.music | youtube-music-stable-x86_64-anddea.apk | 9.15.51 | N/A | [JSON Config](./discoverium/anddea.youtube.music__youtube-music-stable-x86_64-anddea.json) |
+| **RVX Music** | app.rvx.android.apps.youtube.music | youtube-music-x86-revanced-extended.apk | 8.30.54 | N/A | [JSON Config](./discoverium/app.rvx.android.apps.youtube.music__youtube-music-x86-revanced-extended.json) |
 | **RVX Music** | app.rvx.android.apps.youtube.music | youtube-music-x86_64-revanced-extended.apk | 8.30.54 | N/A | [JSON Config](./discoverium/app.rvx.android.apps.youtube.music__youtube-music-x86_64-revanced-extended.json) |
 | **Smart Launcher** | ginlemon.flowerfree | smart-launcher-hoo-dles.apk | 6.6 build 010 | [Play Store](https://play.google.com/store/apps/details?id=ginlemon.flowerfree) | [JSON Config](./discoverium/ginlemon.flowerfree__smart-launcher-hoo-dles.json) |
 | **Solid Explorer** | pl.solidexplorer2 | solid-explorer-arm64-v8a-scrazzz.apk | 2.8.63 | [Play Store](https://play.google.com/store/apps/details?id=pl.solidexplorer2) | [JSON Config](./discoverium/pl.solidexplorer2__solid-explorer-arm64-v8a-scrazzz.json) |
 | **Solid Explorer** | pl.solidexplorer2 | solid-explorer-hoo-dles.apk | 3.5.20 | [Play Store](https://play.google.com/store/apps/details?id=pl.solidexplorer2) | [JSON Config](./discoverium/pl.solidexplorer2__solid-explorer-hoo-dles.json) |
-| **SoundCloud** | com.soundcloud.android | soundcloud-arm64-v8a-derevanced.apk | 2026.09.09-release | [Play Store](https://play.google.com/store/apps/details?id=com.soundcloud.android) | [JSON Config](./discoverium/com.soundcloud.android__soundcloud-arm64-v8a-derevanced.json) |
 | **SoundCloud** | com.soundcloud.android | soundcloud-arm64-v8a-beta-revanced.apk | 2026.02.20-release | [Play Store](https://play.google.com/store/apps/details?id=com.soundcloud.android) | [JSON Config](./discoverium/com.soundcloud.android__soundcloud-arm64-v8a-beta-revanced.json) |
-| **SoundCloud** | com.soundcloud.android | soundcloud-arm64-v8a-revanced.apk | 2025.05.27-release | [Play Store](https://play.google.com/store/apps/details?id=com.soundcloud.android) | [JSON Config](./discoverium/com.soundcloud.android__soundcloud-arm64-v8a-revanced.json) |
+| **SoundCloud** | com.soundcloud.android | soundcloud-arm64-v8a-derevanced.apk | 2026.09.09-release | [Play Store](https://play.google.com/store/apps/details?id=com.soundcloud.android) | [JSON Config](./discoverium/com.soundcloud.android__soundcloud-arm64-v8a-derevanced.json) |
 | **SoundCloud** | com.soundcloud.android | soundcloud-beta-revanced.apk | 2026.02.20-release | [Play Store](https://play.google.com/store/apps/details?id=com.soundcloud.android) | [JSON Config](./discoverium/com.soundcloud.android__soundcloud-beta-revanced.json) |
-| **SoundCloud** | com.soundcloud.android | soundcloud-hoo-dles.apk | 2026.08.26-release | [Play Store](https://play.google.com/store/apps/details?id=com.soundcloud.android) | [JSON Config](./discoverium/com.soundcloud.android__soundcloud-hoo-dles.json) |
+| **SoundCloud** | com.soundcloud.android | soundcloud-arm64-v8a-revanced.apk | 2025.05.27-release | [Play Store](https://play.google.com/store/apps/details?id=com.soundcloud.android) | [JSON Config](./discoverium/com.soundcloud.android__soundcloud-arm64-v8a-revanced.json) |
 | **SoundCloud** | com.soundcloud.android | soundcloud-derevanced.apk | 2026.09.09-release | [Play Store](https://play.google.com/store/apps/details?id=com.soundcloud.android) | [JSON Config](./discoverium/com.soundcloud.android__soundcloud-derevanced.json) |
+| **SoundCloud** | com.soundcloud.android | soundcloud-hoo-dles.apk | 2026.08.26-release | [Play Store](https://play.google.com/store/apps/details?id=com.soundcloud.android) | [JSON Config](./discoverium/com.soundcloud.android__soundcloud-hoo-dles.json) |
 | **SoundCloud** | com.soundcloud.android | soundcloud-revanced.apk | 2025.05.27-release | [Play Store](https://play.google.com/store/apps/details?id=com.soundcloud.android) | [JSON Config](./discoverium/com.soundcloud.android__soundcloud-revanced.json) |
 | **Strava** | com.strava | strava-arm64-v8a-derevanced.apk | 464.15 | [Play Store](https://play.google.com/store/apps/details?id=com.strava) | [JSON Config](./discoverium/com.strava__strava-arm64-v8a-derevanced.json) |
-| **Strava** | com.strava | strava-arm64-v8a-revanced.apk | 455.11 | [Play Store](https://play.google.com/store/apps/details?id=com.strava) | [JSON Config](./discoverium/com.strava__strava-arm64-v8a-revanced.json) |
 | **Strava** | com.strava | strava-beta-arm64-v8a-revanced.apk | 452.10 | [Play Store](https://play.google.com/store/apps/details?id=com.strava) | [JSON Config](./discoverium/com.strava__strava-beta-arm64-v8a-revanced.json) |
+| **Strava** | com.strava | strava-arm64-v8a-revanced.apk | 455.11 | [Play Store](https://play.google.com/store/apps/details?id=com.strava) | [JSON Config](./discoverium/com.strava__strava-arm64-v8a-revanced.json) |
 | **Tasker** | net.dinglisch.android.taskerm | tasker-indrastorms.apk | 6.0.10 | [Play Store](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm) | [JSON Config](./discoverium/net.dinglisch.android.taskerm__tasker-indrastorms.json) |
 | **Telegram** | org.telegram.messenger.web | telegram-web-version-paresh.apk | 12.10.1 | N/A | [JSON Config](./discoverium/org.telegram.messenger.web__telegram-web-version-paresh.json) |
-| **Telegram** | org.telegram.messenger | telegram-revanced-experiments.apk | 12.6.4 | [Play Store](https://play.google.com/store/apps/details?id=org.telegram.messenger) | [JSON Config](./discoverium/org.telegram.messenger__telegram-revanced-experiments.json) |
 | **Telegram** | org.telegram.messenger.web | telegram-web-version-revanced-experiments.apk | 12.6.4 | N/A | [JSON Config](./discoverium/org.telegram.messenger.web__telegram-web-version-revanced-experiments.json) |
+| **Telegram** | org.telegram.messenger | telegram-revanced-experiments.apk | 12.6.4 | [Play Store](https://play.google.com/store/apps/details?id=org.telegram.messenger) | [JSON Config](./discoverium/org.telegram.messenger__telegram-revanced-experiments.json) |
 | **TeraBox** | com.dubox.drive | terabox-rushiranpise.apk | 4.20.1 | [Play Store](https://play.google.com/store/apps/details?id=com.dubox.drive) | [JSON Config](./discoverium/com.dubox.drive__terabox-rushiranpise.json) |
-| **Threads** | com.instagram.barcelona | threads-arm64-v8a-gnadgnaoh.apk | 447.0.0.54.81 | [Play Store](https://play.google.com/store/apps/details?id=com.instagram.barcelona) | [JSON Config](./discoverium/com.instagram.barcelona__threads-arm64-v8a-gnadgnaoh.json) |
 | **Threads** | com.instagram.barcelona | threads-arm64-v8a-revanced.apk | 382.0.0.51.85 | [Play Store](https://play.google.com/store/apps/details?id=com.instagram.barcelona) | [JSON Config](./discoverium/com.instagram.barcelona__threads-arm64-v8a-revanced.json) |
 | **Threads** | com.instagram.barcelona | threads-beta-arm64-v8a-revanced.apk | 382.0.0.51.85 | [Play Store](https://play.google.com/store/apps/details?id=com.instagram.barcelona) | [JSON Config](./discoverium/com.instagram.barcelona__threads-beta-arm64-v8a-revanced.json) |
 | **Threads** | com.instagram.barcelona | threads-arm64-v8a-derevanced.apk | 447.0.0.54.81 | [Play Store](https://play.google.com/store/apps/details?id=com.instagram.barcelona) | [JSON Config](./discoverium/com.instagram.barcelona__threads-arm64-v8a-derevanced.json) |
+| **Threads** | com.instagram.barcelona | threads-arm64-v8a-gnadgnaoh.apk | 447.0.0.54.81 | [Play Store](https://play.google.com/store/apps/details?id=com.instagram.barcelona) | [JSON Config](./discoverium/com.instagram.barcelona__threads-arm64-v8a-gnadgnaoh.json) |
 | **TikTok** | com.zhiliaoapp.musically | tiktok-arm64-v8a-revanced.apk | 37.0.4 | [Play Store](https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically) | [JSON Config](./discoverium/com.zhiliaoapp.musically__tiktok-arm64-v8a-revanced.json) |
-| **TikTok** | com.ss.android.ugc.trill | tiktok-asia-derevanced.apk | 46.9.3 | N/A | [JSON Config](./discoverium/com.ss.android.ugc.trill__tiktok-asia-derevanced.json) |
 | **TikTok** | com.zhiliaoapp.musically | tiktok-beta-arm64-v8a-revanced.apk | 37.0.4 | [Play Store](https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically) | [JSON Config](./discoverium/com.zhiliaoapp.musically__tiktok-beta-arm64-v8a-revanced.json) |
-| **TikTok** | com.ss.android.ugc.trill | tiktok-asian-gnadgnaoh.apk | 46.9.3 | N/A | [JSON Config](./discoverium/com.ss.android.ugc.trill__tiktok-asian-gnadgnaoh.json) |
+| **TikTok** | com.ss.android.ugc.trill | tiktok-asia-derevanced.apk | 46.9.3 | N/A | [JSON Config](./discoverium/com.ss.android.ugc.trill__tiktok-asia-derevanced.json) |
 | **TikTok** | com.zhiliaoapp.musically | tiktok-beta-revanced.apk | 36.5.4 | [Play Store](https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically) | [JSON Config](./discoverium/com.zhiliaoapp.musically__tiktok-beta-revanced.json) |
+| **TikTok** | com.ss.android.ugc.trill | tiktok-asian-gnadgnaoh.apk | 46.9.3 | N/A | [JSON Config](./discoverium/com.ss.android.ugc.trill__tiktok-asian-gnadgnaoh.json) |
 | **TikTok** | com.zhiliaoapp.musically | tiktok-derevanced.apk | 46.9.3 | [Play Store](https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically) | [JSON Config](./discoverium/com.zhiliaoapp.musically__tiktok-derevanced.json) |
 | **TikTok** | com.zhiliaoapp.musically | tiktok-gnadgnaoh.apk | 46.9.3 | [Play Store](https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically) | [JSON Config](./discoverium/com.zhiliaoapp.musically__tiktok-gnadgnaoh.json) |
-| **TikTok** | com.zhiliaoapp.musically | tiktok-revanced.apk | 36.5.4 | [Play Store](https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically) | [JSON Config](./discoverium/com.zhiliaoapp.musically__tiktok-revanced.json) |
 | **TikTok** | com.zhiliaoapp.musically | tiktok-icysymmetra.apk | 46.2.3 | [Play Store](https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically) | [JSON Config](./discoverium/com.zhiliaoapp.musically__tiktok-icysymmetra.json) |
+| **TikTok** | com.zhiliaoapp.musically | tiktok-revanced.apk | 36.5.4 | [Play Store](https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically) | [JSON Config](./discoverium/com.zhiliaoapp.musically__tiktok-revanced.json) |
 | **Truecaller** | com.truecaller | truecaller-arm64-v8a-bufferk.apk | 26.10.6 | [Play Store](https://play.google.com/store/apps/details?id=com.truecaller) | [JSON Config](./discoverium/com.truecaller__truecaller-arm64-v8a-bufferk.json) |
 | **Truecaller** | com.truecaller | truecaller-arm64-v8a-paresh.apk | 26.10.6 | [Play Store](https://play.google.com/store/apps/details?id=com.truecaller) | [JSON Config](./discoverium/com.truecaller__truecaller-arm64-v8a-paresh.json) |
 | **Tumblr** | com.tumblr | tumblr-arandomhooman.apk | 45.8.0.110 | [Play Store](https://play.google.com/store/apps/details?id=com.tumblr) | [JSON Config](./discoverium/com.tumblr__tumblr-arandomhooman.json) |
@@ -175,46 +175,46 @@ Release source: `latest`
 | **Tumblr** | com.tumblr | tumblr-beta-revanced.apk | 43.2.0.110 | [Play Store](https://play.google.com/store/apps/details?id=com.tumblr) | [JSON Config](./discoverium/com.tumblr__tumblr-beta-revanced.json) |
 | **Tumblr** | com.tumblr | tumblr-revanced.apk | 43.7.0.109 | [Play Store](https://play.google.com/store/apps/details?id=com.tumblr) | [JSON Config](./discoverium/com.tumblr__tumblr-revanced.json) |
 | **Tumblr** | com.tumblr | tumblr-derevanced.apk | 46.2.0.108 | [Play Store](https://play.google.com/store/apps/details?id=com.tumblr) | [JSON Config](./discoverium/com.tumblr__tumblr-derevanced.json) |
-| **Twitch** | tv.twitch.android.app | twitch-arandomhooman.apk | 30.7.2 | [Play Store](https://play.google.com/store/apps/details?id=tv.twitch.android.app) | [JSON Config](./discoverium/tv.twitch.android.app__twitch-arandomhooman.json) |
 | **Twitch** | tv.twitch.android.app | twitch-arm64-v8a-beta-revanced.apk | 25.3.0 | [Play Store](https://play.google.com/store/apps/details?id=tv.twitch.android.app) | [JSON Config](./discoverium/tv.twitch.android.app__twitch-arm64-v8a-beta-revanced.json) |
-| **Twitch** | tv.twitch.android.app | twitch-arm64-v8a-revanced.apk | 25.3.0 | [Play Store](https://play.google.com/store/apps/details?id=tv.twitch.android.app) | [JSON Config](./discoverium/tv.twitch.android.app__twitch-arm64-v8a-revanced.json) |
 | **Twitch** | tv.twitch.android.app | twitch-arm64-v8a-derevanced.apk | 25.3.0 | [Play Store](https://play.google.com/store/apps/details?id=tv.twitch.android.app) | [JSON Config](./discoverium/tv.twitch.android.app__twitch-arm64-v8a-derevanced.json) |
+| **Twitch** | tv.twitch.android.app | twitch-arm64-v8a-revanced.apk | 25.3.0 | [Play Store](https://play.google.com/store/apps/details?id=tv.twitch.android.app) | [JSON Config](./discoverium/tv.twitch.android.app__twitch-arm64-v8a-revanced.json) |
+| **Twitch** | tv.twitch.android.app | twitch-arandomhooman.apk | 30.7.2 | [Play Store](https://play.google.com/store/apps/details?id=tv.twitch.android.app) | [JSON Config](./discoverium/tv.twitch.android.app__twitch-arandomhooman.json) |
 | **Twitch** | tv.twitch.android.app | twitch-derevanced.apk | 25.3.0 | [Play Store](https://play.google.com/store/apps/details?id=tv.twitch.android.app) | [JSON Config](./discoverium/tv.twitch.android.app__twitch-derevanced.json) |
 | **Twitch** | tv.twitch.android.app | twitch-beta-revanced.apk | 25.3.0 | [Play Store](https://play.google.com/store/apps/details?id=tv.twitch.android.app) | [JSON Config](./discoverium/tv.twitch.android.app__twitch-beta-revanced.json) |
 | **Twitch** | tv.twitch.android.app | twitch-revanced.apk | 25.3.0 | [Play Store](https://play.google.com/store/apps/details?id=tv.twitch.android.app) | [JSON Config](./discoverium/tv.twitch.android.app__twitch-revanced.json) |
 | **Uptodown App Store** | com.uptodown | MyFitnessPal-beta-revanced.apk | 7.11 | N/A | [JSON Config](./discoverium/com.uptodown__MyFitnessPal-beta-revanced.json) |
 | **Uptodown App Store** | com.uptodown | MyFitnessPal-revanced.apk | 7.14 | N/A | [JSON Config](./discoverium/com.uptodown__MyFitnessPal-revanced.json) |
 | **Viber** | com.viber.voip | viber-beta-revanced.apk | 26.1.2.0 | [Play Store](https://play.google.com/store/apps/details?id=com.viber.voip) | [JSON Config](./discoverium/com.viber.voip__viber-beta-revanced.json) |
-| **Viber** | com.viber.voip | viber-revanced.apk | 26.1.2.0 | [Play Store](https://play.google.com/store/apps/details?id=com.viber.voip) | [JSON Config](./discoverium/com.viber.voip__viber-revanced.json) |
 | **Viber** | com.viber.voip | viber-derevanced.apk | 26.1.2.0 | [Play Store](https://play.google.com/store/apps/details?id=com.viber.voip) | [JSON Config](./discoverium/com.viber.voip__viber-derevanced.json) |
+| **Viber** | com.viber.voip | viber-revanced.apk | 26.1.2.0 | [Play Store](https://play.google.com/store/apps/details?id=com.viber.voip) | [JSON Config](./discoverium/com.viber.voip__viber-revanced.json) |
 | **Waze β** | com.waze | waze-rushiranpise.apk | 5.23.90.900 | [Play Store](https://play.google.com/store/apps/details?id=com.waze) | [JSON Config](./discoverium/com.waze__waze-rushiranpise.json) |
 | **Windscribe** | com.windscribe.vpn | windscribe-rushiranpise.apk | 4.2.2328 | [Play Store](https://play.google.com/store/apps/details?id=com.windscribe.vpn) | [JSON Config](./discoverium/com.windscribe.vpn__windscribe-rushiranpise.json) |
 | **WPS Office** | cn.wps.moffice_eng | wps-office-hoo-dles.apk | 18.24 | [Play Store](https://play.google.com/store/apps/details?id=cn.wps.moffice_eng) | [JSON Config](./discoverium/cn.wps.moffice_eng__wps-office-hoo-dles.json) |
-| **X** | com.twitter.android | twitter-arm64-v8a-stable-piko.apk | 11.91.0-release.0 | [Play Store](https://play.google.com/store/apps/details?id=com.twitter.android) | [JSON Config](./discoverium/com.twitter.android__twitter-arm64-v8a-stable-piko.json) |
 | **X** | com.twitter.android | twitter-arm64-v8a-beta-piko.apk | 11.91.0-release.0 | [Play Store](https://play.google.com/store/apps/details?id=com.twitter.android) | [JSON Config](./discoverium/com.twitter.android__twitter-arm64-v8a-beta-piko.json) |
-| **X** | com.twitter.android | twitter-piko-newx.apk | 12.24.0-prod.02 | [Play Store](https://play.google.com/store/apps/details?id=com.twitter.android) | [JSON Config](./discoverium/com.twitter.android__twitter-piko-newx.json) |
-| **X** | com.twitter.android | twitter-beta-piko.apk | 12.19.1-release.0 | [Play Store](https://play.google.com/store/apps/details?id=com.twitter.android) | [JSON Config](./discoverium/com.twitter.android__twitter-beta-piko.json) |
+| **X** | com.twitter.android | twitter-arm64-v8a-stable-piko.apk | 11.91.0-release.0 | [Play Store](https://play.google.com/store/apps/details?id=com.twitter.android) | [JSON Config](./discoverium/com.twitter.android__twitter-arm64-v8a-stable-piko.json) |
 | **X** | com.twitter.android | twitter-beta-piko-x-shim.apk | 12.7.1-release.0 | [Play Store](https://play.google.com/store/apps/details?id=com.twitter.android) | [JSON Config](./discoverium/com.twitter.android__twitter-beta-piko-x-shim.json) |
+| **X** | com.twitter.android | twitter-piko-newx.apk | 12.24.0-prod.02 | [Play Store](https://play.google.com/store/apps/details?id=com.twitter.android) | [JSON Config](./discoverium/com.twitter.android__twitter-piko-newx.json) |
 | **X** | com.twitter.android | twitter-piko-x-shim.apk | 12.7.1-release.0 | [Play Store](https://play.google.com/store/apps/details?id=com.twitter.android) | [JSON Config](./discoverium/com.twitter.android__twitter-piko-x-shim.json) |
+| **X** | com.twitter.android | twitter-beta-piko.apk | 12.19.1-release.0 | [Play Store](https://play.google.com/store/apps/details?id=com.twitter.android) | [JSON Config](./discoverium/com.twitter.android__twitter-beta-piko.json) |
 | **X** | com.twitter.android | twitter-stable-piko.apk | 12.19.1-release.0 | [Play Store](https://play.google.com/store/apps/details?id=com.twitter.android) | [JSON Config](./discoverium/com.twitter.android__twitter-stable-piko.json) |
 | **YouTube** | anddea.youtube | youtube-beta-arm64-v8a-anddea.apk | 21.13.164 | N/A | [JSON Config](./discoverium/anddea.youtube__youtube-beta-arm64-v8a-anddea.json) |
-| **YouTube** | anddea.youtube | youtube-beta-anddea.apk | 21.13.164 | N/A | [JSON Config](./discoverium/anddea.youtube__youtube-beta-anddea.json) |
 | **YouTube** | anddea.youtube | youtube-beta-armeabi-v7a-anddea.apk | 21.13.164 | N/A | [JSON Config](./discoverium/anddea.youtube__youtube-beta-armeabi-v7a-anddea.json) |
+| **YouTube** | anddea.youtube | youtube-beta-anddea.apk | 21.13.164 | N/A | [JSON Config](./discoverium/anddea.youtube__youtube-beta-anddea.json) |
 | **YouTube** | anddea.youtube | youtube-beta-x86-anddea.apk | 21.13.164 | N/A | [JSON Config](./discoverium/anddea.youtube__youtube-beta-x86-anddea.json) |
 | **YouTube** | anddea.youtube | youtube-beta-x86_64-anddea.apk | 21.13.164 | N/A | [JSON Config](./discoverium/anddea.youtube__youtube-beta-x86_64-anddea.json) |
-| **YouTube** | anddea.youtube | youtube-lite-beta-armeabi-v7a-anddea.apk | 20.05.46 | N/A | [JSON Config](./discoverium/anddea.youtube__youtube-lite-beta-armeabi-v7a-anddea.json) |
 | **YouTube** | anddea.youtube | youtube-lite-beta-arm64-v8a-anddea.apk | 20.05.46 | N/A | [JSON Config](./discoverium/anddea.youtube__youtube-lite-beta-arm64-v8a-anddea.json) |
+| **YouTube** | anddea.youtube | youtube-lite-beta-armeabi-v7a-anddea.apk | 20.05.46 | N/A | [JSON Config](./discoverium/anddea.youtube__youtube-lite-beta-armeabi-v7a-anddea.json) |
 | **YouTube Morphe** | app.morphe.android.youtube | youtube-arm64-v8a-morphe.apk | 21.16.256 | N/A | [JSON Config](./discoverium/app.morphe.android.youtube__youtube-arm64-v8a-morphe.json) |
 | **YouTube Morphe** | app.morphe.android.youtube | youtube-armeabi-v7a-morphe.apk | 21.16.256 | N/A | [JSON Config](./discoverium/app.morphe.android.youtube__youtube-armeabi-v7a-morphe.json) |
-| **YouTube Morphe** | app.morphe.android.youtube | youtube-beta-arm64-v8a-morphe.apk | 21.38.123 | N/A | [JSON Config](./discoverium/app.morphe.android.youtube__youtube-beta-arm64-v8a-morphe.json) |
-| **YouTube Morphe** | app.morphe.android.youtube | youtube-beta-armeabi-v7a-morphe.apk | 21.38.123 | N/A | [JSON Config](./discoverium/app.morphe.android.youtube__youtube-beta-armeabi-v7a-morphe.json) |
-| **YouTube Morphe** | app.morphe.android.youtube | youtube-beta-lite-arm64-v8a-morphe.apk | 21.33.321 | N/A | [JSON Config](./discoverium/app.morphe.android.youtube__youtube-beta-lite-arm64-v8a-morphe.json) |
+| **YouTube Morphe** | app.morphe.android.youtube | youtube-beta-arm64-v8a-morphe.apk | 21.37.42 | N/A | [JSON Config](./discoverium/app.morphe.android.youtube__youtube-beta-arm64-v8a-morphe.json) |
+| **YouTube Morphe** | app.morphe.android.youtube | youtube-beta-armeabi-v7a-morphe.apk | 21.37.42 | N/A | [JSON Config](./discoverium/app.morphe.android.youtube__youtube-beta-armeabi-v7a-morphe.json) |
 | **YouTube Morphe** | app.morphe.android.youtube | youtube-beta-lite-armeabi-v7a-morphe.apk | 21.33.321 | N/A | [JSON Config](./discoverium/app.morphe.android.youtube__youtube-beta-lite-armeabi-v7a-morphe.json) |
-| **YouTube Morphe** | app.morphe.android.youtube | youtube-beta-morphe.apk | 21.38.123 | N/A | [JSON Config](./discoverium/app.morphe.android.youtube__youtube-beta-morphe.json) |
-| **YouTube Morphe** | app.morphe.android.youtube | youtube-beta-x86-morphe.apk | 21.38.123 | N/A | [JSON Config](./discoverium/app.morphe.android.youtube__youtube-beta-x86-morphe.json) |
-| **YouTube Morphe** | app.morphe.android.youtube | youtube-beta-x86_64-morphe.apk | 21.38.123 | N/A | [JSON Config](./discoverium/app.morphe.android.youtube__youtube-beta-x86_64-morphe.json) |
-| **YouTube Morphe** | app.morphe.android.youtube | youtube-lite-armeabi-v7a-morphe.apk | 20.45.36 | N/A | [JSON Config](./discoverium/app.morphe.android.youtube__youtube-lite-armeabi-v7a-morphe.json) |
+| **YouTube Morphe** | app.morphe.android.youtube | youtube-beta-lite-arm64-v8a-morphe.apk | 21.33.321 | N/A | [JSON Config](./discoverium/app.morphe.android.youtube__youtube-beta-lite-arm64-v8a-morphe.json) |
+| **YouTube Morphe** | app.morphe.android.youtube | youtube-beta-x86-morphe.apk | 21.37.42 | N/A | [JSON Config](./discoverium/app.morphe.android.youtube__youtube-beta-x86-morphe.json) |
+| **YouTube Morphe** | app.morphe.android.youtube | youtube-beta-morphe.apk | 21.37.42 | N/A | [JSON Config](./discoverium/app.morphe.android.youtube__youtube-beta-morphe.json) |
+| **YouTube Morphe** | app.morphe.android.youtube | youtube-beta-x86_64-morphe.apk | 21.37.42 | N/A | [JSON Config](./discoverium/app.morphe.android.youtube__youtube-beta-x86_64-morphe.json) |
 | **YouTube Morphe** | app.morphe.android.youtube | youtube-lite-arm64-v8a-morphe.apk | 20.45.36 | N/A | [JSON Config](./discoverium/app.morphe.android.youtube__youtube-lite-arm64-v8a-morphe.json) |
+| **YouTube Morphe** | app.morphe.android.youtube | youtube-lite-armeabi-v7a-morphe.apk | 20.45.36 | N/A | [JSON Config](./discoverium/app.morphe.android.youtube__youtube-lite-armeabi-v7a-morphe.json) |
 | **YouTube Morphe** | app.morphe.android.youtube | youtube-morphe.apk | 21.16.256 | N/A | [JSON Config](./discoverium/app.morphe.android.youtube__youtube-morphe.json) |
 | **YouTube Morphe** | app.morphe.android.youtube | youtube-x86-morphe.apk | 21.16.256 | N/A | [JSON Config](./discoverium/app.morphe.android.youtube__youtube-x86-morphe.json) |
 | **YouTube Morphe** | app.morphe.android.youtube | youtube-x86_64-morphe.apk | 21.16.256 | N/A | [JSON Config](./discoverium/app.morphe.android.youtube__youtube-x86_64-morphe.json) |
@@ -226,9 +226,9 @@ Release source: `latest`
 | **YouTube ReVanced** | app.revanced.android.youtube | youtube-beta-revanced.apk | 21.09.266 | N/A | [JSON Config](./discoverium/app.revanced.android.youtube__youtube-beta-revanced.json) |
 | **YouTube ReVanced** | app.revanced.android.youtube | youtube-beta-x86_64-revanced.apk | 21.09.266 | N/A | [JSON Config](./discoverium/app.revanced.android.youtube__youtube-beta-x86_64-revanced.json) |
 | **YouTube ReVanced** | app.revanced.android.youtube | youtube-lite-arm64-v8a-revanced.apk | 20.40.45 | N/A | [JSON Config](./discoverium/app.revanced.android.youtube__youtube-lite-arm64-v8a-revanced.json) |
+| **YouTube ReVanced** | app.revanced.android.youtube | youtube-lite-armeabi-v7a-revanced.apk | 20.40.45 | N/A | [JSON Config](./discoverium/app.revanced.android.youtube__youtube-lite-armeabi-v7a-revanced.json) |
 | **YouTube ReVanced** | com.google.android.youtube.revanced | youtube-lite-beta-arm64-v8a-revanced.apk | 21.09.266 | N/A | [JSON Config](./discoverium/com.google.android.youtube.revanced__youtube-lite-beta-arm64-v8a-revanced.json) |
 | **YouTube ReVanced** | com.google.android.youtube.revanced | youtube-lite-beta-armeabi-v7a-revanced.apk | 21.09.266 | N/A | [JSON Config](./discoverium/com.google.android.youtube.revanced__youtube-lite-beta-armeabi-v7a-revanced.json) |
-| **YouTube ReVanced** | app.revanced.android.youtube | youtube-lite-armeabi-v7a-revanced.apk | 20.40.45 | N/A | [JSON Config](./discoverium/app.revanced.android.youtube__youtube-lite-armeabi-v7a-revanced.json) |
 | **YouTube ReVanced** | app.revanced.android.youtube | youtube-revanced.apk | 20.40.45 | N/A | [JSON Config](./discoverium/app.revanced.android.youtube__youtube-revanced.json) |
 | **YouTube ReVanced** | app.revanced.android.youtube | youtube-x86-revanced.apk | 20.40.45 | N/A | [JSON Config](./discoverium/app.revanced.android.youtube__youtube-x86-revanced.json) |
 | **YouTube ReVanced** | app.revanced.android.youtube | youtube-x86_64-revanced.apk | 20.40.45 | N/A | [JSON Config](./discoverium/app.revanced.android.youtube__youtube-x86_64-revanced.json) |
@@ -256,10 +256,10 @@ Release source: `latest`
 
 ## SHA256
 
-- **adguard-rushiranpise.apk**
-  - `129a4f57b3a623fb1c40fae1dcecad68343076ac4eab67646145f875a659a781`
 - **adguard-hoo-dles.apk**
   - `498e633e2bc8342908760cebe2afe19db6b213a269ef2f5ecb87652a78cecadb`
+- **adguard-rushiranpise.apk**
+  - `129a4f57b3a623fb1c40fae1dcecad68343076ac4eab67646145f875a659a781`
 - **battery-guru-arandomhooman.apk**
   - `a19e22d91d5ee63b6e9d5e39d22f74ed1966f30d9f8f002defdd4bcc3fb6c1fe`
 - **bilibili-arm64-v8a-BiliRoamingM.apk**
@@ -272,10 +272,10 @@ Release source: `latest`
   - `8b7ad5a0304dc7ff5dc11d16ce897ded00d9937f2ecfe72bebd0954083baaa20`
 - **discord-revenge.apk**
   - `f9931e6231ac28fa05278fe84e82ef5e123358537bc1c5332e4fe432ebd951c7`
-- **duolingo-beta-revanced.apk**
-  - `da63b56f1fb4113a8220881cae943a2d6593657f51b17bf34441d699a866bc9d`
 - **duolingo-hoo-dles.apk**
   - `7a8152c4c0f5015e01df05b6476413884c86a1cb541bfeabbdbfda9bef456214`
+- **duolingo-beta-revanced.apk**
+  - `da63b56f1fb4113a8220881cae943a2d6593657f51b17bf34441d699a866bc9d`
 - **duolingo-revanced.apk**
   - `a40c2a92f13062c41af457a0a81baa8c041e256a1c8cbd312e03160f4d52889e`
 - **eyecon-caller-arm64-v8a-paresh.apk**
@@ -290,42 +290,42 @@ Release source: `latest`
   - `8b48bb67b194083c386761eb5a4076b03d658b0552fb84f013b3366da9d450b8`
 - **fx-file-explorer-indrastorms.apk**
   - `655b498f43a4e1b649b0324e992c17f3033f7b3ddbf0358428bdaef50fd50741`
+- **googlenews-beta-arm64-v8a-revanced.apk**
+  - `ed2d5dace9f605a8c59b713d746c99f90fb26e0d069fd037e5ad2b0989112040`
 - **googlenews-arm64-v8a-derevanced.apk**
   - `572317188d95e4f3211553a01c1718bfa3931f40d966a61770c7a87dc76ce88e`
 - **googlenews-arm64-v8a-revanced.apk**
   - `103048fefb9c23a274299868e386a9e2b606fbbfc406471370fe942d99206872`
-- **googlenews-beta-arm64-v8a-revanced.apk**
-  - `ed2d5dace9f605a8c59b713d746c99f90fb26e0d069fd037e5ad2b0989112040`
 - **googlenews-docbt.apk**
   - `e264ffb94371adbc9175e68dd7df66a7081d8e3d9b142bd1befb8f1011a6effc`
 - **instagram-clone-instafel.apk**
   - `69da7600e8797c73bcb9b47b8a323e77dcbd65364f62ba799d3c3a468e7f196a`
-- **instagram-arm64-v8a-beta-revanced.apk**
-  - `76686102cfcbbc2a1f3b457f5919d8c5390812e878963f33f13891965339ff47`
-- **instagram-arm64-v8a-revanced-experiments.apk**
-  - `539ea84466aabf7ed3838830419fe19d5d01adb56e2fec1e49838c284cb5ce93`
 - **instagram-armeabi-v7a-revanced.apk**
   - `24040fd2b91b8adaeb671d0c868fbbb29bed26a403248fa9c1e0249010fa292f`
+- **instagram-arm64-v8a-revanced-experiments.apk**
+  - `539ea84466aabf7ed3838830419fe19d5d01adb56e2fec1e49838c284cb5ce93`
+- **instagram-arm64-v8a-beta-revanced.apk**
+  - `76686102cfcbbc2a1f3b457f5919d8c5390812e878963f33f13891965339ff47`
 - **instagram-arm64-v8a-revanced.apk**
   - `b45173321413de375f34eb4db801dd9e6cc60693a063df1589abf5208c961efc`
 - **instagram-arm64-v8a-gnadgnaoh.apk**
   - `f00a2fd87cedf7ae31db64177749110b23e7fae9a4b854fe225267e18f0b37f3`
+- **instagram-instafel.apk**
+  - `0a76e4261df81a3f6629b68dc2038111c1d28e281a6260d84ee0dd685422b14e`
 - **instagram-arm64-v8a-piko.apk**
   - `9892727b04a47f97550a9c2b5ec1918098ff3360415a167d65ce5f7c143f9e8f`
 - **instagram-beta-arm64-v8a-piko.apk**
   - `90eb4efab943275d403eda7c64cc37fc9db9a2afeadf0246ca91df8a314f31b0`
-- **instagram-instafel.apk**
-  - `0a76e4261df81a3f6629b68dc2038111c1d28e281a6260d84ee0dd685422b14e`
-- **lightroom-revanced.apk**
-  - `6f1eea99cc0b9180a643901cbd95e9e99a975ce4dd951422cc8e229e949d67ea`
 - **lightroom-beta-revanced.apk**
   - `34024735217f0b2107a8a4fdc402d38b592aa30369343859326e459eecb71f51`
+- **lightroom-revanced.apk**
+  - `6f1eea99cc0b9180a643901cbd95e9e99a975ce4dd951422cc8e229e949d67ea`
 - **messenger-arm64-v8a-beta-revanced.apk**
   - `dfcb1cab6fb883dfbd76857b6bc3d50d4d522c923683dcf9d7a127a1ddcd22c6`
-- **messenger-arm64-v8a-revanced.apk**
-  - `f9bf64fd053d0eb2f958b0541ba30a37797d2a4d986f913f15bb4ac12449f124`
 - **messenger-arm64-v8a-derevanced.apk**
   - `c4bb2d138df85cc3f8f7b7907be61fab26e4901476ab290809ceee3a98adab6f`
+- **messenger-arm64-v8a-revanced.apk**
+  - `f9bf64fd053d0eb2f958b0541ba30a37797d2a4d986f913f15bb4ac12449f124`
 - **messenger-armeabi-v7a-revanced.apk**
   - `439698d2a2d3676fcc8d6627f8d04e5d39c7857decf7529e4c2971b9318fecfd`
 - **messenger-arm64-v8a-gnadgnaoh.apk**
@@ -336,32 +336,32 @@ Release source: `latest`
   - `945ac5b282a4373c907f3eb10285f7d07b64d2dfd362cc394f60d98595990cf8`
 - **photomath-beta-revanced.apk**
   - `50dcb0b6ce3934b564d13b6110bc4ae543468686a8c226eab8a08c93ac556e71`
-- **photomath-derevanced.apk**
-  - `132f9e0c42e9e203590d119d2a18e1c0d149361b19ddff82a65c9b9b50c8453f`
 - **photomath-revanced.apk**
   - `cf982c1de08632766e6086c3a5e9f6b6d11a763a211cb9070c0990d714a95260`
+- **photomath-derevanced.apk**
+  - `132f9e0c42e9e203590d119d2a18e1c0d149361b19ddff82a65c9b9b50c8453f`
 - **gg-photos-arm64-v8a-revanced.apk**
   - `915276008a8ab470ce73b03d8285e93843381e3b6c51251e3bebd255817028b6`
-- **gg-photos-armeabi-v7a-beta-revanced.apk**
-  - `8c946460af2d4b943871baccaa5e89732d9156e9b97694aae85172a175aeb219`
-- **gg-photos-arm64-v8a-beta-revanced.apk**
-  - `1d257c7d7ebe0bd658ebad253a280cf83db3c46a3c0936d67b91e31ffda3485f`
 - **gg-photos-armeabi-v7a-revanced.apk**
   - `52a74a9cdebc08489665f6912232940cf5ee7d9c278fa21c57d18933054afaf8`
+- **gg-photos-armeabi-v7a-beta-revanced.apk**
+  - `8c946460af2d4b943871baccaa5e89732d9156e9b97694aae85172a175aeb219`
 - **gg-photos-arm64-v8a-derevanced.apk**
   - `ed84e3316273662ccb2c14c7e4dfdc95dba712e5394ec4822069590f3106d81d`
-- **gg-photos-x86-revanced.apk**
-  - `80a1bb9f4f0201259f40e4734e447ee174e3ccd206c03902a97e96392b4fa44d`
 - **gg-photos-x86-beta-revanced.apk**
   - `72fa61d80a12af3aa62a4a3f4f13d1e82ea29b26f19d8f14e453b9ee1ea82f56`
+- **gg-photos-arm64-v8a-beta-revanced.apk**
+  - `1d257c7d7ebe0bd658ebad253a280cf83db3c46a3c0936d67b91e31ffda3485f`
+- **gg-photos-x86-revanced.apk**
+  - `80a1bb9f4f0201259f40e4734e447ee174e3ccd206c03902a97e96392b4fa44d`
 - **gg-photos-x86_64-revanced.apk**
   - `86f25bde9dfa6d1d7c7dd81eb68d100a366d29859345f8c08a50846fdb2b9c00`
 - **gg-photos-x86_64-beta-revanced.apk**
   - `96dfe2fd55a9625db416982516f1bec3bc7804fd32700a16cdb8269c681bd507`
-- **pixiv-beta-revanced.apk**
-  - `8b1db2da0746adb87e40dfa8cbcf9928e1b3862ec357d2389dc7e68ec3693408`
 - **pixiv-derevanced.apk**
   - `b07347115fd09a432f8645744767194a6714e78910d42527b4faf215a88006d2`
+- **pixiv-beta-revanced.apk**
+  - `8b1db2da0746adb87e40dfa8cbcf9928e1b3862ec357d2389dc7e68ec3693408`
 - **pixiv-revanced.apk**
   - `7e1d0c0f3102664e0cb85b040f6011ee4e75f1a9a7afa9d67d89186f37e06a43`
 - **prime-video-arm64-v8a-hoo-dles.apk**
@@ -372,10 +372,10 @@ Release source: `latest`
   - `4dcdfd84365dddfed50ad82028d601169e361585cbcfed29a7fee1094b0e33c3`
 - **protonmail-derevanced.apk**
   - `7cf7d67362785deb2afda535a363a3be18f37c78b4c6043e5c54392d00cde1ae`
-- **protonvpn-hoo-dles.apk**
-  - `5ac140f149f3b8a51a607c6285f54c18f58b23b00fd0e2b0b72c1ed4dc16db52`
 - **protonvpn-beta-revanced.apk**
   - `a6f68d01af727cf2c6f14148a39714ee5f0cfae94c256080f658fa55aada57c0`
+- **protonvpn-hoo-dles.apk**
+  - `5ac140f149f3b8a51a607c6285f54c18f58b23b00fd0e2b0b72c1ed4dc16db52`
 - **protonvpn-revanced.apk**
   - `eb99a7feca251799032fb8dbb534ce050b14fb3554d4a60acb789ca124ba3bde`
 - **protonvpn-rushiranpise.apk**
@@ -390,28 +390,28 @@ Release source: `latest`
   - `84ff7fafea7de4b739ec325fecca96fa6a3a152ed146a174494c683b39cd7fde`
 - **google-recorder-derevanced.apk**
   - `3be776d529e0444cd7f6d693b8cbabc25877a30b7877d4053b759ae7310421bb`
+- **reddit-arm64-v8a-beta-revanced-extended.apk**
+  - `e3cbd2cfb5a69319f87e46114c2fc59db939646a1a7c803f3ffa8d7db2fa6722`
 - **reddit-arm64-v8a-morphe.apk**
   - `ec02adc1a849d5c8aa84696e32bd53c88c628e97594cbde896969e69c90e8d54`
 - **reddit-arm64-v8a-beta-morphe.apk**
-  - `a5c2309a517f87f1496557c296d09090821cd9c5e2981d0fbd0b46dbd750ab35`
-- **reddit-arm64-v8a-beta-revanced-extended.apk**
-  - `e3cbd2cfb5a69319f87e46114c2fc59db939646a1a7c803f3ffa8d7db2fa6722`
+  - `04777f8695b407c7bf380b5f97a59894ad82ad0126b205555150db2e86f7c71c`
 - **reddit-arm64-v8a-revanced-extended.apk**
   - `b9e614e727c4b77de13b24728ac246b2920bb66b4212631c7737a1d0f71553f0`
 - **reddit-arm64-v8a-revanced-extended-arsclib.apk**
   - `91d6427ddd8864455b1fc638edef0e792af82c5084311a6666bcf452d1d0ab8d`
-- **reddit-beta-morphe.apk**
-  - `99c0c3627b33d16c57ae66b98c9d818ccdcd811a166a35386d5286b8bdaaddc1`
 - **reddit-arm64-v8a-revanced.apk**
   - `522b402e8c1c70c8c2e1fa1c298362c5c05d45d61e2c40623c9d6cfb22f0bb2a`
-- **reddit-beta-revanced.apk**
-  - `5588a0c1c9c203730743bc2e54b9654981950efe1490d7145a7a5db5b23236ff`
 - **reddit-beta-revanced-extended.apk**
   - `68179c1ba8bb4fdc73328bf5fecb9c9ec0f614288217c0acb54db09a4dc9bc2e`
-- **reddit-morphe.apk**
-  - `d26d6d9f096953f02c0f61f6512249f9d5b6f93030c9f10db2d0312e80d954f7`
 - **reddit-beta-arm64-v8a-revanced.apk**
   - `fa10787b71f8a75298bb10117f589151e8cce938e4202b1d9e2f163f6f5b79c3`
+- **reddit-beta-morphe.apk**
+  - `c81b83b9784608c091b077304aea58091d31a489775bc2b9fc48855758fddec4`
+- **reddit-morphe.apk**
+  - `d26d6d9f096953f02c0f61f6512249f9d5b6f93030c9f10db2d0312e80d954f7`
+- **reddit-beta-revanced.apk**
+  - `5588a0c1c9c203730743bc2e54b9654981950efe1490d7145a7a5db5b23236ff`
 - **reddit-revanced-extended.apk**
   - `1546590e47822158c0f8c7b68d42152540fa269538b2edde94bb3fd3865c125d`
 - **reddit-revanced-extended-arsclib.apk**
@@ -432,10 +432,10 @@ Release source: `latest`
   - `d8edee10a807d539adb121d2d900aee8c92b5c1da63d10014273749da90279e7`
 - **youtube-arm64-v8a-revanced-extended.apk**
   - `9323f63712ffe3ed31a8211bb056cd060a6871fa906a2699a9eecdf27cb9b91a`
-- **youtube-armeabi-v7a-revanced-extended.apk**
-  - `5c01dbf1010f14f643f9ec62c0399af513c88a948893e36e90063950663db143`
 - **youtube-armeabi-v7a-revanced-extended-android-6-7.apk**
   - `f81eef6066be3e385a9efd978201aca6a68244230f284ecf16721ce83a76aff9`
+- **youtube-armeabi-v7a-revanced-extended.apk**
+  - `5c01dbf1010f14f643f9ec62c0399af513c88a948893e36e90063950663db143`
 - **youtube-beta-arm64-v8a-revanced-extended.apk**
   - `6a8d7b80c7daf18db1f49c491207e7e573a6737255dba8b31f40e29ece8f5426`
 - **youtube-beta-armeabi-v7a-revanced-extended.apk**
@@ -450,10 +450,10 @@ Release source: `latest`
   - `599429e6c04ae8f0176ebdec1ac856e5ac4cec84b3e4d2b9169d22e59a39f7a9`
 - **youtube-lite-arm64-v8a-revanced-extended.apk**
   - `3319347f8c8e8e145337e1f1c41e5df3e5429404714476e0f676a0f4a202d5c2`
-- **youtube-lite-armeabi-v7a-revanced-extended.apk**
-  - `4fbed1365d3fd488a29939bc6a1fc4f6a261eb45260d1ff96124f2700f484226`
 - **youtube-lite-armeabi-v7a-anddea.apk**
   - `cf00be5e8bbcc6c9ea9d1ea5f7504baae3659f8ddbe56be38d986fe9e256a5f2`
+- **youtube-lite-armeabi-v7a-revanced-extended.apk**
+  - `4fbed1365d3fd488a29939bc6a1fc4f6a261eb45260d1ff96124f2700f484226`
 - **youtube-lite-beta-arm64-v8a-revanced-extended.apk**
   - `17799925f223038806b7f7917f39893392c5e2371e19d9013c0bcb992891b1d9`
 - **youtube-lite-beta-armeabi-v7a-revanced-extended.apk**
@@ -462,10 +462,10 @@ Release source: `latest`
   - `a06cfe99196759183484d64aed372251bf0d41ff95489051d2e1f2b2f53bf2ca`
 - **youtube-revanced-extended.apk**
   - `aa87113d577df96312695f9e2ac56e2274ca1613abed783d8fec7e61d97d2514`
-- **youtube-x86-revanced-extended.apk**
-  - `f33f1807a0ef78d7922471e0358adb72f54754d0b21809a46961c64c050155df`
 - **youtube-x86-revanced-extended-android-6-7.apk**
   - `9a3efd7809c5f828d314c8f22c24b6102b904f246873ebd1b1e13f53c532af5d`
+- **youtube-x86-revanced-extended.apk**
+  - `f33f1807a0ef78d7922471e0358adb72f54754d0b21809a46961c64c050155df`
 - **youtube-x86_64-revanced-extended-android-6-7.apk**
   - `8782c80f03efbd5a66a7aea0c13148b85b7ddb6bb1967053fbbab685ed3fb6a1`
 - **youtube-x86_64-revanced-extended.apk**
@@ -482,10 +482,10 @@ Release source: `latest`
   - `ad0f0acb486483de2b8466d1e6e1ad08c83e93c93faa92b3b9a98760ded2e4b0`
 - **youtube-stable-arm64-v8a-anddea.apk**
   - `5868ec1525c8e25621e411474c3026ed565b8b945ddac463ba81fbef2dadba74`
-- **youtube-stable-anddea.apk**
-  - `daa8775ba5a3d28ca198da5102c6ff610e2816da733372d5d75abca49c269a2e`
 - **youtube-stable-armeabi-v7a-anddea.apk**
   - `c3794cb556bb2eb0b37315b4f6a04d408406118d37a0bf4bc574c71285880b1d`
+- **youtube-stable-anddea.apk**
+  - `daa8775ba5a3d28ca198da5102c6ff610e2816da733372d5d75abca49c269a2e`
 - **youtube-stable-x86-anddea.apk**
   - `67b7cda398116f9cc28256fc201554616f867f5d37d04d21f0558fde2354e6f3`
 - **youtube-stable-x86_64-anddea.apk**
@@ -502,20 +502,20 @@ Release source: `latest`
   - `fd4c7bb9f6a3f6f2a395663f773af7c185d8c3bf9e4c0d68baac23911c091c20`
 - **youtube-music-beta-armeabi-v7a-revanced-extended.apk**
   - `d2c2354a633608efc4d292be632e8a5da38611fe9a9708b6a1a5f85144157ee2`
-- **youtube-music-beta-x86_64-revanced-extended.apk**
-  - `0e2a37e5bf4276b40689a868339369101c50f793d0e22bd8cfc4dffa33f028ee`
 - **youtube-music-beta-x86-revanced-extended.apk**
   - `c61cd90e6cc2e04a9f167939874c7dae34130f7ad4fa41dcb0cfd87bf2c2ce05`
-- **youtube-music-stable-arm64-v8a-anddea.apk**
-  - `ae057d2a6afba2acb9d55a0c10ed77c777955a9fd903ae71e2fe13345f117381`
+- **youtube-music-beta-x86_64-revanced-extended.apk**
+  - `0e2a37e5bf4276b40689a868339369101c50f793d0e22bd8cfc4dffa33f028ee`
 - **youtube-music-stable-armeabi-v7a-anddea.apk**
   - `9d4d127e7e9d1b92e17929b53c6e74663737beb1d46a713d8f2d16bb2ca49cde`
-- **youtube-music-x86-revanced-extended.apk**
-  - `8ee99fc1ff3fc998455121ed61f96449644b730b8a667d41f57fc4f4233c4944`
-- **youtube-music-stable-x86_64-anddea.apk**
-  - `607f189ed5cdc3a1f2612ec348294a411935725b18374c9f56df6f8da8db1c38`
+- **youtube-music-stable-arm64-v8a-anddea.apk**
+  - `ae057d2a6afba2acb9d55a0c10ed77c777955a9fd903ae71e2fe13345f117381`
 - **youtube-music-stable-x86-anddea.apk**
   - `2fb798327464f86311ab97414a86b44dab0751cab88d083fee1527beee39ecf0`
+- **youtube-music-stable-x86_64-anddea.apk**
+  - `607f189ed5cdc3a1f2612ec348294a411935725b18374c9f56df6f8da8db1c38`
+- **youtube-music-x86-revanced-extended.apk**
+  - `8ee99fc1ff3fc998455121ed61f96449644b730b8a667d41f57fc4f4233c4944`
 - **youtube-music-x86_64-revanced-extended.apk**
   - `3a65e3259ff99d328a3f194566bde4c96458b2de7ef0f9bd79a5e0cb6ba435b9`
 - **smart-launcher-hoo-dles.apk**
@@ -524,62 +524,62 @@ Release source: `latest`
   - `d40f70a42383c833ec267cf532833835640e7cb58438d3fd66b0565df902d894`
 - **solid-explorer-hoo-dles.apk**
   - `5ac4f2b4748733dc2765346e59790dc6f18113c12bd6640764ed59621b545fc9`
-- **soundcloud-arm64-v8a-derevanced.apk**
-  - `411243634f10781f55cb3f8ab3534b657b7e6f1db6aa42d86a9e508083db2760`
 - **soundcloud-arm64-v8a-beta-revanced.apk**
   - `cf9b74103a5c9f4061df2d1573f4a8f1b3c144faa26e3f65910f8318af15ebdb`
-- **soundcloud-arm64-v8a-revanced.apk**
-  - `c1a73eb9b8196d238faa437003d4b9f21ecfeb5acebe2c24ae1f415d018d86df`
+- **soundcloud-arm64-v8a-derevanced.apk**
+  - `411243634f10781f55cb3f8ab3534b657b7e6f1db6aa42d86a9e508083db2760`
 - **soundcloud-beta-revanced.apk**
   - `dd880d65ce62fd2ab6945431a8ff0785a9aa28887af7d4ef3cbe0033aa925c32`
-- **soundcloud-hoo-dles.apk**
-  - `26ed435b21fe3955d1a582d72407d0c96c0f47619310326761158bdca286d068`
+- **soundcloud-arm64-v8a-revanced.apk**
+  - `c1a73eb9b8196d238faa437003d4b9f21ecfeb5acebe2c24ae1f415d018d86df`
 - **soundcloud-derevanced.apk**
   - `2bf289726989da6086069cde83c1774bb41ac6906327e561813f9da485995429`
+- **soundcloud-hoo-dles.apk**
+  - `26ed435b21fe3955d1a582d72407d0c96c0f47619310326761158bdca286d068`
 - **soundcloud-revanced.apk**
   - `1a09224ba67357662ee0576eff726ee4ceee7d75c68c5e9cb8584d9bcc571651`
 - **strava-arm64-v8a-derevanced.apk**
   - `c87fce3cd0d06497ef241c6f41beac86e2aefe168a5fa2f16e28525f4ee0a14b`
-- **strava-arm64-v8a-revanced.apk**
-  - `7e5b5efb006794aa75ba549c6103fb487fd0f52addbb78956a603d3163e76987`
 - **strava-beta-arm64-v8a-revanced.apk**
   - `789efbce050ae57a7b10cb660673ecbf923800c84d3b02e0ac2515968740b9d7`
+- **strava-arm64-v8a-revanced.apk**
+  - `7e5b5efb006794aa75ba549c6103fb487fd0f52addbb78956a603d3163e76987`
 - **tasker-indrastorms.apk**
   - `a45a978089e6e83bc60a5cfd22ab8ac06d0113824be23c01d612c40d6c6dad03`
 - **telegram-web-version-paresh.apk**
   - `d77efe18e5628a78ed43e95269a8535312506943f7566eb13215e12631ccf73d`
-- **telegram-revanced-experiments.apk**
-  - `cc7986de4393c5eb0a2afcc63f27553310566a746a27a184ab901522a52ee83b`
 - **telegram-web-version-revanced-experiments.apk**
   - `9bf528aba256b9c676b74bd4a3a5d56a4fb6bc2e3e8f69fc77fc9abd1d795998`
+- **telegram-revanced-experiments.apk**
+  - `cc7986de4393c5eb0a2afcc63f27553310566a746a27a184ab901522a52ee83b`
 - **terabox-rushiranpise.apk**
   - `feca66c1a703f445048a915f46c888f7f6a08536b07ac7e4a3d4a6b75b55a6a1`
-- **threads-arm64-v8a-gnadgnaoh.apk**
-  - `d4c37fd5505984a6dd982e1d74814ae6bc0b27c9619e216403809221d140e180`
 - **threads-arm64-v8a-revanced.apk**
   - `29151e0a514ca69f1b10780aa7b4141a8bd23cdb8c8db09b300f710a752d6d1d`
 - **threads-beta-arm64-v8a-revanced.apk**
   - `e6ccce817f976f70884b2b4d0c6745fbf97deb116052aad8b491b508c6291f75`
 - **threads-arm64-v8a-derevanced.apk**
   - `604411b5b9f561ca1ff9254e8d271f3fafba88b233ff9500c440c2d57971d012`
+- **threads-arm64-v8a-gnadgnaoh.apk**
+  - `d4c37fd5505984a6dd982e1d74814ae6bc0b27c9619e216403809221d140e180`
 - **tiktok-arm64-v8a-revanced.apk**
   - `5ebef27fd87d95aaf9aee23f33312b9f18eb63c56571fec57d887a0bcaf118eb`
-- **tiktok-asia-derevanced.apk**
-  - `de3877a3663ca9edb92110c89061dd0e46a1d7d2f2922f9f3d4e0e628a07193a`
 - **tiktok-beta-arm64-v8a-revanced.apk**
   - `ed7c7b4f2946796da19ecb6e83bef31a940437c3998d5f234dd5f7452cab6009`
-- **tiktok-asian-gnadgnaoh.apk**
-  - `a83652667e36d42b28e71086dc64a17d895f28cec6165b6156fbf2a1ab612ad7`
+- **tiktok-asia-derevanced.apk**
+  - `de3877a3663ca9edb92110c89061dd0e46a1d7d2f2922f9f3d4e0e628a07193a`
 - **tiktok-beta-revanced.apk**
   - `c23d2ef77d6f7e6271d591fa93b040b718266dfa950bece07393f2c213405d0d`
+- **tiktok-asian-gnadgnaoh.apk**
+  - `a83652667e36d42b28e71086dc64a17d895f28cec6165b6156fbf2a1ab612ad7`
 - **tiktok-derevanced.apk**
   - `885758fc206ee36253039b1ba33add4b2126ec2352d56c3077568dce91ce40d9`
 - **tiktok-gnadgnaoh.apk**
   - `bcd793b8013234721a1b1fec47f87816f2471657aa628466bedbf4b98ceac756`
-- **tiktok-revanced.apk**
-  - `49156a71987a2a6fdc6a4e6c5ebd1e15c2ec80e8bf22bc6fc1ba2a85769c1fc3`
 - **tiktok-icysymmetra.apk**
   - `ab368dfc146c44937e31a13a365ba5315bce841e02c4d54c4854ba10d18ad2f9`
+- **tiktok-revanced.apk**
+  - `49156a71987a2a6fdc6a4e6c5ebd1e15c2ec80e8bf22bc6fc1ba2a85769c1fc3`
 - **truecaller-arm64-v8a-bufferk.apk**
   - `cc643e55e2a1096c01aefe40339c337f9d2f2c081a483a160511d83ecd1912c9`
 - **truecaller-arm64-v8a-paresh.apk**
@@ -598,14 +598,14 @@ Release source: `latest`
   - `57aef94d758251442a14e86e1231507d162df0855f10f5278e50552e91bd4842`
 - **tumblr-derevanced.apk**
   - `f76c61720e63cff5244678cef4734e6e859440b18bc66501cf736e4e167fa8bf`
-- **twitch-arandomhooman.apk**
-  - `196a8b9f0410edf4edf019159482e4a261926fc32736c71e3d9136baf3255672`
 - **twitch-arm64-v8a-beta-revanced.apk**
   - `96eee2437c0db216d84cde05b87e03aaacfb79d93c18fe6c298b56df9e4217b9`
-- **twitch-arm64-v8a-revanced.apk**
-  - `bf811be675ed4eee642097dc177417008c4010712ddf8bd600193c4de0aca32d`
 - **twitch-arm64-v8a-derevanced.apk**
   - `515f0a69911743d898e4151d8093f2e5d7724f6f46aae71e348e0f461db01f32`
+- **twitch-arm64-v8a-revanced.apk**
+  - `bf811be675ed4eee642097dc177417008c4010712ddf8bd600193c4de0aca32d`
+- **twitch-arandomhooman.apk**
+  - `196a8b9f0410edf4edf019159482e4a261926fc32736c71e3d9136baf3255672`
 - **twitch-derevanced.apk**
   - `1976619031726138d96f59f8697da6379572c29c1e0328f7d64533cc4fdb97d0`
 - **twitch-beta-revanced.apk**
@@ -618,66 +618,66 @@ Release source: `latest`
   - `68ff888ad02d53ec095e62fbf4c5be748b0cc607743621d9ffbe18d4006b6868`
 - **viber-beta-revanced.apk**
   - `3169d0e8c820fa4cc12a6b5794b9cf5ac9002d4ab737d76ac1da988509a0bdd6`
-- **viber-revanced.apk**
-  - `442a09507ea1965c6c16a35afdd8ce183f703fa02bc8571ad8e9e9dc943b23e4`
 - **viber-derevanced.apk**
   - `d8b3b3102d6afc6066b2d9df9d95781fe23f6e8b9397a117474ed991a1c0331a`
+- **viber-revanced.apk**
+  - `442a09507ea1965c6c16a35afdd8ce183f703fa02bc8571ad8e9e9dc943b23e4`
 - **waze-rushiranpise.apk**
   - `8225a098ca363bb0b6b23f72f1295d3321e96f19fb386aa4b8bd7d1eebc6f237`
 - **windscribe-rushiranpise.apk**
   - `36cf59cfdb6dd7d3266ab30518a4038460798518a94b743132afebf78994a15a`
 - **wps-office-hoo-dles.apk**
   - `c4574ad12f8afe41b4c601e27ea209f3db34c9336f31a8c33fad67e5878124d9`
-- **twitter-arm64-v8a-stable-piko.apk**
-  - `9b8bf78dd7b0ef1a66daf578b0873c3f34ffd141a7aa641ae431fdc60c9bb7f7`
 - **twitter-arm64-v8a-beta-piko.apk**
   - `3930a7f069c3b5b28ba20200a4c4acb01aad81034de47730b21534c44d2fbb55`
-- **twitter-piko-newx.apk**
-  - `9fdad2a375ef49d9084b3ba3e0f77b114dbd6143b450784edcc98ca3e101c408`
-- **twitter-beta-piko.apk**
-  - `8df03feb017aad71f5fb29ed376f9d34db17def07fe932180adf64dded5ce8a0`
+- **twitter-arm64-v8a-stable-piko.apk**
+  - `9b8bf78dd7b0ef1a66daf578b0873c3f34ffd141a7aa641ae431fdc60c9bb7f7`
 - **twitter-beta-piko-x-shim.apk**
   - `bb4c2f37486955130613f332a446f702bc5114c5eb20aeb713fc4c0fc099ea41`
+- **twitter-piko-newx.apk**
+  - `e13c15288334aef412aa5f2faf5698cd8432852f031fce60110900ad9cfa8b83`
 - **twitter-piko-x-shim.apk**
   - `39cd70c02d680bd61294cfb0cd19e5aef8175f6c7b2cb36104fb5f286f457f0a`
+- **twitter-beta-piko.apk**
+  - `8df03feb017aad71f5fb29ed376f9d34db17def07fe932180adf64dded5ce8a0`
 - **twitter-stable-piko.apk**
   - `406a616ca570f2917385309582c1195846cf820760701d6c757f336b2a51a7b3`
 - **youtube-beta-arm64-v8a-anddea.apk**
   - `952fd55fa4ebe671b9f3a9d996ed766f399c0c61bef1a1263f25391b480e1255`
-- **youtube-beta-anddea.apk**
-  - `8b11a002c58f5823e11e1540237b22307be6101df1d4c57879049b880e5ad1c1`
 - **youtube-beta-armeabi-v7a-anddea.apk**
   - `fd5bd8bf7b23d7106deb6f3f3696a3fbe587fd83667a43be9f31865b99992197`
+- **youtube-beta-anddea.apk**
+  - `8b11a002c58f5823e11e1540237b22307be6101df1d4c57879049b880e5ad1c1`
 - **youtube-beta-x86-anddea.apk**
   - `c11ee15055a0cf1882734d95b0e13eea822902b4d0f57141107678e6d854962d`
 - **youtube-beta-x86_64-anddea.apk**
   - `0ade93da5ca3d1a87033fb809b974f277a18cac75a1540454c7922c86b363623`
-- **youtube-lite-beta-armeabi-v7a-anddea.apk**
-  - `8ab01c9f3fb6e9a1d15270a9fadbc50969208fe33f0138b27f5275705d86f45e`
 - **youtube-lite-beta-arm64-v8a-anddea.apk**
   - `7421f75beaf3904d1d387d74579bd53a8d840cd083c0c8383e5437ede5b1edf3`
+- **youtube-lite-beta-armeabi-v7a-anddea.apk**
+  - `8ab01c9f3fb6e9a1d15270a9fadbc50969208fe33f0138b27f5275705d86f45e`
 - **youtube-arm64-v8a-morphe.apk**
   - `da8c644d4b2c2cff86fddc22cefc3cc3691c0e3ea5deae8cbafea50d0bfeeaf4`
 - **youtube-armeabi-v7a-morphe.apk**
   - `b10a9fee10c4ce4da6ed53e60cfcc47970fda7ad6bc66a7ccd324b063a2ba714`
 - **youtube-beta-arm64-v8a-morphe.apk**
-  - `06ff31e7d9ea0fa9ec7fad5e83805998940bc2c18045f4a31019d998a4a4f7a7`
+  - `78ae86b7c6c22c6654c4d7d2e768d38231af5f4bf3a32f4d0a520c80b905a273`
 - **youtube-beta-armeabi-v7a-morphe.apk**
-  - `84cae1eed1c9fb60de377a2571b026aef689834c2a4189d31fbe29f46708dc65`
-- **youtube-beta-lite-arm64-v8a-morphe.apk**
-  - `8aa3f99236f1d05e05b5332ca6b8e38a6a6261c3c7ca24d1a40b7bb1a9dc99e8`
+  - `40ca2111786bee06181c3fe12689d101503fe6f718e6553b3bc800404d15eb14`
 - **youtube-beta-lite-armeabi-v7a-morphe.apk**
   - `c8efe48c4273238ba0892491424554c7b004e2757cb46dafe1b2afad2ecae151`
-- **youtube-beta-morphe.apk**
-  - `3022a03dbdd591da4914e3bbb0c515291c9c4e5294f854b392bb18b989b937a2`
+- **youtube-beta-lite-arm64-v8a-morphe.apk**
+  - `8aa3f99236f1d05e05b5332ca6b8e38a6a6261c3c7ca24d1a40b7bb1a9dc99e8`
 - **youtube-beta-x86-morphe.apk**
-  - `8babfb4a14fd0f8e74625173c60a9ac68d428c0667bb87a34237d60eb71a1407`
+  - `daa14cc958afcaed68b7b099f3a935b0b3bcd2329aefaaa50d813dfa11c745db`
+- **youtube-beta-morphe.apk**
+  - `94e43e469e7326a67ade66334634334f04f767898eaa4f6a0f505b297de4b2e2`
 - **youtube-beta-x86_64-morphe.apk**
-  - `abd05fa369cc7e47a25a6f1c6b1f970f54b225700652a4a2dbd96a9b25dcaf71`
-- **youtube-lite-armeabi-v7a-morphe.apk**
-  - `973cfbc889244881ef1ff7889dbb2007846e2d4473b72ba964d4ab87fc2b7f3e`
+  - `8fc7a172ab46b1bb59a2da74cdc7146f46df1f7cdd4e10869fa8189667aa88c4`
 - **youtube-lite-arm64-v8a-morphe.apk**
   - `c0e3db7ee522e283456f63f9cd54a2878bf6d77ee6f9bd4b5533b20703aa380e`
+- **youtube-lite-armeabi-v7a-morphe.apk**
+  - `973cfbc889244881ef1ff7889dbb2007846e2d4473b72ba964d4ab87fc2b7f3e`
 - **youtube-morphe.apk**
   - `599ce6fceecc0d895e8f737d45b7403988e5244942f9080c73b6249b60be0cc2`
 - **youtube-x86-morphe.apk**
@@ -700,12 +700,12 @@ Release source: `latest`
   - `baa42ea2fac060927e416829f7db9b56a9bbd857bdf2c817e9ac6ee5872feae6`
 - **youtube-lite-arm64-v8a-revanced.apk**
   - `016379b148cb65da44a089c1914f3512674cf243a14b448afe37a3a4262de3af`
+- **youtube-lite-armeabi-v7a-revanced.apk**
+  - `f9f3fb566873f3faa11a025642ff93f7dd7deeb84c48c0c1253735d049961999`
 - **youtube-lite-beta-arm64-v8a-revanced.apk**
   - `85b93e61ddfd1dae145ba6d2353785cb3b7ebbf366716efd01a2e31d2fca4945`
 - **youtube-lite-beta-armeabi-v7a-revanced.apk**
   - `7fb80e85d079eb6848e09472293272abd8355e18c9468bfb1df209fad9a1f429`
-- **youtube-lite-armeabi-v7a-revanced.apk**
-  - `f9f3fb566873f3faa11a025642ff93f7dd7deeb84c48c0c1253735d049961999`
 - **youtube-revanced.apk**
   - `52c913e9ff58f54388f278f97bf825aea260f92338eed82db957713d69dca437`
 - **youtube-x86-revanced.apk**
@@ -725,9 +725,9 @@ Release source: `latest`
 - **youtube-music-armeabi-v7a-morphe.apk**
   - `fff80453f1dae59c8b1c641799cf66f128a34a9069f411294b4a442faf092e98`
 - **youtube-music-beta-arm64-v8a-morphe.apk**
-  - `26d19a43daba9462ee9efc7cf6111f1068ecba53f2048c7626e6d1b5f06ddabe`
+  - `4308282b852ef972c5bd24169721aaf8173b2ce3288b4fd61171ac882eeeab78`
 - **youtube-music-beta-armeabi-v7a-morphe.apk**
-  - `504c7da6242cc313b9cd459eff57a0d28326a318a8e294e1d5377d7a6f9a163a`
+  - `563a2e3faaa68c684682b949967183b8fba16f25ea841bc6def504845e9ee18c`
 - **youtube-music-beta-x86-morphe.apk**
   - `5f46ca11503aa0aad8efc5864a237749c4f25769d316822a42ac64ffed6020da`
 - **youtube-music-beta-x86_64-morphe.apk**
