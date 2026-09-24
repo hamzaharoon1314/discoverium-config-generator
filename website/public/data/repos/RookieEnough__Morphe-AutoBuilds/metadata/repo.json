@@ -194,7 +194,7 @@
     "asset_name": "flatastic-universal-revanced-patches-v3.16.1.apk",
     "package_id": "com.flatastic.app",
     "version_name": "3.16.1",
-    "sha256": "500b60b0ad899c5ef9d88d38adafa0c59f948554148a328769f1d0a916f54ea5",
+    "sha256": "95a3a643a4d3496834b6c5d5f0fadf848ed400db64ace0138b2c78f53958f873",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.flatastic.app",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/flatastic-universal-revanced-patches-v3.16.1.apk",
     "discoverium_file": "../discoverium/com.flatastic.app__flatastic-universal-revanced-patches-v3.16.1.json"
@@ -228,16 +228,6 @@
     "play_store_url": "https://play.google.com/store/apps/details?id=com.xiaoji.egggame",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/gamehub-universal-liaralabs-v6.0.9.apk",
     "discoverium_file": "../discoverium/com.xiaoji.egggame__gamehub-universal-liaralabs-v6.0.9.json"
-  },
-  {
-    "app_name": "GboardWu",
-    "asset_name": "gboard-universal-morphe-patches-v18.0.3.954559732-release-arm64-v8a.apk",
-    "package_id": "dev.jason.com.google.android.inputmethod.latin",
-    "version_name": "18.0.3.954559732-release-arm64-v8a",
-    "sha256": "4a12f523e4ec1baaa26add356efd16ef6ea339ab9b75aa9ff30023df94c51a7c",
-    "play_store_url": "",
-    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/gboard-universal-morphe-patches-v18.0.3.954559732-release-arm64-v8a.apk",
-    "discoverium_file": "../discoverium/dev.jason.com.google.android.inputmethod.latin__gboard-universal-morphe-patches-v18.0.3.954559732-release-arm64-v8a.json"
   },
   {
     "app_name": "Geocaching",
@@ -311,16 +301,6 @@
   },
   {
     "app_name": "Instagram",
-    "asset_name": "instagram-armeabi-v7a-piko-patches-v435.0.0.37.76.apk",
-    "package_id": "com.instagram.android",
-    "version_name": "435.0.0.37.76",
-    "sha256": "46db69479507b43aec4dd9127c7b7b3e07db36b3829c14b983c6984fc8624807",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.instagram.android",
-    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/instagram-armeabi-v7a-piko-patches-v435.0.0.37.76.apk",
-    "discoverium_file": "../discoverium/com.instagram.android__instagram-armeabi-v7a-piko-patches-v435.0.0.37.76.json"
-  },
-  {
-    "app_name": "Instagram",
     "asset_name": "instagram-arm64-v8a-piko-patches-v439.0.0.37.89.apk",
     "package_id": "com.instagram.android",
     "version_name": "439.0.0.37.89",
@@ -330,11 +310,21 @@
     "discoverium_file": "../discoverium/com.instagram.android__instagram-arm64-v8a-piko-patches-v439.0.0.37.89.json"
   },
   {
+    "app_name": "Instagram",
+    "asset_name": "instagram-armeabi-v7a-piko-patches-v435.0.0.37.76.apk",
+    "package_id": "com.instagram.android",
+    "version_name": "435.0.0.37.76",
+    "sha256": "46db69479507b43aec4dd9127c7b7b3e07db36b3829c14b983c6984fc8624807",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.instagram.android",
+    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/instagram-armeabi-v7a-piko-patches-v435.0.0.37.76.apk",
+    "discoverium_file": "../discoverium/com.instagram.android__instagram-armeabi-v7a-piko-patches-v435.0.0.37.76.json"
+  },
+  {
     "app_name": "KakaoTalk",
     "asset_name": "kakaotalk-universal-revanced-patches-v26.8.2.apk",
     "package_id": "com.kakao.talk",
     "version_name": "10.7.4",
-    "sha256": "3314a92988a8df9c3282cc024cd89296fa171ae408dd41d8d0f5b84fe79bd220",
+    "sha256": "a31d1063e9a05dc0dd0d439eb0cd7aca4a1ce32ac9344031c983b930aeaa8eb1",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.kakao.talk",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/kakaotalk-universal-revanced-patches-v26.8.2.apk",
     "discoverium_file": "../discoverium/com.kakao.talk__kakaotalk-universal-revanced-patches-v26.8.2.json"
@@ -541,16 +531,6 @@
   },
   {
     "app_name": "NOMone Desktop",
-    "asset_name": "nomone-universal-morphe-patches-v1.9.4.apk",
-    "package_id": "nom.vrd",
-    "version_name": "1.9.4-GooglePlay",
-    "sha256": "1b38432df377d1c9702d5e8f0b4dfb66adda01ba8d92eec83ee40649ba9a4032",
-    "play_store_url": "https://play.google.com/store/apps/details?id=nom.vrd",
-    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/nomone-universal-morphe-patches-v1.9.4.apk",
-    "discoverium_file": "../discoverium/nom.vrd__nomone-universal-morphe-patches-v1.9.4.json"
-  },
-  {
-    "app_name": "NOMone Desktop",
     "asset_name": "nomone-universal-morphe-patches-v1.9.3-GooglePlay.apk",
     "package_id": "nom.vrd",
     "version_name": "1.9.3-GooglePlay",
@@ -558,6 +538,16 @@
     "play_store_url": "https://play.google.com/store/apps/details?id=nom.vrd",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/nomone-universal-morphe-patches-v1.9.3-GooglePlay.apk",
     "discoverium_file": "../discoverium/nom.vrd__nomone-universal-morphe-patches-v1.9.3-GooglePlay.json"
+  },
+  {
+    "app_name": "NOMone Desktop",
+    "asset_name": "nomone-universal-morphe-patches-v1.9.4.apk",
+    "package_id": "nom.vrd",
+    "version_name": "1.9.4-GooglePlay",
+    "sha256": "1b38432df377d1c9702d5e8f0b4dfb66adda01ba8d92eec83ee40649ba9a4032",
+    "play_store_url": "https://play.google.com/store/apps/details?id=nom.vrd",
+    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/nomone-universal-morphe-patches-v1.9.4.apk",
+    "discoverium_file": "../discoverium/nom.vrd__nomone-universal-morphe-patches-v1.9.4.json"
   },
   {
     "app_name": "Nova Launcher",
@@ -674,7 +664,7 @@
     "asset_name": "pokecardex-armeabi-v7a-morphe-patches-v8.7.2.apk",
     "package_id": "com.application.pokecardex",
     "version_name": "5.13.0",
-    "sha256": "33e14b3c7ba6541a80a405e4593d1c696bce733bacc722965be6e07aff4b8627",
+    "sha256": "abf2cb1d2d1c4e690f57ab3c47a38771b10b16075077e3fbda596b71ff806ad2",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.application.pokecardex",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/pokecardex-armeabi-v7a-morphe-patches-v8.7.2.apk",
     "discoverium_file": "../discoverium/com.application.pokecardex__pokecardex-armeabi-v7a-morphe-patches-v8.7.2.json"
@@ -980,6 +970,16 @@
     "discoverium_file": "../discoverium/com.wallpaperscraft.wallpaper__wallcraft-universal-morphe-patches-v3.61.01.json"
   },
   {
+    "app_name": "Welcome",
+    "asset_name": "gboard-universal-morphe-patches-v18.0.3.954559732-release-arm64-v8a.apk",
+    "package_id": "com.google.android.inputmethod.latin",
+    "version_name": "899.9999.999",
+    "sha256": "7ac9c0b5367dea9cb7f1dd46f90b57ae704da88ce2e81bad7bfa895451a3def3",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin",
+    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/gboard-universal-morphe-patches-v18.0.3.954559732-release-arm64-v8a.apk",
+    "discoverium_file": "../discoverium/com.google.android.inputmethod.latin__gboard-universal-morphe-patches-v18.0.3.954559732-release-arm64-v8a.json"
+  },
+  {
     "app_name": "Windscribe",
     "asset_name": "windscribe-universal-morphe-patches-v4.2.2328.apk",
     "package_id": "com.windscribe.vpn",
@@ -1030,6 +1030,16 @@
     "discoverium_file": "../discoverium/com.twitter.android__x-new-universal-piko-patches-v12.27.0-prod.01.json"
   },
   {
+    "app_name": "X",
+    "asset_name": "x-new-universal-piko-patches-v12.28.0-prod.01.apk",
+    "package_id": "com.twitter.android",
+    "version_name": "12.28.0-prod.01",
+    "sha256": "b4924e8783a3635ce3ce3db879d5b5c33c6b0a0e0e577d48271d0ee547485a96",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.twitter.android",
+    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/x-new-universal-piko-patches-v12.28.0-prod.01.apk",
+    "discoverium_file": "../discoverium/com.twitter.android__x-new-universal-piko-patches-v12.28.0-prod.01.json"
+  },
+  {
     "app_name": "Xodo",
     "asset_name": "xodo-universal-morphe-patches-v11.0.0.apk",
     "package_id": "com.xodo.pdf.reader",
@@ -1061,16 +1071,6 @@
   },
   {
     "app_name": "YT Music Morphe",
-    "asset_name": "youtube-music-arm64-v8a-morphe-v9.15.51.apk",
-    "package_id": "app.morphe.android.apps.youtube.music",
-    "version_name": "9.15.51",
-    "sha256": "206a8ea143b1256598e3a34e3d02e748e5caa8e3c1039e89e7c9a94060f7b3bd",
-    "play_store_url": "",
-    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/youtube-music-arm64-v8a-morphe-v9.15.51.apk",
-    "discoverium_file": "../discoverium/app.morphe.android.apps.youtube.music__youtube-music-arm64-v8a-morphe-v9.15.51.json"
-  },
-  {
-    "app_name": "YT Music Morphe",
     "asset_name": "youtube-music-armeabi-v7a-morphe-v9.15.51.apk",
     "package_id": "app.morphe.android.apps.youtube.music",
     "version_name": "9.15.51",
@@ -1078,5 +1078,15 @@
     "play_store_url": "",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/youtube-music-armeabi-v7a-morphe-v9.15.51.apk",
     "discoverium_file": "../discoverium/app.morphe.android.apps.youtube.music__youtube-music-armeabi-v7a-morphe-v9.15.51.json"
+  },
+  {
+    "app_name": "YT Music Morphe",
+    "asset_name": "youtube-music-arm64-v8a-morphe-v9.15.51.apk",
+    "package_id": "app.morphe.android.apps.youtube.music",
+    "version_name": "9.15.51",
+    "sha256": "206a8ea143b1256598e3a34e3d02e748e5caa8e3c1039e89e7c9a94060f7b3bd",
+    "play_store_url": "",
+    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/youtube-music-arm64-v8a-morphe-v9.15.51.apk",
+    "discoverium_file": "../discoverium/app.morphe.android.apps.youtube.music__youtube-music-arm64-v8a-morphe-v9.15.51.json"
   }
 ]
