@@ -324,7 +324,7 @@
     "asset_name": "kakaotalk-universal-revanced-patches-v26.8.2.apk",
     "package_id": "com.kakao.talk",
     "version_name": "10.7.4",
-    "sha256": "a31d1063e9a05dc0dd0d439eb0cd7aca4a1ce32ac9344031c983b930aeaa8eb1",
+    "sha256": "cc017e2a6f5a9e337fa519879c3422e9fc9bcb5a35d02249760019667597cf3c",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.kakao.talk",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/kakaotalk-universal-revanced-patches-v26.8.2.apk",
     "discoverium_file": "../discoverium/com.kakao.talk__kakaotalk-universal-revanced-patches-v26.8.2.json"
@@ -484,7 +484,7 @@
     "asset_name": "mirinae-universal-morphe-patches-v2.2.2.apk",
     "package_id": "com.mirinae.mirinae",
     "version_name": "2.2.2",
-    "sha256": "be7512dd1f12e1f07f652e6c7f01444e66cf00beba066fbe22cf476b673fb793",
+    "sha256": "80851b7e43748f2037cd26a5fe271e72a489874e683253dad4cb3e1f794d72f0",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.mirinae.mirinae",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/mirinae-universal-morphe-patches-v2.2.2.apk",
     "discoverium_file": "../discoverium/com.mirinae.mirinae__mirinae-universal-morphe-patches-v2.2.2.json"
@@ -611,16 +611,6 @@
   },
   {
     "app_name": "Photos",
-    "asset_name": "google-photos-armeabi-v7a-morphe-patches-v7.80.0.929302933.apk",
-    "package_id": "app.morphe.android.apps.photos",
-    "version_name": "7.80.0.929302933",
-    "sha256": "d0832a96ff0b096714c1339ab501982bb6597727e46678e258c4c892ba47ba8a",
-    "play_store_url": "",
-    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/google-photos-armeabi-v7a-morphe-patches-v7.80.0.929302933.apk",
-    "discoverium_file": "../discoverium/app.morphe.android.apps.photos__google-photos-armeabi-v7a-morphe-patches-v7.80.0.929302933.json"
-  },
-  {
-    "app_name": "Photos",
     "asset_name": "google-photos-arm64-v8a-morphe-patches-v7.92.0.977185651.apk",
     "package_id": "app.morphe.android.apps.photos",
     "version_name": "7.92.0.977185651",
@@ -628,6 +618,16 @@
     "play_store_url": "",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/google-photos-arm64-v8a-morphe-patches-v7.92.0.977185651.apk",
     "discoverium_file": "../discoverium/app.morphe.android.apps.photos__google-photos-arm64-v8a-morphe-patches-v7.92.0.977185651.json"
+  },
+  {
+    "app_name": "Photos",
+    "asset_name": "google-photos-armeabi-v7a-morphe-patches-v7.80.0.929302933.apk",
+    "package_id": "app.morphe.android.apps.photos",
+    "version_name": "7.80.0.929302933",
+    "sha256": "d0832a96ff0b096714c1339ab501982bb6597727e46678e258c4c892ba47ba8a",
+    "play_store_url": "",
+    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/google-photos-armeabi-v7a-morphe-patches-v7.80.0.929302933.apk",
+    "discoverium_file": "../discoverium/app.morphe.android.apps.photos__google-photos-armeabi-v7a-morphe-patches-v7.80.0.929302933.json"
   },
   {
     "app_name": "Pinterest",
@@ -664,7 +664,7 @@
     "asset_name": "pokecardex-armeabi-v7a-morphe-patches-v8.7.2.apk",
     "package_id": "com.application.pokecardex",
     "version_name": "5.13.0",
-    "sha256": "6637a07d11ce033a642aabff1a33741db4a7131d263196974a24e0754d5cf826",
+    "sha256": "695d84587424ec903ced50be6b2de790031dfe7204900953c1e19ccf7677d03c",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.application.pokecardex",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/pokecardex-armeabi-v7a-morphe-patches-v8.7.2.apk",
     "discoverium_file": "../discoverium/com.application.pokecardex__pokecardex-armeabi-v7a-morphe-patches-v8.7.2.json"
@@ -974,7 +974,7 @@
     "asset_name": "gboard-universal-morphe-patches-v18.0.3.954559732-release-arm64-v8a.apk",
     "package_id": "com.google.android.inputmethod.latin",
     "version_name": "899.9999.999",
-    "sha256": "08556c6d636f719747de03ff568b3779cbaddfe3f5a054c869f14b45e55ec7d3",
+    "sha256": "7ac9c0b5367dea9cb7f1dd46f90b57ae704da88ce2e81bad7bfa895451a3def3",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/gboard-universal-morphe-patches-v18.0.3.954559732-release-arm64-v8a.apk",
     "discoverium_file": "../discoverium/com.google.android.inputmethod.latin__gboard-universal-morphe-patches-v18.0.3.954559732-release-arm64-v8a.json"
@@ -1004,7 +1004,7 @@
     "asset_name": "macrofactor-workout-universal-morphe-patches-v1.2.1.apk",
     "package_id": "com.sbs.train",
     "version_name": "1.2.1",
-    "sha256": "ab27782d0506d10dc1be7befb431db4b94cd53f65a76d89961d0ae0d3ef39aa7",
+    "sha256": "d872cf718eb28b6011e0decdfac4c7ad50b7eb8406a9d799e7fb752b429131fc",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.sbs.train",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/macrofactor-workout-universal-morphe-patches-v1.2.1.apk",
     "discoverium_file": "../discoverium/com.sbs.train__macrofactor-workout-universal-morphe-patches-v1.2.1.json"
@@ -1024,7 +1024,7 @@
     "asset_name": "x-new-universal-piko-patches-v12.28.0-prod.01.apk",
     "package_id": "com.twitter.android",
     "version_name": "12.28.0-prod.01",
-    "sha256": "ff3e6ab738ac1320e4be0d8aabc0dc6e832ec83ee300ecffe649119688c41ee1",
+    "sha256": "ef326909f45d412bc7d5c9c2b4d7deefbfbacd95a7310c41169afd788e50922b",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.twitter.android",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/x-new-universal-piko-patches-v12.28.0-prod.01.apk",
     "discoverium_file": "../discoverium/com.twitter.android__x-new-universal-piko-patches-v12.28.0-prod.01.json"
