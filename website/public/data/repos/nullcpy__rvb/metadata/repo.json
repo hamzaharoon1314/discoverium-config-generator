@@ -1,32 +1,122 @@
 [
   {
-    "app_name": "Discord",
-    "asset_name": "discord-rain-v346.13-Stable-arm64-v8a.apk",
-    "package_id": "com.discord",
-    "version_name": "346.13 - Stable",
-    "sha256": "03c2e940ec87cd76d50d61d0ecf21808f01ce605a30c52c52cd40d4440459675",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.discord",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260131/discord-rain-v346.13-Stable-arm64-v8a.apk",
-    "discoverium_file": "../discoverium/com.discord__discord-rain-v346.13-Stable-arm64-v8a.json"
+    "app_name": "Disney+",
+    "asset_name": "disney-ajstrick81-android-tv-v26.16.0+rc2-2026.09.08-all.apk",
+    "package_id": "com.disney.disneyplus",
+    "version_name": "26.16.0+rc2-2026.09.08",
+    "sha256": "f8b056a93f847f78b733e711b69058a2fe187c478dc077d8aa37f70c96f06b43",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.disney.disneyplus",
+    "download_url": "https://github.com/nullcpy/rvb/releases/download/260137/disney-ajstrick81-android-tv-v26.16.0%2Brc2-2026.09.08-all.apk",
+    "discoverium_file": "../discoverium/com.disney.disneyplus__disney-ajstrick81-android-tv-v26.16.0+rc2-2026.09.08-all.json"
   },
   {
-    "app_name": "Discord",
-    "asset_name": "discord-rain-v346.13-Stable-arm-v7a.apk",
-    "package_id": "com.discord",
-    "version_name": "346.13 - Stable",
-    "sha256": "79c2ee14ee8a92109feae5a63d8f0111e6bdc3c8d2652c9ca88deb351bc25d4c",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.discord",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260131/discord-rain-v346.13-Stable-arm-v7a.apk",
-    "discoverium_file": "../discoverium/com.discord__discord-rain-v346.13-Stable-arm-v7a.json"
+    "app_name": "Facebook",
+    "asset_name": "facebook-hushfacebook-v580.0.0.51.74-arm64-v8a.apk",
+    "package_id": "com.facebook.katana",
+    "version_name": "580.0.0.51.74",
+    "sha256": "9a5469509cad74527c56be555c1cba9dc3d36f24c5dc2f6f00df9d2cc17706ec",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.facebook.katana",
+    "download_url": "https://github.com/nullcpy/rvb/releases/download/260137/facebook-hushfacebook-v580.0.0.51.74-arm64-v8a.apk",
+    "discoverium_file": "../discoverium/com.facebook.katana__facebook-hushfacebook-v580.0.0.51.74-arm64-v8a.json"
+  },
+  {
+    "app_name": "HBO Max",
+    "asset_name": "hbo-max-ajstrick81-android-tv-v7.9.0.61-all.apk",
+    "package_id": "com.wbd.hbomax",
+    "version_name": "7.9.0.61",
+    "sha256": "7a7e68f6e1c48ba70998e6a9234a70ac32c0b7358859de7619eedeb4765c6f8b",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.wbd.hbomax",
+    "download_url": "https://github.com/nullcpy/rvb/releases/download/260137/hbo-max-ajstrick81-android-tv-v7.9.0.61-all.apk",
+    "discoverium_file": "../discoverium/com.wbd.hbomax__hbo-max-ajstrick81-android-tv-v7.9.0.61-all.json"
+  },
+  {
+    "app_name": "Netflix",
+    "asset_name": "netflix-ajstrick81-android-tv-v13.0.1build25028-arm-v7a.apk",
+    "package_id": "com.netflix.ninja.clone",
+    "version_name": "13.0.1 build 25028",
+    "sha256": "be813132d1e8e59b1bbdd98109479e9f56b5ffde00d25369cd68b0bc0ef30f47",
+    "play_store_url": "",
+    "download_url": "https://github.com/nullcpy/rvb/releases/download/260137/netflix-ajstrick81-android-tv-v13.0.1build25028-arm-v7a.apk",
+    "discoverium_file": "../discoverium/com.netflix.ninja.clone__netflix-ajstrick81-android-tv-v13.0.1build25028-arm-v7a.json"
+  },
+  {
+    "app_name": "Peacock TV",
+    "asset_name": "peacock-ajstrick81-android-tv-v7.8.100-all.apk",
+    "package_id": "com.peacocktv.peacockandroid",
+    "version_name": "7.8.100",
+    "sha256": "9725d62328113878432ecc8fba7274dcd73157c148e600aa9f00087ab5ea027c",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.peacocktv.peacockandroid",
+    "download_url": "https://github.com/nullcpy/rvb/releases/download/260137/peacock-ajstrick81-android-tv-v7.8.100-all.apk",
+    "discoverium_file": "../discoverium/com.peacocktv.peacockandroid__peacock-ajstrick81-android-tv-v7.8.100-all.json"
+  },
+  {
+    "app_name": "Pluto TV",
+    "asset_name": "plutotv-ajstrick81-android-tv-v5.66.0-leanback-all.apk",
+    "package_id": "tv.pluto.android",
+    "version_name": "5.66.0-leanback",
+    "sha256": "84260cdf9bf84776e5c7fe99c59d04097dc4f9e94212848adc54b72a60d19c3e",
+    "play_store_url": "https://play.google.com/store/apps/details?id=tv.pluto.android",
+    "download_url": "https://github.com/nullcpy/rvb/releases/download/260137/plutotv-ajstrick81-android-tv-v5.66.0-leanback-all.apk",
+    "discoverium_file": "../discoverium/tv.pluto.android__plutotv-ajstrick81-android-tv-v5.66.0-leanback-all.json"
+  },
+  {
+    "app_name": "Prime Video",
+    "asset_name": "prime-video-ajstrick81-android-tv-clone-v6.23.23+v15.5.0.70-armv7a-arm-v7a.apk",
+    "package_id": "com.amazon.amazonvideo.livingroom.mod",
+    "version_name": "6.23.23+v15.5.0.70-armv7a",
+    "sha256": "d75522a0faba8a85db4b8b25ef3fc171119f4a053a234d975e4b6815dd7074dd",
+    "play_store_url": "",
+    "download_url": "https://github.com/nullcpy/rvb/releases/download/260137/prime-video-ajstrick81-android-tv-clone-v6.23.23%2Bv15.5.0.70-armv7a-arm-v7a.apk",
+    "discoverium_file": "../discoverium/com.amazon.amazonvideo.livingroom.mod__prime-video-ajstrick81-android-tv-clone-v6.23.23+v15.5.0.70-armv7a-arm-v7a.json"
+  },
+  {
+    "app_name": "Prime Video",
+    "asset_name": "prime-video-ajstrick81-android-tv-v6.23.23+v15.5.0.70-armv7a-arm-v7a.apk",
+    "package_id": "com.amazon.amazonvideo.livingroom",
+    "version_name": "6.23.23+v15.5.0.70-armv7a",
+    "sha256": "518891cc8395da946d14ba5430f53f2d7629de3b36fd68a77154ae25a4d8a534",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.amazon.amazonvideo.livingroom",
+    "download_url": "https://github.com/nullcpy/rvb/releases/download/260137/prime-video-ajstrick81-android-tv-v6.23.23%2Bv15.5.0.70-armv7a-arm-v7a.apk",
+    "discoverium_file": "../discoverium/com.amazon.amazonvideo.livingroom__prime-video-ajstrick81-android-tv-v6.23.23+v15.5.0.70-armv7a-arm-v7a.json"
   },
   {
     "app_name": "TikTok",
     "asset_name": "tiktok-hushfeed-v47.1.3-all.apk",
     "package_id": "com.zhiliaoapp.musically",
     "version_name": "47.1.3",
-    "sha256": "d316032bbae2562e174577c1239d69c91447b4e12f27674b74088ab6a26cf0d2",
+    "sha256": "9c90ffda4b22eddaf6dc8bef21ed1f95bdb1162481f994bdec22e03ecf95e979",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260131/tiktok-hushfeed-v47.1.3-all.apk",
+    "download_url": "https://github.com/nullcpy/rvb/releases/download/260137/tiktok-hushfeed-v47.1.3-all.apk",
     "discoverium_file": "../discoverium/com.zhiliaoapp.musically__tiktok-hushfeed-v47.1.3-all.json"
+  },
+  {
+    "app_name": "Tubi",
+    "asset_name": "tubi-ajstrick81-android-tv-v10.28.5000-all.apk",
+    "package_id": "com.tubitv",
+    "version_name": "10.28.5000",
+    "sha256": "540e51e92bd865be9e6e6ca880bedd2beb0293a2cab70a7a2172aa694cd900c2",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.tubitv",
+    "download_url": "https://github.com/nullcpy/rvb/releases/download/260137/tubi-ajstrick81-android-tv-v10.28.5000-all.apk",
+    "discoverium_file": "../discoverium/com.tubitv__tubi-ajstrick81-android-tv-v10.28.5000-all.json"
+  },
+  {
+    "app_name": "Twitch",
+    "asset_name": "twitch-ajstrick81-android-tv-v13.0.0.2-all.apk",
+    "package_id": "tv.twitch.android.app",
+    "version_name": "13.0.0.2",
+    "sha256": "a12d2357eb39dc3fb3b4d0d9621df4920de9d9255f6aefcbf30a7fe32cce6148",
+    "play_store_url": "https://play.google.com/store/apps/details?id=tv.twitch.android.app",
+    "download_url": "https://github.com/nullcpy/rvb/releases/download/260137/twitch-ajstrick81-android-tv-v13.0.0.2-all.apk",
+    "discoverium_file": "../discoverium/tv.twitch.android.app__twitch-ajstrick81-android-tv-v13.0.0.2-all.json"
+  },
+  {
+    "app_name": "ViX",
+    "asset_name": "vix-ajstrick81-android-tv-v4.47.2_tv-all.apk",
+    "package_id": "com.univision.prendetv",
+    "version_name": "4.47.2_tv",
+    "sha256": "8920cfc95c7cf4ed7fe9b41cb8f43a3ba5356d6964a4b10315ac0e56fedd1840",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.univision.prendetv",
+    "download_url": "https://github.com/nullcpy/rvb/releases/download/260137/vix-ajstrick81-android-tv-v4.47.2_tv-all.apk",
+    "discoverium_file": "../discoverium/com.univision.prendetv__vix-ajstrick81-android-tv-v4.47.2_tv-all.json"
   }
 ]
