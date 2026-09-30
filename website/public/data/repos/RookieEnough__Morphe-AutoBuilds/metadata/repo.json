@@ -70,16 +70,6 @@
     "discoverium_file": "../discoverium/com.intsig.camscanner__camscanner-universal-morphe-patches-v7.20.0.2606230000.json"
   },
   {
-    "app_name": "CamScanner",
-    "asset_name": "macrodroid-universal-paresh-v5.10.6.20190522.apk",
-    "package_id": "com.intsig.camscanner",
-    "version_name": "5.10.6.20190522",
-    "sha256": "fea2593170ed3e158c797d6f91dc92284aa46b97a0a06ebbb998900a383823e9",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.intsig.camscanner",
-    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/macrodroid-universal-paresh-v5.10.6.20190522.apk",
-    "discoverium_file": "../discoverium/com.intsig.camscanner__macrodroid-universal-paresh-v5.10.6.20190522.json"
-  },
-  {
     "app_name": "Chargeprice",
     "asset_name": "chargeprice-universal-morphe-patches-v3.9.2.apk",
     "package_id": "fr.chargeprice.app",
@@ -410,6 +400,16 @@
     "discoverium_file": "../discoverium/com.lyfta__lyfta-universal-morphe-patches-v1.551.json"
   },
   {
+    "app_name": "MacroDroid",
+    "asset_name": "macrodroid-universal-paresh-v5.62.11.apk",
+    "package_id": "com.arlosoft.macrodroid",
+    "version_name": "5.62.11",
+    "sha256": "ae94806bdabc0716a917903cfa3be9be27bd07f3419f6e40ea7f236b37a2cd44",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.arlosoft.macrodroid",
+    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/macrodroid-universal-paresh-v5.62.11.apk",
+    "discoverium_file": "../discoverium/com.arlosoft.macrodroid__macrodroid-universal-paresh-v5.62.11.json"
+  },
+  {
     "app_name": "MacroFactor",
     "asset_name": "macrofactor-universal-morphe-patches-v5.7.9.apk",
     "package_id": "com.sbs.diet",
@@ -494,7 +494,7 @@
     "asset_name": "mimo-universal-morphe-patches-v9.30.apk",
     "package_id": "com.getmimo",
     "version_name": "9.30",
-    "sha256": "5dd22165fcb003d359deaef0125e13c021adc00e0a746b6910740b32a3f56b4b",
+    "sha256": "025b139d660f79ff1c60d643c3e995fea0c61a1749b59d79ffd56d60e8cc9f56",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.getmimo",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/mimo-universal-morphe-patches-v9.30.apk",
     "discoverium_file": "../discoverium/com.getmimo__mimo-universal-morphe-patches-v9.30.json"
@@ -564,7 +564,7 @@
     "asset_name": "nomone-universal-morphe-patches-v1.9.4.apk",
     "package_id": "nom.vrd",
     "version_name": "1.9.4-GooglePlay",
-    "sha256": "16e9ade6f73d512239f324f3ffad83bcb4342049d22c265c469c91dff447679c",
+    "sha256": "ee393508643b8d0395901b2608be1616fcc1dde3c405da5b32b6e691477ee30d",
     "play_store_url": "https://play.google.com/store/apps/details?id=nom.vrd",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/nomone-universal-morphe-patches-v1.9.4.apk",
     "discoverium_file": "../discoverium/nom.vrd__nomone-universal-morphe-patches-v1.9.4.json"
@@ -684,7 +684,7 @@
     "asset_name": "pokecardex-armeabi-v7a-morphe-patches-v5.13.0.apk",
     "package_id": "com.application.pokecardex",
     "version_name": "5.13.0",
-    "sha256": "695d84587424ec903ced50be6b2de790031dfe7204900953c1e19ccf7677d03c",
+    "sha256": "0cd903422020b98295c48fb4aada3d19177d0eba326931878792fbbf0b23ad6d",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.application.pokecardex",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/pokecardex-armeabi-v7a-morphe-patches-v5.13.0.apk",
     "discoverium_file": "../discoverium/com.application.pokecardex__pokecardex-armeabi-v7a-morphe-patches-v5.13.0.json"
@@ -781,16 +781,6 @@
   },
   {
     "app_name": "Smart Launcher",
-    "asset_name": "smart_launcher-universal-morphe-patches-v6.6.build.016.apk",
-    "package_id": "ginlemon.flowerfree",
-    "version_name": "6.6 build 018",
-    "sha256": "1443159b93959ac66228bffcf655de0cff203713ee3d2d0850ce7768022fb54c",
-    "play_store_url": "https://play.google.com/store/apps/details?id=ginlemon.flowerfree",
-    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/smart_launcher-universal-morphe-patches-v6.6.build.016.apk",
-    "discoverium_file": "../discoverium/ginlemon.flowerfree__smart_launcher-universal-morphe-patches-v6.6.build.016.json"
-  },
-  {
-    "app_name": "Smart Launcher",
     "asset_name": "smart_launcher-universal-morphe-patches-v6.6.build.018.apk",
     "package_id": "ginlemon.flowerfree",
     "version_name": "6.6 build 018",
@@ -798,6 +788,16 @@
     "play_store_url": "https://play.google.com/store/apps/details?id=ginlemon.flowerfree",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/smart_launcher-universal-morphe-patches-v6.6.build.018.apk",
     "discoverium_file": "../discoverium/ginlemon.flowerfree__smart_launcher-universal-morphe-patches-v6.6.build.018.json"
+  },
+  {
+    "app_name": "Smart Launcher",
+    "asset_name": "smart_launcher-universal-morphe-patches-v6.6.build.016.apk",
+    "package_id": "ginlemon.flowerfree",
+    "version_name": "6.6 build 018",
+    "sha256": "1443159b93959ac66228bffcf655de0cff203713ee3d2d0850ce7768022fb54c",
+    "play_store_url": "https://play.google.com/store/apps/details?id=ginlemon.flowerfree",
+    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/smart_launcher-universal-morphe-patches-v6.6.build.016.apk",
+    "discoverium_file": "../discoverium/ginlemon.flowerfree__smart_launcher-universal-morphe-patches-v6.6.build.016.json"
   },
   {
     "app_name": "SnoreLab",
@@ -994,7 +994,7 @@
     "asset_name": "vn-universal-paresh-v2.12.0.apk",
     "package_id": "com.frontrow.vlog",
     "version_name": "2.12.0",
-    "sha256": "6936e6e07a92e391fd5ebf57aaab367266e3a38f6c3fdbb4ff60061b0f6e2daa",
+    "sha256": "103e28090e6d9b579e51855da42209e85996b4d8d6f6e28a684f5a817b18f4b5",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.frontrow.vlog",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/vn-universal-paresh-v2.12.0.apk",
     "discoverium_file": "../discoverium/com.frontrow.vlog__vn-universal-paresh-v2.12.0.json"
@@ -1011,16 +1011,6 @@
   },
   {
     "app_name": "Welcome",
-    "asset_name": "gboard-universal-morphe-patches-v18.0.3.954559732-release-arm64-v8a.apk",
-    "package_id": "com.google.android.inputmethod.latin",
-    "version_name": "899.9999.999",
-    "sha256": "318bd061cc7280c53fbb4db32557eec64398758a22abc4b5cb4cddb97b3ad515",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin",
-    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/gboard-universal-morphe-patches-v18.0.3.954559732-release-arm64-v8a.apk",
-    "discoverium_file": "../discoverium/com.google.android.inputmethod.latin__gboard-universal-morphe-patches-v18.0.3.954559732-release-arm64-v8a.json"
-  },
-  {
-    "app_name": "Welcome",
     "asset_name": "gboard-universal-morphe-patches-v899.9999.999.apk",
     "package_id": "com.google.android.inputmethod.latin",
     "version_name": "899.9999.999",
@@ -1028,6 +1018,16 @@
     "play_store_url": "https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/gboard-universal-morphe-patches-v899.9999.999.apk",
     "discoverium_file": "../discoverium/com.google.android.inputmethod.latin__gboard-universal-morphe-patches-v899.9999.999.json"
+  },
+  {
+    "app_name": "Welcome",
+    "asset_name": "gboard-universal-morphe-patches-v18.0.3.954559732-release-arm64-v8a.apk",
+    "package_id": "com.google.android.inputmethod.latin",
+    "version_name": "899.9999.999",
+    "sha256": "318bd061cc7280c53fbb4db32557eec64398758a22abc4b5cb4cddb97b3ad515",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin",
+    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/gboard-universal-morphe-patches-v18.0.3.954559732-release-arm64-v8a.apk",
+    "discoverium_file": "../discoverium/com.google.android.inputmethod.latin__gboard-universal-morphe-patches-v18.0.3.954559732-release-arm64-v8a.json"
   },
   {
     "app_name": "Windscribe",
@@ -1111,16 +1111,6 @@
   },
   {
     "app_name": "YT Music Morphe",
-    "asset_name": "youtube-music-armeabi-v7a-morphe-v9.15.51.apk",
-    "package_id": "app.morphe.android.apps.youtube.music",
-    "version_name": "9.15.51",
-    "sha256": "9c85b1734f3454e668aafa21c6e20c3d3851a6788b1a1427c87c6afa3a225dd8",
-    "play_store_url": "",
-    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/youtube-music-armeabi-v7a-morphe-v9.15.51.apk",
-    "discoverium_file": "../discoverium/app.morphe.android.apps.youtube.music__youtube-music-armeabi-v7a-morphe-v9.15.51.json"
-  },
-  {
-    "app_name": "YT Music Morphe",
     "asset_name": "youtube-music-arm64-v8a-morphe-v9.15.51.apk",
     "package_id": "app.morphe.android.apps.youtube.music",
     "version_name": "9.15.51",
@@ -1128,5 +1118,15 @@
     "play_store_url": "",
     "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/youtube-music-arm64-v8a-morphe-v9.15.51.apk",
     "discoverium_file": "../discoverium/app.morphe.android.apps.youtube.music__youtube-music-arm64-v8a-morphe-v9.15.51.json"
+  },
+  {
+    "app_name": "YT Music Morphe",
+    "asset_name": "youtube-music-armeabi-v7a-morphe-v9.15.51.apk",
+    "package_id": "app.morphe.android.apps.youtube.music",
+    "version_name": "9.15.51",
+    "sha256": "9c85b1734f3454e668aafa21c6e20c3d3851a6788b1a1427c87c6afa3a225dd8",
+    "play_store_url": "",
+    "download_url": "https://github.com/RookieEnough/Morphe-AutoBuilds/releases/download/latest/youtube-music-armeabi-v7a-morphe-v9.15.51.apk",
+    "discoverium_file": "../discoverium/app.morphe.android.apps.youtube.music__youtube-music-armeabi-v7a-morphe-v9.15.51.json"
   }
 ]

@@ -1,562 +1,62 @@
 [
   {
-    "app_name": "AdGuard",
-    "asset_name": "adguard-hoodles-v4.14.1-arm-v7a.apk",
-    "package_id": "com.adguard.android",
-    "version_name": "4.14.1",
-    "sha256": "211ca5d60e9645785ecca1944b811f8ada42c4c3a706856adb1aa4ff8e0128e0",
-    "play_store_url": "",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260141/adguard-hoodles-v4.14.1-arm-v7a.apk",
-    "discoverium_file": "../discoverium/com.adguard.android__adguard-hoodles-v4.14.1-arm-v7a.json"
-  },
-  {
-    "app_name": "AdGuard",
-    "asset_name": "adguard-hoodles-v4.14.1-arm64-v8a.apk",
-    "package_id": "com.adguard.android",
-    "version_name": "4.14.1",
-    "sha256": "f1f07115e4d59f4c4edb7f64ea31ea9878ad6bfc943118958a61cd44c6760087",
-    "play_store_url": "",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260141/adguard-hoodles-v4.14.1-arm64-v8a.apk",
-    "discoverium_file": "../discoverium/com.adguard.android__adguard-hoodles-v4.14.1-arm64-v8a.json"
+    "app_name": "Brave",
+    "asset_name": "brave-browser-kveld9-v1.96.59-arm64-v8a.apk",
+    "package_id": "com.brave.browser",
+    "version_name": "1.96.59",
+    "sha256": "2557b06ee89b9285d01def58d95160514224c5477f46e76e1e81d812054e1c06",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.brave.browser",
+    "download_url": "https://github.com/nullcpy/rvb/releases/download/260147/brave-browser-kveld9-v1.96.59-arm64-v8a.apk",
+    "discoverium_file": "../discoverium/com.brave.browser__brave-browser-kveld9-v1.96.59-arm64-v8a.json"
   },
   {
     "app_name": "Brave",
     "asset_name": "brave-browser-kveld9-v1.96.59-arm-v7a.apk",
     "package_id": "com.brave.browser",
     "version_name": "1.96.59",
-    "sha256": "348c7aea8e81928089acef83f7517de9272e7d6cf290a535831be97517bef34d",
+    "sha256": "8044ba9b55135f493677a06c32de30e8544c7cd194869656c308d7f205d64042",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.brave.browser",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260141/brave-browser-kveld9-v1.96.59-arm-v7a.apk",
+    "download_url": "https://github.com/nullcpy/rvb/releases/download/260147/brave-browser-kveld9-v1.96.59-arm-v7a.apk",
     "discoverium_file": "../discoverium/com.brave.browser__brave-browser-kveld9-v1.96.59-arm-v7a.json"
   },
   {
-    "app_name": "Brave",
-    "asset_name": "brave-browser-kveld9-v1.96.59-arm64-v8a.apk",
-    "package_id": "com.brave.browser",
-    "version_name": "1.96.59",
-    "sha256": "9dc4330c87c4db2d2b97796ca5f7455161aad27ecc655d17aecd6a0bb43dff06",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.brave.browser",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260141/brave-browser-kveld9-v1.96.59-arm64-v8a.apk",
-    "discoverium_file": "../discoverium/com.brave.browser__brave-browser-kveld9-v1.96.59-arm64-v8a.json"
-  },
-  {
-    "app_name": "CamScanner",
-    "asset_name": "camscanner-hoodles-v7.20.0.2606230000-arm64-v8a.apk",
-    "package_id": "com.intsig.camscanner",
-    "version_name": "7.23.5.2608050000",
-    "sha256": "767166271c49af0af3452404aaa90f6ea261969d35566e6c47ac6654c6bcbdc8",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.intsig.camscanner",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260141/camscanner-hoodles-v7.20.0.2606230000-arm64-v8a.apk",
-    "discoverium_file": "../discoverium/com.intsig.camscanner__camscanner-hoodles-v7.20.0.2606230000-arm64-v8a.json"
-  },
-  {
-    "app_name": "CamScanner",
-    "asset_name": "camscanner-hoodles-v7.20.0.2606230000-arm-v7a.apk",
-    "package_id": "com.intsig.camscanner",
-    "version_name": "7.23.5.2608050000",
-    "sha256": "9018d6491e5f6613ccb1f1bdc4ae965e2c56d665fb5669d9d94c4fb21d540743",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.intsig.camscanner",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260141/camscanner-hoodles-v7.20.0.2606230000-arm-v7a.apk",
-    "discoverium_file": "../discoverium/com.intsig.camscanner__camscanner-hoodles-v7.20.0.2606230000-arm-v7a.json"
-  },
-  {
-    "app_name": "Chess",
-    "asset_name": "chess-com-prathxm-v4.10.0-arm-v7a.apk",
-    "package_id": "com.chess",
-    "version_name": "4.10.0-googleplay",
-    "sha256": "9d4bf7e4d16c08600d4ffbd146704160cf0e40c75a9db4bc4c8b35a9403adbb8",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.chess",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260141/chess-com-prathxm-v4.10.0-arm-v7a.apk",
-    "discoverium_file": "../discoverium/com.chess__chess-com-prathxm-v4.10.0-arm-v7a.json"
-  },
-  {
-    "app_name": "Chess",
-    "asset_name": "chess-com-prathxm-v4.10.0-arm64-v8a.apk",
-    "package_id": "com.chess",
-    "version_name": "4.10.0-googleplay",
-    "sha256": "5ad044bfddc5b3ef6e435152c3dc743768ac1ad3b4970e3c17f6ec3dd8b8256d",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.chess",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260141/chess-com-prathxm-v4.10.0-arm64-v8a.apk",
-    "discoverium_file": "../discoverium/com.chess__chess-com-prathxm-v4.10.0-arm64-v8a.json"
-  },
-  {
-    "app_name": "Duolingo",
-    "asset_name": "duolingo-hoodles-v6.98.4-arm-v7a.apk",
-    "package_id": "com.duolingo",
-    "version_name": "6.98.4",
-    "sha256": "cde2d64b54c124c547e100a7787f1f5160c500716ca4d37be53c55558ab300cb",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.duolingo",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260141/duolingo-hoodles-v6.98.4-arm-v7a.apk",
-    "discoverium_file": "../discoverium/com.duolingo__duolingo-hoodles-v6.98.4-arm-v7a.json"
-  },
-  {
-    "app_name": "Duolingo",
-    "asset_name": "duolingo-hoodles-v6.98.4-arm64-v8a.apk",
-    "package_id": "com.duolingo",
-    "version_name": "6.98.4",
-    "sha256": "42613803b8f132b0b096d29a864d566ea844766aac1ac46eec164d5faa2f5445",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.duolingo",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260141/duolingo-hoodles-v6.98.4-arm64-v8a.apk",
-    "discoverium_file": "../discoverium/com.duolingo__duolingo-hoodles-v6.98.4-arm64-v8a.json"
-  },
-  {
-    "app_name": "GitHub",
-    "asset_name": "github-hoodles-v1.271.1-arm-v7a.apk",
-    "package_id": "com.github.android",
-    "version_name": "1.271.1",
-    "sha256": "8f3c7a2f1f00cf60c718aa700f30fa2adaee8770d62b8fbe9228b16f885873fd",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.github.android",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260141/github-hoodles-v1.271.1-arm-v7a.apk",
-    "discoverium_file": "../discoverium/com.github.android__github-hoodles-v1.271.1-arm-v7a.json"
-  },
-  {
-    "app_name": "GitHub",
-    "asset_name": "github-hoodles-v1.271.1-arm64-v8a.apk",
-    "package_id": "com.github.android",
-    "version_name": "1.271.1",
-    "sha256": "2ddb8b080d4b4a6ac81146cb32749d791c6481f0718db3cd40a20c44e83b1684",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.github.android",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260141/github-hoodles-v1.271.1-arm64-v8a.apk",
-    "discoverium_file": "../discoverium/com.github.android__github-hoodles-v1.271.1-arm64-v8a.json"
-  },
-  {
-    "app_name": "Goodreads",
-    "asset_name": "goodreads-hoodles-v2.75.0Build3-arm-v7a.apk",
-    "package_id": "com.goodreads",
-    "version_name": "2.75.0 Build 3",
-    "sha256": "919d7a44228e64d879efc7a4f23f103daf5183535b38745395b04c8f80d5955e",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.goodreads",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260141/goodreads-hoodles-v2.75.0Build3-arm-v7a.apk",
-    "discoverium_file": "../discoverium/com.goodreads__goodreads-hoodles-v2.75.0Build3-arm-v7a.json"
-  },
-  {
-    "app_name": "Goodreads",
-    "asset_name": "goodreads-hoodles-v2.75.0Build3-arm64-v8a.apk",
-    "package_id": "com.goodreads",
-    "version_name": "2.75.0 Build 3",
-    "sha256": "f652b3579a59bfd16398032d5a6277474a8e3862b7d8d9bf4f318729819c918d",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.goodreads",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260141/goodreads-hoodles-v2.75.0Build3-arm64-v8a.apk",
-    "discoverium_file": "../discoverium/com.goodreads__goodreads-hoodles-v2.75.0Build3-arm64-v8a.json"
-  },
-  {
-    "app_name": "HelloChinese",
-    "asset_name": "hellochinese-hoodles-v7.11.0-arm64-v8a.apk",
-    "package_id": "com.hellochinese",
-    "version_name": "7.11.0",
-    "sha256": "143a41184f2e9976d3793c1693eb9c394ba0d8b5c53c49fde96fd01fb742c0ce",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.hellochinese",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260141/hellochinese-hoodles-v7.11.0-arm64-v8a.apk",
-    "discoverium_file": "../discoverium/com.hellochinese__hellochinese-hoodles-v7.11.0-arm64-v8a.json"
-  },
-  {
-    "app_name": "Icon Packer",
-    "asset_name": "icon-packer-hoodles-v1.21.0-release-arm-v7a.apk",
-    "package_id": "cn.ommiao.iconpacker",
-    "version_name": "1.21.0-release",
-    "sha256": "e33a10dd4b5e9d3c787559b1b6a483340fc0f1edabb5ffb862a9521e328def1a",
-    "play_store_url": "https://play.google.com/store/apps/details?id=cn.ommiao.iconpacker",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260141/icon-packer-hoodles-v1.21.0-release-arm-v7a.apk",
-    "discoverium_file": "../discoverium/cn.ommiao.iconpacker__icon-packer-hoodles-v1.21.0-release-arm-v7a.json"
-  },
-  {
-    "app_name": "Icon Packer",
-    "asset_name": "icon-packer-hoodles-v1.21.0-release-arm64-v8a.apk",
-    "package_id": "cn.ommiao.iconpacker",
-    "version_name": "1.21.0-release",
-    "sha256": "f39f6e8787d33bde1dd5bd7fd4c232b851bbc79217bfb9f5e56aa0d615ad1705",
-    "play_store_url": "https://play.google.com/store/apps/details?id=cn.ommiao.iconpacker",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260141/icon-packer-hoodles-v1.21.0-release-arm64-v8a.apk",
-    "discoverium_file": "../discoverium/cn.ommiao.iconpacker__icon-packer-hoodles-v1.21.0-release-arm64-v8a.json"
-  },
-  {
-    "app_name": "Instafel",
-    "asset_name": "instagram-instafel-clone-v449.0.0.52.84-arm64-v8a.apk",
-    "package_id": "com.instafel.android",
-    "version_name": "449.0.0.52.84",
-    "sha256": "ff74f173f29c4d5fd057827db2330b4b6615e837d28d8865dc33cdfccb334540",
-    "play_store_url": "",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260141/instagram-instafel-clone-v449.0.0.52.84-arm64-v8a.apk",
-    "discoverium_file": "../discoverium/com.instafel.android__instagram-instafel-clone-v449.0.0.52.84-arm64-v8a.json"
-  },
-  {
-    "app_name": "Instafel",
-    "asset_name": "instagram-instafel-clone-v449.0.0.52.84-arm-v7a.apk",
-    "package_id": "com.instafel.android",
-    "version_name": "449.0.0.52.84",
-    "sha256": "92aed475cf0214e61e85bd778252c27a1955593002809e53c48d739b71208413",
-    "play_store_url": "",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260141/instagram-instafel-clone-v449.0.0.52.84-arm-v7a.apk",
-    "discoverium_file": "../discoverium/com.instafel.android__instagram-instafel-clone-v449.0.0.52.84-arm-v7a.json"
-  },
-  {
-    "app_name": "Instagram",
-    "asset_name": "instagram-instafel-v449.0.0.52.84-arm64-v8a.apk",
-    "package_id": "com.instagram.android",
-    "version_name": "449.0.0.52.84",
-    "sha256": "35927c844231fbebd8f7844aca44578388a510afaff5773f6a0bce954b5cc164",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.instagram.android",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260141/instagram-instafel-v449.0.0.52.84-arm64-v8a.apk",
-    "discoverium_file": "../discoverium/com.instagram.android__instagram-instafel-v449.0.0.52.84-arm64-v8a.json"
-  },
-  {
-    "app_name": "Instagram",
-    "asset_name": "instagram-instafel-v449.0.0.52.84-arm-v7a.apk",
-    "package_id": "com.instagram.android",
-    "version_name": "449.0.0.52.84",
-    "sha256": "b0f05378b7e95f93d998f41548ec2474a9b68948eee8e7978e40c7b56910a309",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.instagram.android",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260141/instagram-instafel-v449.0.0.52.84-arm-v7a.apk",
-    "discoverium_file": "../discoverium/com.instagram.android__instagram-instafel-v449.0.0.52.84-arm-v7a.json"
-  },
-  {
-    "app_name": "Lightroom",
-    "asset_name": "adobe-lightroom-hoodles-v11.5.31-arm64-v8a.apk",
-    "package_id": "com.adobe.lrmobile",
-    "version_name": "11.5.31",
-    "sha256": "059b262dd4377d89b330c268b9add0178f8625e6f3b4b12a22dc06e458a028a7",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.adobe.lrmobile",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260141/adobe-lightroom-hoodles-v11.5.31-arm64-v8a.apk",
-    "discoverium_file": "../discoverium/com.adobe.lrmobile__adobe-lightroom-hoodles-v11.5.31-arm64-v8a.json"
-  },
-  {
-    "app_name": "Merriam-Webster Dictionary",
-    "asset_name": "merriam-webster-dictionary-hoodles-v5.6.2-arm-v7a.apk",
-    "package_id": "com.merriamwebster",
-    "version_name": "5.6.2",
-    "sha256": "ee8b7d4ccaae1b0a6bc40a17fef74920e8cdfc5a234ce014401a81bbd9752f9b",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.merriamwebster",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260141/merriam-webster-dictionary-hoodles-v5.6.2-arm-v7a.apk",
-    "discoverium_file": "../discoverium/com.merriamwebster__merriam-webster-dictionary-hoodles-v5.6.2-arm-v7a.json"
-  },
-  {
-    "app_name": "Merriam-Webster Dictionary",
-    "asset_name": "merriam-webster-dictionary-hoodles-v5.6.2-arm64-v8a.apk",
-    "package_id": "com.merriamwebster",
-    "version_name": "5.6.2",
-    "sha256": "25c5bdc08952eb222631e068a868074f6c01406a1dc9924beb7fc60c0fe20929",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.merriamwebster",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260141/merriam-webster-dictionary-hoodles-v5.6.2-arm64-v8a.apk",
-    "discoverium_file": "../discoverium/com.merriamwebster__merriam-webster-dictionary-hoodles-v5.6.2-arm64-v8a.json"
-  },
-  {
-    "app_name": "MyFitnessPal",
-    "asset_name": "myfitnesspal-hoodles-v26.31.0-arm-v7a.apk",
-    "package_id": "com.myfitnesspal.android",
-    "version_name": "26.31.0",
-    "sha256": "1bd21258ea1b3bd4c48d9db72ee8fa426cb35518f8cb1907af9969fdcb6fa3d4",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.myfitnesspal.android",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260141/myfitnesspal-hoodles-v26.31.0-arm-v7a.apk",
-    "discoverium_file": "../discoverium/com.myfitnesspal.android__myfitnesspal-hoodles-v26.31.0-arm-v7a.json"
-  },
-  {
-    "app_name": "MyFitnessPal",
-    "asset_name": "myfitnesspal-hoodles-v26.31.0-arm64-v8a.apk",
-    "package_id": "com.myfitnesspal.android",
-    "version_name": "26.31.0",
-    "sha256": "5c41081d08292971ec6d15ce735143891fc3024bd8d28d1eba9b08f31ff70e61",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.myfitnesspal.android",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260141/myfitnesspal-hoodles-v26.31.0-arm64-v8a.apk",
-    "discoverium_file": "../discoverium/com.myfitnesspal.android__myfitnesspal-hoodles-v26.31.0-arm64-v8a.json"
-  },
-  {
-    "app_name": "Nova Launcher",
-    "asset_name": "nova-launcher-hoodles-v88600-arm64-v8a.apk",
-    "package_id": "com.teslacoilsw.launcher",
-    "version_name": "88600 (8.8.6)",
-    "sha256": "33edb39eb5404592dada94240857f5e5ffce573e8c48b45edf77ec906ca352a4",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260141/nova-launcher-hoodles-v88600-arm64-v8a.apk",
-    "discoverium_file": "../discoverium/com.teslacoilsw.launcher__nova-launcher-hoodles-v88600-arm64-v8a.json"
-  },
-  {
-    "app_name": "Nova Launcher",
-    "asset_name": "nova-launcher-hoodles-v88600-arm-v7a.apk",
-    "package_id": "com.teslacoilsw.launcher",
-    "version_name": "88600 (8.8.6)",
-    "sha256": "e2def96901b1b7223406247a82afc4c96241afa0e23f81df4111f5990e691d7a",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260141/nova-launcher-hoodles-v88600-arm-v7a.apk",
-    "discoverium_file": "../discoverium/com.teslacoilsw.launcher__nova-launcher-hoodles-v88600-arm-v7a.json"
-  },
-  {
-    "app_name": "Pandora",
-    "asset_name": "pandora-hoodles-v2609.2-arm-v7a.apk",
-    "package_id": "com.pandora.android",
-    "version_name": "2609.2",
-    "sha256": "2421bb73d18d879254a9459134815b08cc8aeeb8c19b82496b539f66c57c933a",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.pandora.android",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260141/pandora-hoodles-v2609.2-arm-v7a.apk",
-    "discoverium_file": "../discoverium/com.pandora.android__pandora-hoodles-v2609.2-arm-v7a.json"
-  },
-  {
-    "app_name": "Pandora",
-    "asset_name": "pandora-hoodles-v2609.2-arm64-v8a.apk",
-    "package_id": "com.pandora.android",
-    "version_name": "2609.2",
-    "sha256": "7a6257fd77bc7ea1c9fa7c9a0fd5500b13de76d410ae7ac12e57b7c10cadb811",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.pandora.android",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260141/pandora-hoodles-v2609.2-arm64-v8a.apk",
-    "discoverium_file": "../discoverium/com.pandora.android__pandora-hoodles-v2609.2-arm64-v8a.json"
-  },
-  {
-    "app_name": "pixiv",
-    "asset_name": "pixiv-fripe070-v6.196.0-arm-v7a.apk",
-    "package_id": "jp.pxv.android",
-    "version_name": "6.196.0",
-    "sha256": "f27f6b833aba7c9a519732fd018ba2a07341abe8a71a018f34600e3244d90715",
-    "play_store_url": "https://play.google.com/store/apps/details?id=jp.pxv.android",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260141/pixiv-fripe070-v6.196.0-arm-v7a.apk",
-    "discoverium_file": "../discoverium/jp.pxv.android__pixiv-fripe070-v6.196.0-arm-v7a.json"
-  },
-  {
-    "app_name": "pixiv",
-    "asset_name": "pixiv-fripe070-v6.196.0-arm64-v8a.apk",
-    "package_id": "jp.pxv.android",
-    "version_name": "6.196.0",
-    "sha256": "8de1df7007469226b65d0a748cdc8f44161118f627bcae9c1c28cd420c579c35",
-    "play_store_url": "https://play.google.com/store/apps/details?id=jp.pxv.android",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260141/pixiv-fripe070-v6.196.0-arm64-v8a.apk",
-    "discoverium_file": "../discoverium/jp.pxv.android__pixiv-fripe070-v6.196.0-arm64-v8a.json"
-  },
-  {
-    "app_name": "Podcast Addict",
-    "asset_name": "podcast-addict-hoodles-v2026.10.1-arm-v7a.apk",
-    "package_id": "com.bambuna.podcastaddict",
-    "version_name": "2026.10.1",
-    "sha256": "993ab8a57604d5fd92a8dfda70513506051d5bb53b9c284102ee6231a23e9282",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.bambuna.podcastaddict",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260141/podcast-addict-hoodles-v2026.10.1-arm-v7a.apk",
-    "discoverium_file": "../discoverium/com.bambuna.podcastaddict__podcast-addict-hoodles-v2026.10.1-arm-v7a.json"
-  },
-  {
-    "app_name": "Podcast Addict",
-    "asset_name": "podcast-addict-hoodles-v2026.10.1-arm64-v8a.apk",
-    "package_id": "com.bambuna.podcastaddict",
-    "version_name": "2026.10.1",
-    "sha256": "8feed5015c5958c8744a47f64b981da500185ed034a81f52f30c3b1746771d75",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.bambuna.podcastaddict",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260141/podcast-addict-hoodles-v2026.10.1-arm64-v8a.apk",
-    "discoverium_file": "../discoverium/com.bambuna.podcastaddict__podcast-addict-hoodles-v2026.10.1-arm64-v8a.json"
-  },
-  {
-    "app_name": "Prime Video",
-    "asset_name": "prime-video-hoodles-v3.0.470.1047-arm-v7a.apk",
-    "package_id": "com.amazon.avod.thirdpartyclient",
-    "version_name": "3.0.470.1047",
-    "sha256": "fd4fe2ce9553bfcb531abb58e2630cd2f1565752c0ae80ba3913465a90c78494",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.amazon.avod.thirdpartyclient",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260141/prime-video-hoodles-v3.0.470.1047-arm-v7a.apk",
-    "discoverium_file": "../discoverium/com.amazon.avod.thirdpartyclient__prime-video-hoodles-v3.0.470.1047-arm-v7a.json"
-  },
-  {
-    "app_name": "Prime Video",
-    "asset_name": "prime-video-hoodles-v3.0.470.1047-arm64-v8a.apk",
-    "package_id": "com.amazon.avod.thirdpartyclient",
-    "version_name": "3.0.470.1047",
-    "sha256": "c4ef12a9474e20ce395e7a6d24532a9ac1bb76c897672c6f9340d0dcef20af57",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.amazon.avod.thirdpartyclient",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260141/prime-video-hoodles-v3.0.470.1047-arm64-v8a.apk",
-    "discoverium_file": "../discoverium/com.amazon.avod.thirdpartyclient__prime-video-hoodles-v3.0.470.1047-arm64-v8a.json"
-  },
-  {
-    "app_name": "Proton VPN",
-    "asset_name": "proton-vpn-hoodles-v5.19.43.0-arm64-v8a.apk",
-    "package_id": "ch.protonvpn.android",
-    "version_name": "5.19.43.0",
-    "sha256": "795f0827b3c1806dbd142224dcfbe123891b8d08947b0d5a6922c31007ea11fb",
-    "play_store_url": "https://play.google.com/store/apps/details?id=ch.protonvpn.android",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260141/proton-vpn-hoodles-v5.19.43.0-arm64-v8a.apk",
-    "discoverium_file": "../discoverium/ch.protonvpn.android__proton-vpn-hoodles-v5.19.43.0-arm64-v8a.json"
-  },
-  {
-    "app_name": "Proton VPN",
-    "asset_name": "proton-vpn-hoodles-v5.19.43.0-arm-v7a.apk",
-    "package_id": "ch.protonvpn.android",
-    "version_name": "5.19.43.0",
-    "sha256": "29bef8f43b16a5bc2946cc0137963335108906e62ba6c48c8b99a4e9f5b55845",
-    "play_store_url": "https://play.google.com/store/apps/details?id=ch.protonvpn.android",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260141/proton-vpn-hoodles-v5.19.43.0-arm-v7a.apk",
-    "discoverium_file": "../discoverium/ch.protonvpn.android__proton-vpn-hoodles-v5.19.43.0-arm-v7a.json"
-  },
-  {
-    "app_name": "Smart Launcher",
-    "asset_name": "smart-launcher-6-hoodles-v6.6build020-arm-v7a.apk",
-    "package_id": "ginlemon.flowerfree",
-    "version_name": "6.6 build 020",
-    "sha256": "156b1f2f34f798b50ef0981631ecb832b692cb30e301759461ba2826b84145e4",
-    "play_store_url": "https://play.google.com/store/apps/details?id=ginlemon.flowerfree",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260141/smart-launcher-6-hoodles-v6.6build020-arm-v7a.apk",
-    "discoverium_file": "../discoverium/ginlemon.flowerfree__smart-launcher-6-hoodles-v6.6build020-arm-v7a.json"
-  },
-  {
-    "app_name": "Smart Launcher",
-    "asset_name": "smart-launcher-6-hoodles-v6.6build020-arm64-v8a.apk",
-    "package_id": "ginlemon.flowerfree",
-    "version_name": "6.6 build 020",
-    "sha256": "df89a36a1e29bcaa4e62eeb119733eeca8e49d34ecc03b7eee45c02ff0b6efe8",
-    "play_store_url": "https://play.google.com/store/apps/details?id=ginlemon.flowerfree",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260141/smart-launcher-6-hoodles-v6.6build020-arm64-v8a.apk",
-    "discoverium_file": "../discoverium/ginlemon.flowerfree__smart-launcher-6-hoodles-v6.6build020-arm64-v8a.json"
-  },
-  {
-    "app_name": "Solid Explorer",
-    "asset_name": "solid-explorer-hoodles-v3.6.1-arm64-v8a.apk",
-    "package_id": "pl.solidexplorer2",
-    "version_name": "3.6.1",
-    "sha256": "17b72e90b962c0cfbe471275b966bc8c15c75283bfc03a04e52239e19f58fbf9",
-    "play_store_url": "https://play.google.com/store/apps/details?id=pl.solidexplorer2",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260141/solid-explorer-hoodles-v3.6.1-arm64-v8a.apk",
-    "discoverium_file": "../discoverium/pl.solidexplorer2__solid-explorer-hoodles-v3.6.1-arm64-v8a.json"
-  },
-  {
-    "app_name": "Solid Explorer",
-    "asset_name": "solid-explorer-hoodles-v3.6.1-arm-v7a.apk",
-    "package_id": "pl.solidexplorer2",
-    "version_name": "3.6.1",
-    "sha256": "1ca76dfe29d5f8dad2acc297cf089d46bf022f77c39beab0e5373039c6b3d167",
-    "play_store_url": "https://play.google.com/store/apps/details?id=pl.solidexplorer2",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260141/solid-explorer-hoodles-v3.6.1-arm-v7a.apk",
-    "discoverium_file": "../discoverium/pl.solidexplorer2__solid-explorer-hoodles-v3.6.1-arm-v7a.json"
-  },
-  {
-    "app_name": "SoundCloud",
-    "asset_name": "soundcloud-hoodles-v2026.08.26-release-arm-v7a.apk",
-    "package_id": "com.soundcloud.android",
-    "version_name": "2026.08.26-release",
-    "sha256": "873b1564a9555014c024ba71ab4fe95e17534ea559d2576ab053c67dbfe9e26a",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.soundcloud.android",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260141/soundcloud-hoodles-v2026.08.26-release-arm-v7a.apk",
-    "discoverium_file": "../discoverium/com.soundcloud.android__soundcloud-hoodles-v2026.08.26-release-arm-v7a.json"
-  },
-  {
-    "app_name": "SoundCloud",
-    "asset_name": "soundcloud-hoodles-v2026.08.26-release-arm64-v8a.apk",
-    "package_id": "com.soundcloud.android",
-    "version_name": "2026.08.26-release",
-    "sha256": "bac89ccaa3f6db13cc0a6919a7f5e28d2b5b0bce77202b716350a50ccc1961f4",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.soundcloud.android",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260141/soundcloud-hoodles-v2026.08.26-release-arm64-v8a.apk",
-    "discoverium_file": "../discoverium/com.soundcloud.android__soundcloud-hoodles-v2026.08.26-release-arm64-v8a.json"
+    "app_name": "Peacock TV",
+    "asset_name": "peacock-ajstrick81-android-tv-v7.10.102-all.apk",
+    "package_id": "com.peacocktv.peacockandroid",
+    "version_name": "7.10.102",
+    "sha256": "af6798e29dbcceb7757765055722a227d1f465d2ed26eb53060f2d16ad86569a",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.peacocktv.peacockandroid",
+    "download_url": "https://github.com/nullcpy/rvb/releases/download/260147/peacock-ajstrick81-android-tv-v7.10.102-all.apk",
+    "discoverium_file": "../discoverium/com.peacocktv.peacockandroid__peacock-ajstrick81-android-tv-v7.10.102-all.json"
   },
   {
     "app_name": "TikTok",
-    "asset_name": "tiktok-kveld9-v47.1.3-arm64-v8a.apk",
+    "asset_name": "tiktok-kveld9-v47.1.4-arm64-v8a.apk",
     "package_id": "com.zhiliaoapp.musically",
-    "version_name": "47.1.3",
-    "sha256": "45051a02dde7dab1ac9539fb8a001d04e2c0de37d3132730d82fa10b6929dcca",
+    "version_name": "47.1.4",
+    "sha256": "b457bd102a70259878522bc0f34f6e71c7841a3e87922e3919110e151e59237a",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260141/tiktok-kveld9-v47.1.3-arm64-v8a.apk",
-    "discoverium_file": "../discoverium/com.zhiliaoapp.musically__tiktok-kveld9-v47.1.3-arm64-v8a.json"
+    "download_url": "https://github.com/nullcpy/rvb/releases/download/260147/tiktok-kveld9-v47.1.4-arm64-v8a.apk",
+    "discoverium_file": "../discoverium/com.zhiliaoapp.musically__tiktok-kveld9-v47.1.4-arm64-v8a.json"
   },
   {
     "app_name": "TikTok",
-    "asset_name": "tiktok-kveld9-v47.1.3-arm-v7a.apk",
+    "asset_name": "tiktok-kveld9-v47.1.4-arm-v7a.apk",
     "package_id": "com.zhiliaoapp.musically",
-    "version_name": "47.1.3",
-    "sha256": "65cff46ce8ba313659928a284b320159dde8ce50fecd11db837bab9e73ef1790",
+    "version_name": "47.1.4",
+    "sha256": "175f37421c7535eeea0c7c2cf1f438f7f550e593683e8fe7827ffb61e78c3f63",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260141/tiktok-kveld9-v47.1.3-arm-v7a.apk",
-    "discoverium_file": "../discoverium/com.zhiliaoapp.musically__tiktok-kveld9-v47.1.3-arm-v7a.json"
+    "download_url": "https://github.com/nullcpy/rvb/releases/download/260147/tiktok-kveld9-v47.1.4-arm-v7a.apk",
+    "discoverium_file": "../discoverium/com.zhiliaoapp.musically__tiktok-kveld9-v47.1.4-arm-v7a.json"
   },
   {
-    "app_name": "Ventusky",
-    "asset_name": "ventusky-hoodles-v53.1-arm-v7a.apk",
-    "package_id": "cz.ackee.ventusky",
-    "version_name": "53.1",
-    "sha256": "f72cf381cfe8cab98fb284cf8a39121364c594b1795bf63f6bbd7713596abc51",
-    "play_store_url": "https://play.google.com/store/apps/details?id=cz.ackee.ventusky",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260141/ventusky-hoodles-v53.1-arm-v7a.apk",
-    "discoverium_file": "../discoverium/cz.ackee.ventusky__ventusky-hoodles-v53.1-arm-v7a.json"
-  },
-  {
-    "app_name": "Ventusky",
-    "asset_name": "ventusky-hoodles-v53.1-arm64-v8a.apk",
-    "package_id": "cz.ackee.ventusky",
-    "version_name": "53.1",
-    "sha256": "a94b66ae6dbf75e61dfb897cb024bc5a3c3a5a09762f1508aaccaed241b66665",
-    "play_store_url": "https://play.google.com/store/apps/details?id=cz.ackee.ventusky",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260141/ventusky-hoodles-v53.1-arm64-v8a.apk",
-    "discoverium_file": "../discoverium/cz.ackee.ventusky__ventusky-hoodles-v53.1-arm64-v8a.json"
-  },
-  {
-    "app_name": "Wallcraft",
-    "asset_name": "wallcraft-hoodles-v3.61.01-arm64-v8a.apk",
-    "package_id": "com.wallpaperscraft.wallpaper",
-    "version_name": "3.61.01",
-    "sha256": "58c8357c1e35c9b8e36bc2d15e27fa527b74654e8ba52cfff2b2e5b4e92bf223",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.wallpaperscraft.wallpaper",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260141/wallcraft-hoodles-v3.61.01-arm64-v8a.apk",
-    "discoverium_file": "../discoverium/com.wallpaperscraft.wallpaper__wallcraft-hoodles-v3.61.01-arm64-v8a.json"
-  },
-  {
-    "app_name": "Wallcraft",
-    "asset_name": "wallcraft-hoodles-v3.61.01-arm-v7a.apk",
-    "package_id": "com.wallpaperscraft.wallpaper",
-    "version_name": "3.61.01",
-    "sha256": "b72f841a5a758c887e439376de96c4066675273514ca3792ca220eee11e1569a",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.wallpaperscraft.wallpaper",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260141/wallcraft-hoodles-v3.61.01-arm-v7a.apk",
-    "discoverium_file": "../discoverium/com.wallpaperscraft.wallpaper__wallcraft-hoodles-v3.61.01-arm-v7a.json"
-  },
-  {
-    "app_name": "WPS Office",
-    "asset_name": "wps-office-hoodles-v18.24-arm-v7a.apk",
-    "package_id": "cn.wps.moffice_eng",
-    "version_name": "18.24",
-    "sha256": "9f22eb0368a55482ee90ebd9606f2b3bc6fb8d39e68f697ffba47301bc5b6444",
-    "play_store_url": "https://play.google.com/store/apps/details?id=cn.wps.moffice_eng",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260141/wps-office-hoodles-v18.24-arm-v7a.apk",
-    "discoverium_file": "../discoverium/cn.wps.moffice_eng__wps-office-hoodles-v18.24-arm-v7a.json"
-  },
-  {
-    "app_name": "WPS Office",
-    "asset_name": "wps-office-hoodles-v18.24-arm64-v8a.apk",
-    "package_id": "cn.wps.moffice_eng",
-    "version_name": "18.24",
-    "sha256": "d74c96f352024c0d388a3a92a202899c35a5cd541518d463833d7dde91f03800",
-    "play_store_url": "https://play.google.com/store/apps/details?id=cn.wps.moffice_eng",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260141/wps-office-hoodles-v18.24-arm64-v8a.apk",
-    "discoverium_file": "../discoverium/cn.wps.moffice_eng__wps-office-hoodles-v18.24-arm64-v8a.json"
-  },
-  {
-    "app_name": "Xodo",
-    "asset_name": "xodo-hoodles-v11.2.0-arm-v7a.apk",
-    "package_id": "com.xodo.pdf.reader",
-    "version_name": "11.2.0",
-    "sha256": "5decff09d2ef899a0464b3e871bff1d5748313019f8965b2832f73704f4d3c57",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.xodo.pdf.reader",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260141/xodo-hoodles-v11.2.0-arm-v7a.apk",
-    "discoverium_file": "../discoverium/com.xodo.pdf.reader__xodo-hoodles-v11.2.0-arm-v7a.json"
-  },
-  {
-    "app_name": "Xodo",
-    "asset_name": "xodo-hoodles-v11.2.0-arm64-v8a.apk",
-    "package_id": "com.xodo.pdf.reader",
-    "version_name": "11.2.0",
-    "sha256": "e27949a6882d27320d8fcd2954216b9d6151df1ff9444b6b6b6fa12735e898c6",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.xodo.pdf.reader",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260141/xodo-hoodles-v11.2.0-arm64-v8a.apk",
-    "discoverium_file": "../discoverium/com.xodo.pdf.reader__xodo-hoodles-v11.2.0-arm64-v8a.json"
-  },
-  {
-    "app_name": "XRecorder",
-    "asset_name": "xrecorder-hoodles-v2.5.1.1-arm-v7a.apk",
-    "package_id": "videoeditor.videorecorder.screenrecorder",
-    "version_name": "2.5.1.1",
-    "sha256": "b42688c87055d6dfaa8ea0cdf6dc026c65282ecd8641eca65b4552eef4dbc043",
-    "play_store_url": "https://play.google.com/store/apps/details?id=videoeditor.videorecorder.screenrecorder",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260141/xrecorder-hoodles-v2.5.1.1-arm-v7a.apk",
-    "discoverium_file": "../discoverium/videoeditor.videorecorder.screenrecorder__xrecorder-hoodles-v2.5.1.1-arm-v7a.json"
-  },
-  {
-    "app_name": "XRecorder",
-    "asset_name": "xrecorder-hoodles-v2.5.1.1-arm64-v8a.apk",
-    "package_id": "videoeditor.videorecorder.screenrecorder",
-    "version_name": "2.5.1.1",
-    "sha256": "8fb53eec4a5b3072139e59fb6df31e00fd65041c551464ffc2e3212afcdfa6d0",
-    "play_store_url": "https://play.google.com/store/apps/details?id=videoeditor.videorecorder.screenrecorder",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260141/xrecorder-hoodles-v2.5.1.1-arm64-v8a.apk",
-    "discoverium_file": "../discoverium/videoeditor.videorecorder.screenrecorder__xrecorder-hoodles-v2.5.1.1-arm64-v8a.json"
+    "app_name": "Tubi",
+    "asset_name": "tubi-ajstrick81-android-tv-v10.36.5000-all.apk",
+    "package_id": "com.tubitv",
+    "version_name": "10.36.5000",
+    "sha256": "f521f222f395d3118b1aeaa1c553d636dbbec7ed9056a6e863f138a70dc27053",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.tubitv",
+    "download_url": "https://github.com/nullcpy/rvb/releases/download/260147/tubi-ajstrick81-android-tv-v10.36.5000-all.apk",
+    "discoverium_file": "../discoverium/com.tubitv__tubi-ajstrick81-android-tv-v10.36.5000-all.json"
   }
 ]
