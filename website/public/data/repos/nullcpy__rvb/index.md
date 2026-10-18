@@ -4,14 +4,14 @@ Release source: `latest`
 
 | App | Package ID | Asset Filename | Version | Play Store | Config  |
 |---|---|---|---|---|---|
-| **My Expenses** | org.totschnig.myexpenses | my-expenses-hoodles-v4.1.1.2-arm-v7a.apk | 4.1.1.2 | [Play Store](https://play.google.com/store/apps/details?id=org.totschnig.myexpenses) | [JSON Config](./discoverium/org.totschnig.myexpenses__my-expenses-hoodles-v4.1.1.2-arm-v7a.json) |
-| **My Expenses** | org.totschnig.myexpenses | my-expenses-hoodles-v4.1.1.2-arm64-v8a.apk | 4.1.1.2 | [Play Store](https://play.google.com/store/apps/details?id=org.totschnig.myexpenses) | [JSON Config](./discoverium/org.totschnig.myexpenses__my-expenses-hoodles-v4.1.1.2-arm64-v8a.json) |
+| **Telegram** | org.telegram.messenger | telegram-hushtelegram-google-play-v13.0.3-arm64-v8a.apk | 13.0.3 | [Play Store](https://play.google.com/store/apps/details?id=org.telegram.messenger) | [JSON Config](./discoverium/org.telegram.messenger__telegram-hushtelegram-google-play-v13.0.3-arm64-v8a.json) |
+| **Telegram** | org.telegram.messenger | telegram-hushtelegram-google-play-v13.0.3-arm-v7a.apk | 13.0.3 | [Play Store](https://play.google.com/store/apps/details?id=org.telegram.messenger) | [JSON Config](./discoverium/org.telegram.messenger__telegram-hushtelegram-google-play-v13.0.3-arm-v7a.json) |
 
 ## SHA256
 
-- **my-expenses-hoodles-v4.1.1.2-arm-v7a.apk**
-  - `eefb7169e25897c31b748a1aa28aa1fa6a5d9f844714d1403106f3832ad6a767`
-- **my-expenses-hoodles-v4.1.1.2-arm64-v8a.apk**
-  - `017b52d2acc1034dbb3ee4510cb7acfe23c6e9d011f245325e05bda982fb571d`
+- **telegram-hushtelegram-google-play-v13.0.3-arm64-v8a.apk**
+  - `6325849f3590b3b75678ef2215177b67fdd206ad7e1b89ed0ca64534b01f0ec8`
+- **telegram-hushtelegram-google-play-v13.0.3-arm-v7a.apk**
+  - `0a7a813d1749ea28c5e15466bc47ff4209762d2d5dbda622be4d121935b0f629`
 
 _Automatically generated from GitHub APK release assets with package IDs, SHA256 hashes, and Discoverium import links._
