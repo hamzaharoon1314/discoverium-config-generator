@@ -4,14 +4,20 @@ Release source: `latest`
 
 | App | Package ID | Asset Filename | Version | Play Store | Config  |
 |---|---|---|---|---|---|
-| **Telegram** | org.telegram.messenger | telegram-hushtelegram-google-play-v13.0.3-arm64-v8a.apk | 13.0.3 | [Play Store](https://play.google.com/store/apps/details?id=org.telegram.messenger) | [JSON Config](./discoverium/org.telegram.messenger__telegram-hushtelegram-google-play-v13.0.3-arm64-v8a.json) |
-| **Telegram** | org.telegram.messenger | telegram-hushtelegram-google-play-v13.0.3-arm-v7a.apk | 13.0.3 | [Play Store](https://play.google.com/store/apps/details?id=org.telegram.messenger) | [JSON Config](./discoverium/org.telegram.messenger__telegram-hushtelegram-google-play-v13.0.3-arm-v7a.json) |
+| **Facebook** | com.facebook.katana | facebook-hushfacebook-v583.0.0.39.55-arm-v7a.apk | 583.0.0.39.55 | [Play Store](https://play.google.com/store/apps/details?id=com.facebook.katana) | [JSON Config](./discoverium/com.facebook.katana__facebook-hushfacebook-v583.0.0.39.55-arm-v7a.json) |
+| **Facebook** | com.facebook.katana | facebook-hushfacebook-v583.0.0.39.55-arm64-v8a.apk | 583.0.0.39.55 | [Play Store](https://play.google.com/store/apps/details?id=com.facebook.katana) | [JSON Config](./discoverium/com.facebook.katana__facebook-hushfacebook-v583.0.0.39.55-arm64-v8a.json) |
+| **Instagram** | com.instagram.android | instagram-hushgram-v451.0.0.53.80-arm64-v8a.apk | 451.0.0.53.80 | [Play Store](https://play.google.com/store/apps/details?id=com.instagram.android) | [JSON Config](./discoverium/com.instagram.android__instagram-hushgram-v451.0.0.53.80-arm64-v8a.json) |
+| **Instagram Clone** | com.instagram.android.hush | instagram-hushgram-clone-v451.0.0.53.80-arm64-v8a.apk | 451.0.0.53.80 | N/A | [JSON Config](./discoverium/com.instagram.android.hush__instagram-hushgram-clone-v451.0.0.53.80-arm64-v8a.json) |
 
 ## SHA256
 
-- **telegram-hushtelegram-google-play-v13.0.3-arm64-v8a.apk**
-  - `6325849f3590b3b75678ef2215177b67fdd206ad7e1b89ed0ca64534b01f0ec8`
-- **telegram-hushtelegram-google-play-v13.0.3-arm-v7a.apk**
-  - `0a7a813d1749ea28c5e15466bc47ff4209762d2d5dbda622be4d121935b0f629`
+- **facebook-hushfacebook-v583.0.0.39.55-arm-v7a.apk**
+  - `9181aacfa5d7784cb0a5ef79c51dffcfdfeae29889b2335292b0606b03c432e8`
+- **facebook-hushfacebook-v583.0.0.39.55-arm64-v8a.apk**
+  - `41c688243e8d1afe483c4b3410112cd11fa4a83dc9dc5ed58da3e6ffd87ba195`
+- **instagram-hushgram-v451.0.0.53.80-arm64-v8a.apk**
+  - `f8d556efddb9f10164188beec8a51a08247d7a5bf113684ab2bd2455ebcc12da`
+- **instagram-hushgram-clone-v451.0.0.53.80-arm64-v8a.apk**
+  - `f4606a4fed2ad990c8112de8014b35d39c4d386f1f45d0d41465ff63a457b215`
 
 _Automatically generated from GitHub APK release assets with package IDs, SHA256 hashes, and Discoverium import links._
