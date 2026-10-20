@@ -4,20 +4,26 @@ Release source: `latest`
 
 | App | Package ID | Asset Filename | Version | Play Store | Config  |
 |---|---|---|---|---|---|
-| **Facebook** | com.facebook.katana | facebook-hushfacebook-v583.0.0.39.55-arm-v7a.apk | 583.0.0.39.55 | [Play Store](https://play.google.com/store/apps/details?id=com.facebook.katana) | [JSON Config](./discoverium/com.facebook.katana__facebook-hushfacebook-v583.0.0.39.55-arm-v7a.json) |
-| **Facebook** | com.facebook.katana | facebook-hushfacebook-v583.0.0.39.55-arm64-v8a.apk | 583.0.0.39.55 | [Play Store](https://play.google.com/store/apps/details?id=com.facebook.katana) | [JSON Config](./discoverium/com.facebook.katana__facebook-hushfacebook-v583.0.0.39.55-arm64-v8a.json) |
-| **Instagram** | com.instagram.android | instagram-hushgram-v451.0.0.53.80-arm64-v8a.apk | 451.0.0.53.80 | [Play Store](https://play.google.com/store/apps/details?id=com.instagram.android) | [JSON Config](./discoverium/com.instagram.android__instagram-hushgram-v451.0.0.53.80-arm64-v8a.json) |
-| **Instagram Clone** | com.instagram.android.hush | instagram-hushgram-clone-v451.0.0.53.80-arm64-v8a.apk | 451.0.0.53.80 | N/A | [JSON Config](./discoverium/com.instagram.android.hush__instagram-hushgram-clone-v451.0.0.53.80-arm64-v8a.json) |
+| **Proton Pass** | proton.android.pass | proton-pass-hxreborn-v1.41.4-arm-v7a.apk | 1.41.4 | [Play Store](https://play.google.com/store/apps/details?id=proton.android.pass) | [JSON Config](./discoverium/proton.android.pass__proton-pass-hxreborn-v1.41.4-arm-v7a.json) |
+| **Proton Pass** | proton.android.pass | proton-pass-hxreborn-v1.41.4-arm64-v8a.apk | 1.41.4 | [Play Store](https://play.google.com/store/apps/details?id=proton.android.pass) | [JSON Config](./discoverium/proton.android.pass__proton-pass-hxreborn-v1.41.4-arm64-v8a.json) |
+| **Proton VPN** | ch.protonvpn.android | proton-vpn-hxreborn-v5.20.74.0-arm-v7a.apk | 5.20.74.0 | [Play Store](https://play.google.com/store/apps/details?id=ch.protonvpn.android) | [JSON Config](./discoverium/ch.protonvpn.android__proton-vpn-hxreborn-v5.20.74.0-arm-v7a.json) |
+| **Proton VPN** | ch.protonvpn.android | proton-vpn-hxreborn-v5.20.74.0-arm64-v8a.apk | 5.20.74.0 | [Play Store](https://play.google.com/store/apps/details?id=ch.protonvpn.android) | [JSON Config](./discoverium/ch.protonvpn.android__proton-vpn-hxreborn-v5.20.74.0-arm64-v8a.json) |
+| **TeraBox** | com.dubox.drive | terabox-hxreborn-v4.26.5-arm-v7a.apk | 4.26.5 | [Play Store](https://play.google.com/store/apps/details?id=com.dubox.drive) | [JSON Config](./discoverium/com.dubox.drive__terabox-hxreborn-v4.26.5-arm-v7a.json) |
+| **TeraBox** | com.dubox.drive | terabox-hxreborn-v4.26.5-arm64-v8a.apk | 4.26.5 | [Play Store](https://play.google.com/store/apps/details?id=com.dubox.drive) | [JSON Config](./discoverium/com.dubox.drive__terabox-hxreborn-v4.26.5-arm64-v8a.json) |
 
 ## SHA256
 
-- **facebook-hushfacebook-v583.0.0.39.55-arm-v7a.apk**
-  - `9181aacfa5d7784cb0a5ef79c51dffcfdfeae29889b2335292b0606b03c432e8`
-- **facebook-hushfacebook-v583.0.0.39.55-arm64-v8a.apk**
-  - `41c688243e8d1afe483c4b3410112cd11fa4a83dc9dc5ed58da3e6ffd87ba195`
-- **instagram-hushgram-v451.0.0.53.80-arm64-v8a.apk**
-  - `f8d556efddb9f10164188beec8a51a08247d7a5bf113684ab2bd2455ebcc12da`
-- **instagram-hushgram-clone-v451.0.0.53.80-arm64-v8a.apk**
-  - `f4606a4fed2ad990c8112de8014b35d39c4d386f1f45d0d41465ff63a457b215`
+- **proton-pass-hxreborn-v1.41.4-arm-v7a.apk**
+  - `22629917b6fcf4ff8e88aeee004ba6cd905f30368393f04290a67bda88e88b32`
+- **proton-pass-hxreborn-v1.41.4-arm64-v8a.apk**
+  - `83660f153db9acf2a00bd8e7923afd2cbbaa30406a2eb47c4fadb261fff433c6`
+- **proton-vpn-hxreborn-v5.20.74.0-arm-v7a.apk**
+  - `6f025c0970904cbf362a4bd480b560492548404029e2d58c5ba2e5fb66302da3`
+- **proton-vpn-hxreborn-v5.20.74.0-arm64-v8a.apk**
+  - `c5d1161370aa1817aced790ea5a11ad9fdf43c13be48e7ecd5ef1d16aa0b00de`
+- **terabox-hxreborn-v4.26.5-arm-v7a.apk**
+  - `a29d350716871585e12775f5d3cee3e06d628f6e23269a12342d6cad54f4eb97`
+- **terabox-hxreborn-v4.26.5-arm64-v8a.apk**
+  - `1c37cface68d2605292c8c4bbc56910f511fe8e94b602e396f7815aab860b00f`
 
 _Automatically generated from GitHub APK release assets with package IDs, SHA256 hashes, and Discoverium import links._
