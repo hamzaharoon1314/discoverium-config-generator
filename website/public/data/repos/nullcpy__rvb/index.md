@@ -4,20 +4,14 @@ Release source: `latest`
 
 | App | Package ID | Asset Filename | Version | Play Store | Config  |
 |---|---|---|---|---|---|
-| **Facebook** | com.facebook.katana | facebook-hushfacebook-v584.0.0.51.56-arm64-v8a.apk | 584.0.0.51.56 | [Play Store](https://play.google.com/store/apps/details?id=com.facebook.katana) | [JSON Config](./discoverium/com.facebook.katana__facebook-hushfacebook-v584.0.0.51.56-arm64-v8a.json) |
-| **Facebook** | com.facebook.katana | facebook-hushfacebook-material-you-v584.0.0.51.56-arm64-v8a.apk | 584.0.0.51.56 | [Play Store](https://play.google.com/store/apps/details?id=com.facebook.katana) | [JSON Config](./discoverium/com.facebook.katana__facebook-hushfacebook-material-you-v584.0.0.51.56-arm64-v8a.json) |
-| **Facebook** | com.facebook.katana | facebook-hushfacebook-material-you-v584.0.0.51.56-arm-v7a.apk | 584.0.0.51.56 | [Play Store](https://play.google.com/store/apps/details?id=com.facebook.katana) | [JSON Config](./discoverium/com.facebook.katana__facebook-hushfacebook-material-you-v584.0.0.51.56-arm-v7a.json) |
-| **Facebook** | com.facebook.katana | facebook-hushfacebook-v584.0.0.51.56-arm-v7a.apk | 584.0.0.51.56 | [Play Store](https://play.google.com/store/apps/details?id=com.facebook.katana) | [JSON Config](./discoverium/com.facebook.katana__facebook-hushfacebook-v584.0.0.51.56-arm-v7a.json) |
+| **Firsty** | com.firsty.app | firsty-trimpsuz-v1.8.23-all.apk | 1.8.23 | [Play Store](https://play.google.com/store/apps/details?id=com.firsty.app) | [JSON Config](./discoverium/com.firsty.app__firsty-trimpsuz-v1.8.23-all.json) |
+| **Zalo** | com.zing.zalo | zalo-zeldrisho-v26.08.01-all.apk | 26.08.01 | [Play Store](https://play.google.com/store/apps/details?id=com.zing.zalo) | [JSON Config](./discoverium/com.zing.zalo__zalo-zeldrisho-v26.08.01-all.json) |
 
 ## SHA256
 
-- **facebook-hushfacebook-v584.0.0.51.56-arm64-v8a.apk**
-  - `c2363480c72ed5212636aff40c8631459d3f58bf315c3e0195075964e7010adb`
-- **facebook-hushfacebook-material-you-v584.0.0.51.56-arm64-v8a.apk**
-  - `562d24afa33301c916ca53aa0e41e6eb0e24eb7ebafab950d7aca1c695923bed`
-- **facebook-hushfacebook-material-you-v584.0.0.51.56-arm-v7a.apk**
-  - `adc675a0738351dcfacef01cd454433b681927304349d0822b27e93f15f9febd`
-- **facebook-hushfacebook-v584.0.0.51.56-arm-v7a.apk**
-  - `6a7325bff6a2ee1979cea7b0ec2f56b048a1fa25456585292b51326d4a74b8ec`
+- **firsty-trimpsuz-v1.8.23-all.apk**
+  - `52650b70a6ae3f43fd7fef5a0c9318702d8a15f4d118d18c0e6c1eec59e5d78d`
+- **zalo-zeldrisho-v26.08.01-all.apk**
+  - `2326338262d1dd314bfa0aff28261e94da2d26b45860bb503429f461030a5e78`
 
 _Automatically generated from GitHub APK release assets with package IDs, SHA256 hashes, and Discoverium import links._
