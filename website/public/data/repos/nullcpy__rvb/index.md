@@ -4,14 +4,17 @@ Release source: `latest`
 
 | App | Package ID | Asset Filename | Version | Play Store | Config  |
 |---|---|---|---|---|---|
-| **Firsty** | com.firsty.app | firsty-trimpsuz-v1.8.23-all.apk | 1.8.23 | [Play Store](https://play.google.com/store/apps/details?id=com.firsty.app) | [JSON Config](./discoverium/com.firsty.app__firsty-trimpsuz-v1.8.23-all.json) |
-| **Zalo** | com.zing.zalo | zalo-zeldrisho-v26.08.01-all.apk | 26.08.01 | [Play Store](https://play.google.com/store/apps/details?id=com.zing.zalo) | [JSON Config](./discoverium/com.zing.zalo__zalo-zeldrisho-v26.08.01-all.json) |
+| **Block Blast!** | com.block.juggle | block-blast-imnoammm-v10.8.1-all.apk | 10.8.1 | [Play Store](https://play.google.com/store/apps/details?id=com.block.juggle) | [JSON Config](./discoverium/com.block.juggle__block-blast-imnoammm-v10.8.1-all.json) |
+| **X** | com.twitter.android | twitter-piko-newx-v12.38.1-prod.01-arm64-v8a.apk | 12.38.1-prod.01 | [Play Store](https://play.google.com/store/apps/details?id=com.twitter.android) | [JSON Config](./discoverium/com.twitter.android__twitter-piko-newx-v12.38.1-prod.01-arm64-v8a.json) |
+| **X** | com.twitter.android | twitter-piko-newx-v12.38.1-prod.01-arm-v7a.apk | 12.38.1-prod.01 | [Play Store](https://play.google.com/store/apps/details?id=com.twitter.android) | [JSON Config](./discoverium/com.twitter.android__twitter-piko-newx-v12.38.1-prod.01-arm-v7a.json) |
 
 ## SHA256
 
-- **firsty-trimpsuz-v1.8.23-all.apk**
-  - `52650b70a6ae3f43fd7fef5a0c9318702d8a15f4d118d18c0e6c1eec59e5d78d`
-- **zalo-zeldrisho-v26.08.01-all.apk**
-  - `2326338262d1dd314bfa0aff28261e94da2d26b45860bb503429f461030a5e78`
+- **block-blast-imnoammm-v10.8.1-all.apk**
+  - `6c1667a7926f970c44cb1cbca82ec79050b3db62ee324ae3e7ff920bc7b4d471`
+- **twitter-piko-newx-v12.38.1-prod.01-arm64-v8a.apk**
+  - `f8739073d1d124a66a368f4039a9cb726437c91e6d9f8188777a51fce8b16882`
+- **twitter-piko-newx-v12.38.1-prod.01-arm-v7a.apk**
+  - `690634396f8e4bdd31d828fb9e28c19a57f24d45491f70575d6a525749efb897`
 
 _Automatically generated from GitHub APK release assets with package IDs, SHA256 hashes, and Discoverium import links._
