@@ -4,17 +4,17 @@ Release source: `latest`
 
 | App | Package ID | Asset Filename | Version | Play Store | Config  |
 |---|---|---|---|---|---|
-| **Block Blast!** | com.block.juggle | block-blast-imnoammm-v10.8.1-all.apk | 10.8.1 | [Play Store](https://play.google.com/store/apps/details?id=com.block.juggle) | [JSON Config](./discoverium/com.block.juggle__block-blast-imnoammm-v10.8.1-all.json) |
-| **X** | com.twitter.android | twitter-piko-newx-v12.38.1-prod.01-arm64-v8a.apk | 12.38.1-prod.01 | [Play Store](https://play.google.com/store/apps/details?id=com.twitter.android) | [JSON Config](./discoverium/com.twitter.android__twitter-piko-newx-v12.38.1-prod.01-arm64-v8a.json) |
-| **X** | com.twitter.android | twitter-piko-newx-v12.38.1-prod.01-arm-v7a.apk | 12.38.1-prod.01 | [Play Store](https://play.google.com/store/apps/details?id=com.twitter.android) | [JSON Config](./discoverium/com.twitter.android__twitter-piko-newx-v12.38.1-prod.01-arm-v7a.json) |
+| **Gboard** | com.google.android.inputmethod.latin | google-keyboard-jasonwu1994-v18.5.4.993608717-release-arm64-v8a-arm64-v8a.apk | 18.5.4.993608717-release-arm64-v8a | [Play Store](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin) | [JSON Config](./discoverium/com.google.android.inputmethod.latin__google-keyboard-jasonwu1994-v18.5.4.993608717-release-arm64-v8a-arm64-v8a.json) |
+| **GboardWu** | dev.jason.com.google.android.inputmethod.latin | google-keyboard-jasonwu1994-clone-v18.5.4.993608717-release-arm64-v8a-arm64-v8a.apk | 18.5.4.993608717-release-arm64-v8a | N/A | [JSON Config](./discoverium/dev.jason.com.google.android.inputmethod.latin__google-keyboard-jasonwu1994-clone-v18.5.4.993608717-release-arm64-v8a-arm64-v8a.json) |
+| **Remote ATV** | tech.simha.androidtvremote | remote-for-android-tv-xbadfellax-v6.1.0-all.apk | 6.1.0 | [Play Store](https://play.google.com/store/apps/details?id=tech.simha.androidtvremote) | [JSON Config](./discoverium/tech.simha.androidtvremote__remote-for-android-tv-xbadfellax-v6.1.0-all.json) |
 
 ## SHA256
 
-- **block-blast-imnoammm-v10.8.1-all.apk**
-  - `6c1667a7926f970c44cb1cbca82ec79050b3db62ee324ae3e7ff920bc7b4d471`
-- **twitter-piko-newx-v12.38.1-prod.01-arm64-v8a.apk**
-  - `f8739073d1d124a66a368f4039a9cb726437c91e6d9f8188777a51fce8b16882`
-- **twitter-piko-newx-v12.38.1-prod.01-arm-v7a.apk**
-  - `690634396f8e4bdd31d828fb9e28c19a57f24d45491f70575d6a525749efb897`
+- **google-keyboard-jasonwu1994-v18.5.4.993608717-release-arm64-v8a-arm64-v8a.apk**
+  - `be9d22bee2af29fbba418757d81c535b7e306fb88d6ab0e195d2b7608288c12f`
+- **google-keyboard-jasonwu1994-clone-v18.5.4.993608717-release-arm64-v8a-arm64-v8a.apk**
+  - `86fbbcec4148d83e3f1c9709647cd829a641aecd5002b889cc8cdb2dcf1c89be`
+- **remote-for-android-tv-xbadfellax-v6.1.0-all.apk**
+  - `ff16dfc0a84145f43bee1234e69b70187297c0e5caf5422c3370e2eb87c55156`
 
 _Automatically generated from GitHub APK release assets with package IDs, SHA256 hashes, and Discoverium import links._
