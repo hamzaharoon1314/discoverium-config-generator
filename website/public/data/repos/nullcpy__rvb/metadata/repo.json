@@ -1,32 +1,52 @@
 [
   {
-    "app_name": "Gboard",
-    "asset_name": "google-keyboard-jasonwu1994-v18.5.4.993608717-release-arm64-v8a-arm64-v8a.apk",
-    "package_id": "com.google.android.inputmethod.latin",
-    "version_name": "18.5.4.993608717-release-arm64-v8a",
-    "sha256": "be9d22bee2af29fbba418757d81c535b7e306fb88d6ab0e195d2b7608288c12f",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260422/google-keyboard-jasonwu1994-v18.5.4.993608717-release-arm64-v8a-arm64-v8a.apk",
-    "discoverium_file": "../discoverium/com.google.android.inputmethod.latin__google-keyboard-jasonwu1994-v18.5.4.993608717-release-arm64-v8a-arm64-v8a.json"
+    "app_name": "Photos",
+    "asset_name": "google-photos-akashsriram-v7.99.0.1007655401-arm64-v8a.apk",
+    "package_id": "app.morphe.android.apps.photos",
+    "version_name": "7.99.0.1007655401",
+    "sha256": "db54ea03f721d10da1b92b34b5adfaa7a0f6975033321ea64f9e276a1a4c0a86",
+    "play_store_url": "",
+    "download_url": "https://github.com/nullcpy/rvb/releases/download/260431/google-photos-akashsriram-v7.99.0.1007655401-arm64-v8a.apk",
+    "discoverium_file": "../discoverium/app.morphe.android.apps.photos__google-photos-akashsriram-v7.99.0.1007655401-arm64-v8a.json"
   },
   {
-    "app_name": "GboardWu",
-    "asset_name": "google-keyboard-jasonwu1994-clone-v18.5.4.993608717-release-arm64-v8a-arm64-v8a.apk",
-    "package_id": "dev.jason.com.google.android.inputmethod.latin",
-    "version_name": "18.5.4.993608717-release-arm64-v8a",
-    "sha256": "86fbbcec4148d83e3f1c9709647cd829a641aecd5002b889cc8cdb2dcf1c89be",
+    "app_name": "Photos",
+    "asset_name": "google-photos-akashsriram-unclone-v7.99.0.1007655401-arm64-v8a.apk",
+    "package_id": "com.google.android.apps.photos",
+    "version_name": "7.99.0.1007655401",
+    "sha256": "13edecf5b6ff2a85ff1ce9c984d62609063b49dedc58d2895d9996c23d020810",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+    "download_url": "https://github.com/nullcpy/rvb/releases/download/260431/google-photos-akashsriram-unclone-v7.99.0.1007655401-arm64-v8a.apk",
+    "discoverium_file": "../discoverium/com.google.android.apps.photos__google-photos-akashsriram-unclone-v7.99.0.1007655401-arm64-v8a.json"
+  },
+  {
+    "app_name": "Photos",
+    "asset_name": "google-photos-akashsriram-v7.99.0.1007655401-arm-v7a.apk",
+    "package_id": "app.morphe.android.apps.photos",
+    "version_name": "7.99.0.1007655401",
+    "sha256": "bb3f0ea5247403765935785ce85d2453843f6f7d388d9c6b920d488150d0a0ad",
     "play_store_url": "",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260422/google-keyboard-jasonwu1994-clone-v18.5.4.993608717-release-arm64-v8a-arm64-v8a.apk",
-    "discoverium_file": "../discoverium/dev.jason.com.google.android.inputmethod.latin__google-keyboard-jasonwu1994-clone-v18.5.4.993608717-release-arm64-v8a-arm64-v8a.json"
+    "download_url": "https://github.com/nullcpy/rvb/releases/download/260431/google-photos-akashsriram-v7.99.0.1007655401-arm-v7a.apk",
+    "discoverium_file": "../discoverium/app.morphe.android.apps.photos__google-photos-akashsriram-v7.99.0.1007655401-arm-v7a.json"
+  },
+  {
+    "app_name": "Photos",
+    "asset_name": "google-photos-akashsriram-unclone-v7.99.0.1007655401-arm-v7a.apk",
+    "package_id": "com.google.android.apps.photos",
+    "version_name": "7.99.0.1007655401",
+    "sha256": "c6ff9376bf9524f6f7c0071161b3e81ba21621a53b0ed90c12b4aa76efb78702",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+    "download_url": "https://github.com/nullcpy/rvb/releases/download/260431/google-photos-akashsriram-unclone-v7.99.0.1007655401-arm-v7a.apk",
+    "discoverium_file": "../discoverium/com.google.android.apps.photos__google-photos-akashsriram-unclone-v7.99.0.1007655401-arm-v7a.json"
   },
   {
     "app_name": "Remote ATV",
     "asset_name": "remote-for-android-tv-xbadfellax-v6.1.0-all.apk",
     "package_id": "tech.simha.androidtvremote",
     "version_name": "6.1.0",
-    "sha256": "ff16dfc0a84145f43bee1234e69b70187297c0e5caf5422c3370e2eb87c55156",
+    "sha256": "08edc8f043e326d10babaff1843d41af60d19ef146cc0fdc5ffe6896c491e6d2",
     "play_store_url": "https://play.google.com/store/apps/details?id=tech.simha.androidtvremote",
-    "download_url": "https://github.com/nullcpy/rvb/releases/download/260422/remote-for-android-tv-xbadfellax-v6.1.0-all.apk",
+    "download_url": "https://github.com/nullcpy/rvb/releases/download/260431/remote-for-android-tv-xbadfellax-v6.1.0-all.apk",
     "discoverium_file": "../discoverium/tech.simha.androidtvremote__remote-for-android-tv-xbadfellax-v6.1.0-all.json"
   }
 ]
