@@ -4,23 +4,14 @@ Release source: `latest`
 
 | App | Package ID | Asset Filename | Version | Play Store | Config  |
 |---|---|---|---|---|---|
-| **Photos** | app.morphe.android.apps.photos | google-photos-akashsriram-v7.99.0.1007655401-arm64-v8a.apk | 7.99.0.1007655401 | N/A | [JSON Config](./discoverium/app.morphe.android.apps.photos__google-photos-akashsriram-v7.99.0.1007655401-arm64-v8a.json) |
-| **Photos** | com.google.android.apps.photos | google-photos-akashsriram-unclone-v7.99.0.1007655401-arm64-v8a.apk | 7.99.0.1007655401 | [Play Store](https://play.google.com/store/apps/details?id=com.google.android.apps.photos) | [JSON Config](./discoverium/com.google.android.apps.photos__google-photos-akashsriram-unclone-v7.99.0.1007655401-arm64-v8a.json) |
-| **Photos** | app.morphe.android.apps.photos | google-photos-akashsriram-v7.99.0.1007655401-arm-v7a.apk | 7.99.0.1007655401 | N/A | [JSON Config](./discoverium/app.morphe.android.apps.photos__google-photos-akashsriram-v7.99.0.1007655401-arm-v7a.json) |
-| **Photos** | com.google.android.apps.photos | google-photos-akashsriram-unclone-v7.99.0.1007655401-arm-v7a.apk | 7.99.0.1007655401 | [Play Store](https://play.google.com/store/apps/details?id=com.google.android.apps.photos) | [JSON Config](./discoverium/com.google.android.apps.photos__google-photos-akashsriram-unclone-v7.99.0.1007655401-arm-v7a.json) |
-| **Remote ATV** | tech.simha.androidtvremote | remote-for-android-tv-xbadfellax-v6.1.0-all.apk | 6.1.0 | [Play Store](https://play.google.com/store/apps/details?id=tech.simha.androidtvremote) | [JSON Config](./discoverium/tech.simha.androidtvremote__remote-for-android-tv-xbadfellax-v6.1.0-all.json) |
+| **Prime Video** | com.amazon.amazonvideo.livingroom.mod | prime-video-ajstrick81-android-tv-clone-v6.23.23+v15.5.0.70-armv7a-arm-v7a.apk | 6.23.23+v15.5.0.70-armv7a | N/A | [JSON Config](./discoverium/com.amazon.amazonvideo.livingroom.mod__prime-video-ajstrick81-android-tv-clone-v6.23.23+v15.5.0.70-armv7a-arm-v7a.json) |
+| **Prime Video** | com.amazon.amazonvideo.livingroom | prime-video-ajstrick81-android-tv-v6.23.23+v15.5.0.70-armv7a-arm-v7a.apk | 6.23.23+v15.5.0.70-armv7a | [Play Store](https://play.google.com/store/apps/details?id=com.amazon.amazonvideo.livingroom) | [JSON Config](./discoverium/com.amazon.amazonvideo.livingroom__prime-video-ajstrick81-android-tv-v6.23.23+v15.5.0.70-armv7a-arm-v7a.json) |
 
 ## SHA256
 
-- **google-photos-akashsriram-v7.99.0.1007655401-arm64-v8a.apk**
-  - `db54ea03f721d10da1b92b34b5adfaa7a0f6975033321ea64f9e276a1a4c0a86`
-- **google-photos-akashsriram-unclone-v7.99.0.1007655401-arm64-v8a.apk**
-  - `13edecf5b6ff2a85ff1ce9c984d62609063b49dedc58d2895d9996c23d020810`
-- **google-photos-akashsriram-v7.99.0.1007655401-arm-v7a.apk**
-  - `bb3f0ea5247403765935785ce85d2453843f6f7d388d9c6b920d488150d0a0ad`
-- **google-photos-akashsriram-unclone-v7.99.0.1007655401-arm-v7a.apk**
-  - `c6ff9376bf9524f6f7c0071161b3e81ba21621a53b0ed90c12b4aa76efb78702`
-- **remote-for-android-tv-xbadfellax-v6.1.0-all.apk**
-  - `08edc8f043e326d10babaff1843d41af60d19ef146cc0fdc5ffe6896c491e6d2`
+- **prime-video-ajstrick81-android-tv-clone-v6.23.23+v15.5.0.70-armv7a-arm-v7a.apk**
+  - `18b6d35b81a82a65c675c6c9301a37375dd056bb8678f128bba57239433b53a3`
+- **prime-video-ajstrick81-android-tv-v6.23.23+v15.5.0.70-armv7a-arm-v7a.apk**
+  - `8a14e4673b078cd59914c7688311add9ac3db36da1de9b5929012d0df95ada10`
 
 _Automatically generated from GitHub APK release assets with package IDs, SHA256 hashes, and Discoverium import links._
