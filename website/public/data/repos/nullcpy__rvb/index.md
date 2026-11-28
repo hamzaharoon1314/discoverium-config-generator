@@ -4,32 +4,41 @@ Release source: `latest`
 
 | App | Package ID | Asset Filename | Version | Play Store | Config  |
 |---|---|---|---|---|---|
-| **Block Blast!** | com.block.juggle | block-blast-imnoammm-v10.8.1-all.apk | 10.8.1 | [Play Store](https://play.google.com/store/apps/details?id=com.block.juggle) | [JSON Config](./discoverium/com.block.juggle__block-blast-imnoammm-v10.8.1-all.json) |
-| **De-Waze** | com.waze | waze-bearinmindcat-v5.27.5.0-all.apk | 5.27.5.0 | [Play Store](https://play.google.com/store/apps/details?id=com.waze) | [JSON Config](./discoverium/com.waze__waze-bearinmindcat-v5.27.5.0-all.json) |
-| **Music** | com.sonyericsson.music | sony-music-bearinmindcat-v9.4.16.A.1.17-all.apk | 9.4.16.A.1.17 | [Play Store](https://play.google.com/store/apps/details?id=com.sonyericsson.music) | [JSON Config](./discoverium/com.sonyericsson.music__sony-music-bearinmindcat-v9.4.16.A.1.17-all.json) |
-| **Recorder** | com.android.soundrecorder | xiaomi-recorder-bearinmindcat-v7.7.9-all.apk | 7.7.9 | N/A | [JSON Config](./discoverium/com.android.soundrecorder__xiaomi-recorder-bearinmindcat-v7.7.9-all.json) |
-| **Swamp Attack** | com.outfit7.movingeye.swampattack | swamp-attack-byehi98-v4.9.0.0-all.apk | 4.9.0.0 | [Play Store](https://play.google.com/store/apps/details?id=com.outfit7.movingeye.swampattack) | [JSON Config](./discoverium/com.outfit7.movingeye.swampattack__swamp-attack-byehi98-v4.9.0.0-all.json) |
-| **Swamp Attack 2** | com.hyperdotstudios.swampattack2 | swamp-attack-2-byehi98-v1.5.2-all.apk | 1.5.2 | [Play Store](https://play.google.com/store/apps/details?id=com.hyperdotstudios.swampattack2) | [JSON Config](./discoverium/com.hyperdotstudios.swampattack2__swamp-attack-2-byehi98-v1.5.2-all.json) |
-| **Swift Backup** | org.swiftapps.swiftbackup | swift-backup-byehi98-v5.1.1-arm64-v8a.apk | 5.1.1 | [Play Store](https://play.google.com/store/apps/details?id=org.swiftapps.swiftbackup) | [JSON Config](./discoverium/org.swiftapps.swiftbackup__swift-backup-byehi98-v5.1.1-arm64-v8a.json) |
-| **Swift Backup** | org.swiftapps.swiftbackup | swift-backup-byehi98-v5.1.1-arm-v7a.apk | 5.1.1 | [Play Store](https://play.google.com/store/apps/details?id=org.swiftapps.swiftbackup) | [JSON Config](./discoverium/org.swiftapps.swiftbackup__swift-backup-byehi98-v5.1.1-arm-v7a.json) |
+| **Automate** | com.llamalab.automate | automate-bholeykabhakt-v1.54.0-play-arm64-v8a.apk | 1.54.0-play | [Play Store](https://play.google.com/store/apps/details?id=com.llamalab.automate) | [JSON Config](./discoverium/com.llamalab.automate__automate-bholeykabhakt-v1.54.0-play-arm64-v8a.json) |
+| **Automate** | com.llamalab.automate | automate-bholeykabhakt-v1.54.0-play-arm-v7a.apk | 1.54.0-play | [Play Store](https://play.google.com/store/apps/details?id=com.llamalab.automate) | [JSON Config](./discoverium/com.llamalab.automate__automate-bholeykabhakt-v1.54.0-play-arm-v7a.json) |
+| **Autosync** | com.ttxapps.autosync | autosync-bholeykabhakt-v7.8.3-arm64-v8a.apk | 7.8.3 | [Play Store](https://play.google.com/store/apps/details?id=com.ttxapps.autosync) | [JSON Config](./discoverium/com.ttxapps.autosync__autosync-bholeykabhakt-v7.8.3-arm64-v8a.json) |
+| **Backdrops** | com.backdrops.wallpapers | backdrops-bholeykabhakt-v6.6-arm-v7a.apk | 6.6 | [Play Store](https://play.google.com/store/apps/details?id=com.backdrops.wallpapers) | [JSON Config](./discoverium/com.backdrops.wallpapers__backdrops-bholeykabhakt-v6.6-arm-v7a.json) |
+| **Backdrops** | com.backdrops.wallpapers | backdrops-bholeykabhakt-v6.6-arm64-v8a.apk | 6.6 | [Play Store](https://play.google.com/store/apps/details?id=com.backdrops.wallpapers) | [JSON Config](./discoverium/com.backdrops.wallpapers__backdrops-bholeykabhakt-v6.6-arm64-v8a.json) |
+| **inshorts** | com.nis.app | inshorts-bholeykabhakt-v6.13.04-arm-v7a.apk | 6.13.04 | [Play Store](https://play.google.com/store/apps/details?id=com.nis.app) | [JSON Config](./discoverium/com.nis.app__inshorts-bholeykabhakt-v6.13.04-arm-v7a.json) |
+| **inshorts** | com.nis.app | inshorts-bholeykabhakt-v6.13.04-arm64-v8a.apk | 6.13.04 | [Play Store](https://play.google.com/store/apps/details?id=com.nis.app) | [JSON Config](./discoverium/com.nis.app__inshorts-bholeykabhakt-v6.13.04-arm64-v8a.json) |
+| **Speedtest** | org.zwanoo.android.speedtest | speedtest-bholeykabhakt-v7.1.4-arm64-v8a.apk | 7.1.4 | [Play Store](https://play.google.com/store/apps/details?id=org.zwanoo.android.speedtest) | [JSON Config](./discoverium/org.zwanoo.android.speedtest__speedtest-bholeykabhakt-v7.1.4-arm64-v8a.json) |
+| **Speedtest** | org.zwanoo.android.speedtest | speedtest-bholeykabhakt-v7.1.4-arm-v7a.apk | 7.1.4 | [Play Store](https://play.google.com/store/apps/details?id=org.zwanoo.android.speedtest) | [JSON Config](./discoverium/org.zwanoo.android.speedtest__speedtest-bholeykabhakt-v7.1.4-arm-v7a.json) |
+| **vpnify** | com.vpn.free.hotspot.secure.vpnify | vpnify-bholeykabhakt-v2.2.9-arm-v7a.apk | 2.2.9 | [Play Store](https://play.google.com/store/apps/details?id=com.vpn.free.hotspot.secure.vpnify) | [JSON Config](./discoverium/com.vpn.free.hotspot.secure.vpnify__vpnify-bholeykabhakt-v2.2.9-arm-v7a.json) |
+| **vpnify** | com.vpn.free.hotspot.secure.vpnify | vpnify-bholeykabhakt-v2.2.9-arm64-v8a.apk | 2.2.9 | [Play Store](https://play.google.com/store/apps/details?id=com.vpn.free.hotspot.secure.vpnify) | [JSON Config](./discoverium/com.vpn.free.hotspot.secure.vpnify__vpnify-bholeykabhakt-v2.2.9-arm64-v8a.json) |
 
 ## SHA256
 
-- **block-blast-imnoammm-v10.8.1-all.apk**
-  - `b5d50bd4787c2169f7d6f0334c44210a265d9e8b1ee4b9d124a1b32266e3a39e`
-- **waze-bearinmindcat-v5.27.5.0-all.apk**
-  - `9ecf36dcbaf1224cd4a97db2dc58182e68bf39fb526de38329a0c9b55b8349d0`
-- **sony-music-bearinmindcat-v9.4.16.A.1.17-all.apk**
-  - `0fd134ae93c5b6a8ed4bff28e7dcdd9d81afd7ad66a7813eec6a0ca8c64c11ca`
-- **xiaomi-recorder-bearinmindcat-v7.7.9-all.apk**
-  - `99cf7f593e5a8b634a6743ef05e70811023c10f7df52248f5667fe2bd56f4ebe`
-- **swamp-attack-byehi98-v4.9.0.0-all.apk**
-  - `191b1f4bd3b8448e879c348bae179610fd80af158343df1b6842401bd6ad043e`
-- **swamp-attack-2-byehi98-v1.5.2-all.apk**
-  - `e6a1c604d973e893109a1e8f3deb1cf8499d0638aff55ad971da2e6510a4caa5`
-- **swift-backup-byehi98-v5.1.1-arm64-v8a.apk**
-  - `9d9c3ee9d2bfe246c664b92d2498b8df320a701577180f0d066f774d52c2ecb6`
-- **swift-backup-byehi98-v5.1.1-arm-v7a.apk**
-  - `2e0b905587cb65970ad205f70df385104c3cd0f49dd8b6921aa9f708a1e6e739`
+- **automate-bholeykabhakt-v1.54.0-play-arm64-v8a.apk**
+  - `16ecdef8722bf31b3a34fb24e29f507e8fbef9aa2a1bab38ac75318900b2b1c1`
+- **automate-bholeykabhakt-v1.54.0-play-arm-v7a.apk**
+  - `61bfc7830c42a05fcf6098a775e69ecae590e839f03a5499db1d07e728008dfc`
+- **autosync-bholeykabhakt-v7.8.3-arm64-v8a.apk**
+  - `05872a85ddec3e90eeb98de8e05a7efb495c625c3100148681765eb4bc796bd5`
+- **backdrops-bholeykabhakt-v6.6-arm-v7a.apk**
+  - `08fdce89b3f4343e9e26ea75fb5804d3b46173718c7a59c2ed97fea664f57771`
+- **backdrops-bholeykabhakt-v6.6-arm64-v8a.apk**
+  - `f648fb98a84140dafcaa9a1f23f34bc657e4348e04ea701b446e23f1ed6166ec`
+- **inshorts-bholeykabhakt-v6.13.04-arm-v7a.apk**
+  - `083e3e588029e307b3e2eb2802920d77897e5d7fca985d9be57c81c2712faf81`
+- **inshorts-bholeykabhakt-v6.13.04-arm64-v8a.apk**
+  - `fc20475fda7f37482eb7471eed8dacfcd4519c557129bad9f0dc737f57d8a067`
+- **speedtest-bholeykabhakt-v7.1.4-arm64-v8a.apk**
+  - `73ff159136c826456eed6781bce6726209adaf71706717443d865b9dc81a39d6`
+- **speedtest-bholeykabhakt-v7.1.4-arm-v7a.apk**
+  - `3b91a9628889723f9d204d8faeb27406cd4a8d627ac9c48bca78c4654b689519`
+- **vpnify-bholeykabhakt-v2.2.9-arm-v7a.apk**
+  - `fba180d63f3371e5e9c76a711d83f473b334c6c88f0e3a0d54697b0a1a610bde`
+- **vpnify-bholeykabhakt-v2.2.9-arm64-v8a.apk**
+  - `208e391df450948be65b2638a86f758bc5845f685ef86fefdd34d853ed996361`
 
 _Automatically generated from GitHub APK release assets with package IDs, SHA256 hashes, and Discoverium import links._
